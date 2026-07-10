@@ -6,7 +6,10 @@
   "movement": "Vienna Secession",
   "medium": "Oil and gold leaf on canvas",
   "dimensions": "180 x 180 cm",
-  "location": { "museum": "Österreichische Galerie Belvedere", "city": "Vienna" },
+  "location": {
+    "museum": "Österreichische Galerie Belvedere",
+    "city": "Vienna"
+  },
   "image": {
     "src": "img/the-kiss.webp",
     "width": 1595,
@@ -17,9 +20,13 @@
   "text": {
     "scene": "On the lip of a flowered ledge, a couple kneel wrapped in a single golden cloak. He bends to kiss her cheek, hands cradling her face; her eyes are closed, fingers curled around his hand, toes gripping the very edge. Around them there is nothing but a dark shimmer of gold.",
     "craft": "Klimt, son of a gold engraver, lays real gold leaf over the canvas and differentiates the lovers by ornament alone: hard black and white rectangles for him, circling flowers for her, the two patterns fusing inside one silhouette. Only faces, hands and feet are modelled as flesh; everything else is pattern.",
-    "painter": "Leader of the Vienna Secession, the artists who walked out of the conservative establishment in 1897, Klimt scandalised the city with erotic drawings and gilded portraits of its wives. This painting crowns his Golden Phase, made while Vienna around him invented psychoanalysis, atonal music and modern design."
+    "painter": "Leader of the Vienna Secession, the artists who walked out of the conservative establishment in 1897, Klimt scandalised the city with erotic drawings and gilded portraits of its wives. This painting crowns his Golden Phase, made while Vienna around him invented psychoanalysis, atonal music and modern design. He never married, never explained, and rarely left Vienna."
   },
   "draft": true,
   "fact": "The Austrian state bought The Kiss in 1908, straight from the easel and arguably before it was quite finished, for 25,000 crowns, an enormous price that settled the argument about Klimt in a single purchase.",
-  "tags": ["Vienna Secession", "lovers", "20th century"]
+  "tags": [
+    "Vienna Secession",
+    "lovers",
+    "20th century"
+  ]
 }

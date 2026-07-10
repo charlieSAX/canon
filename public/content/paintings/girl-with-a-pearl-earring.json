@@ -6,7 +6,10 @@
   "movement": "Dutch Golden Age",
   "medium": "Oil on canvas",
   "dimensions": "44.5 x 39 cm",
-  "location": { "museum": "Mauritshuis", "city": "The Hague" },
+  "location": {
+    "museum": "Mauritshuis",
+    "city": "The Hague"
+  },
   "image": {
     "src": "img/girl-with-a-pearl-earring.webp",
     "width": 1351,
@@ -17,9 +20,13 @@
   "text": {
     "scene": "A girl turns over her shoulder against a dark ground, lips slightly parted, wearing a blue and gold turban and a single enormous pearl. There is no room, no table, no letter, none of Vermeer's usual apparatus. Just the turn of a head and a look that has not ended yet.",
     "craft": "This is a tronie, a study of a type and costume rather than a commissioned likeness, which freed Vermeer to simplify everything. The face is built from soft transitions with almost no drawn line; the pearl is two strokes, a bright point and a smudge of reflected collar, and the eye completes it.",
-    "painter": "Vermeer worked slowly in Delft, ran an art dealership, fathered many children and left perhaps three dozen paintings. He was locally respected, then forgotten for two centuries until French critics resurrected him. The domestic quiet he painted now reads as one of the most distinct voices in European art."
+    "painter": "Vermeer worked slowly in Delft, ran an art dealership, fathered many children and left perhaps three dozen paintings. He was locally respected, then forgotten for two centuries until French critics resurrected him. The domestic quiet he painted now reads as one of the most distinct voices in European art. No document records who the girl was."
   },
   "draft": true,
   "fact": "Recent imaging found no hook or loop holding the pearl; it hangs on nothing, a piece of painted light that the eye insists on believing.",
-  "tags": ["Dutch Golden Age", "tronie", "17th century"]
+  "tags": [
+    "Dutch Golden Age",
+    "tronie",
+    "17th century"
+  ]
 }

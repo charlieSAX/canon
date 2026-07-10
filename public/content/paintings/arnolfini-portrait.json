@@ -6,7 +6,10 @@
   "movement": "Early Netherlandish",
   "medium": "Oil on oak panel",
   "dimensions": "82.2 x 60 cm",
-  "location": { "museum": "The National Gallery", "city": "London" },
+  "location": {
+    "museum": "The National Gallery",
+    "city": "London"
+  },
   "image": {
     "src": "img/arnolfini-portrait.webp",
     "width": 1170,
@@ -17,9 +20,13 @@
   "text": {
     "scene": "A merchant and a woman stand hand in hand in a Bruges bedchamber, surrounded by the quiet evidence of money: oranges by the window, a brass chandelier, fur-lined robes, a small dog at their feet. Whether this records a wedding, a betrothal or something else entirely is still argued over.",
     "craft": "Van Eyck built the picture in thin layers of oil glaze, letting light pass through the paint and return, which is why the brass still glows and the fabric still weighs something. The convex mirror at the back compresses the whole room, and two tiny figures entering it, into a circle of glass.",
-    "painter": "Court painter to Philip the Good of Burgundy, van Eyck was famous across Europe in his own lifetime and helped push oil paint from a workshop technique into an instrument of astonishing precision. He signed works openly at a time when most panel painters remained anonymous craftsmen."
+    "painter": "Court painter to Philip the Good of Burgundy, van Eyck was famous across Europe in his own lifetime and helped push oil paint from a workshop technique into an instrument of astonishing precision. He signed works openly at a time when most panel painters remained anonymous craftsmen. His motto was Als ich can: as well as I can."
   },
   "draft": true,
   "fact": "Above the mirror, in flourished script, the painter wrote directly on the wall: Johannes de eyck fuit hic 1434. Jan van Eyck was here.",
-  "tags": ["Early Netherlandish", "double portrait", "15th century"]
+  "tags": [
+    "Early Netherlandish",
+    "double portrait",
+    "15th century"
+  ]
 }

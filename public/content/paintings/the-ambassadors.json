@@ -6,7 +6,10 @@
   "movement": "Northern Renaissance",
   "medium": "Oil on oak panel",
   "dimensions": "207 x 209.5 cm",
-  "location": { "museum": "The National Gallery", "city": "London" },
+  "location": {
+    "museum": "The National Gallery",
+    "city": "London"
+  },
   "image": {
     "src": "img/the-ambassadors.webp",
     "width": 1600,
@@ -15,11 +18,15 @@
     "license_note": "Public domain. Faithful reproduction of a work by Hans Holbein the Younger (died 1543)."
   },
   "text": {
-    "scene": "Two young Frenchmen at the English court, a landowner and a bishop, stand either side of a table stacked with globes, sundials, a lute and an open hymn book. Between them, smeared across the floor, lies a long grey streak that refuses to resolve into anything at all.",
-    "craft": "Holbein renders fur, velvet and polished instruments with cold exactness, then plants one deliberate distortion: the streak is a skull, painted in stretched perspective so it only snaps into shape from the far right edge. A broken lute string and a half-hidden crucifix carry the same quiet warning.",
+    "scene": "Two young Frenchmen at the English court, a landowner and a bishop, stand either side of a table stacked with globes, sundials, a lute and an open hymn book. Between them, smeared across the floor, lies a long grey streak that refuses to resolve into anything at all. Objects on the table quietly record both men's ages.",
+    "craft": "Holbein renders fur, velvet and polished instruments with cold exactness, then plants one deliberate distortion: the streak is a skull, painted in stretched perspective so it only snaps into shape from the far right edge. A broken lute string and a half-hidden crucifix carry the same quiet warning. The device is called anamorphosis, and this is its masterpiece.",
     "painter": "Born in Augsburg, trained beside his father, Holbein made his name in Basel and then in London, where he became King's Painter to Henry VIII. His portraits fixed the faces of the Tudor court so completely that we still see those people through his eyes. Plague killed him at about 45."
   },
   "draft": true,
   "fact": "Stand to the right of the painting, almost against the wall, and the grey smear across the floor becomes a perfect skull staring back; from the front it stays unreadable.",
-  "tags": ["Northern Renaissance", "double portrait", "16th century"]
+  "tags": [
+    "Northern Renaissance",
+    "double portrait",
+    "16th century"
+  ]
 }

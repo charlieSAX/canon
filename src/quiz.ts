@@ -33,7 +33,9 @@ function shuffle<T>(arr: T[]): T[] {
 
 // Sample 3 from the seen pool, preferring same century or movement when at
 // least 3 such candidates exist, otherwise uniform random. The answer key
-// (id, title or artist) is never duplicated among the options.
+// (id, title or artist) is never duplicated among the options. With a large
+// Phase 2 pool, key dedup can leave fewer than 3 distractors when kin share
+// an artist; the question renders with fewer options rather than duplicating.
 function distractors(target: Painting, pool: Painting[], keyOf: (p: Painting) => string, n = 3): Painting[] {
   const used = new Set([keyOf(target)])
   const others = pool.filter((p) => p.id !== target.id && !used.has(keyOf(p)))
