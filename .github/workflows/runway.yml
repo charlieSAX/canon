@@ -1,0 +1,38 @@
+name: Runway check
+
+on:
+  schedule:
+    - cron: '5 22 * * *' # lands near 00:05 Barcelona; DST drift is acceptable
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  runway:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check schedule runway and open an issue if short
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          RUNWAY=$(node -e "
+            const s = require('./public/content/schedule.json');
+            const n = new Date();
+            const today = \`\${n.getFullYear()}-\${String(n.getMonth() + 1).padStart(2, '0')}-\${String(n.getDate()).padStart(2, '0')}\`;
+            console.log(Object.keys(s).filter((d) => d >= today).length);
+          ")
+          echo "Runway: $RUNWAY day(s)"
+          if [ "$RUNWAY" -lt 7 ]; then
+            gh label create runway --repo "$GITHUB_REPOSITORY" --color D93F0B --description "Schedule runway is short" 2>/dev/null || true
+            OPEN=$(gh issue list --repo "$GITHUB_REPOSITORY" --label runway --state open --json number --jq 'length')
+            if [ "$OPEN" -eq 0 ]; then
+              gh issue create --repo "$GITHUB_REPOSITORY" --label runway \
+                --title "Schedule runway is $RUNWAY day(s)" \
+                --body "The daily schedule has $RUNWAY day(s) of paintings left from today. Extend public/content/schedule.json."
+            else
+              echo "An open runway issue already exists; not opening another."
+            fi
+          fi

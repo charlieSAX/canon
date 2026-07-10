@@ -1,0 +1,6 @@
+node_modules
+dist
+dev-dist
+verify-artifacts
+.DS_Store
+*.local

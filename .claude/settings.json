@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run validate)",
+      "Bash(npm run build)",
+      "Bash(npm run verify:live)",
+      "Bash(python3 scripts/dash_scan.py)",
+      "Bash(node scripts/mirror.mjs:*)",
+      "Bash(gh run list:*)",
+      "Bash(gh run watch:*)"
+    ]
+  }
+}

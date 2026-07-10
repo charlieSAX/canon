@@ -1,0 +1,25 @@
+{
+  "id": "las-meninas",
+  "title": "Las Meninas",
+  "artist": "Diego Velázquez",
+  "year": 1656,
+  "movement": "Baroque",
+  "medium": "Oil on canvas",
+  "dimensions": "318 x 276 cm",
+  "location": { "museum": "Museo del Prado", "city": "Madrid" },
+  "image": {
+    "src": "img/las-meninas.webp",
+    "width": 1390,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File:Las_Meninas,_by_Diego_Vel%C3%A1zquez,_from_Prado_in_Google_Earth.jpg",
+    "license_note": "Public domain. Faithful reproduction of a work by Diego Velázquez (died 1660)."
+  },
+  "text": {
+    "scene": "The five-year-old Infanta Margarita stands at the centre of a dim palace room, attended by two maids of honour, a dwarf, a boy prodding a drowsing dog, and a chaperone in shadow. Velázquez himself stands at a vast canvas, brush raised, looking straight out at whoever has just entered the room.",
+    "craft": "The painting works by indirection. A mirror on the back wall holds the faint reflection of the king and queen, placing them, and you, where the sitters should be. Loose, rapid strokes resolve into lace and light at a distance, and the open doorway behind pulls the eye through the picture.",
+    "painter": "Velázquez spent his career inside the court of Philip IV, rising from painter to palace chamberlain. He painted popes, jesters and royal children with the same level gaze. The red cross of the Order of Santiago on his chest here was added after his death, reportedly at the king's command."
+  },
+  "draft": true,
+  "fact": "The king and queen of Spain appear only as a blur in the mirror at the back of the room; the entire scene is arranged around two people who are barely in the painting.",
+  "tags": ["Baroque", "royal portrait", "17th century"]
+}
