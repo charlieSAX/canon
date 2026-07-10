@@ -48,7 +48,7 @@ export default function DailyView({ today, onToasts, onOpenProgress }: Props) {
       <div className="closed" data-date={today}>
         <ProgressButton onOpen={onOpenProgress} />
         <p className="closed-title">The gallery is closed.</p>
-        <p className="closed-sub">Nothing is hung today</p>
+        <p className="closed-sub">Nothing is hung today.</p>
       </div>
     )
   }
