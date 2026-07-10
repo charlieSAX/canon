@@ -1,0 +1,25 @@
+{
+  "id": "wanderer-above-the-sea-of-fog",
+  "title": "Wanderer above the Sea of Fog",
+  "artist": "Caspar David Friedrich",
+  "year": 1818,
+  "movement": "Romanticism",
+  "medium": "Oil on canvas",
+  "dimensions": "94.8 x 74.8 cm",
+  "location": { "museum": "Hamburger Kunsthalle", "city": "Hamburg" },
+  "image": {
+    "src": "img/wanderer-above-the-sea-of-fog.webp",
+    "width": 1249,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg",
+    "license_note": "Public domain. Faithful reproduction of a work by Caspar David Friedrich (died 1840)."
+  },
+  "text": {
+    "scene": "A man in a dark green coat stands on a spur of rock with his back to us, hair moving in the wind, looking out over a valley drowned in fog. Ridges and crags surface from the white like islands. He has climbed; the picture is what the climb bought him.",
+    "craft": "The turned back is the whole device. Denied his face, you step into his boots, and the landscape becomes something witnessed rather than displayed. Friedrich assembled the view from separate sketches of Saxon rock formations, so the mountain is a composite that exists only in the painting.",
+    "painter": "Friedrich, born on the Baltic coast, made landscape carry the weight religious painting was losing: fog, ruins, winter trees and lone figures as instruments of longing. Celebrated for a time, he died poor and out of fashion, and was reclaimed a century later as the essential Romantic."
+  },
+  "draft": true,
+  "fact": "The summit view is a fiction: Friedrich sketched the rocks in different corners of the Elbe Sandstone Mountains and stacked them into a mountain that exists nowhere.",
+  "tags": ["Romanticism", "landscape", "19th century"]
+}

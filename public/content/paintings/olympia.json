@@ -1,0 +1,25 @@
+{
+  "id": "olympia",
+  "title": "Olympia",
+  "artist": "Édouard Manet",
+  "year": 1863,
+  "movement": "Realism",
+  "medium": "Oil on canvas",
+  "dimensions": "130.5 x 190 cm",
+  "location": { "museum": "Musée d'Orsay", "city": "Paris" },
+  "image": {
+    "src": "img/olympia.webp",
+    "width": 1600,
+    "height": 1090,
+    "source_url": "https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg",
+    "license_note": "Public domain. Faithful reproduction of a work by Édouard Manet (died 1883)."
+  },
+  "text": {
+    "scene": "A naked woman reclines on white sheets, one hand flat on her thigh, a black ribbon at her throat and a slipper dangling from one foot. A maid brings a wrapped bouquet, presumably from a client; a black cat arches at the bed's end. She looks straight at you, unhurried and unashamed.",
+    "craft": "The pose quotes Titian's Venus of Urbino, but Manet strips out the honeyed glazes: flat frontal light, hard edges, broad planes of paint, and that level stare in place of a goddess's drowsy gaze. The affront was less the nudity than the modernity; everyone knew what profession they were looking at.",
+    "painter": "A well-born Parisian who wanted Salon medals rather than bohemian glory, Manet kept scandalising the juries he courted. His flat, quick, urban way of painting became the bridge into Impressionism, though he never exhibited with the group. Friends finally bought Olympia for the French state after his death."
+  },
+  "draft": true,
+  "fact": "The model was Victorine Meurent, a painter in her own right who later exhibited at the same Salon that had jeered her body on Manet's canvas.",
+  "tags": ["Realism", "nude", "19th century"]
+}

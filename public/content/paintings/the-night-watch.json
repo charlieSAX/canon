@@ -1,0 +1,25 @@
+{
+  "id": "the-night-watch",
+  "title": "The Night Watch",
+  "artist": "Rembrandt van Rijn",
+  "year": 1642,
+  "movement": "Dutch Golden Age",
+  "medium": "Oil on canvas",
+  "dimensions": "379.5 x 453.5 cm",
+  "location": { "museum": "Rijksmuseum", "city": "Amsterdam" },
+  "image": {
+    "src": "img/the-night-watch.webp",
+    "width": 1600,
+    "height": 1340,
+    "source_url": "https://commons.wikimedia.org/wiki/File:The_Night_Watch_-_HD.jpg",
+    "license_note": "Public domain. Faithful reproduction of a work by Rembrandt van Rijn (died 1669)."
+  },
+  "text": {
+    "scene": "An Amsterdam civic militia spills out of an archway: Captain Frans Banninck Cocq in black gives the order to march, his lieutenant in gold beside him, muskets loading and firing around them, a drummer starting up, and a small girl in luminous yellow, with a dead chicken at her belt, caught in the crush.",
+    "craft": "Group portraits of militias were usually rows of seated men. Rembrandt paid subjects be damned, throwing the company into motion and carving it with theatrical light, so the two officers and the strange girl blaze while everyone else negotiates the shadow. The painting is a story pretending to be a roll call.",
+    "painter": "The miller's son from Leiden who became Amsterdam's most sought-after portraitist, Rembrandt painted this at the height of his success, the year his wife Saskia died. Taste moved on; he spent extravagantly, went effectively bankrupt, and kept painting himself with ruthless honesty to the end."
+  },
+  "draft": true,
+  "fact": "In 1715 the canvas was simply cut down to fit a wall in the town hall; the two figures and the bridge rail lost from the left edge are known only from an early copy.",
+  "tags": ["Dutch Golden Age", "group portrait", "17th century"]
+}

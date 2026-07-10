@@ -1,0 +1,25 @@
+{
+  "id": "garden-of-earthly-delights",
+  "title": "The Garden of Earthly Delights",
+  "artist": "Hieronymus Bosch",
+  "year": 1500,
+  "movement": "Early Netherlandish",
+  "medium": "Oil on oak panel, triptych",
+  "dimensions": "205.5 x 384.9 cm open",
+  "location": { "museum": "Museo del Prado", "city": "Madrid" },
+  "image": {
+    "src": "img/garden-of-earthly-delights.webp",
+    "width": 1600,
+    "height": 911,
+    "source_url": "https://commons.wikimedia.org/wiki/File:The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg",
+    "license_note": "Public domain. Faithful reproduction of a work by Hieronymus Bosch (died 1516)."
+  },
+  "text": {
+    "scene": "Read left to right: Eden, where God presents Eve to a seated Adam; a teeming garden where naked crowds ride birds, climb inside fruit and swim with monsters; then a black, burning hell where instruments become torture machines and a tree-man looks back over his shoulder at the wreckage.",
+    "craft": "Bosch paints hundreds of small figures with miniaturist care, then organises the chaos through colour: pale flesh scattered across green in the centre, everything cooling to fire and ice on the right. The triptych form lets him run time across the panels, from creation to consequence, like a hinged argument.",
+    "painter": "Bosch lived his whole life in the Brabant town of 's-Hertogenbosch, a respected citizen of a religious brotherhood, not the madman his imagery suggests. His invented creatures made him famous; Philip II of Spain collected him avidly, which is why the great triptych hangs in Madrid."
+  },
+  "draft": true,
+  "fact": "Closed, the shutters show the world itself, painted in grey glass-like tones: the globe on the third day of creation, before animals, before people, before any of what happens inside.",
+  "tags": ["Early Netherlandish", "religious allegory", "15th century"]
+}
