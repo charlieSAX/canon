@@ -1,0 +1,64 @@
+{
+  "id": "the-swing",
+  "title": {
+    "en": "The Swing",
+    "es": "El columpio"
+  },
+  "artist": "Jean-Honoré Fragonard",
+  "year": 1767,
+  "movement": "rococo",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "81 x 64 cm",
+  "location": {
+    "museum": "The Wallace Collection",
+    "city": "London"
+  },
+  "image": {
+    "src": "img/the-swing.webp",
+    "width": 1327,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFragonard%2C_The_Swing%2C_Wallace_Collection.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "In a lush, overgrown garden a young woman in a billowing pink dress sweeps forward on a swing, one leg kicked high, a slipper flying off her foot. Below her, half hidden in the bushes, a young man reclines and gazes up beneath her skirts. In shadow behind, an older man works the swing's ropes.",
+      "craft": "Fragonard paints with feathery, sugared touches, the pink silk foaming into light while the foliage churns in deep greens around it. A shaft of light picks out the woman like a stage spotlight. The whole composition swings on a diagonal, and every frilled leaf and flushed cheek is built to feel weightless and quick.",
+      "painter": "Fragonard was the great painter of French pleasure just before the Revolution swept it away. A baron commissioned this in 1767, asking to be shown gazing up at his mistress on a swing pushed by a bishop. Fragonard swapped the bishop for an unwitting husband. He later fell from fashion and died poor and forgotten.",
+      "point": "Behind its froth it is a coded seduction: a picture of illicit desire and aristocratic idleness, playing at innocence while every detail winks at what is really going on."
+    },
+    "es": {
+      "scene": "En un jardín frondoso y descuidado, una joven con un vaporoso vestido rosa se impulsa hacia delante en un columpio, una pierna en alto y una chinela que sale volando. Debajo de ella, medio oculto entre los arbustos, un joven se recuesta y mira bajo sus faldas. En la sombra, detrás, un hombre mayor tira de las cuerdas del columpio.",
+      "craft": "Fragonard pinta con toques de pluma y color azucarado; la seda rosa espuma hacia la luz mientras el follaje se agita en verdes profundos. Un haz de luz recorta a la mujer como un foco de teatro. Toda la composición se balancea sobre una diagonal, y cada hoja rizada y cada mejilla sonrojada se construyen para sentirse ingrávidas y veloces.",
+      "painter": "Fragonard fue el gran pintor del placer francés justo antes de que la Revolución lo barriera. Un barón le encargó esto en 1767, pidiendo aparecer mirando hacia arriba a su amante en un columpio empujado por un obispo. Fragonard cambió al obispo por un marido inconsciente. Más tarde pasó de moda y murió pobre y olvidado.",
+      "point": "Bajo su espuma es una seducción en clave: un cuadro de deseo ilícito y ociosidad aristocrática, que juega a la inocencia mientras cada detalle guiña un ojo a lo que de verdad ocurre."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The patron asked for his lover to be pushed on the swing by a bishop while he watched from below; Fragonard replaced the bishop with an oblivious husband.",
+    "es": "El comitente pidió que a su amante la empujara en el columpio un obispo mientras él miraba desde abajo; Fragonard sustituyó al obispo por un marido ajeno a todo."
+  },
+  "tags": [
+    "rococo",
+    "garden",
+    "18th century"
+  ],
+  "notables": [
+    {
+      "en": "Her slipper flies off towards a statue of Cupid, who raises a finger to his lips as if urging secrecy.",
+      "es": "Su chinela sale volando hacia una estatua de Cupido, que se lleva un dedo a los labios como pidiendo secreto."
+    },
+    {
+      "en": "The young lover in the bushes has a clear view up her skirts, the whole picture's hidden joke.",
+      "es": "El joven amante entre los arbustos tiene una vista clara bajo sus faldas, el chiste oculto de todo el cuadro."
+    },
+    {
+      "en": "The man pushing the swing in the shadows seems unaware he is enabling the flirtation before his eyes.",
+      "es": "El hombre que empuja el columpio en la sombra parece no saber que está facilitando el coqueteo ante sus ojos."
+    }
+  ]
+}

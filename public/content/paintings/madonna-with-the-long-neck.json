@@ -1,0 +1,68 @@
+{
+  "id": "madonna-with-the-long-neck",
+  "title": {
+    "en": "Madonna with the Long Neck",
+    "es": "La Madona del cuello largo"
+  },
+  "artist": "Parmigianino",
+  "year": 1540,
+  "movement": "mannerism",
+  "medium": {
+    "en": "Oil on panel",
+    "es": "Óleo sobre tabla"
+  },
+  "dimensions": "216 x 132 cm",
+  "location": {
+    "museum": "Galleria degli Uffizi",
+    "city": "Florence"
+  },
+  "image": {
+    "src": "img/madonna-with-the-long-neck.webp",
+    "width": 1022,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AParmigianino_-_Madonna_dal_collo_lungo_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "An impossibly elegant Virgin, with a swan's neck and long tapering fingers, sits enthroned in blue silk. A large, almost sliding Christ child sprawls asleep across her lap. A cluster of beautiful angels presses in on the left, while far below stands a lone marble column and a tiny prophet unrolling a scroll.",
+      "craft": "Parmigianino stretches every proportion for grace: the neck, the fingers, the child, the whole body of Mary. Cool enamel colour and a polished, weightless finish detach the figures from gravity. The composition is deliberately unbalanced, crowded left, near empty right, where a single giant column rises to nowhere. Elegance itself is the subject.",
+      "painter": "Parmigianino, from Parma, was a prodigy who had dazzled Rome before its 1527 sack drove him north. He grew obsessive, drawn to alchemy, and left this altarpiece unfinished at his death in 1540, aged thirty-seven. An inscription on the column blames adverse destiny for preventing Francesco Mazzola from completing the work.",
+      "point": "A holy image remade as pure style. Parmigianino pushes beauty past nature into something strange and cold, prizing refinement and grace above balance, weight or truth."
+    },
+    "es": {
+      "scene": "Una Virgen imposiblemente elegante, de cuello de cisne y dedos largos y afilados, se sienta entronizada en seda azul. Un Niño Jesús grande, casi resbalando, duerme tendido sobre su regazo. Un grupo de bellos ángeles se agolpa a la izquierda, mientras abajo se alzan una sola columna de mármol y un diminuto profeta con un rollo.",
+      "craft": "Parmigianino estira cada proporción en busca de gracia: el cuello, los dedos, el niño, todo el cuerpo de María. Un color esmaltado y frío y un acabado pulido e ingrávido desprenden a las figuras de la gravedad. La composición está desequilibrada a propósito, llena a la izquierda, casi vacía a la derecha, donde una columna gigante sube sin fin.",
+      "painter": "Parmigianino, de Parma, fue un prodigio que había deslumbrado Roma antes de que el saqueo de 1527 lo empujara al norte. Se volvió obsesivo, atraído por la alquimia, y dejó este retablo sin terminar al morir en 1540, con treinta y siete años. Una inscripción en la columna culpa al destino adverso de impedir su conclusión.",
+      "point": "Una imagen sagrada rehecha como puro estilo. Parmigianino lleva la belleza más allá de la naturaleza, hasta algo extraño y frío, prefiriendo el refinamiento y la gracia al equilibrio, al peso y a la verdad."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Parmigianino died in 1540 with the picture still unfinished; the lone column was never completed, and an inscription on its base blames adverse destiny for the failure.",
+    "es": "Parmigianino murió en 1540 con el cuadro aún inacabado; la columna solitaria nunca se completó, y una inscripción en su base culpa al destino adverso del fracaso."
+  },
+  "tags": [
+    "mannerism",
+    "madonna",
+    "16th century"
+  ],
+  "notables": [
+    {
+      "en": "The column on the right is unfinished; a tiny inscription blames destiny for preventing the artist from completing the picture.",
+      "es": "La columna de la derecha está sin terminar; una diminuta inscripción culpa al destino de impedir que el artista acabara el cuadro."
+    },
+    {
+      "en": "The Christ child is enormous and appears to be sliding off Mary's lap, limp as if already dead.",
+      "es": "El Niño Jesús es enorme y parece resbalar del regazo de María, inerte como si ya estuviera muerto."
+    },
+    {
+      "en": "The single tall column may play on a hymn comparing the Virgin's neck to a column of ivory.",
+      "es": "La única columna alta quizá juegue con un himno que compara el cuello de la Virgen con una columna de marfil."
+    },
+    {
+      "en": "The prophet below is out of all scale with the foreground, dwarfed as if standing far away.",
+      "es": "El profeta de abajo está fuera de toda escala con el primer plano, empequeñecido como si estuviera muy lejos."
+    }
+  ]
+}

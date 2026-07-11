@@ -1,10 +1,16 @@
 {
   "id": "liberty-leading-the-people",
-  "title": "Liberty Leading the People",
+  "title": {
+    "en": "Liberty Leading the People",
+    "es": "La Libertad guiando al pueblo"
+  },
   "artist": "Eugène Delacroix",
   "year": 1830,
-  "movement": "Romanticism",
-  "medium": "Oil on canvas",
+  "movement": "romanticism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
   "dimensions": "260 x 325 cm",
   "location": {
     "museum": "Musée du Louvre",
@@ -18,15 +24,41 @@
     "license_note": "Public domain. Faithful reproduction of a work by Eugène Delacroix (died 1863)."
   },
   "text": {
-    "scene": "A bare-breasted woman in Phrygian cap strides over a barricade of bodies, tricolour in one hand and a bayoneted musket in the other. Around her: a boy waving pistols, a workman with a sabre, a top-hatted bourgeois with a hunting gun, and Notre-Dame's towers in the smoke behind. The whole scene is smoke, dust and forward motion.",
-    "craft": "Delacroix fuses reportage and allegory: dead men painted from the morgue share the canvas with Liberty herself, a goddess given dirt and body hair. The pyramid of figures climbs from corpses to flag, and the tricolour's red, white and blue is echoed and dirtied through the whole palette. The brushwork stays loose, urgent, almost reportorial.",
-    "painter": "The great colourist of French Romanticism, Delacroix painted lions, massacres and Morocco, feuding politely with Ingres and the line-first classicists all the while. He witnessed the July Revolution but did not fight; painting this, he wrote to his brother, would serve as his form of service. France bought it in 1831, then hid it as too inflammatory."
+    "en": {
+      "scene": "A bare-breasted woman in Phrygian cap strides over a barricade of bodies, tricolour in one hand and a bayoneted musket in the other. Around her: a boy waving pistols, a workman with a sabre, a top-hatted bourgeois with a hunting gun, and Notre-Dame's towers in the smoke behind. The whole scene is smoke, dust and forward motion.",
+      "craft": "Delacroix fuses reportage and allegory: dead men painted from the morgue share the canvas with Liberty herself, a goddess given dirt and body hair. The pyramid of figures climbs from corpses to flag, and the tricolour's red, white and blue is echoed and dirtied through the whole palette. The brushwork stays loose, urgent, almost reportorial.",
+      "painter": "The great colourist of French Romanticism, Delacroix painted lions, massacres and Morocco, feuding politely with Ingres and the line-first classicists all the while. He witnessed the July Revolution but did not fight; painting this, he wrote to his brother, would serve as his form of service. France bought it in 1831, then hid it as too inflammatory.",
+      "point": "Revolution appears as a dangerous alliance between real people and an ideal that demands bodies."
+    },
+    "es": {
+      "scene": "Una mujer con el pecho descubierto y gorro frigio avanza sobre una barricada de cadáveres, con la tricolor y un mosquete. La acompañan un niño con pistolas, un obrero con sable y un burgués con sombrero de copa y escopeta. Las torres de Notre Dame asoman entre humo, polvo y movimiento.",
+      "craft": "Delacroix funde reportaje y alegoría: hombres muertos pintados desde la morgue comparten lienzo con una Libertad de piel sucia y vello corporal. La pirámide de figuras sube desde los cadáveres hasta la bandera; su rojo, blanco y azul reaparece por toda la paleta. La pincelada permanece suelta, urgente y casi periodística.",
+      "painter": "Gran colorista del Romanticismo francés, Delacroix pintó leones, matanzas y Marruecos mientras discutía cortésmente con Ingres y los clasicistas del dibujo. Presenció la Revolución de Julio pero no combatió. Escribió a su hermano que, si no había luchado por la patria, al menos pintaría para ella.",
+      "point": "La revolución aparece como una alianza peligrosa entre personas reales y un ideal que exige cuerpos."
+    }
   },
-  "draft": true,
-  "fact": "The revolution here is not 1789: it is the July Revolution of 1830, three days that toppled Charles X. The pistol-waving boy later fed the character of Gavroche in Les Misérables.",
+  "draft": false,
+  "fact": {
+    "en": "The revolution here is not 1789: it is the July Revolution of 1830, three days that toppled Charles X. The pistol-waving boy later fed the character of Gavroche in Les Misérables.",
+    "es": "La revolución no es la de 1789, sino la de julio de 1830, tres jornadas que derribaron a Carlos X. El niño de las pistolas alimentó después la figura de Gavroche en Los miserables."
+  },
   "tags": [
-    "Romanticism",
+    "romanticism",
     "history painting",
     "19th century"
+  ],
+  "notables": [
+    {
+      "en": "Notre Dame fixes the action in Paris, with a tiny tricolour on one tower.",
+      "es": "Notre Dame sitúa la acción en París, con una tricolor diminuta sobre una torre."
+    },
+    {
+      "en": "Liberty has an ideal profile but visible underarm hair and dirt on her skin.",
+      "es": "La Libertad tiene perfil ideal, pero también vello en la axila y suciedad en la piel."
+    },
+    {
+      "en": "The fallen man at lower left wears only one sock, a brutally ordinary detail.",
+      "es": "El caído de la izquierda lleva un solo calcetín, un detalle brutalmente cotidiano."
+    }
   ]
 }

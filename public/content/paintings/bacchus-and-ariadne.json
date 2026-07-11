@@ -1,0 +1,64 @@
+{
+  "id": "bacchus-and-ariadne",
+  "title": {
+    "en": "Bacchus and Ariadne",
+    "es": "Baco y Ariadna"
+  },
+  "artist": "Titian",
+  "year": 1523,
+  "movement": "venetian-renaissance",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "177 x 191 cm",
+  "location": {
+    "museum": "The National Gallery",
+    "city": "London"
+  },
+  "image": {
+    "src": "img/bacchus-and-ariadne.webp",
+    "width": 1600,
+    "height": 1448,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATitian_-_Bacchus_and_Ariadne_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Ariadne, abandoned on a beach, turns in alarm as a riotous crowd bursts from the trees. Bacchus, god of wine, leaps from a chariot drawn by two big cats, cloak flying, caught in mid-air as he falls for her at first sight. Behind him revellers stagger, drums beat, and snakes writhe.",
+      "craft": "Titian splits the canvas on a diagonal: calm blue sky and sea on one side, a tumbling brown mass of bodies on the other, with Bacchus's leap bridging them. He uses the costliest pigments, deep ultramarine sky and vivid crimson, and freezes the whole story at its single most dramatic instant.",
+      "painter": "Titian was still in his thirties when Alfonso d'Este, Duke of Ferrara, commissioned this for a private room of mythologies. Ambitious and competitive, Titian was building a European reputation, and he answered classical poems by Ovid and Catullus with a picture as vivid and noisy as the verse.",
+      "point": "The instant a mortal woman's despair turns to love and immortality, caught at its peak: Bacchus promises to set Ariadne among the stars."
+    },
+    "es": {
+      "scene": "Ariadna, abandonada en una playa, se vuelve alarmada cuando un tropel bullicioso irrumpe entre los árboles. Baco, dios del vino, salta de un carro tirado por dos grandes felinos, con el manto al viento, suspendido en el aire mientras se enamora de ella a primera vista. Detrás, bacantes tambalean y suenan tambores.",
+      "craft": "Tiziano parte el lienzo en diagonal: cielo y mar azules y serenos a un lado, una masa parda y revuelta de cuerpos al otro, con el salto de Baco tendiendo el puente. Emplea los pigmentos más caros, azul ultramar intenso y carmín vivo, y congela toda la historia en su instante más dramático.",
+      "painter": "Tiziano rondaba los treinta cuando Alfonso d'Este, duque de Ferrara, le encargó esta obra para una sala privada de mitologías. Ambicioso y competitivo, Tiziano se labraba una fama europea, y respondió a los poemas clásicos de Ovidio y Catulo con un cuadro tan vivo y ruidoso como los versos.",
+      "point": "El instante en que la desesperación de una mortal se vuelve amor e inmortalidad, captado en su cima: Baco promete colocar a Ariadna entre las estrellas."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Titian caught Bacchus in the middle of a leap from his chariot, his whole body suspended in the air, a moment of frozen motion few painters had dared to attempt before.",
+    "es": "Tiziano captó a Baco en pleno salto desde su carro, con todo el cuerpo suspendido en el aire, un instante de movimiento congelado que pocos pintores se habían atrevido a intentar antes."
+  },
+  "tags": [
+    "venetian-renaissance",
+    "mythology",
+    "16th century"
+  ],
+  "notables": [
+    {
+      "en": "The ring of small stars above Ariadne's head is the crown Bacchus casts into the sky, the constellation Corona Borealis.",
+      "es": "El anillo de estrellas sobre la cabeza de Ariadna es la corona que Baco lanza al cielo, la constelación Corona Boreal."
+    },
+    {
+      "en": "A young satyr in the foreground drags the severed head and legs of a calf, a note of festive violence.",
+      "es": "Un joven sátiro en primer plano arrastra la cabeza y las patas cortadas de un ternero, nota de violencia festiva."
+    },
+    {
+      "en": "A man wrapped in writhing snakes echoes the antique Laocoön statue, newly rediscovered in Rome.",
+      "es": "Un hombre envuelto en serpientes evoca la antigua estatua del Laocoonte, recién redescubierta en Roma."
+    }
+  ]
+}

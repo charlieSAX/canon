@@ -1,27 +1,28 @@
 # CANON
 
-A private daily art study PWA. Five paintings a day from the 1001 Paintings canon, a spaced-repetition quiz, streaks. One user, no backend, no accounts. Live at https://charliesax.github.io/canon/.
+A private bilingual daily art study PWA. Five paintings a day from a 100-painting canon, a content-driven spaced-repetition quiz, and streaks. One user, no backend, no accounts. Live at https://charliesax.github.io/canon/.
 
 The brief is BRIEF.md and it is law. Ideas go to IDEAS.md.
 
 ## The weekly editorial batch routine
 
-1. Open a fresh editorial session and pick the next batch of paintings (five to ten).
-2. For each painting, rewrite `text.scene`, `text.craft` and `text.painter` in `public/content/paintings/{id}.json` (50 to 60 words each), sharpen `fact`, and set `"draft": false`.
-3. Extend the schedule (below) so the runway stays ahead of the nightly check.
-4. Run `npm run validate` and `python3 scripts/dash_scan.py`, then commit and push to main. The push deploys.
+1. Pick the next five to ten entries from `pipeline/master-list.json` and resolve their Commons images and metadata.
+2. Author English and Spanish scene, craft and painter sections at 40 to 60 words each, a point at 15 to 40 words, 2 to 4 notables at 8 to 30 words each, and a fact. Set `"draft": false`.
+3. Add or confirm the shared bilingual movement explainer in `public/content/movements.json`.
+4. Run `npm run schedule`, `npm run validate`, `python3 scripts/dash_scan.py` and `npm run build`.
+5. Visually check the new image batch against a labelled contact sheet, record the check in the project log, then commit and push. The push deploys.
 
 ## How to add a painting
 
-1. Find the painting on Wikimedia Commons and download the highest-quality file.
-2. Convert it: `node scripts/mirror.mjs <downloaded-file> <new-id>`. This writes `public/img/<new-id>.webp` at 1600px longest edge, quality 80, and prints the width and height.
-3. Create `public/content/paintings/<new-id>.json`. Copy an existing file for the shape. Record the Commons file page URL as `image.source_url` and the licence as `image.license_note`. Set `"draft": true` until the essay is written.
-4. Add the id to a date in `public/content/schedule.json`.
-5. `npm run validate`, commit, push.
+1. Confirm that the work is public domain in both the EU and US, then find the correct file on Wikimedia Commons.
+2. Convert it with `node scripts/mirror.mjs <downloaded-file> <new-id>`. This writes `public/img/<new-id>.webp` at 1600px longest edge, quality 80, and prints its dimensions.
+3. Create `public/content/paintings/<new-id>.json` using the current bilingual shape. Record `image.source_url` and `image.license_note`; authored v2 entries use `"draft": false`.
+4. Add the stable id to `public/content/index.json`, add any new movement to `public/content/movements.json`, and run `npm run schedule`.
+5. Run the full local checks, visually verify the image, commit, and push.
 
 ## How to extend the schedule
 
-`public/content/schedule.json` maps `"YYYY-MM-DD"` to an array of five painting ids. Add more dated entries. Dates with no entry show the closed gallery. A nightly GitHub Action opens a `runway` issue when fewer than 7 scheduled days remain.
+`public/content/schedule.json` maps local `"YYYY-MM-DD"` dates to five painting ids. `npm run schedule` keeps 14 days available, selecting never-scheduled paintings first and then the least recently shown. A Monday workflow commits extensions automatically. Validation requires seven days; the nightly runway issue remains the backstop.
 
 ## Export and import user state
 
@@ -36,4 +37,4 @@ If the site ever needs re-enabling: open https://github.com/charlieSAX/canon on 
 
 ## Verification
 
-`npm run verify:live` drives the deployed site at a phone-sized viewport and checks the whole critical path. It passing against Pages is the definition of shipped. `CANON_URL=<url> npm run verify:live` points it elsewhere.
+`npm run verify:live` drives the deployed site at a phone-sized viewport in both languages, completes a day, and answers an authored-content quiz question. It passing against Pages is the definition of shipped. `CANON_URL=<url> npm run verify:live` points it elsewhere for preflight only; localhost never counts as shipped.

@@ -1,16 +1,18 @@
 import { useEffect, useRef, useState } from 'react'
-import type { Painting } from './types'
+import type { Lang, Painting } from './types'
 import { imageUrl } from './content'
 import { buildSession, type Question } from './quiz'
 import { gradeFor, reviewCard } from './fsrsAdapter'
 import { awardPoints } from './points'
+import { str } from './i18n'
 
 interface Props {
   today: string
+  lang: Lang
   onExit: () => void
 }
 
-export default function QuizView({ today, onExit }: Props) {
+export default function QuizView({ today, lang, onExit }: Props) {
   const [questions, setQuestions] = useState<Question[] | null>(null)
   const [index, setIndex] = useState(0)
   const [phase, setPhase] = useState<'answer' | 'feedback' | 'done'>('answer')
@@ -19,9 +21,12 @@ export default function QuizView({ today, onExit }: Props) {
   const [correctCount, setCorrectCount] = useState(0)
   const [picks, setPicks] = useState<string[]>([])
   const startedAt = useRef(0)
+  const S = str(lang)
 
   useEffect(() => {
-    buildSession(new Date()).then(setQuestions)
+    buildSession(new Date(), lang).then(setQuestions)
+    // The session is built once for the language active at entry.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   useEffect(() => {
@@ -33,9 +38,9 @@ export default function QuizView({ today, onExit }: Props) {
   if (questions.length === 0) {
     return (
       <div className="quiz">
-        <p className="closed-title">Nothing to test yet.</p>
+        <p className="closed-title">{S.nothingToTest}</p>
         <button className="text-btn" onClick={onExit}>
-          Return
+          {S.return}
         </button>
       </div>
     )
@@ -64,9 +69,14 @@ export default function QuizView({ today, onExit }: Props) {
     }, 1100)
   }
 
-  function pickChoice(p: Painting) {
+  function pickImage(p: Painting) {
     if (phase !== 'answer') return
     void settle(p.id === q.target.id)
+  }
+
+  function pickText(key: string) {
+    if (phase !== 'answer' || q.kind !== 'text-choice') return
+    void settle(key === q.correctKey)
   }
 
   function pickChrono(p: Painting) {
@@ -74,7 +84,7 @@ export default function QuizView({ today, onExit }: Props) {
     const next = [...picks, p.id]
     setPicks(next)
     if (next.length === q.options.length) {
-      const truth = [...q.options].sort((a, b) => a.year - b.year).map((x) => x.id)
+      const truth = [...(q.options as Painting[])].sort((a, b) => a.year - b.year).map((x) => x.id)
       void settle(truth.every((id, i) => next[i] === id))
     }
   }
@@ -82,72 +92,65 @@ export default function QuizView({ today, onExit }: Props) {
   if (phase === 'done') {
     return (
       <div className="quiz done">
-        <p className="quiz-kicker">The Test</p>
+        <p className="quiz-kicker">{S.theTest}</p>
         <p className="quiz-result">
-          {correctCount} of {questions.length}
+          {correctCount} {S.ofc} {questions.length}
         </p>
-        <p className="quiz-sub">{gainedTotal} points</p>
+        <p className="quiz-sub">
+          {gainedTotal} {S.points}
+        </p>
         <button className="text-btn" onClick={onExit}>
-          Return to the gallery
+          {S.returnToGallery}
         </button>
       </div>
     )
   }
 
+  const textPrompt =
+    q.kind === 'text-choice' ? (q.type === 'painting-to-artist' ? S.whoPainted : q.type === 'style' ? S.whichStyle : S.whichPoint) : ''
+
   return (
-    <div className="quiz">
+    <div className="quiz" data-qtype={q.type}>
       <p className="quiz-kicker">
-        {index + 1} of {questions.length}
+        {index + 1} {S.ofc} {questions.length}
       </p>
 
-      {q.type === 'title-to-painting' && (
+      {q.kind === 'image-grid' && (
         <>
-          <p className="quiz-prompt">{q.target.title}</p>
+          <p className={q.type === 'title-to-painting' ? 'quiz-prompt' : 'quiz-prompt small'}>{q.prompt}</p>
           <div className="quiz-grid">
             {q.options.map((p) => (
-              <button key={p.id} className="quiz-art" onClick={() => pickChoice(p)}>
-                <img src={imageUrl(p)} alt="A painting" />
+              <button key={p.id} className="quiz-art" onClick={() => pickImage(p)}>
+                <img src={imageUrl(p)} alt={S.aPainting} />
               </button>
             ))}
           </div>
         </>
       )}
 
-      {q.type === 'fact-to-painting' && (
-        <>
-          <p className="quiz-prompt small">{q.target.fact}</p>
-          <div className="quiz-grid">
-            {q.options.map((p) => (
-              <button key={p.id} className="quiz-art" onClick={() => pickChoice(p)}>
-                <img src={imageUrl(p)} alt="A painting" />
-              </button>
-            ))}
-          </div>
-        </>
-      )}
-
-      {q.type === 'painting-to-artist' && (
+      {q.kind === 'text-choice' && (
         <>
           <div className="quiz-single">
-            <img src={imageUrl(q.target)} alt="A painting" />
+            <img src={imageUrl(q.target)} alt={S.aPainting} />
           </div>
+          <p className="quiz-prompt tiny">{textPrompt}</p>
           <div className="quiz-texts">
-            {q.options.map((p) => (
-              <button key={p.id} className="text-btn option" onClick={() => pickChoice(p)}>
-                {p.artist}
+            {q.options.map((o) => (
+              <button key={o.key} className="text-btn option" onClick={() => pickText(o.key)}>
+                {o.label}
               </button>
             ))}
           </div>
         </>
       )}
 
-      {q.type === 'chronology' && (
+      {q.kind === 'chronology' && (
         <>
-          <p className="quiz-prompt small">Earliest first</p>
+          <p className="quiz-prompt small">{S.earliestFirst}</p>
           <div className="quiz-grid three">
             {q.options.map((p) => (
               <button key={p.id} className="quiz-art" onClick={() => pickChrono(p)}>
-                <img src={imageUrl(p)} alt="A painting" />
+                <img src={imageUrl(p)} alt={S.aPainting} />
                 {picks.includes(p.id) && <span className="pick-order">{picks.indexOf(p.id) + 1}</span>}
               </button>
             ))}
@@ -157,12 +160,15 @@ export default function QuizView({ today, onExit }: Props) {
 
       {phase === 'feedback' && (
         <div className="verdict">
-          <p className="verdict-word">{lastCorrect ? 'Correct.' : 'No.'}</p>
+          <p className="verdict-word">{lastCorrect ? S.correct : S.wrong}</p>
           {!lastCorrect && (
             <p className="verdict-truth">
-              {q.type === 'chronology'
-                ? [...q.options].sort((a, b) => a.year - b.year).map((p) => `${p.title}, ${p.year}`).join('; ')
-                : `${q.target.title}. ${q.target.artist}, ${q.target.year}.`}
+              {q.kind === 'chronology'
+                ? [...(q.options as Painting[])]
+                    .sort((a, b) => a.year - b.year)
+                    .map((p) => `${p.title[lang]}, ${p.year}`)
+                    .join('; ')
+                : `${q.target.title[lang]}. ${q.target.artist}, ${q.target.year}.`}
             </p>
           )}
         </div>

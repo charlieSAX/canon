@@ -1,0 +1,64 @@
+{
+  "id": "impression-sunrise",
+  "title": {
+    "en": "Impression, Sunrise",
+    "es": "Impresión, sol naciente"
+  },
+  "artist": "Claude Monet",
+  "year": 1872,
+  "movement": "impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "48 x 63 cm",
+  "location": {
+    "museum": "Musée Marmottan Monet",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/impression-sunrise.webp",
+    "width": 1600,
+    "height": 1241,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMonet_-_Impression%2C_Sunrise.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Across a misty harbour at dawn, a small orange sun hangs low and lays a broken trail of fire on the grey-blue water. A dark rowing boat and two shadowy figures drift in the foreground. Behind them, masts, cranes and smoking chimneys of the port of Le Havre dissolve into pink and violet haze.",
+      "craft": "Monet works fast and thin, in loose dabs and dragged strokes that never quite firm into objects. The famous sun is painted in the same value as the sky around it, so it seems to pulse rather than shine. Everything is atmosphere and reflection, the harbour caught as a fleeting impression of light, not a description.",
+      "painter": "Monet was in his early thirties, painting the harbour of Le Havre where he had grown up. He showed the canvas at the independent 1874 exhibition that broke with the Salon. Asked for a title too vague to be a real view, he said simply to put Impression. The critic Louis Leroy seized the word to mock the whole group.",
+      "point": "This hazy little harbour view accidentally named a movement: Impressionism, painting that chases the fleeting effect of light and atmosphere rather than solid, finished form."
+    },
+    "es": {
+      "scene": "Sobre un puerto brumoso al amanecer, un pequeño sol anaranjado cuelga bajo y tiende un reguero quebrado de fuego sobre el agua gris azulada. Un bote de remos oscuro y dos figuras en sombra flotan en primer término. Detrás, los mástiles, las grúas y las chimeneas humeantes del puerto de Le Havre se disuelven en una bruma rosa y violeta.",
+      "craft": "Monet trabaja deprisa y con capa fina, en toques sueltos y pinceladas arrastradas que no cuajan en objetos. El famoso sol está pintado con el mismo valor que el cielo que lo rodea, y parece latir más que brillar. Todo es atmósfera y reflejo: el puerto captado como una impresión fugaz de luz, no como una descripción.",
+      "painter": "Monet rondaba los treinta y pintaba el puerto de Le Havre, donde se había criado. Mostró el lienzo en la exposición independiente de 1874 que rompió con el Salón. Le pidieron un título y, como no era una vista real, dijo que pusieran Impresión. El crítico Louis Leroy tomó la palabra para burlarse de todo el grupo.",
+      "point": "Esta pequeña y brumosa vista de puerto bautizó sin querer a todo un movimiento: el impresionismo, una pintura que persigue el efecto fugaz de la luz y la atmósfera en lugar de la forma sólida y acabada."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "When Monet showed this loose harbour sketch in 1874, the critic Louis Leroy mockingly called its makers 'Impressionists'; the insult became the name of the movement.",
+    "es": "Cuando Monet mostró este suelto apunte de puerto en 1874, el crítico Louis Leroy llamó con sorna 'impresionistas' a sus autores; el insulto se convirtió en el nombre del movimiento."
+  },
+  "tags": [
+    "impressionism",
+    "harbour",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The orange sun and its rippling reflection are almost the only warm notes; strip out the colour and the sun nearly vanishes into the grey sky.",
+      "es": "El sol anaranjado y su reflejo ondulante son casi las únicas notas cálidas; si se quita el color, el sol casi desaparece en el cielo gris."
+    },
+    {
+      "en": "The critic Louis Leroy took the title as an insult and headed his scornful review 'Exhibition of the Impressionists'; the name stuck.",
+      "es": "El crítico Louis Leroy tomó el título como un insulto y tituló su reseña burlona 'Exposición de los impresionistas'; el nombre cuajó."
+    },
+    {
+      "en": "Faint in the mist behind the boats stand the cranes, masts and smoking funnels of a busy modern industrial port.",
+      "es": "Apenas visibles en la bruma, tras los botes, se alzan las grúas, los mástiles y las chimeneas humeantes de un puerto industrial y moderno."
+    }
+  ]
+}

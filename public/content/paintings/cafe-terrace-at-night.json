@@ -1,0 +1,64 @@
+{
+  "id": "cafe-terrace-at-night",
+  "title": {
+    "en": "Café Terrace at Night",
+    "es": "Terraza de café por la noche"
+  },
+  "artist": "Vincent van Gogh",
+  "year": 1888,
+  "movement": "post-impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "80.7 x 65.3 cm",
+  "location": {
+    "museum": "Kröller-Müller Museum",
+    "city": "Otterlo"
+  },
+  "image": {
+    "src": "img/cafe-terrace-at-night.webp",
+    "width": 1298,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AVincent_van_Gogh%2C_Caf%C3%A9_Terrace_at_Night%2C_1888._Painting_inside_the_Kroller_Muller_Museum_-_panoramio.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A café spills yellow light across a cobbled square in Arles. Under an awning, tables and a white-aproned waiter glow gold, while customers linger. Beyond, a blue street recedes past shuttered houses, and above it all a deep blue sky is scattered with oversized, blazing stars. No one hurries.",
+      "craft": "The whole picture runs on one contrast: the warm gas-lit terrace against the cold star-filled night. Van Gogh used no black at all, building the dark from deep blues and greens. Thick, directional strokes shape the cobbles and the awning, and the yellows seem to throw real light into the square.",
+      "painter": "In Arles in September 1888, Van Gogh was painting the night obsessively, working outdoors after dark by gaslight. He set up his easel on the Place du Forum and told his sister he found the night more alive and richly coloured than the day. This was his first starry sky.",
+      "point": "Van Gogh proves that night need not be painted in darkness. Light, warmth and human company are set against the vast indifferent sky, and the ordinary café becomes a refuge."
+    },
+    "es": {
+      "scene": "Un café derrama luz amarilla sobre una plaza empedrada de Arlés. Bajo un toldo, las mesas y un camarero de delantal blanco brillan dorados mientras los clientes se demoran. Más allá, una calle azul se aleja entre casas con las contraventanas cerradas, y sobre todo ello un cielo azul profundo se salpica de estrellas enormes y ardientes. Nadie tiene prisa.",
+      "craft": "Todo el cuadro se sostiene en un contraste: la cálida terraza iluminada por gas frente a la fría noche llena de estrellas. Van Gogh no usó nada de negro y construyó la oscuridad con azules y verdes profundos. Pinceladas gruesas y direccionales moldean los adoquines y el toldo, y los amarillos parecen arrojar luz real sobre la plaza.",
+      "painter": "En Arlés, en septiembre de 1888, Van Gogh pintaba la noche de forma obsesiva, trabajando al aire libre después del anochecer a la luz del gas. Plantó su caballete en la plaza del Forum y le contó a su hermana que la noche le parecía más viva y de color más rico que el día. Fue su primer cielo estrellado.",
+      "point": "Van Gogh demuestra que la noche no tiene por qué pintarse a oscuras. La luz, el calor y la compañía humana se enfrentan al cielo inmenso e indiferente, y el café corriente se vuelve un refugio."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "It was the first painting in which Van Gogh depicted a starry sky, made weeks before the more famous Starry Night over the Rhône and the following year's Starry Night.",
+    "es": "Fue el primer cuadro en el que Van Gogh representó un cielo estrellado, hecho semanas antes de la más célebre Noche estrellada sobre el Ródano y de la Noche estrellada del año siguiente."
+  },
+  "tags": [
+    "post-impressionism",
+    "night",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "Van Gogh used no black anywhere; the night sky is built entirely from blues, greens and the glow of the stars.",
+      "es": "Van Gogh no usó negro en ninguna parte; el cielo nocturno está construido enteramente con azules, verdes y el resplandor de las estrellas."
+    },
+    {
+      "en": "Astronomers have matched the star pattern to the real sky over Arles on 16 or 17 September 1888.",
+      "es": "Los astrónomos han hecho coincidir el patrón de estrellas con el cielo real sobre Arlés del 16 o 17 de septiembre de 1888."
+    },
+    {
+      "en": "The café still stands on the Place du Forum in Arles, repainted yellow to match the picture.",
+      "es": "El café todavía se alza en la plaza del Forum de Arlés, repintado de amarillo para parecerse al cuadro."
+    }
+  ]
+}

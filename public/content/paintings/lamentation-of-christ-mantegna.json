@@ -1,0 +1,64 @@
+{
+  "id": "lamentation-of-christ-mantegna",
+  "title": {
+    "en": "Lamentation of Christ",
+    "es": "Cristo muerto"
+  },
+  "artist": "Andrea Mantegna",
+  "year": 1480,
+  "movement": "early-renaissance",
+  "medium": {
+    "en": "Tempera on canvas",
+    "es": "Temple sobre lienzo"
+  },
+  "dimensions": "68 x 81 cm",
+  "location": {
+    "museum": "Pinacoteca di Brera",
+    "city": "Milan"
+  },
+  "image": {
+    "src": "img/lamentation-of-christ-mantegna.webp",
+    "width": 1600,
+    "height": 1357,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AThe_dead_Christ_with_three_mourners_(by_Andrea_Mantegna)_%E2%80%93_Pinacoteca_di_Brera.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Christ's dead body lies on a marble slab, seen from the soles of his feet, so his frame rushes away from us in violent foreshortening. The nail wounds gape in his feet and hands. At the left, cropped by the edge, the weeping faces of the Virgin, Saint John and Mary Magdalene press in.",
+      "craft": "The whole picture is one daring perspective trick. Mantegna actually shrinks the feet, which would otherwise block the body, and drives the corpse straight at us down the slab. Cold, stone-grey colour and hard, sculptural folds turn flesh to carved marble and make the wounds unbearably present.",
+      "painter": "Mantegna spent decades as court painter to the Gonzaga in Mantua, famous for his hard, sculptural line and command of perspective. This small panel was found in his studio when he died in 1506, unsold; some think he kept it for his own tomb. Its date is still debated.",
+      "point": "It refuses to idealise death: the Saviour is a real, heavy, pierced corpse on a slab, and we are made to stand at his feet like mourners."
+    },
+    "es": {
+      "scene": "El cuerpo de Cristo yace sobre una losa de mármol, visto desde las plantas de los pies, y su figura se precipita hacia el fondo en escorzo violento. Las heridas de los clavos se abren en pies y manos. A la izquierda, cortados por el borde, se agolpan los rostros llorosos de la Virgen, san Juan y la Magdalena.",
+      "craft": "Todo el cuadro es un audaz truco de perspectiva. Mantegna reduce a propósito los pies, que si no taparían el cuerpo, y lanza el cadáver directo hacia nosotros por la losa. El color gris piedra, frío, y los pliegues duros y escultóricos vuelven la carne mármol tallado y hacen los estigmas insoportablemente presentes.",
+      "painter": "Mantegna pasó décadas como pintor de corte de los Gonzaga en Mantua, célebre por su línea dura y escultórica y su dominio de la perspectiva. Esta pequeña tabla se halló en su taller al morir él en 1506, sin vender; hay quien cree que la reservaba para su propia tumba. Su fecha aún se discute.",
+      "point": "Se niega a idealizar la muerte: el Salvador es un cadáver real, pesado y traspasado sobre una losa, y a nosotros nos coloca a sus pies, como a los dolientes."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "To keep the feet from blocking the whole body, Mantegna cheated his own perspective and painted them smaller than they should be, a flaw he judged less important than the emotional force.",
+    "es": "Para que los pies no taparan todo el cuerpo, Mantegna hizo trampa con su propia perspectiva y los pintó más pequeños de lo debido, un defecto que juzgó menos importante que la fuerza emocional."
+  },
+  "tags": [
+    "early-renaissance",
+    "religious scene",
+    "15th century"
+  ],
+  "notables": [
+    {
+      "en": "Mantegna deliberately painted the feet smaller than true perspective demands, so they would not hide the rest of the body.",
+      "es": "Mantegna pintó a propósito los pies más pequeños de lo que exige la perspectiva real, para que no ocultaran el resto del cuerpo."
+    },
+    {
+      "en": "The nail holes in the hands and feet are painted as ragged, torn wounds, level with the viewer's eye.",
+      "es": "Los agujeros de los clavos en manos y pies están pintados como heridas desgarradas, a la altura de la mirada."
+    },
+    {
+      "en": "A small marble jar of ointment sits beside the body, ready for anointing the dead Christ.",
+      "es": "Un pequeño tarro de mármol con ungüento reposa junto al cuerpo, listo para ungir a Cristo muerto."
+    }
+  ]
+}

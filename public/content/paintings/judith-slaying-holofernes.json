@@ -1,0 +1,64 @@
+{
+  "id": "judith-slaying-holofernes",
+  "title": {
+    "en": "Judith Slaying Holofernes",
+    "es": "Judit decapitando a Holofernes (Gentileschi)"
+  },
+  "artist": "Artemisia Gentileschi",
+  "year": 1620,
+  "movement": "baroque",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "162 x 199 cm",
+  "location": {
+    "museum": "Galleria degli Uffizi",
+    "city": "Florence"
+  },
+  "image": {
+    "src": "img/judith-slaying-holofernes.webp",
+    "width": 1301,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AArtemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project-Adjust.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Two young women hold a powerful man down on his bed and behead him. Judith, sleeves pushed up, presses his head back and drives the sword through his throat while her maid pins his flailing arm. Holofernes struggles, blood spilling in dark ribbons over the white sheets. The three bodies lock together in one violent effort.",
+      "craft": "Gentileschi builds the scene as a tight, muscular machine of arms and blade, lit by a hard Caravaggesque light against deep shadow. Unlike earlier versions, both women work as equals, braced and straining. The blood spatters realistically upward and across, and the strong diagonals pull every force towards the sword at the centre.",
+      "painter": "Artemisia was the finest woman painter of her age, trained by her father Orazio. Aged seventeen she had been raped by his colleague Agostino Tassi, and tortured with thumbscrews during his trial to test her testimony. She painted this in Florence, where she became the first woman admitted to the drawing academy.",
+      "point": "A woman's revenge, painted by a woman. Gentileschi makes the killing a shared act of strength and will, refusing to soften it, and stakes her own hard experience on the picture."
+    },
+    "es": {
+      "scene": "Dos mujeres jóvenes sujetan a un hombre poderoso sobre su cama y lo decapitan. Judit, con las mangas remangadas, le echa atrás la cabeza y hunde la espada en su garganta mientras la criada le inmoviliza el brazo. Holofernes forcejea y la sangre cae en cintas oscuras sobre las sábanas blancas. Los tres cuerpos se traban en el esfuerzo.",
+      "craft": "Gentileschi arma la escena como una máquina tensa y musculosa de brazos y hoja, iluminada por una luz caravaggesca y dura contra la sombra profunda. A diferencia de versiones anteriores, ambas mujeres trabajan como iguales, afianzadas y en tensión. La sangre salpica de forma realista hacia arriba, y las diagonales fuertes llevan toda la fuerza a la espada central.",
+      "painter": "Artemisia fue la mejor pintora de su tiempo, formada por su padre Orazio. A los diecisiete la violó un colega de él, Agostino Tassi, y en el juicio la torturaron con empulgueras para probar su testimonio. Pintó esta obra en Florencia, donde fue la primera mujer admitida en la academia de dibujo.",
+      "point": "La venganza de una mujer, pintada por una mujer. Gentileschi hace del crimen un acto compartido de fuerza y voluntad, sin suavizarlo, y pone su propia experiencia dura en el cuadro."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Judith's gold bracelet is set with tiny images of the goddess Artemis, a signature hidden in the ornament: Artemis is the root of the painter's name, Artemisia.",
+    "es": "El brazalete dorado de Judit lleva imágenes diminutas de la diosa Artemisa, una firma escondida en el adorno: Artemisa es la raíz del nombre de la pintora, Artemisia."
+  },
+  "tags": [
+    "baroque",
+    "biblical",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "Judith wears a bracelet set with cameos of the goddess Artemis, a hidden play on the painter's own name, Artemisia.",
+      "es": "Judit lleva un brazalete con camafeos de la diosa Artemisa, un juego oculto con el propio nombre de la pintora, Artemisia."
+    },
+    {
+      "en": "Unlike Caravaggio's passive old servant, the maid here is young and strong, throwing her weight into holding the victim.",
+      "es": "A diferencia de la vieja criada pasiva de Caravaggio, aquí la sirvienta es joven y fuerte, y vuelca su peso en sujetar a la víctima."
+    },
+    {
+      "en": "Blood spurts up and along Judith's arm and across the sheets, studied with unflinching realism.",
+      "es": "La sangre salpica por el brazo de Judit y sobre las sábanas, estudiada con un realismo implacable."
+    }
+  ]
+}

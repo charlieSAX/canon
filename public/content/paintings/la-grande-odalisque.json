@@ -1,0 +1,64 @@
+{
+  "id": "la-grande-odalisque",
+  "title": {
+    "en": "La Grande Odalisque",
+    "es": "La gran odalisca"
+  },
+  "artist": "Jean-Auguste-Dominique Ingres",
+  "year": 1814,
+  "movement": "neoclassicism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "91 x 162 cm",
+  "location": {
+    "museum": "Musée du Louvre",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/la-grande-odalisque.webp",
+    "width": 1600,
+    "height": 1073,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALa_Grande_Odalisque_-_Jean-Auguste-Dominique_Ingres_-_Mus%C3%A9e_du_Louvre_Peintures_RF_1158_-_avec_cadre.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A reclining nude turns her back to us in a shadowy harem chamber, glancing over her shoulder with cool composure. She holds a peacock-feather fan, a jewelled turban on her head. A pipe for opium and a curtain of heavy blue silk frame the long, pale sweep of her body.",
+      "craft": "Ingres draws before he paints: the contour is everything, a single unbroken line traced for beauty rather than truth. He lengthened her spine, widening the hips and smoothing the flesh into cool porcelain. Colour stays subdued and enamel-smooth, the brushwork invisible, so nothing interrupts that serpentine silhouette.",
+      "painter": "The picture was commissioned by Caroline Murat, Queen of Naples and Napoleon's sister, who fell from power before she could collect it. Ingres was in his thirties, working in Rome, defiantly out of step with fashion. He staked everything on line over colour, and prized the pure contour above anatomy, a conviction critics mocked when the work reached Paris.",
+      "point": "A Western fantasy of the harem, painted for European eyes: Ingres bends anatomy itself to the demands of beauty, insisting that the perfect line matters more than the truthful body."
+    },
+    "es": {
+      "scene": "Un desnudo reclinado nos da la espalda en una alcoba de harén en penumbra y mira por encima del hombro con serena frialdad. Sostiene un abanico de plumas de pavo real y lleva un turbante enjoyado. Una pipa de opio y una cortina de pesada seda azul enmarcan el largo y pálido recorrido de su cuerpo.",
+      "craft": "Ingres dibuja antes de pintar: el contorno lo es todo, una única línea continua trazada por belleza más que por verdad. Alargó la columna, ensanchó las caderas y suavizó la carne hasta convertirla en porcelana fría. El color permanece apagado y liso como esmalte, la pincelada invisible, para que nada interrumpa esa silueta sinuosa.",
+      "painter": "Lo encargó Carolina Murat, reina de Nápoles y hermana de Napoleón, pero cayó del poder antes de recogerlo. Ingres, de poco más de treinta años, trabajaba en Roma a contracorriente de la moda. Lo apostó todo a la línea sobre el color y antepuso el contorno a la anatomía, algo que la crítica censuró en París.",
+      "point": "Una fantasía occidental del harén, pintada para ojos europeos: Ingres dobla la anatomía misma a las exigencias de la belleza e insiste en que la línea perfecta importa más que el cuerpo verídico."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "When it was shown at the Paris Salon of 1819, critics complained that Ingres had given the odalisque three vertebrae too many; the distortion was deliberate, drawn to lengthen her sensual curve.",
+    "es": "Cuando se expuso en el Salón de París de 1819, la crítica se quejó de que Ingres había dado a la odalisca tres vértebras de más; la distorsión era deliberada, trazada para alargar su curva sensual."
+  },
+  "tags": [
+    "neoclassicism",
+    "nude",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "Critics counted three extra vertebrae in her impossibly long back; later study suggested closer to five.",
+      "es": "La crítica contó tres vértebras de más en su espalda imposiblemente larga; estudios posteriores sugieren que son casi cinco."
+    },
+    {
+      "en": "The peacock fan, jewelled turban and opium pipe stage an imagined East for the Paris salon.",
+      "es": "El abanico de pavo real, el turbante enjoyado y la pipa de opio escenifican un Oriente imaginado para el salón parisino."
+    },
+    {
+      "en": "Her nearer arm seems boneless, elongated to keep the outline flowing unbroken.",
+      "es": "El brazo más cercano parece sin huesos, alargado para mantener el contorno fluyendo sin cortes."
+    }
+  ]
+}

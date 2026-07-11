@@ -1,0 +1,68 @@
+{
+  "id": "magdalene-with-the-smoking-flame",
+  "title": {
+    "en": "Magdalene with the Smoking Flame",
+    "es": "Magdalena de la llama humeante"
+  },
+  "artist": "Georges de La Tour",
+  "year": 1640,
+  "movement": "baroque",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "117 x 92 cm",
+  "location": {
+    "museum": "Los Angeles County Museum of Art",
+    "city": "Los Angeles"
+  },
+  "image": {
+    "src": "img/magdalene-with-the-smoking-flame.webp",
+    "width": 1255,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File:Georges_de_La_Tour_-_The_Magdalen_with_the_Smoking_Flame_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "In deep darkness a young woman sits alone, seen in profile, her head bowed and resting on one hand. In her lap lies a human skull, her fingers laid upon it. Before her a single candle burns in a glass, its flame trailing a thin ribbon of smoke into the dark.",
+      "craft": "La Tour paints almost nothing but the candle and what it touches. One warm flame carves the woman out of blackness, glowing through her fingers and along the curve of the skull, while everything else sinks away. Forms are simplified to smooth planes, and the smoking wick makes light itself feel fragile and passing.",
+      "painter": "La Tour worked in Lorraine, in eastern France, and grew rich and locally powerful in his lifetime before being almost entirely forgotten for two centuries. He was rediscovered only in the twentieth century. His candlelit night scenes, quiet and stripped bare, are now seen as among the most original religious paintings of the age.",
+      "point": "It shows Mary Magdalene renouncing worldly life, meditating on death by candlelight. The subject is not drama but stillness: a soul turning inward, weighing a skull against a flame."
+    },
+    "es": {
+      "scene": "En una profunda oscuridad, una mujer joven se sienta sola, vista de perfil, con la cabeza inclinada y apoyada en una mano. En su regazo reposa una calavera humana, con los dedos posados sobre ella. Ante ella arde una sola vela en un vaso, cuya llama deja un fino hilo de humo en la penumbra.",
+      "craft": "La Tour no pinta nada salvo la vela y lo que toca. Una sola llama cálida recorta a la mujer de la negrura, brilla a través de sus dedos y por la curva de la calavera, mientras el resto se hunde. Las formas se reducen a planos lisos, y la mecha humeante hace que la luz parezca frágil y pasajera.",
+      "painter": "La Tour trabajó en Lorena, al este de Francia, y en vida llegó a ser rico y poderoso antes de caer casi por completo en el olvido durante dos siglos. No fue redescubierto hasta el siglo XX. Sus escenas nocturnas a la luz de una vela, silenciosas y despojadas, están entre las pinturas religiosas más originales de su tiempo.",
+      "point": "Muestra a María Magdalena renunciando a la vida mundana, meditando sobre la muerte a la luz de una vela. El tema no es el drama, sino la quietud: un alma que sopesa una calavera frente a una llama."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Georges de La Tour was so completely forgotten after his death that his name vanished from art history until the early twentieth century, when scholars pieced his work back together.",
+    "es": "Georges de La Tour cayó en un olvido tan completo tras su muerte que su nombre desapareció de la historia del arte hasta comienzos del siglo XX, cuando los estudiosos reconstruyeron su obra."
+  },
+  "tags": [
+    "baroque",
+    "vanitas",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "The skull in her lap is a memento mori, a reminder that death waits for everyone.",
+      "es": "La calavera en su regazo es un memento mori, un recuerdo de que la muerte aguarda a todos."
+    },
+    {
+      "en": "The candle's smoking flame, which gives the painting its name, marks time burning away.",
+      "es": "La llama humeante de la vela, que da nombre al cuadro, señala el tiempo que se consume."
+    },
+    {
+      "en": "Books of Scripture and a knotted scourge lie nearby, tools of penance and study.",
+      "es": "Cerca reposan libros de las Escrituras y un cilicio anudado, instrumentos de penitencia y estudio."
+    },
+    {
+      "en": "Her plain white blouse and red skirt are almost the only colours the candlelight allows.",
+      "es": "Su sencilla blusa blanca y su falda roja son casi los únicos colores que permite la luz de la vela."
+    }
+  ]
+}

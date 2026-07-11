@@ -1,0 +1,64 @@
+{
+  "id": "the-birth-of-venus",
+  "title": {
+    "en": "The Birth of Venus",
+    "es": "El nacimiento de Venus"
+  },
+  "artist": "Sandro Botticelli",
+  "year": 1485,
+  "movement": "early-renaissance",
+  "medium": {
+    "en": "Tempera on canvas",
+    "es": "Temple sobre lienzo"
+  },
+  "dimensions": "172.5 x 278.5 cm",
+  "location": {
+    "museum": "Galleria degli Uffizi",
+    "city": "Florence"
+  },
+  "image": {
+    "src": "img/the-birth-of-venus.webp",
+    "width": 1600,
+    "height": 1005,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Venus stands nude on a giant scallop shell, drifting to shore on the sea. At the left, the winged wind god Zephyr, entwined with a nymph, blows her landward on a shower of roses. At the right a waiting attendant, one of the Hours, steps forward to wrap her in a flowered cloak.",
+      "craft": "Botticelli draws with line rather than shadow: Venus is built from long, flowing contours, her body gently elongated for grace over anatomy. Painted in thin tempera on canvas, the surface stays pale and matt, and threads of gold lift her hair, the shell and the wings to a soft glow.",
+      "painter": "Botticelli worked at the heart of Medici Florence, steeped in the Neoplatonic circle around Lorenzo the Magnificent, who read pagan beauty as a ladder to the divine. Painted around 1485, probably for a Medici cousin, this is the first monumental nude of a goddess since antiquity.",
+      "point": "It brings the pagan goddess of love back into art on a grand scale, treating physical beauty as a glimpse of something divine rather than a sin."
+    },
+    "es": {
+      "scene": "Venus, desnuda, se yergue sobre una enorme concha que la lleva a la orilla sobre el mar. A la izquierda, el alado dios del viento Céfiro, enlazado con una ninfa, la empuja hacia tierra entre una lluvia de rosas. A la derecha, una de las Horas se adelanta para envolverla en un manto florido.",
+      "craft": "Botticelli dibuja con la línea más que con la sombra: Venus se construye con contornos largos y fluidos, con el cuerpo algo alargado, buscando la gracia antes que la anatomía. Pintada en fino temple sobre lienzo, la superficie queda pálida y mate, y unos hilos de oro realzan el cabello, la concha y las alas.",
+      "painter": "Botticelli trabajaba en el corazón de la Florencia de los Medici, inmerso en el círculo neoplatónico de Lorenzo el Magnífico, que leía la belleza pagana como una escala hacia lo divino. Pintada hacia 1485, seguramente para un primo de los Medici, es el primer desnudo monumental de una diosa desde la Antigüedad.",
+      "point": "Devuelve al arte, a gran escala, a la diosa pagana del amor, y trata la belleza física como atisbo de algo divino y no como pecado."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "It was among the first large canvases in Renaissance Italy to show a fully nude woman who was not Eve, reviving a subject art had avoided for a thousand years.",
+    "es": "Fue de los primeros lienzos grandes del Renacimiento italiano en mostrar a una mujer completamente desnuda que no era Eva, recuperando un tema que el arte había evitado durante mil años."
+  },
+  "tags": [
+    "early-renaissance",
+    "mythology",
+    "15th century"
+  ],
+  "notables": [
+    {
+      "en": "Venus stands in a slightly impossible balance, weight off-centre and neck too long, poise chosen over correct anatomy.",
+      "es": "Venus se mantiene en un equilibrio algo imposible, con el peso descentrado y el cuello demasiado largo: la elegancia antes que la anatomía correcta."
+    },
+    {
+      "en": "Gold was used as a pigment throughout, on the hair, wings and shell, added after the canvas was framed.",
+      "es": "Se empleó oro como pigmento en todo el cuadro, en el cabello, las alas y la concha, añadido tras enmarcar el lienzo."
+    },
+    {
+      "en": "Every falling rose has a golden heart, scattering as the winds blow the goddess towards the land.",
+      "es": "Cada rosa que cae tiene el corazón dorado y se dispersa mientras los vientos empujan a la diosa hacia la tierra."
+    }
+  ]
+}

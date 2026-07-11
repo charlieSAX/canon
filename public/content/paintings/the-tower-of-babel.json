@@ -1,0 +1,68 @@
+{
+  "id": "the-tower-of-babel",
+  "title": {
+    "en": "The Tower of Babel",
+    "es": "La torre de Babel"
+  },
+  "artist": "Pieter Bruegel the Elder",
+  "year": 1563,
+  "movement": "northern-renaissance",
+  "medium": {
+    "en": "Oil on panel",
+    "es": "Óleo sobre tabla"
+  },
+  "dimensions": "114 x 155 cm",
+  "location": {
+    "museum": "Kunsthistorisches Museum",
+    "city": "Vienna"
+  },
+  "image": {
+    "src": "img/the-tower-of-babel.webp",
+    "width": 1600,
+    "height": 1171,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project_-_edited.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A vast spiral tower climbs into low cloud on the edge of a Flemish harbour, its ringed tiers of arches half brick, half dressed stone. Tiny cranes, ladders and workers swarm every level. In the foreground a crowned king inspects the site while stonemasons kneel before him, and a busy port crowds the base.",
+      "craft": "Bruegel maps the whole enterprise like an engineer, stacking arch upon arch in a Colosseum spiral he had studied in Rome. Aerial perspective fades the far tiers to grey, and hundreds of figures, each a few brushstrokes, give the scale. Look closely and the mountain of masonry already tilts, cracked at its base.",
+      "painter": "Bruegel around 1563: settled in Brussels, married, at the height of his powers, painted for Antwerp collectors. He had crossed the Alps to Italy a decade earlier and never forgot Rome's ruins. Peasant Bruegel made learned pictures for city humanists. It was one of three versions he painted, of which two survive.",
+      "point": "Human ambition, raised against heaven, undoes itself. Bruegel makes the tower magnificent and already doomed, its confusion of tongues written into the leaning stone."
+    },
+    "es": {
+      "scene": "Una inmensa torre en espiral se alza hacia las nubes bajas junto a un puerto flamenco; sus anillos de arcos son mitad ladrillo, mitad piedra tallada. Grúas, escaleras y obreros diminutos pueblan cada nivel. En primer plano, un rey coronado inspecciona la obra mientras los canteros se arrodillan ante él.",
+      "craft": "Bruegel traza toda la empresa como un ingeniero, apilando arco sobre arco en una espiral que recuerda al Coliseo que había estudiado en Roma. La perspectiva aérea difumina los pisos lejanos en gris, y cientos de figuras, cada una de pocas pinceladas, dan la escala. Mirad bien: la mole ya se inclina y se agrieta en la base.",
+      "painter": "Hacia 1563 Bruegel vivía en Bruselas, casado y en plena madurez, pintando para coleccionistas de Amberes. Una década antes había cruzado los Alpes hasta Italia y nunca olvidó las ruinas de Roma. El llamado Bruegel el Campesino hacía cuadros eruditos para humanistas urbanos. Pintó tres versiones de la torre; dos sobreviven.",
+      "point": "La ambición humana, alzada contra el cielo, se derrumba sola. Bruegel hace la torre magnífica y ya condenada, con la confusión de las lenguas escrita en la piedra inclinada."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Bruegel had travelled to Rome and modelled his tower on the Colosseum; he painted the theme three times, and this Vienna panel is the largest and most famous survivor.",
+    "es": "Bruegel había viajado a Roma y modeló su torre sobre el Coliseo; pintó el tema tres veces, y esta tabla vienesa es la superviviente mayor y más famosa."
+  },
+  "tags": [
+    "northern-renaissance",
+    "architecture",
+    "16th century"
+  ],
+  "notables": [
+    {
+      "en": "The whole structure leans slightly left and is already cracking at the base, doomed before it is finished.",
+      "es": "Toda la estructura se inclina un poco a la izquierda y ya se agrieta en la base, condenada antes de terminarse."
+    },
+    {
+      "en": "The crowned figure in the foreground, with masons kneeling to him, is King Nimrod, who commissioned the tower.",
+      "es": "La figura coronada del primer plano, con canteros arrodillados, es el rey Nimrod, que mandó construir la torre."
+    },
+    {
+      "en": "The ringed arches deliberately echo the Roman Colosseum, which Bruegel had seen, a symbol of pride and persecution.",
+      "es": "Los arcos anillados imitan a propósito el Coliseo romano, que Bruegel había visto, símbolo de soberbia y persecución."
+    },
+    {
+      "en": "Clouds already drift across the topmost tiers, showing the tower has climbed past the weather while its base stays unfinished.",
+      "es": "Las nubes ya cruzan los pisos más altos: la torre ha superado el clima mientras su base sigue sin acabar."
+    }
+  ]
+}

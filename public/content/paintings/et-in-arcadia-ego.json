@@ -1,0 +1,64 @@
+{
+  "id": "et-in-arcadia-ego",
+  "title": {
+    "en": "Et in Arcadia Ego",
+    "es": "Los pastores de la Arcadia"
+  },
+  "artist": "Nicolas Poussin",
+  "year": 1638,
+  "movement": "baroque",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "85 x 121 cm",
+  "location": {
+    "museum": "Musée du Louvre",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/et-in-arcadia-ego.webp",
+    "width": 1600,
+    "height": 1140,
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nicolas_Poussin_-_Et_in_Arcadia_ego_(deuxi%C3%A8me_version).jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Three shepherds and a calm, stately woman gather in a golden landscape around a large stone tomb. One shepherd kneels and traces the carved Latin words with his finger, his shadow falling across the stone. The others lean in, puzzled and grave, reading the inscription: Et in Arcadia ego.",
+      "craft": "Poussin builds calm out of geometry. The figures are arranged like a classical frieze, weighed and balanced, gestures slowed almost to stillness. Clear even light, sober earth colours and firm drawing replace Baroque drama with the measured logic of ancient sculpture, so that thought, not action, becomes the true subject.",
+      "painter": "Poussin was a Frenchman who spent most of his life in Rome, steeped in antiquity and Raphael. Learned and austere, he worked slowly for a small circle of cultivated patrons and made this second version for Cardinal Rospigliosi, a future pope. He preferred reason and restraint to the theatrics of his age.",
+      "point": "Even in Arcadia, the perfect pastoral paradise, death is present. The tomb reminds the living that they too will die, turning a golden idyll into a quiet meditation on mortality."
+    },
+    "es": {
+      "scene": "Tres pastores y una mujer serena y majestuosa se reúnen en un paisaje dorado en torno a una gran tumba de piedra. Un pastor se arrodilla y recorre con el dedo las palabras latinas grabadas, mientras su sombra cae sobre la piedra. Los demás se inclinan, perplejos y graves, leyendo la inscripción: Et in Arcadia ego.",
+      "craft": "Poussin construye la calma a partir de la geometría. Las figuras se disponen como un friso clásico, sopesadas y con gestos casi detenidos. Una luz clara y uniforme, colores terrosos y un dibujo firme sustituyen el dramatismo barroco por la lógica de la escultura antigua, de modo que el pensamiento, y no la acción, es el verdadero tema.",
+      "painter": "Poussin era un francés que pasó casi toda su vida en Roma, empapado de la Antigüedad y de Rafael. Erudito y austero, trabajaba despacio para un pequeño círculo de mecenas cultivados e hizo esta segunda versión para el cardenal Rospigliosi, futuro papa. Prefería la razón y la contención a la teatralidad de su época.",
+      "point": "Incluso en la Arcadia, el paraíso pastoril perfecto, la muerte está presente. La tumba recuerda a los vivos que también morirán, y convierte un idilio dorado en una serena meditación sobre la mortalidad."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Et in Arcadia ego means roughly 'Even in Arcadia, I am here.' The 'I' is Death, speaking from the tomb, reminding the shepherds that no paradise escapes it.",
+    "es": "Et in Arcadia ego significa, más o menos, 'Incluso en la Arcadia, estoy yo.' Ese 'yo' es la Muerte, que habla desde la tumba y recuerda a los pastores que ningún paraíso se le escapa."
+  },
+  "tags": [
+    "baroque",
+    "memento mori",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "The Latin inscription, Et in Arcadia ego, is usually read as Death speaking: even here in paradise, I am.",
+      "es": "La inscripción latina, Et in Arcadia ego, suele leerse como la voz de la Muerte: incluso aquí, en el paraíso, estoy yo."
+    },
+    {
+      "en": "The kneeling shepherd's finger traces the letters, casting a shadow that some read as a scythe.",
+      "es": "El dedo del pastor arrodillado recorre las letras y proyecta una sombra que algunos leen como una guadaña."
+    },
+    {
+      "en": "The serene woman may be a shepherdess or a figure of history, unmoved where the men are troubled.",
+      "es": "La mujer serena podría ser una pastora o una figura de la historia, impasible donde los hombres se turban."
+    }
+  ]
+}

@@ -1,10 +1,16 @@
 {
   "id": "wanderer-above-the-sea-of-fog",
-  "title": "Wanderer above the Sea of Fog",
+  "title": {
+    "en": "Wanderer above the Sea of Fog",
+    "es": "Caminante sobre el mar de nubes"
+  },
   "artist": "Caspar David Friedrich",
   "year": 1818,
-  "movement": "Romanticism",
-  "medium": "Oil on canvas",
+  "movement": "romanticism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
   "dimensions": "94.8 x 74.8 cm",
   "location": {
     "museum": "Hamburger Kunsthalle",
@@ -18,15 +24,41 @@
     "license_note": "Public domain. Faithful reproduction of a work by Caspar David Friedrich (died 1840)."
   },
   "text": {
-    "scene": "A man in a dark green coat stands on a spur of rock with his back to us, hair moving in the wind, looking out over a valley drowned in fog. Ridges and crags surface from the white like islands. He has climbed; the picture is what the climb bought him.",
-    "craft": "The turned back is the whole device. Denied his face, you step into his boots, and the landscape becomes something witnessed rather than displayed. Friedrich assembled the view from separate sketches of Saxon rock formations, so the mountain is a composite that exists only in the painting. The horizon sits high, so the fog does the work.",
-    "painter": "Friedrich, born on the Baltic coast, made landscape carry the weight religious painting was losing: fog, ruins, winter trees and lone figures as instruments of longing. Celebrated for a time, he died poor and out of fashion, and was reclaimed a century later as the essential Romantic. Modern painters from Rothko onward have claimed him as kin."
+    "en": {
+      "scene": "A man in a dark green coat stands on a spur of rock with his back to us, hair moving in the wind, looking out over a valley drowned in fog. Ridges and crags surface from the white like islands. He has climbed; the picture is what the climb bought him.",
+      "craft": "The turned back is the whole device. Denied his face, you step into his boots, and the landscape becomes something witnessed rather than displayed. Friedrich assembled the view from separate sketches of Saxon rock formations, so the mountain is a composite that exists only in the painting. The horizon sits high, so the fog does the work.",
+      "painter": "Friedrich, born on the Baltic coast, made landscape carry the weight religious painting was losing: fog, ruins, winter trees and lone figures as instruments of longing. Celebrated for a time, he died poor and out of fashion, and was reclaimed a century later as the essential Romantic. Modern painters from Rothko onward have claimed him as kin.",
+      "point": "The conquered summit becomes uncertainty: looking over the world also means confronting what cannot be seen."
+    },
+    "es": {
+      "scene": "Un hombre con abrigo verde oscuro está de pie sobre una roca, de espaldas, con el pelo movido por el viento, y contempla un valle ahogado en niebla. Crestas y peñascos emergen del blanco como islas. Ha subido hasta allí; el cuadro muestra lo que la ascensión le ha concedido.",
+      "craft": "La espalda vuelta es el recurso decisivo. Al negarte su rostro, entras en sus botas y el paisaje se convierte en experiencia, no en exhibición. Friedrich reunió formaciones rocosas de bocetos distintos, por lo que la montaña solo existe en la pintura. El horizonte alto deja que la niebla haga el trabajo.",
+      "painter": "Friedrich, nacido en la costa báltica, dio al paisaje el peso que perdía la pintura religiosa: niebla, ruinas, árboles invernales y figuras solas como instrumentos del anhelo. Durante un tiempo fue célebre, después murió pobre y olvidado. Un siglo más tarde regresó como la voz esencial del Romanticismo alemán.",
+      "point": "La conquista de la cima se vuelve incertidumbre: contemplar el mundo también significa enfrentarse a lo que no puede verse."
+    }
   },
-  "draft": true,
-  "fact": "The summit view is a fiction: Friedrich sketched the rocks in different corners of the Elbe Sandstone Mountains and stacked them into a mountain that exists nowhere.",
+  "draft": false,
+  "fact": {
+    "en": "The summit view is a fiction: Friedrich sketched the rocks in different corners of the Elbe Sandstone Mountains and stacked them into a mountain that exists nowhere.",
+    "es": "La vista desde la cima es una ficción. Friedrich dibujó rocas en distintos lugares de las montañas de arenisca del Elba y las apiló para crear una montaña inexistente."
+  },
   "tags": [
-    "Romanticism",
+    "romanticism",
     "landscape",
     "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The figure is a Rückenfigur, a back-turned person who invites the viewer inside the scene.",
+      "es": "La figura es un Rückenfigur, un personaje de espaldas que invita al espectador a entrar."
+    },
+    {
+      "en": "Several rock formations come from different real sites in Saxony and Bohemia.",
+      "es": "Varias formaciones rocosas proceden de lugares distintos de Sajonia y Bohemia."
+    },
+    {
+      "en": "The walking stick marks a recent climb, while the polished coat resists easy realism.",
+      "es": "El bastón indica una subida reciente, mientras el abrigo impecable evita un realismo sencillo."
+    }
   ]
 }

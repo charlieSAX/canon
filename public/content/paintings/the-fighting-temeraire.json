@@ -1,0 +1,64 @@
+{
+  "id": "the-fighting-temeraire",
+  "title": {
+    "en": "The Fighting Temeraire",
+    "es": "El temerario remolcado a dique seco"
+  },
+  "artist": "J. M. W. Turner",
+  "year": 1839,
+  "movement": "romanticism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "91 x 122 cm",
+  "location": {
+    "museum": "The National Gallery",
+    "city": "London"
+  },
+  "image": {
+    "src": "img/the-fighting-temeraire.webp",
+    "width": 1600,
+    "height": 1189,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AThe_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A ghostly white warship, sails furled, is towed up the Thames by a squat black steam tug belching fire and smoke. The old sailing ship glows pale and tall against a vast sunset of gold, orange and cool blue. On the right, the sun sinks; a thin crescent moon has already risen on the left.",
+      "craft": "Turner sets warm against cold and past against present. The tug is small, dark and solid; the warship is pale and dissolving, already half a ghost. He piles glazes of yellow and red into the sky, letting the sunset almost burn the ship away, so light itself carries the picture's grief.",
+      "painter": "Turner was in his sixties, the most famous and most eccentric painter in Britain, increasingly dissolving solid form into pure light. He loved this picture above all his others and refused to sell it, keeping it to the end and calling it his darling. He left it to the nation on his death.",
+      "point": "An elegy for the age of sail: a heroic old warship dragged to the scrapyard by a grimy little steam tug, the whole coming industrial age captured in one changing of the guard."
+    },
+    "es": {
+      "scene": "Un fantasmal buque de guerra blanco, con las velas recogidas, es remolcado Támesis arriba por un rechoncho vapor negro que escupe fuego y humo. El viejo velero brilla pálido y alto contra un vasto ocaso de oro, naranja y azul frío. A la derecha se pone el sol; a la izquierda ya ha salido una fina luna creciente.",
+      "craft": "Turner enfrenta lo cálido a lo frío y el pasado al presente. El remolcador es pequeño, oscuro y sólido; el buque de guerra, pálido y disuelto, ya medio fantasma. Acumula veladuras de amarillo y rojo en el cielo y deja que el ocaso casi consuma el barco, de modo que la propia luz carga con el duelo del cuadro.",
+      "painter": "Turner rondaba los sesenta años, el pintor más famoso y excéntrico de Gran Bretaña, cada vez más entregado a disolver la forma sólida en pura luz. Amaba este cuadro por encima de todos los suyos y se negó a venderlo, guardándolo hasta el final y llamándolo su niña querida. Lo legó a la nación a su muerte.",
+      "point": "Una elegía a la era de la vela: un heroico y viejo buque de guerra arrastrado al desguace por un mugriento vaporcito, toda la inminente era industrial resumida en un relevo de la guardia."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "In a 2005 BBC poll the painting was voted the nation's favourite in any British gallery, and since 2020 it has appeared on the Bank of England's twenty pound note.",
+    "es": "En una encuesta de la BBC de 2005 fue votado el cuadro favorito de la nación en cualquier galería británica, y desde 2020 aparece en el billete de veinte libras del Banco de Inglaterra."
+  },
+  "tags": [
+    "romanticism",
+    "ship",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The setting sun on the right and the risen moon on the left mark an ending and echo it.",
+      "es": "El sol que se pone a la derecha y la luna que ha salido a la izquierda marcan un final y lo repiten."
+    },
+    {
+      "en": "Turner took liberties: the real hulk had been stripped of its masts, and he placed the sunset for drama, not geography.",
+      "es": "Turner se tomó libertades: al casco real ya le habían quitado los mástiles, y colocó el ocaso por dramatismo, no por geografía."
+    },
+    {
+      "en": "The tug's tall black funnel puffs fiery smoke, the only vivid, dirty note in a luminous scene.",
+      "es": "La alta chimenea negra del remolcador lanza humo de fuego, la única nota viva y sucia de una escena luminosa."
+    }
+  ]
+}

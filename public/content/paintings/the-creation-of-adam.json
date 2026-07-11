@@ -1,0 +1,64 @@
+{
+  "id": "the-creation-of-adam",
+  "title": {
+    "en": "The Creation of Adam",
+    "es": "La creación de Adán"
+  },
+  "artist": "Michelangelo Buonarroti",
+  "year": 1512,
+  "movement": "high-renaissance",
+  "medium": {
+    "en": "Fresco",
+    "es": "Fresco"
+  },
+  "dimensions": "280 x 570 cm",
+  "location": {
+    "museum": "Sistine Chapel",
+    "city": "Vatican City"
+  },
+  "image": {
+    "src": "img/the-creation-of-adam.webp",
+    "width": 1600,
+    "height": 1097,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMichelangelo_Buonarroti_-_The_Creation_of_Adam%2C_ceiling_(unrestored).jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "On the Sistine Chapel ceiling, a newly formed Adam reclines on a bare hillside, one arm lifted, fingers slack. God rushes in from the right, borne on a billowing cloak crowded with figures, and stretches out his own hand. The two fingers almost meet, a whisper of space left between them.",
+      "craft": "Michelangelo painted straight onto wet plaster, working in daily sections high on the scaffold, so every stroke had to land before it dried. The composition hangs on that untouched gap at the centre, charging empty plaster with all the tension. Adam's languid weight answers God's forward surge across it.",
+      "painter": "Michelangelo took the ceiling in 1508 under pressure from Pope Julius II, and hated it. He thought himself a sculptor, not a painter, and said so. In a poem to a friend he described his goitre, his aching spine, and ended by declaring that he was no painter and this was not his trade.",
+      "point": "It is the moment life passes from creator to creature, staged as the meeting of two hands that never quite touch. The unclosed gap is the whole idea."
+    },
+    "es": {
+      "scene": "En la bóveda de la Capilla Sixtina, un Adán recién creado se reclina en una loma desnuda, con un brazo alzado y los dedos flojos. Dios llega desde la derecha, llevado por un manto henchido y lleno de figuras, y extiende su propia mano. Los dos dedos casi se tocan, con un hueco entre ellos.",
+      "craft": "Miguel Ángel pintó directamente sobre el yeso húmedo, por secciones diarias en lo alto del andamio, de modo que cada trazo debía cuajar antes de secarse. La composición depende de ese hueco intacto del centro, que carga de tensión el yeso vacío. El peso lánguido de Adán responde al impulso de Dios.",
+      "painter": "Miguel Ángel aceptó la bóveda en 1508 presionado por el papa Julio II, y la odió. Se consideraba escultor, no pintor, y lo dijo. En un poema a un amigo describió su bocio y su espalda dolorida, y terminó declarando que no era pintor y que aquel no era su oficio.",
+      "point": "Es el instante en que la vida pasa del creador a la criatura, escenificado como el encuentro de dos manos que nunca llegan a tocarse. El hueco sin cerrar es toda la idea."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "God and Adam are the two most reproduced hands in art, yet their fingertips never meet: Michelangelo left a deliberate gap of bare plaster between them.",
+    "es": "Las manos de Dios y de Adán son las más reproducidas del arte, pero sus dedos nunca se tocan: Miguel Ángel dejó a propósito un hueco de yeso desnudo entre ambos."
+  },
+  "tags": [
+    "high-renaissance",
+    "religious",
+    "16th century"
+  ],
+  "notables": [
+    {
+      "en": "The fingers of God and Adam do not touch; a small charged gap holds the picture's meaning.",
+      "es": "Los dedos de Dios y de Adán no se tocan: un pequeño hueco cargado guarda el sentido del cuadro."
+    },
+    {
+      "en": "Since 1990 many have seen the red cloak behind God as a cross-section of the human brain.",
+      "es": "Desde 1990 muchos ven en el manto rojo tras Dios un corte transversal del cerebro humano."
+    },
+    {
+      "en": "A wistful young woman under God's left arm is often read as Eve, waiting to be made.",
+      "es": "La joven melancólica bajo el brazo izquierdo de Dios suele leerse como Eva, aún por crear."
+    }
+  ]
+}

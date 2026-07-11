@@ -1,0 +1,64 @@
+{
+  "id": "at-the-moulin-rouge",
+  "title": {
+    "en": "At the Moulin Rouge",
+    "es": "En el Moulin Rouge"
+  },
+  "artist": "Henri de Toulouse-Lautrec",
+  "year": 1895,
+  "movement": "post-impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "123 x 141 cm",
+  "location": {
+    "museum": "Art Institute of Chicago",
+    "city": "Chicago"
+  },
+  "image": {
+    "src": "img/at-the-moulin-rouge.webp",
+    "width": 1600,
+    "height": 1399,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AHenri_de_Toulouse-Lautrec_-_At_the_Moulin_Rouge_-_1928.610_-_Art_Institute_of_Chicago.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Inside the Paris dance hall, a group sits around a table under artificial light: top-hatted men and women in evening dress, deep in gossip. A red-haired dancer fixes her hair in the background. In the foreground, cut off by the frame's edge, a woman's face looms, lit an eerie, garish green.",
+      "craft": "Lautrec cuts the scene at steep, photographic angles, a diagonal balustrade slicing across the front and figures sliced by the frame. Flat areas of colour and bold outlines betray his debt to Japanese prints and to poster design. Above all he exploits the harsh electric and gas light for its unnatural greens and oranges.",
+      "painter": "Toulouse-Lautrec, an aristocrat whose legs stopped growing after breaking both as a boy, made the dance halls and brothels of Montmartre his world and his subject. He knew the Moulin Rouge intimately and drank there nightly. He painted its performers as familiar company rather than spectacle, without judgement and without flattery.",
+      "point": "Lautrec shows nightlife from the inside, without romance or moral verdict. Modern entertainment appears as it felt: crowded, artificially lit, glamorous and faintly desolate all at once."
+    },
+    "es": {
+      "scene": "En la sala de baile parisina, un grupo rodea una mesa bajo luz artificial: hombres con sombrero de copa y mujeres de traje de noche, enfrascados en el chismorreo. Al fondo, una bailarina pelirroja se arregla el pelo. En primer plano, cortado por el marco, se cierne el rostro de una mujer, iluminado de un verde espectral y chillón.",
+      "craft": "Lautrec recorta la escena en ángulos abruptos y fotográficos, con una balaustrada diagonal que atraviesa el frente y figuras seccionadas por el marco. Las zonas planas de color y los contornos marcados delatan su deuda con las estampas japonesas y el diseño de carteles. Sobre todo, aprovecha la dura luz eléctrica y de gas por sus verdes y naranjas antinaturales.",
+      "painter": "Toulouse-Lautrec, un aristócrata cuyas piernas dejaron de crecer tras romperse ambas de niño, hizo de las salas de baile y los burdeles de Montmartre su mundo y su tema. Conocía el Moulin Rouge a fondo y bebía allí cada noche. Pintó a sus artistas como compañía cercana y no como espectáculo, sin juicio y sin halago.",
+      "point": "Lautrec muestra la vida nocturna desde dentro, sin romanticismo ni veredicto moral. El entretenimiento moderno aparece tal como se sentía: abarrotado, iluminado artificialmente, glamuroso y ligeramente desolado a la vez."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The jarring green face at the right belongs to the dancer May Milton; the strip of canvas showing her was cut off for years and only later rejoined to the picture.",
+    "es": "El chocante rostro verde de la derecha pertenece a la bailarina May Milton; la franja de lienzo que la muestra estuvo recortada durante años y solo más tarde se volvió a unir al cuadro."
+  },
+  "tags": [
+    "post-impressionism",
+    "nightlife",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The green-faced woman at the right is the dancer May Milton, her features harshly lit by artificial light.",
+      "es": "La mujer de rostro verde a la derecha es la bailarina May Milton, con las facciones duramente iluminadas por la luz artificial."
+    },
+    {
+      "en": "In the background Lautrec painted himself, a short figure walking beside his tall cousin Gabriel Tapié de Céleyran.",
+      "es": "Al fondo, Lautrec se pintó a sí mismo, una figura baja que camina junto a su alto primo Gabriel Tapié de Céleyran."
+    },
+    {
+      "en": "The red-haired woman arranging her hair at the back is the famous cancan dancer La Goulue.",
+      "es": "La mujer pelirroja que se arregla el pelo al fondo es la famosa bailarina de cancán La Goulue."
+    }
+  ]
+}

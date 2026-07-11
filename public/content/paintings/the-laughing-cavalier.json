@@ -1,0 +1,64 @@
+{
+  "id": "the-laughing-cavalier",
+  "title": {
+    "en": "The Laughing Cavalier",
+    "es": "El caballero sonriente"
+  },
+  "artist": "Frans Hals",
+  "year": 1624,
+  "movement": "dutch-golden-age",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "83 x 67 cm",
+  "location": {
+    "museum": "The Wallace Collection",
+    "city": "London"
+  },
+  "image": {
+    "src": "img/the-laughing-cavalier.webp",
+    "width": 1310,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFrans_Hals_%E2%80%93_The_Laughing_Cavalier.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A young man in a wide black hat and a lavishly embroidered doublet turns towards us, one arm cocked on his hip, his elbow jutting into our space. He is not quite laughing; an upturned moustache lifts the corners of a knowing, faintly amused expression as he looks down his nose at the viewer.",
+      "craft": "Hals works with dashing, visible brushwork, especially the slashed and looped embroidery of the sleeve, which dissolves into pure paint up close. The pose is built on a bold diagonal, the jutting elbow and three-quarter turn giving instant life. Cool greys and blacks set off the warm face, caught as if in a single passing instant.",
+      "painter": "Hals worked all his life in Haarlem, the great portraitist of the Dutch Republic's confident merchant class. He was about forty-two here and at the height of his powers, prized for catching a sitter alive rather than posed. He painted fast and rarely left the city, and would die poor decades later, supported by charity.",
+      "point": "It is bravura self-confidence turned into paint: a portrait less about the man's identity, which is lost, than about swagger, status and the sheer pleasure of being looked at."
+    },
+    "es": {
+      "scene": "Un joven con un ancho sombrero negro y un jubón ricamente bordado se gira hacia nosotros, un brazo en jarras, el codo entrando en nuestro espacio. No está riendo del todo; un bigote hacia arriba levanta las comisuras de una expresión cómplice, algo divertida, mientras nos mira por encima del hombro.",
+      "craft": "Hals trabaja con una pincelada suelta y visible, sobre todo en el bordado del brazo, que de cerca se deshace en pura pintura. La pose se construye sobre una diagonal audaz, y el codo saliente junto con el giro de tres cuartos le dan vida inmediata. Grises y negros fríos realzan el rostro cálido, captado como en un instante fugaz.",
+      "painter": "Hals trabajó toda su vida en Haarlem, el gran retratista de la próspera clase mercantil de la República holandesa. Aquí tenía unos cuarenta y dos años y estaba en la cima, valorado por captar al modelo vivo y no posando. Pintaba deprisa, apenas salía de la ciudad y moriría pobre décadas después, sostenido por la caridad.",
+      "point": "Es la seguridad más chulesca convertida en pintura: un retrato menos sobre la identidad del hombre, que se ha perdido, que sobre la fanfarronería, el estatus y el puro placer de ser mirado."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Nobody knows who the Laughing Cavalier is; the sitter's name was never recorded, and the title was invented by the Victorian press some 250 years after Hals painted him.",
+    "es": "Nadie sabe quién es el caballero sonriente; el nombre del retratado nunca se registró, y el título lo inventó la prensa victoriana unos 250 años después de que Hals lo pintara."
+  },
+  "tags": [
+    "dutch-golden-age",
+    "portrait",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "The sitter is not actually laughing; the Victorian public gave the picture its famous title in the 1870s, and it stuck.",
+      "es": "El retratado no está riendo en realidad; el público victoriano dio al cuadro su famoso título en la década de 1870, y así quedó."
+    },
+    {
+      "en": "The sleeve embroidery hides emblems of love: flaming cornucopiae, bees, arrows and lovers' knots, hinting this may be a betrothal portrait.",
+      "es": "El bordado de la manga esconde emblemas de amor: cornucopias en llamas, abejas, flechas y lazos de enamorados, lo que sugiere que puede ser un retrato de compromiso."
+    },
+    {
+      "en": "An inscription top right gives his age, 26, and the year, 1624, though his name was never recorded.",
+      "es": "Una inscripción arriba a la derecha da su edad, 26 años, y el año, 1624, aunque su nombre nunca se registró."
+    }
+  ]
+}

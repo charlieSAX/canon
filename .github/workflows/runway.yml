@@ -12,6 +12,8 @@ permissions:
 jobs:
   runway:
     runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Madrid
     steps:
       - uses: actions/checkout@v4
       - name: Check schedule runway and open an issue if short

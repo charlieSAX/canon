@@ -1,0 +1,68 @@
+{
+  "id": "isle-of-the-dead",
+  "title": {
+    "en": "Isle of the Dead",
+    "es": "La isla de los muertos"
+  },
+  "artist": "Arnold Böcklin",
+  "year": 1883,
+  "movement": "symbolism",
+  "medium": {
+    "en": "Oil on wood",
+    "es": "Óleo sobre tabla"
+  },
+  "dimensions": "80 x 150 cm",
+  "location": {
+    "museum": "Alte Nationalgalerie",
+    "city": "Berlin"
+  },
+  "image": {
+    "src": "img/isle-of-the-dead.webp",
+    "width": 1600,
+    "height": 853,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AArnold_B%C3%B6cklin_-_Die_Toteninsel_III_(Alte_Nationalgalerie%2C_Berlin).jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A small boat glides across still, dark water toward a rocky island. A tall figure stands upright in the bow, wrapped entirely in white, facing a white coffin laid before it. The island rises into a dense grove of black cypresses, walled by steep cliffs pierced with empty burial chambers.",
+      "craft": "Böcklin builds the mood through symmetry and silence. The cypresses form a dark vertical core, framed by pale cliffs and mirrored in glassy water, so the eye is funnelled inward and downward. Warm evening light rakes the rock faces while the figures stay small, letting the architecture of the island carry the dread.",
+      "painter": "Böcklin painted five versions between 1880 and 1886. The series began with a commission from a young widow, Marie Berna, who wanted a picture to dream over; at her prompting he added the shrouded mourner and coffin. He called it a dream image meant to be so still that a knock at the door would startle you.",
+      "point": "It turns death into a place: a silent crossing to an island of the dead that invites contemplation rather than terror, and reads as pure mood before it reads as story."
+    },
+    "es": {
+      "scene": "Una pequeña barca se desliza sobre aguas oscuras y quietas hacia una isla rocosa. Una figura alta y erguida, envuelta por completo en blanco, va en la proa frente a un ataúd blanco. La isla se alza en un espeso bosque de cipreses negros, cercado por acantilados con cámaras funerarias vacías.",
+      "craft": "Böcklin crea el clima con simetría y silencio. Los cipreses forman un núcleo vertical y oscuro, enmarcado por acantilados pálidos y reflejado en el agua lisa, de modo que la mirada se hunde hacia dentro. Una luz cálida roza la roca mientras las figuras diminutas dejan que la isla cargue el temor.",
+      "painter": "Böcklin pintó cinco versiones entre 1880 y 1886. La serie nació de un encargo de una joven viuda, Marie Berna, que quería un cuadro para soñar; por indicación suya añadió el doliente amortajado y el ataúd. Lo llamó una imagen de ensueño, tan quieta que un golpe en la puerta te sobresaltaría.",
+      "point": "Convierte la muerte en un lugar: una travesía silenciosa hacia una isla de los muertos que invita a la contemplación más que al terror, y se lee como puro clima antes que como relato."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Böcklin painted five versions of the scene; the third, shown here, was later owned by Adolf Hitler, who hung it in the Reich Chancellery in Berlin.",
+    "es": "Böcklin pintó cinco versiones de la escena; la tercera, aquí reproducida, perteneció después a Adolf Hitler, que la colgó en la Cancillería del Reich en Berlín."
+  },
+  "tags": [
+    "symbolism",
+    "island",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The upright white figure and the flower-draped coffin in the boat, the only human presence, ferried toward the cliffs.",
+      "es": "La figura blanca erguida y el ataúd cubierto de flores en la barca, única presencia humana rumbo a los acantilados."
+    },
+    {
+      "en": "Dark doorways and windows are cut into the sheer rock, empty tombs waiting in the cliff walls.",
+      "es": "Puertas y ventanas oscuras están talladas en la roca vertical, tumbas vacías que aguardan en los muros del acantilado."
+    },
+    {
+      "en": "Adolf Hitler acquired this third version in 1933 and hung it in the New Reich Chancellery.",
+      "es": "Adolf Hitler adquirió esta tercera versión en 1933 y la colgó en la nueva Cancillería del Reich."
+    },
+    {
+      "en": "The title Isle of the Dead was coined not by Böcklin but by his dealer Fritz Gurlitt in 1883.",
+      "es": "El título La isla de los muertos no lo puso Böcklin, sino su marchante Fritz Gurlitt en 1883."
+    }
+  ]
+}

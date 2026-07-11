@@ -1,0 +1,163 @@
+{
+  "proto-renaissance": {
+    "name": { "en": "Proto-Renaissance", "es": "Protorrenacimiento" },
+    "blurb": {
+      "en": "Around 1300 in Italy, painters led by Giotto broke with the flat, golden formulas of Byzantine art. Figures gained weight, faces gained grief and tenderness, and pictures became stages for human feeling. Everything the Renaissance built stands on this turn.",
+      "es": "Hacia 1300, en Italia, pintores encabezados por Giotto rompieron con las fórmulas planas y doradas del arte bizantino. Las figuras ganaron peso, los rostros dolor y ternura, y el cuadro se volvió un escenario del sentimiento humano. Todo el Renacimiento se apoya en este giro."
+    }
+  },
+  "early-renaissance": {
+    "name": { "en": "Early Renaissance", "es": "Primer Renacimiento" },
+    "blurb": {
+      "en": "Fifteenth-century Florence rediscovered perspective, anatomy and the art of antiquity. Painters treated the picture as a window built on mathematics, yet kept a linear grace and storytelling clarity. Piety and pagan myth began to share the same walls.",
+      "es": "La Florencia del siglo XV redescubrió la perspectiva, la anatomía y el arte antiguo. Los pintores trataron el cuadro como una ventana construida con matemáticas, sin perder la gracia lineal ni la claridad narrativa. La piedad y el mito pagano empezaron a compartir las mismas paredes."
+    }
+  },
+  "early-netherlandish": {
+    "name": { "en": "Early Netherlandish", "es": "Primitivos flamencos" },
+    "blurb": {
+      "en": "In the rich trading cities of Flanders, painters perfected oil glazes that caught light inside the paint. The result was near-microscopic detail, jewel colour and a taste for hiding meaning in everyday objects: a candle, a mirror, a pair of shoes.",
+      "es": "En las ricas ciudades comerciales de Flandes se perfeccionaron las veladuras al óleo, que atrapan la luz dentro de la pintura. El resultado: un detalle casi microscópico, colores de joya y el gusto por esconder significados en objetos cotidianos: una vela, un espejo, unos zapatos."
+    }
+  },
+  "high-renaissance": {
+    "name": { "en": "High Renaissance", "es": "Alto Renacimiento" },
+    "blurb": {
+      "en": "For a few decades around 1500, Leonardo, Michelangelo and Raphael pushed balance, anatomy and idealised beauty to a point Europe treated as perfection for four centuries. Compositions resolve into calm geometry; figures carry both grandeur and inner life.",
+      "es": "Durante unas décadas en torno a 1500, Leonardo, Miguel Ángel y Rafael llevaron el equilibrio, la anatomía y la belleza idealizada a un punto que Europa consideró la perfección durante cuatro siglos. Las composiciones se resuelven en geometría serena; las figuras unen grandeza y vida interior."
+    }
+  },
+  "venetian-renaissance": {
+    "name": { "en": "Venetian Renaissance", "es": "Renacimiento veneciano" },
+    "blurb": {
+      "en": "Venice answered Florentine drawing with colour and atmosphere. Titian and his circle built pictures from layered oil on canvas, letting warm flesh, weather and twilight do the work of line. Sensuous, painterly, and the direct ancestor of Rubens and Velázquez.",
+      "es": "Venecia respondió al dibujo florentino con color y atmósfera. Tiziano y su círculo construían los cuadros con capas de óleo sobre lienzo, dejando que la carne cálida, el clima y el crepúsculo hicieran el trabajo de la línea. Sensual, pictórico y antecesor directo de Rubens y Velázquez."
+    }
+  },
+  "northern-renaissance": {
+    "name": { "en": "Northern Renaissance", "es": "Renacimiento nórdico" },
+    "blurb": {
+      "en": "North of the Alps, Renaissance ideas met Gothic intensity and the new medium of print. Dürer, Holbein and Bruegel combined obsessive surface detail with moral seriousness: portraits that read like documents, landscapes and proverbs that read like sermons.",
+      "es": "Al norte de los Alpes, las ideas renacentistas se cruzaron con la intensidad gótica y la imprenta. Durero, Holbein y Bruegel unieron un detalle obsesivo con seriedad moral: retratos que se leen como documentos, paisajes y proverbios que se leen como sermones."
+    }
+  },
+  "mannerism": {
+    "name": { "en": "Mannerism", "es": "Manierismo" },
+    "blurb": {
+      "en": "After perfection, exaggeration. Late sixteenth-century painters stretched necks, twisted poses, sharpened colours and crowded space, prizing elegance and strangeness over balance. In El Greco the style turns spiritual: bodies become flames reaching upward.",
+      "es": "Tras la perfección, la exageración. A finales del siglo XVI se alargaron los cuellos, se retorcieron las poses y se agudizaron los colores, prefiriendo la elegancia y la extrañeza al equilibrio. En El Greco el estilo se vuelve espiritual: los cuerpos son llamas que ascienden."
+    }
+  },
+  "baroque": {
+    "name": { "en": "Baroque", "es": "Barroco" },
+    "blurb": {
+      "en": "The seventeenth century painted with theatre lights. Deep shadow against raking light, diagonal compositions, saints and sinners caught mid-gesture: art built to seize you bodily, whether for the Counter-Reformation church or a king's private rooms.",
+      "es": "El siglo XVII pintó con luces de teatro. Sombras profundas contra luz rasante, composiciones en diagonal, santos y pecadores sorprendidos en pleno gesto: un arte hecho para atraparte físicamente, al servicio de la iglesia contrarreformista o de las cámaras de un rey."
+    }
+  },
+  "dutch-golden-age": {
+    "name": { "en": "Dutch Golden Age", "es": "Siglo de Oro holandés" },
+    "blurb": {
+      "en": "A Protestant merchant republic wanted no altarpieces, so painters sold what people knew: streets, skies, kitchens, faces, the sea. Ordinary life became a subject worthy of genius, and light on a wall or a jug of milk carried the weight once given to angels.",
+      "es": "Una república mercantil y protestante no quería retablos, así que los pintores vendían lo conocido: calles, cielos, cocinas, rostros, el mar. La vida corriente se volvió digna del genio, y la luz sobre un muro o una jarra de leche cargó con el peso antes reservado a los ángeles."
+    }
+  },
+  "rococo": {
+    "name": { "en": "Rococo", "es": "Rococó" },
+    "blurb": {
+      "en": "The eighteenth century at play: silk, gardens, flirtation and powdered artifice, painted with feathery touch and sugared colour. Pleasure is the subject and often the warning; beneath the swings and picnics, time is always running out.",
+      "es": "El siglo XVIII jugando: seda, jardines, coqueteo y artificio empolvado, pintados con toque de pluma y color azucarado. El placer es el tema y a menudo la advertencia; bajo los columpios y las meriendas, el tiempo siempre se acaba."
+    }
+  },
+  "neoclassicism": {
+    "name": { "en": "Neoclassicism", "es": "Neoclasicismo" },
+    "blurb": {
+      "en": "Against Rococo froth, a return to Roman severity: hard drawing, shallow stage-like space, moral subjects delivered like oaths. In David's hands it became the house style of the French Revolution and then of Napoleon's propaganda machine.",
+      "es": "Contra la espuma rococó, un regreso a la severidad romana: dibujo firme, espacio de escenario, temas morales pronunciados como juramentos. En manos de David fue el estilo oficial de la Revolución francesa y luego de la propaganda napoleónica."
+    }
+  },
+  "romanticism": {
+    "name": { "en": "Romanticism", "es": "Romanticismo" },
+    "blurb": {
+      "en": "Feeling promoted over reason. Storms, shipwrecks, revolutions, nightmares and mountain silence: the Romantics painted what overwhelms the individual, and made the artist's own inner weather the true subject of the picture.",
+      "es": "El sentimiento por encima de la razón. Tormentas, naufragios, revoluciones, pesadillas y silencio de montaña: los románticos pintaron lo que desborda al individuo e hicieron del clima interior del artista el verdadero tema del cuadro."
+    }
+  },
+  "pre-raphaelite": {
+    "name": { "en": "Pre-Raphaelite", "es": "Prerrafaelismo" },
+    "blurb": {
+      "en": "Young Victorians rejecting the academy's brown gravies for the jewel colour and honesty they saw in art before Raphael. Literary subjects, real models, botanical exactness: every leaf painted as if under oath.",
+      "es": "Jóvenes victorianos que rechazaron las salsas pardas de la academia por el color de joya y la honestidad del arte anterior a Rafael. Temas literarios, modelos reales, exactitud botánica: cada hoja pintada como bajo juramento."
+    }
+  },
+  "realism": {
+    "name": { "en": "Realism", "es": "Realismo" },
+    "blurb": {
+      "en": "The mid-nineteenth century turned painting toward what is actually there: labourers, funerals, bars, bodies without mythology. Choosing the unidealised present over gods and heroes was a political act, and audiences understood it as one.",
+      "es": "A mediados del siglo XIX la pintura se volvió hacia lo que de verdad existe: jornaleros, entierros, bares, cuerpos sin mitología. Elegir el presente sin idealizar, en lugar de dioses y héroes, era un acto político, y el público lo entendió así."
+    }
+  },
+  "impressionism": {
+    "name": { "en": "Impressionism", "es": "Impresionismo" },
+    "blurb": {
+      "en": "Paint the looking, not the thing. Working fast, often outdoors, the Impressionists broke light into strokes of pure colour and let the eye reassemble it. Modern life, weekend leisure and weather became the great subjects.",
+      "es": "Pintar el mirar, no la cosa. Trabajando deprisa, a menudo al aire libre, los impresionistas descompusieron la luz en pinceladas de color puro y dejaron que el ojo la recompusiera. La vida moderna, el ocio y el clima se volvieron los grandes temas."
+    }
+  },
+  "luminism": {
+    "name": { "en": "Luminism", "es": "Luminismo" },
+    "blurb": {
+      "en": "The Spanish coast's answer to Impressionism. Sorolla and his circle chased the blinding light of the Mediterranean: white sails, wet skin, sea glare at noon, painted with big confident strokes and a photographer's sense of the instant.",
+      "es": "La respuesta de la costa española al impresionismo. Sorolla y su círculo persiguieron la luz cegadora del Mediterráneo: velas blancas, piel mojada, el resplandor del mar a mediodía, con pinceladas grandes y seguras y un instinto fotográfico del instante."
+    }
+  },
+  "post-impressionism": {
+    "name": { "en": "Post-Impressionism", "es": "Postimpresionismo" },
+    "blurb": {
+      "en": "Impressionism's children went separate ways: Cézanne toward structure, Seurat toward science, Van Gogh toward emotion, Gauguin toward symbol. What they shared was the decision that a painting is a made thing, not a record of seeing.",
+      "es": "Los hijos del impresionismo tomaron caminos distintos: Cézanne hacia la estructura, Seurat hacia la ciencia, Van Gogh hacia la emoción, Gauguin hacia el símbolo. Compartían una decisión: el cuadro es una cosa construida, no un registro de la mirada."
+    }
+  },
+  "naive-art": {
+    "name": { "en": "Naïve Art", "es": "Arte naíf" },
+    "blurb": {
+      "en": "Self-taught painting that ignores academic rules of perspective and proportion, and gains a dreamlike directness by doing so. Rousseau, a Paris customs clerk, painted jungles he never visited and was mocked, then claimed, by the avant-garde.",
+      "es": "Pintura autodidacta que ignora las reglas académicas de perspectiva y proporción, y gana con ello una franqueza de sueño. Rousseau, empleado de aduanas en París, pintó selvas que nunca visitó y fue burlado, y luego reivindicado, por la vanguardia."
+    }
+  },
+  "symbolism": {
+    "name": { "en": "Symbolism", "es": "Simbolismo" },
+    "blurb": {
+      "en": "Late nineteenth-century painters who turned inward, painting moods, myths and dreams rather than the visible world. Islands, sphinxes and silences: the picture as a door left ajar onto something that cannot quite be said.",
+      "es": "Pintores de finales del siglo XIX que se volvieron hacia dentro, pintando estados de ánimo, mitos y sueños en lugar del mundo visible. Islas, esfinges y silencios: el cuadro como una puerta entornada hacia algo que no acaba de poder decirse."
+    }
+  },
+  "expressionism": {
+    "name": { "en": "Expressionism", "es": "Expresionismo" },
+    "blurb": {
+      "en": "Colour and distortion put in service of inner states: anxiety, desire, the nerves of the modern city. Beginning with Munch and exploding in Germany and Austria before 1914, it painted the world not as it looks but as it feels.",
+      "es": "Color y distorsión al servicio de los estados interiores: la angustia, el deseo, los nervios de la ciudad moderna. Nacido con Munch y estallando en Alemania y Austria antes de 1914, pintó el mundo no como se ve, sino como se siente."
+    }
+  },
+  "vienna-secession": {
+    "name": { "en": "Vienna Secession", "es": "Secesión vienesa" },
+    "blurb": {
+      "en": "Vienna's artists walked out of the official academy in 1897 under Klimt, mixing symbolism, ornament and gold into a style both decorative and erotic. Their motto: to every age its art, to art its freedom.",
+      "es": "Los artistas de Viena abandonaron la academia oficial en 1897, encabezados por Klimt, mezclando simbolismo, ornamento y oro en un estilo decorativo y erótico a la vez. Su lema: a cada época su arte, al arte su libertad."
+    }
+  },
+  "early-abstraction": {
+    "name": { "en": "Early Abstraction", "es": "Primera abstracción" },
+    "blurb": {
+      "en": "Around 1913 painting let go of the visible object altogether. Kandinsky trusted colour to work like music; Malevich reduced art to pure geometric feeling. The frame stopped being a window and became a field.",
+      "es": "Hacia 1913 la pintura soltó del todo el objeto visible. Kandinsky confió en que el color funcionara como la música; Malévich redujo el arte a puro sentimiento geométrico. El marco dejó de ser ventana y se volvió campo."
+    }
+  },
+  "futurism": {
+    "name": { "en": "Futurism", "es": "Futurismo" },
+    "blurb": {
+      "en": "Italian painters in love with speed, machines, crowds and noise, determined to drag art into the industrial century. Forms fracture and stream to make energy itself, rather than any object, the subject of the canvas.",
+      "es": "Pintores italianos enamorados de la velocidad, las máquinas, las multitudes y el ruido, decididos a arrastrar el arte al siglo industrial. Las formas se fracturan y fluyen para que la energía misma, y no el objeto, sea el tema del lienzo."
+    }
+  }
+}

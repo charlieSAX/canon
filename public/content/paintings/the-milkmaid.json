@@ -1,0 +1,68 @@
+{
+  "id": "the-milkmaid",
+  "title": {
+    "en": "The Milkmaid",
+    "es": "La lechera"
+  },
+  "artist": "Johannes Vermeer",
+  "year": 1658,
+  "movement": "dutch-golden-age",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "45.5 x 41 cm",
+  "location": {
+    "museum": "Rijksmuseum",
+    "city": "Amsterdam"
+  },
+  "image": {
+    "src": "img/the-milkmaid.webp",
+    "width": 1427,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A sturdy young maid stands alone in a plain, sunlit room, pouring a thin stream of milk from an earthenware jug into a bowl. On the table before her sit chunks of bread and a basket. She looks down at her work, wholly absorbed, her sleeves rolled to the elbow, her body solid and still.",
+      "craft": "Light pours from the window and Vermeer builds the whole room from it. He dots tiny highlights of thick paint on the bread and basket so the crusts seem to sparkle, a technique called pointillé. Colours are simple and strong, lemon yellow against deep blue, and the plain wall behind is a small miracle of soft light.",
+      "painter": "Vermeer worked in the small Dutch town of Delft and painted very slowly, leaving only around thirty five known pictures. He never travelled far, ran an art dealing business, and had many children. This early figure is unusually monumental for him; he would soon turn to quieter, more elegant interiors.",
+      "point": "It grants ordinary labour the seriousness once reserved for saints. A servant pouring milk becomes a figure of quiet dignity, monumental and eternal, in a room where nothing else happens."
+    },
+    "es": {
+      "scene": "Una robusta joven criada está sola en una habitación sencilla e iluminada por el sol, vertiendo un fino hilo de leche desde una jarra de barro a un cuenco. Sobre la mesa, ante ella, hay trozos de pan y un cesto. Mira su tarea, completamente absorta, con las mangas remangadas hasta el codo y el cuerpo firme y quieto.",
+      "craft": "La luz entra por la ventana y Vermeer construye con ella toda la habitación. Salpica diminutos puntos de pintura espesa sobre el pan y el cesto para que las cortezas parezcan brillar, una técnica llamada pointillé. Los colores son simples y fuertes, amarillo limón contra azul intenso, y la pared desnuda del fondo es un pequeño milagro de luz suave.",
+      "painter": "Vermeer trabajó en la pequeña ciudad holandesa de Delft y pintaba muy despacio, dejando solo unas treinta y cinco obras conocidas. Nunca viajó lejos, llevaba un negocio de comercio de arte y tuvo muchos hijos. Esta figura temprana es inusualmente monumental para él; pronto pasaría a interiores más serenos y elegantes.",
+      "point": "Concede al trabajo corriente la seriedad antes reservada a los santos. Una criada que vierte leche se vuelve una figura de callada dignidad, monumental y eterna, en una habitación donde no ocurre nada más."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Recent scans revealed that Vermeer painted out a rack of hanging jugs and a fire basket behind the maid, emptying the wall to leave her alone with the light.",
+    "es": "Escaneos recientes revelaron que Vermeer tapó con pintura un estante de jarras colgadas y un cesto de brasas tras la lechera, vaciando la pared para dejarla a solas con la luz."
+  },
+  "tags": [
+    "dutch-golden-age",
+    "genre scene",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "The thin stream of milk is the only movement in the picture; everything else is held perfectly still.",
+      "es": "El fino hilo de leche es el único movimiento del cuadro; todo lo demás se mantiene perfectamente quieto."
+    },
+    {
+      "en": "Low on the back wall, a small tile shows Cupid, hinting at love beneath the plain scene.",
+      "es": "Abajo, en la pared del fondo, un pequeño azulejo muestra a Cupido, insinuando el amor bajo la escena sencilla."
+    },
+    {
+      "en": "A foot warmer sits on the floor behind her, a box for warm coals against the cold.",
+      "es": "Un calientapiés reposa en el suelo tras ella, una caja para brasas contra el frío."
+    },
+    {
+      "en": "The bread crusts glitter with tiny dots of raised paint, Vermeer's signature sparkling highlights.",
+      "es": "Las cortezas del pan relucen con diminutos puntos de pintura en relieve, los característicos brillos de Vermeer."
+    }
+  ]
+}

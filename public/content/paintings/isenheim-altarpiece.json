@@ -1,0 +1,64 @@
+{
+  "id": "isenheim-altarpiece",
+  "title": {
+    "en": "The Isenheim Altarpiece",
+    "es": "El retablo de Isenheim"
+  },
+  "artist": "Matthias Grünewald",
+  "year": 1515,
+  "movement": "northern-renaissance",
+  "medium": {
+    "en": "Oil on panel",
+    "es": "Óleo sobre tabla"
+  },
+  "dimensions": "269 x 307 cm",
+  "location": {
+    "museum": "Musée Unterlinden",
+    "city": "Colmar"
+  },
+  "image": {
+    "src": "img/isenheim-altarpiece.webp",
+    "width": 1600,
+    "height": 1145,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMus%C3%A9e_Unterlinden_-_Matthias_Gr%C3%BCnewald_-_retable_d'Issenheim_-_Saint_S%C3%A9bastien%2C_Crucifixion%2C_Saint_Antoine_abb%C3%A9_%26_D%C3%A9position_(1512-1516)_(1).jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "On the central panel, a broken Christ hangs on a rough cross against black night. His skin is green and torn, studded with thorns and sores, his fingers splayed in agony. The Virgin swoons in white, John the Baptist points, and a lamb bleeds into a cup at the foot.",
+      "craft": "Grünewald pushes oil paint to extremes of horror and glory. He models Christ's ravaged flesh in sickly greens and blackened wounds, then, on the opening panels, floods the Resurrection with unearthly coloured light. The altarpiece folds open in stages, its images shifting from suffering to healing as the panels turn.",
+      "painter": "Grünewald, real name probably Mathis Gothart Nithart, is almost a ghost: a German master who left no signed works and was nearly forgotten for centuries. He made this multi-panelled altarpiece around 1512 to 1516 for the monks of Isenheim, whose hospital treated a hideous, disfiguring disease.",
+      "point": "An altarpiece designed to console the dying: it shows them a God whose body carries their own plague sores, then opens to promise resurrection and healing."
+    },
+    "es": {
+      "scene": "En el panel central, un Cristo maltrecho pende de una cruz tosca contra la noche negra. Su piel es verdosa y desgarrada, sembrada de espinas y llagas, y sus dedos se abren de agonía. La Virgen se desmaya de blanco, Juan el Bautista señala y un cordero sangra en un cáliz al pie.",
+      "craft": "Grünewald lleva el óleo a extremos de horror y de gloria. Modela la carne desollada de Cristo en verdes enfermizos y heridas ennegrecidas, y luego, en los paneles que se abren, inunda la Resurrección con una luz de colores sobrenaturales. El retablo se despliega por fases, pasando del sufrimiento a la sanación.",
+      "painter": "Grünewald, cuyo nombre real fue quizá Mathis Gothart Nithart, es casi un fantasma: un maestro alemán que no dejó obras firmadas y estuvo casi olvidado durante siglos. Hizo este retablo de varios paneles hacia 1512 a 1516 para los monjes de Isenheim, cuyo hospital trataba una enfermedad atroz y desfigurante.",
+      "point": "Un retablo pensado para consolar a los moribundos: les muestra un Dios cuyo cuerpo lleva sus mismas llagas de peste, y luego se abre para prometer resurrección y sanación."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The altarpiece stood in a hospital chapel where monks treated Saint Anthony's fire, a gangrenous plague, and Grünewald covered Christ's body with the very sores the patients bore.",
+    "es": "El retablo estaba en la capilla de un hospital donde los monjes trataban el fuego de San Antonio, una peste gangrenosa, y Grünewald cubrió el cuerpo de Cristo con las mismas llagas de los pacientes."
+  },
+  "tags": [
+    "northern-renaissance",
+    "religious",
+    "16th century"
+  ],
+  "notables": [
+    {
+      "en": "Christ's skin is spotted with the same sores that afflicted the hospital's patients, so the sick saw their own disease on God.",
+      "es": "La piel de Cristo está sembrada de las mismas llagas que sufrían los pacientes del hospital, y así veían su mal en Dios."
+    },
+    {
+      "en": "John the Baptist, long dead by the Crucifixion, appears anyway, his finger pointing at Christ beside the Latin words he must decrease.",
+      "es": "Juan el Bautista, ya muerto en la Crucifixión, aparece igualmente y su dedo señala a Cristo junto a las palabras: él debe menguar."
+    },
+    {
+      "en": "The whole structure opens in layers, turning from this nightmare Crucifixion to bright scenes of Nativity and Resurrection.",
+      "es": "Toda la estructura se abre por capas, pasando de esta Crucifixión de pesadilla a escenas luminosas de Natividad y Resurrección."
+    }
+  ]
+}

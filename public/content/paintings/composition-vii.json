@@ -1,0 +1,64 @@
+{
+  "id": "composition-vii",
+  "title": {
+    "en": "Composition VII",
+    "es": "Composición VII"
+  },
+  "artist": "Wassily Kandinsky",
+  "year": 1913,
+  "movement": "early-abstraction",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "200 x 300 cm",
+  "location": {
+    "museum": "Tretyakov Gallery",
+    "city": "Moscow"
+  },
+  "image": {
+    "src": "img/composition-vii.webp",
+    "width": 1600,
+    "height": 1063,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AComposition_VII_-_Wassily_Kandinsky%2C_GAC.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Across a huge canvas, colour erupts in a storm of shapes with no clear subject. Lines whip, forms collide, and pools of red, blue and violet swirl around a dark oval core near the centre. Fragments suggest boats, mountains or figures, then dissolve before the eye can name them.",
+      "craft": "Kandinsky treats painting like music, trusting colour and line to stir emotion without depicting anything. He layers translucent washes under bursts of strong colour, and lets black lines conduct the movement like a score. The central dark whirlpool acts as an eye of calm within the surrounding pictorial storm.",
+      "painter": "Working in Munich with Der Blaue Reiter, Kandinsky was pushing toward pure abstraction, guided by his book On the Spiritual in Art. He prepared this vast picture with more than thirty studies, yet painted the final canvas in only four days, late in November 1913.",
+      "point": "Often called the peak of Kandinsky's early abstraction, it aims to move you like music, carrying hidden themes of apocalypse and rebirth purely through colour and energy."
+    },
+    "es": {
+      "scene": "En un lienzo enorme, el color estalla en una tormenta de formas sin tema claro. Las líneas restallan, las formas chocan y charcos de rojo, azul y violeta giran en torno a un óvalo oscuro cerca del centro. Fragmentos sugieren barcas, montañas o figuras, y se disuelven antes de poder nombrarlos.",
+      "craft": "Kandinsky trata la pintura como música y confía en que el color y la línea conmuevan sin representar nada. Superpone veladuras translúcidas bajo estallidos de color intenso y deja que las líneas negras dirijan el movimiento como una partitura. El remolino oscuro central actúa como ojo de calma dentro de la tormenta.",
+      "painter": "En Múnich, con Der Blaue Reiter, Kandinsky avanzaba hacia la abstracción pura, guiado por su libro De lo espiritual en el arte. Preparó este cuadro inmenso con más de treinta estudios y, sin embargo, pintó el lienzo final en solo cuatro días, a finales de noviembre de 1913.",
+      "point": "Llamado a menudo la cima de la primera abstracción de Kandinsky, busca conmover como la música y lleva temas ocultos de apocalipsis y renacimiento solo mediante color y energía."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Though it looks spontaneous, Kandinsky prepared Composition VII with over thirty studies, then painted the three-metre canvas in just four days in November 1913.",
+    "es": "Aunque parece espontáneo, Kandinsky preparó Composición VII con más de treinta estudios y luego pintó el lienzo de tres metros en solo cuatro días de noviembre de 1913."
+  },
+  "tags": [
+    "early-abstraction",
+    "abstraction",
+    "20th century"
+  ],
+  "notables": [
+    {
+      "en": "The dark oval near the centre is the calm heart of the storm, the point the whole composition spins around.",
+      "es": "El óvalo oscuro cercano al centro es el corazón en calma de la tormenta, el punto en torno al cual gira toda la composición."
+    },
+    {
+      "en": "Buried in the abstraction are motifs Kandinsky reused elsewhere: a boat with oars, mountains and trumpets of the Last Judgment.",
+      "es": "Entre la abstracción se esconden motivos que Kandinsky reutilizó: una barca con remos, montañas y las trompetas del Juicio Final."
+    },
+    {
+      "en": "For all its apparent chaos, the picture was carefully built up from many precise preparatory studies.",
+      "es": "Pese a su caos aparente, el cuadro se construyó con cuidado a partir de muchos estudios preparatorios precisos."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "the-art-of-painting",
+  "title": {
+    "en": "The Art of Painting",
+    "es": "El arte de la pintura"
+  },
+  "artist": "Johannes Vermeer",
+  "year": 1668,
+  "movement": "dutch-golden-age",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "120 x 100 cm",
+  "location": {
+    "museum": "Kunsthistorisches Museum",
+    "city": "Vienna"
+  },
+  "image": {
+    "src": "img/the-art-of-painting.webp",
+    "width": 1347,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "In a bright studio a painter sits with his back to us, brush in hand, working at his canvas. Before him a young woman poses in blue, holding a trumpet and a heavy book, crowned with laurel. A great map of the Netherlands hangs on the rear wall, and a rich tapestry is drawn aside like a curtain.",
+      "craft": "Vermeer stages the whole room in sharp perspective, leading the eye past the curtain to the sunlit far wall. Every texture is savoured: brass, marble, silk and printed paper. Cool daylight falls evenly, and the picture is finished with jewel like precision, an artist showing off exactly what his art can do.",
+      "painter": "Vermeer treasured this large, ambitious picture and never sold it, keeping it in his house until he died. When bankruptcy loomed, his widow tried to sign it over to her mother to save it from creditors. It is his grandest statement, painting itself set among the muses as a noble art.",
+      "point": "It is a painting about painting. The model is Clio, muse of history, so Vermeer casts his own art as the thing that grants lasting fame and preserves the world."
+    },
+    "es": {
+      "scene": "En un estudio luminoso, un pintor está sentado de espaldas, pincel en mano, trabajando en su lienzo. Ante él posa una joven vestida de azul, que sostiene una trompeta y un pesado libro y va coronada de laurel. Un gran mapa de los Países Bajos cuelga de la pared del fondo, y un rico tapiz está recogido como una cortina.",
+      "craft": "Vermeer dispone la habitación en una nítida perspectiva que conduce la mirada más allá de la cortina hasta la pared iluminada del fondo. Se saborea cada textura: latón, mármol, seda y papel impreso. La fría luz del día cae uniforme, y el cuadro está acabado con una precisión de joya, un artista mostrando lo que su arte puede hacer.",
+      "painter": "Vermeer atesoró este cuadro grande y ambicioso y nunca lo vendió, conservándolo en su casa hasta su muerte. Cuando amenazó la quiebra, su viuda intentó traspasarlo a su madre para salvarlo de los acreedores. Es su declaración más grandiosa: la propia pintura situada entre las musas como un arte noble.",
+      "point": "Es un cuadro sobre la pintura. La modelo es Clío, musa de la historia, de modo que Vermeer presenta su propio arte como aquello que concede fama duradera y preserva el mundo."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Adolf Hitler bought this painting in 1940 and prized it above almost all others; after the war it was recovered from an Austrian salt mine where looted art had been hidden.",
+    "es": "Adolf Hitler compró este cuadro en 1940 y lo apreció por encima de casi todos los demás; tras la guerra se recuperó de una mina de sal austriaca donde se había ocultado el arte expoliado."
+  },
+  "tags": [
+    "dutch-golden-age",
+    "allegory",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "The model holds a trumpet and book and wears a laurel crown, the attributes of Clio, muse of history.",
+      "es": "La modelo sostiene una trompeta y un libro y lleva una corona de laurel, los atributos de Clío, musa de la historia."
+    },
+    {
+      "en": "The map shows the whole Netherlands before it split into Dutch north and Spanish south.",
+      "es": "El mapa muestra los Países Bajos enteros antes de dividirse en el norte holandés y el sur español."
+    },
+    {
+      "en": "We never see the painter's face; he is turned away, and may be Vermeer's image of himself.",
+      "es": "Nunca vemos el rostro del pintor; está de espaldas y podría ser la imagen que Vermeer tenía de sí mismo."
+    },
+    {
+      "en": "The painter has begun with the laurel leaves, an odd place to start a portrait.",
+      "es": "El pintor ha empezado por las hojas de laurel, un lugar extraño para comenzar un retrato."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "walk-on-the-beach",
+  "title": {
+    "en": "Walk on the Beach",
+    "es": "Paseo a orillas del mar"
+  },
+  "artist": "Joaquín Sorolla",
+  "year": 1909,
+  "movement": "luminism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "205 x 200 cm",
+  "location": {
+    "museum": "Museo Sorolla",
+    "city": "Madrid"
+  },
+  "image": {
+    "src": "img/walk-on-the-beach.webp",
+    "width": 1580,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJoaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Two women walk along the shore in the bright Valencian sun. The nearer, in white, holds a gauzy parasol and a veil that streams sideways in the sea breeze; her companion, in a long lilac-grey gown and hat, strolls beside her. Behind them the shallow sea shimmers, cropped almost to abstraction.",
+      "craft": "Sorolla painted outdoors at speed, chasing the blinding Mediterranean light. Long, loaded strokes of white, violet and turquoise build the dresses and the wet sand in a few confident sweeps. He crops the horizon high, so sea and figures nearly fill the frame, and dissolves the surface into pure glittering colour.",
+      "painter": "Sorolla was forty-six, Spain's most celebrated living painter, at the height of his powers. The two women are his wife Clotilde and their eldest daughter Maria, painted life-size on the beach at Valencia he loved. Within a year he would take America by storm with a triumphant New York show, then a huge mural commission.",
+      "point": "The picture is really about light: the noon glare of the Spanish coast on skin, water and cloth, caught with a speed and confidence few painters have matched."
+    },
+    "es": {
+      "scene": "Dos mujeres caminan por la orilla bajo el sol intenso de Valencia. La más cercana, de blanco, lleva una sombrilla vaporosa y un velo que ondea de lado con la brisa marina; su acompañante, con vestido largo gris lila y sombrero, pasea a su lado. Tras ellas, el mar poco profundo reluce, recortado casi hasta la abstracción.",
+      "craft": "Sorolla pintaba al aire libre y deprisa, persiguiendo la luz cegadora del Mediterráneo. Pinceladas largas y cargadas de blanco, violeta y turquesa construyen los vestidos y la arena mojada en unos pocos trazos seguros. Recorta muy alto el horizonte, de modo que mar y figuras casi llenan el cuadro, y disuelve la superficie en color puro y centelleante.",
+      "painter": "Sorolla tenía cuarenta y seis años, era el pintor vivo más célebre de España y estaba en plena madurez. Las dos mujeres son su esposa Clotilde y su hija mayor María, pintadas a tamaño natural en la playa de Valencia que amaba. Un año después conquistaría América con una exitosa muestra en Nueva York y un enorme encargo mural.",
+      "point": "El cuadro trata en realidad de la luz: el resplandor del mediodía en la costa española sobre la piel, el agua y la tela, captado con una rapidez y una seguridad que pocos han igualado."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Sorolla painted his own wife and daughter here at life-size, more than two metres tall, dressed in white against the glare of a Valencia beach at noon.",
+    "es": "Sorolla pintó aquí a su propia esposa e hija a tamaño natural, de más de dos metros de alto, vestidas de blanco contra el resplandor de una playa de Valencia al mediodía."
+  },
+  "tags": [
+    "luminism",
+    "beach",
+    "20th century"
+  ],
+  "notables": [
+    {
+      "en": "The two elegant women are the painter's own wife Clotilde and eldest daughter Maria, walking on the beach at Valencia.",
+      "es": "Las dos mujeres elegantes son la propia esposa del pintor, Clotilde, y su hija mayor, María, paseando por la playa de Valencia."
+    },
+    {
+      "en": "The white veil and parasol are almost pure abstraction up close, built from bold slabs of white, grey and violet.",
+      "es": "El velo y la sombrilla blancos son casi pura abstracción de cerca, hechos con audaces bloques de blanco, gris y violeta."
+    },
+    {
+      "en": "There is no sky; Sorolla fills the whole background with shallow sea, so the figures seem to float on shimmering water.",
+      "es": "No hay cielo; Sorolla llena todo el fondo con mar poco profundo, y así las figuras parecen flotar sobre el agua reluciente."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "the-school-of-athens",
+  "title": {
+    "en": "The School of Athens",
+    "es": "La escuela de Atenas"
+  },
+  "artist": "Raphael",
+  "year": 1511,
+  "movement": "high-renaissance",
+  "medium": {
+    "en": "Fresco",
+    "es": "Fresco"
+  },
+  "dimensions": "500 x 770 cm",
+  "location": {
+    "museum": "Apostolic Palace",
+    "city": "Vatican City"
+  },
+  "image": {
+    "src": "img/the-school-of-athens.webp",
+    "width": 1600,
+    "height": 1067,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AThe_School_of_Athens_Fresco_by_Raphael_(Ank_Kumar%2C_Infosys_Limited)_02.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Beneath a soaring vaulted hall, dozens of ancient thinkers gather on marble steps. At the centre, Plato points upward and Aristotle gestures to the ground. Around them figures write, argue, read, and calculate: a bald geometer bends over a compass, a lone man sprawls on the stairs, and statues watch from niches.",
+      "craft": "Raphael builds the scene on one-point perspective: the receding arches funnel every line toward Plato and Aristotle at the vanishing point. He groups the crowd in clusters so the eye reads order in the throng, and answers the painted architecture to Bramante's real designs for new Saint Peter's next door.",
+      "painter": "Raphael was in his mid-twenties when Pope Julius II set him to fresco the papal apartments, in rooms next to where Michelangelo laboured on the ceiling. Young, quick, and admired, he studied his rivals closely and, in tribute or cheek, gave several philosophers here the faces of the artists around him.",
+      "point": "It is a portrait of human reason itself: philosophy, science, and mathematics gathered as one confident family, painted for a pope who wanted classical thought and Christian faith shown in harmony."
+    },
+    "es": {
+      "scene": "Bajo un salón de bóvedas altísimas, decenas de pensadores antiguos se reúnen en gradas de mármol. En el centro, Platón señala hacia arriba y Aristóteles hacia el suelo. Alrededor, unos escriben, discuten, leen y calculan: un geómetra calvo se inclina sobre un compás y un hombre solitario se tumba en la escalera.",
+      "craft": "Rafael construye la escena con perspectiva de un punto: los arcos que se alejan conducen cada línea hacia Platón y Aristóteles en el punto de fuga. Agrupa a la multitud en corros para que el ojo lea orden en el gentío, y hace eco de los diseños reales de Bramante para San Pedro.",
+      "painter": "Rafael tenía poco más de veinte años cuando el papa Julio II le encargó pintar al fresco los aposentos papales, junto a las salas donde Miguel Ángel penaba en la bóveda. Joven, rápido y admirado, estudió a sus rivales y, entre homenaje y guiño, dio a varios filósofos los rostros de artistas conocidos.",
+      "point": "Es un retrato de la razón humana: filosofía, ciencia y matemáticas reunidas como una familia segura de sí, pintadas para un papa que quería ver el pensamiento clásico y la fe cristiana en armonía."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Raphael gave the ancient philosophers the faces of his contemporaries: Plato is thought to be Leonardo da Vinci, and the sulking figure on the steps is Michelangelo.",
+    "es": "Rafael dio a los filósofos antiguos los rostros de sus contemporáneos: se cree que Platón es Leonardo da Vinci, y la figura enfurruñada de los escalones es Miguel Ángel."
+  },
+  "tags": [
+    "high-renaissance",
+    "philosophy",
+    "16th century"
+  ],
+  "notables": [
+    {
+      "en": "Plato's face is traditionally said to be Leonardo da Vinci's, lending the older philosopher a living model.",
+      "es": "El rostro de Platón se atribuye por tradición a Leonardo da Vinci, dando al viejo filósofo un modelo vivo."
+    },
+    {
+      "en": "The brooding man sprawled alone on the steps is Michelangelo, added late as the gloomy Heraclitus.",
+      "es": "El hombre sombrío tumbado a solas en los escalones es Miguel Ángel, añadido tarde como el melancólico Heráclito."
+    },
+    {
+      "en": "Raphael slipped in his own face at the far right, looking straight out from behind the crowd.",
+      "es": "Rafael coló su propio rostro en el extremo derecho, mirando de frente desde detrás de la multitud."
+    }
+  ]
+}

@@ -1,12 +1,21 @@
 {
   "id": "las-meninas",
-  "title": "Las Meninas",
+  "title": {
+    "en": "Las Meninas",
+    "es": "Las meninas"
+  },
   "artist": "Diego Velázquez",
   "year": 1656,
-  "movement": "Baroque",
-  "medium": "Oil on canvas",
+  "movement": "baroque",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
   "dimensions": "318 x 276 cm",
-  "location": { "museum": "Museo del Prado", "city": "Madrid" },
+  "location": {
+    "museum": "Museo del Prado",
+    "city": "Madrid"
+  },
   "image": {
     "src": "img/las-meninas.webp",
     "width": 1390,
@@ -15,11 +24,41 @@
     "license_note": "Public domain. Faithful reproduction of a work by Diego Velázquez (died 1660)."
   },
   "text": {
-    "scene": "The five-year-old Infanta Margarita stands at the centre of a dim palace room, attended by two maids of honour, a dwarf, a boy prodding a drowsing dog, and a chaperone in shadow. Velázquez himself stands at a vast canvas, brush raised, looking straight out at whoever has just entered the room.",
-    "craft": "The painting works by indirection. A mirror on the back wall holds the faint reflection of the king and queen, placing them, and you, where the sitters should be. Loose, rapid strokes resolve into lace and light at a distance, and the open doorway behind pulls the eye through the picture.",
-    "painter": "Velázquez spent his career inside the court of Philip IV, rising from painter to palace chamberlain. He painted popes, jesters and royal children with the same level gaze. The red cross of the Order of Santiago on his chest here was added after his death, reportedly at the king's command."
+    "en": {
+      "scene": "The five-year-old Infanta Margarita stands at the centre of a dim palace room, attended by two maids of honour, a dwarf, a boy prodding a drowsing dog, and a chaperone in shadow. Velázquez himself stands at a vast canvas, brush raised, looking straight out at whoever has just entered the room.",
+      "craft": "The painting works by indirection. A mirror on the back wall holds the faint reflection of the king and queen, placing them, and you, where the sitters should be. Loose, rapid strokes resolve into lace and light at a distance, and the open doorway behind pulls the eye through the picture.",
+      "painter": "Velázquez spent his career inside the court of Philip IV, rising from painter to palace chamberlain. He painted popes, jesters and royal children with the same level gaze. The red cross of the Order of Santiago on his chest here was added after his death, reportedly at the king's command.",
+      "point": "The work asks who is looking at whom, making painting, power and presence its real subjects."
+    },
+    "es": {
+      "scene": "La infanta Margarita, de cinco años, ocupa el centro de una sala del palacio, atendida por dos meninas, una enana, un niño que molesta a un perro adormilado y una acompañante en la sombra. Velázquez está ante un lienzo enorme, pincel en alto, mirando directamente a quien acaba de entrar.",
+      "craft": "El cuadro funciona por alusión. Un espejo al fondo guarda el débil reflejo de los reyes y los coloca, junto contigo, donde deberían estar los modelos. Pinceladas rápidas se convierten en encaje y luz al contemplarlas desde lejos, mientras la puerta abierta del fondo arrastra la mirada hacia el interior.",
+      "painter": "Velázquez pasó su carrera en la corte de Felipe IV y ascendió de pintor a aposentador de palacio. Pintó papas, bufones y niños reales con la misma mirada serena. Cuando hizo esta obra buscaba reconocimiento como noble y no solo como artesano; la cruz de Santiago apareció sobre su pecho después.",
+      "point": "La obra pregunta quién mira a quién y convierte la pintura, el poder y la presencia en el verdadero tema."
+    }
   },
-  "draft": true,
-  "fact": "The king and queen of Spain appear only as a blur in the mirror at the back of the room; the entire scene is arranged around two people who are barely in the painting.",
-  "tags": ["Baroque", "royal portrait", "17th century"]
+  "draft": false,
+  "fact": {
+    "en": "The king and queen of Spain appear only as a blur in the mirror at the back of the room; the entire scene is arranged around two people who are barely in the painting.",
+    "es": "Los reyes de España aparecen solo como una mancha en el espejo del fondo; toda la escena se organiza alrededor de dos personas que apenas están dentro del cuadro."
+  },
+  "tags": [
+    "baroque",
+    "royal portrait",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "The king and queen appear in the mirror, probably standing where the viewer stands.",
+      "es": "Los reyes aparecen en el espejo, probablemente de pie en el lugar del espectador."
+    },
+    {
+      "en": "The open door frames the queen's chamberlain, caught on a brilliantly lit stair.",
+      "es": "La puerta enmarca al aposentador de la reina, detenido sobre una escalera luminosa."
+    },
+    {
+      "en": "A boy nudges the mastiff with his foot, the scene's smallest burst of action.",
+      "es": "Un niño empuja al mastín con el pie, el gesto más activo de toda la escena."
+    }
+  ]
 }

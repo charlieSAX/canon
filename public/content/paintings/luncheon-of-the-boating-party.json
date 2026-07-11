@@ -1,0 +1,64 @@
+{
+  "id": "luncheon-of-the-boating-party",
+  "title": {
+    "en": "Luncheon of the Boating Party",
+    "es": "El almuerzo de los remeros"
+  },
+  "artist": "Pierre-Auguste Renoir",
+  "year": 1881,
+  "movement": "impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "130 x 173 cm",
+  "location": {
+    "museum": "The Phillips Collection",
+    "city": "Washington"
+  },
+  "image": {
+    "src": "img/luncheon-of-the-boating-party.webp",
+    "width": 1600,
+    "height": 1185,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Friends linger over the debris of lunch on a restaurant balcony above the Seine at Chatou. Bottles and glasses catch the light. A young woman coos to a small dog; a man in a singlet and straw hat leans on the rail. Awning above, sun-struck river beyond, laughter everywhere.",
+      "craft": "Renoir orchestrates a crowd of fourteen into a loose diagonal, every face turned a different way yet held together by light. Warm skin, white cloth and glinting glass are built from soft, broken colour. He worked on it for months, adding and shifting sitters, so it feels spontaneous but is tightly composed.",
+      "painter": "Renoir was forty and at a turning point. He filled the balcony with his own circle: fellow painters, patrons, and the seamstress Aline Charigot, cradling the dog at lower left, whom he would marry nine years later. Soon after this he grew restless with Impressionism and turned back towards firmer drawing.",
+      "point": "It is a portrait of friendship and modern leisure: the new middle-class weekend on the river, painted as a warm, sunlit ideal of good company."
+    },
+    "es": {
+      "scene": "Un grupo de amigos se demora entre los restos del almuerzo en la terraza de un restaurante sobre el Sena, en Chatou. Botellas y copas atrapan la luz. Una joven arrulla a un perrito; un hombre en camiseta y sombrero de paja se apoya en la baranda. Toldo arriba, río soleado detrás, risas por todas partes.",
+      "craft": "Renoir organiza a catorce personas en una diagonal suelta; cada rostro mira hacia un lado distinto y, aun así, la luz lo une todo. La piel cálida, el mantel blanco y el brillo del cristal se construyen con color suave y quebrado. Trabajó meses, añadiendo y cambiando figuras: parece espontáneo, pero está muy compuesto.",
+      "painter": "Renoir tenía cuarenta años y estaba en una encrucijada. Llenó la terraza con su propio círculo: pintores, mecenas y la costurera Aline Charigot, que acuna al perro abajo a la izquierda y con quien se casaría nueve años después. Poco más tarde se cansó del impresionismo y volvió a un dibujo más firme.",
+      "point": "Es un retrato de la amistad y del ocio moderno: el nuevo fin de semana burgués a orillas del río, pintado como un ideal cálido y soleado de buena compañía."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Every figure in the painting is a real person Renoir knew; art historians identified all fourteen, from his future wife to fellow painters and a wealthy art collector.",
+    "es": "Cada figura del cuadro es una persona real que Renoir conocía; los historiadores identificaron a las catorce, desde su futura esposa hasta otros pintores y un rico coleccionista de arte."
+  },
+  "tags": [
+    "impressionism",
+    "leisure",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The woman playing with the little dog is Aline Charigot, Renoir's future wife; she sits at the very front left.",
+      "es": "La mujer que juega con el perrito es Aline Charigot, futura esposa de Renoir; se sienta en el extremo delantero izquierdo."
+    },
+    {
+      "en": "The seated man in the singlet and straw hat is the painter Gustave Caillebotte, turned backwards on his chair.",
+      "es": "El hombre sentado en camiseta y sombrero de paja es el pintor Gustave Caillebotte, montado al revés en su silla."
+    },
+    {
+      "en": "The setting is the real Maison Fournaise restaurant on an island in the Seine; the owner's daughter and son both appear.",
+      "es": "El lugar es el restaurante real Maison Fournaise, en una isla del Sena; aparecen la hija y el hijo del dueño."
+    }
+  ]
+}

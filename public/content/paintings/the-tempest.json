@@ -1,0 +1,64 @@
+{
+  "id": "the-tempest",
+  "title": {
+    "en": "The Tempest",
+    "es": "La tempestad"
+  },
+  "artist": "Giorgione",
+  "year": 1508,
+  "movement": "venetian-renaissance",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "82 x 73 cm",
+  "location": {
+    "museum": "Gallerie dell'Accademia",
+    "city": "Venice"
+  },
+  "image": {
+    "src": "img/the-tempest.webp",
+    "width": 1443,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAccademia_-_La_tempesta_-_Giorgione.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A green, storm-lit landscape holds two figures who ignore each other. On the left a young man in fine dress stands holding a staff. On the right, a nearly naked woman sits nursing a baby, looking out at us. Between and behind them, broken columns, a town, and lightning splitting a bruised sky.",
+      "craft": "Giorgione makes weather the true subject. He unifies figures and setting under one heavy, greenish storm light, so landscape stops being a backdrop and becomes the mood of the whole picture. Soft oil glazes blur every edge; the lightning bolt, not the people, is the composition's real event.",
+      "painter": "Giorgione died young around 1510, probably of plague, leaving very few certain works and almost no records. He worked in Venice for private collectors rather than the church, painting small, poetic, hard-to-read pictures for a circle of cultured patrons who prized mood and mystery over clear stories.",
+      "point": "One of the first paintings where landscape and atmosphere carry the meaning, and where no one can agree what, if anything, the scene depicts. The mystery is the point."
+    },
+    "es": {
+      "scene": "Un paisaje verde, iluminado por la tormenta, contiene dos figuras que se ignoran. A la izquierda, un joven bien vestido está de pie con un bastón. A la derecha, una mujer casi desnuda amamanta a un bebé y nos mira. Entre ambos y al fondo, columnas rotas, un pueblo y un rayo que rasga el cielo.",
+      "craft": "Giorgione hace del tiempo atmosférico el verdadero tema. Unifica figuras y escenario bajo una luz densa y verdosa de tormenta, de modo que el paisaje deja de ser fondo y se vuelve el estado de ánimo del cuadro. Las veladuras difuminan los bordes; el rayo, no la gente, es el suceso real.",
+      "painter": "Giorgione murió joven hacia 1510, probablemente de peste, dejando muy pocas obras seguras y casi ningún documento. Trabajó en Venecia para coleccionistas privados más que para la iglesia, pintando cuadros pequeños, poéticos y difíciles de leer para un círculo culto que valoraba el ambiente y el misterio sobre las historias claras.",
+      "point": "Uno de los primeros cuadros donde el paisaje y la atmósfera cargan con el sentido, y donde nadie logra acordar qué representa, si es que representa algo. El misterio es el tema."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Nobody knows what The Tempest shows. Over five centuries scholars have called it Adam and Eve, a gypsy and a soldier, or pure invention, with no story ever agreed.",
+    "es": "Nadie sabe qué muestra La tempestad. Durante cinco siglos los estudiosos la han llamado Adán y Eva, una gitana con un soldado o pura invención, sin acordar jamás una historia."
+  },
+  "tags": [
+    "venetian-renaissance",
+    "landscape",
+    "16th century"
+  ],
+  "notables": [
+    {
+      "en": "X-rays show Giorgione first painted a second nude woman where the standing man now is, then changed his mind.",
+      "es": "Los rayos X muestran que Giorgione pintó primero una segunda mujer desnuda donde ahora está el hombre de pie."
+    },
+    {
+      "en": "The bolt of lightning is the sharpest thing in the picture, drawing the eye more than either figure.",
+      "es": "El rayo es lo más nítido del cuadro y atrae la mirada más que cualquiera de las dos figuras."
+    },
+    {
+      "en": "Two broken columns stand on the woman's side, an old symbol of lives or hopes cut short.",
+      "es": "Dos columnas rotas se alzan del lado de la mujer, viejo símbolo de vidas o esperanzas truncadas."
+    }
+  ]
+}

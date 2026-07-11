@@ -1,19 +1,22 @@
 import { useEffect, useRef, useState } from 'react'
 import { useLiveQuery } from 'dexie-react-hooks'
+import type { Lang } from './types'
 import { db, exportState, getMetaNum, importState } from './db'
 import { computeStreak } from './streak'
 import { buildCollections, type CollectionSet } from './collections'
-import { loadAllPaintings } from './content'
+import { loadAllPaintings, loadMovements } from './content'
 import { quizUnlockThreshold } from './quiz'
 import { todayStr } from './dates'
+import { str, testLockedLine } from './i18n'
 
 interface Props {
   today: string
+  lang: Lang
   onBack: () => void
   onStartQuiz: () => void
 }
 
-export default function ProgressView({ today, onBack, onStartQuiz }: Props) {
+export default function ProgressView({ today, lang, onBack, onStartQuiz }: Props) {
   const points = useLiveQuery(() => getMetaNum('points'), [], 0)
   const tokens = useLiveQuery(() => getMetaNum('freezeTokens'), [], 0)
   const streak = useLiveQuery(() => computeStreak(today), [today], 0)
@@ -22,6 +25,7 @@ export default function ProgressView({ today, onBack, onStartQuiz }: Props) {
   const [threshold, setThreshold] = useState<number | null>(null)
   const [notice, setNotice] = useState('')
   const fileInput = useRef<HTMLInputElement>(null)
+  const S = str(lang)
 
   const seenCount = seenRows?.length ?? 0
 
@@ -31,15 +35,15 @@ export default function ProgressView({ today, onBack, onStartQuiz }: Props) {
 
   useEffect(() => {
     let alive = true
-    loadAllPaintings().then((all) => {
+    Promise.all([loadAllPaintings(), loadMovements()]).then(([all, movements]) => {
       if (!alive) return
       const seenIds = new Set((seenRows ?? []).map((r) => r.paintingId))
-      setCollections(buildCollections([...all.values()], seenIds))
+      setCollections(buildCollections([...all.values()], seenIds, movements, lang))
     })
     return () => {
       alive = false
     }
-  }, [seenRows])
+  }, [seenRows, lang])
 
   async function doExport() {
     const json = await exportState()
@@ -52,26 +56,26 @@ export default function ProgressView({ today, onBack, onStartQuiz }: Props) {
   }
 
   async function doImport(file: File) {
-    if (!window.confirm('Importing replaces all progress on this device. Continue?')) return
+    if (!window.confirm(S.importConfirm)) return
     try {
       await importState(await file.text())
-      setNotice('Import complete.')
+      setNotice(S.importDone)
     } catch {
-      setNotice('That file could not be read.')
+      setNotice(S.importFailed)
     }
   }
 
   const unlocked = threshold !== null && seenCount >= threshold
   const grouped: Array<[string, CollectionSet[]]> = [
-    ['Artists', collections.filter((c) => c.kind === 'artist')],
-    ['Movements', collections.filter((c) => c.kind === 'movement')],
-    ['Centuries', collections.filter((c) => c.kind === 'century')]
+    [S.artists, collections.filter((c) => c.kind === 'artist')],
+    [S.movements, collections.filter((c) => c.kind === 'movement')],
+    [S.centuries, collections.filter((c) => c.kind === 'century')]
   ]
 
   return (
     <div className="progress">
       <button className="text-btn back" onClick={onBack}>
-        The gallery
+        {S.theGallery}
       </button>
 
       <div className="stats">
@@ -79,28 +83,26 @@ export default function ProgressView({ today, onBack, onStartQuiz }: Props) {
           <span className="stat-value" data-testid="streak">
             {streak}
           </span>
-          <span className="stat-label">day streak</span>
+          <span className="stat-label">{S.dayStreak}</span>
         </div>
         <div className="stat">
           <span className="stat-value" data-testid="points">
             {points}
           </span>
-          <span className="stat-label">points</span>
+          <span className="stat-label">{S.points}</span>
         </div>
         <div className="stat">
           <span className="stat-value">{tokens}</span>
-          <span className="stat-label">freezes held</span>
+          <span className="stat-label">{S.freezesHeld}</span>
         </div>
       </div>
 
       {unlocked ? (
         <button className="text-btn test-btn" onClick={onStartQuiz}>
-          The Test
+          {S.theTest}
         </button>
       ) : (
-        <p className="test-locked">
-          The Test opens at {threshold ?? ''} paintings seen. {seenCount} so far.
-        </p>
+        <p className="test-locked">{testLockedLine(lang, threshold ?? 0, seenCount)}</p>
       )}
 
       <div className="collections">
@@ -109,10 +111,10 @@ export default function ProgressView({ today, onBack, onStartQuiz }: Props) {
             <section key={label}>
               <h4 className="label">{label}</h4>
               {sets.map((s) => (
-                <p key={`${s.kind}|${s.name}`} className={s.seen === s.total ? 'coll done' : 'coll'}>
-                  <span>{s.name}</span>
+                <p key={`${s.kind}|${s.key}`} className={s.seen === s.total ? 'coll done' : 'coll'}>
+                  <span>{s.label}</span>
                   <span className="coll-count">
-                    {s.seen} of {s.total}
+                    {s.seen} {S.ofc} {s.total}
                   </span>
                 </p>
               ))}
@@ -123,10 +125,10 @@ export default function ProgressView({ today, onBack, onStartQuiz }: Props) {
 
       <div className="portability">
         <button className="text-btn" onClick={() => void doExport()}>
-          Export progress
+          {S.exportProgress}
         </button>
         <button className="text-btn" onClick={() => fileInput.current?.click()}>
-          Import progress
+          {S.importProgress}
         </button>
         <input
           ref={fileInput}

@@ -1,0 +1,64 @@
+{
+  "id": "the-gleaners",
+  "title": {
+    "en": "The Gleaners",
+    "es": "Las espigadoras"
+  },
+  "artist": "Jean-François Millet",
+  "year": 1857,
+  "movement": "realism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "84 x 112 cm",
+  "location": {
+    "museum": "Musée d'Orsay",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/the-gleaners.webp",
+    "width": 1600,
+    "height": 1198,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Three peasant women bend low across a shorn wheat field, gathering the stray stalks left after the harvest. Their backs are broad, their hands rough, their faces turned to the stubble. Behind them, sunlit and distant, a great harvest goes on: laden carts, tall stacks, a mounted overseer, a village on the horizon.",
+      "craft": "Millet builds the three figures like a frieze, weighty and rounded, close to the earth they work. Warm low light rakes across the field and gilds their caps and shoulders. He keeps detail soft and the palette earthen, so nothing distracts from the stooped bodies. The bright harvest behind, small and far off, is not theirs.",
+      "painter": "By 1857 Millet had left Paris for the village of Barbizon, on the edge of the Fontainebleau forest, where he settled among the rural poor he had grown up with in Normandy. The son of farmers, he painted labour without sentiment or protest. He insisted he was no socialist, only a man drawn to the human side of work.",
+      "point": "It insists that the hardest, humblest labour deserves the scale and dignity that art once reserved for saints and kings, and audiences read that claim as a threat."
+    },
+    "es": {
+      "scene": "Tres campesinas se inclinan sobre un campo de trigo ya segado y recogen las espigas sueltas que dejó la cosecha. Sus espaldas son anchas, sus manos ásperas, sus rostros vueltos hacia el rastrojo. Detrás, iluminada y lejana, sigue una gran cosecha: carros cargados, altos hacinamientos, un capataz a caballo y un pueblo en el horizonte.",
+      "craft": "Millet dispone las tres figuras como un friso, pesadas y redondeadas, pegadas a la tierra que trabajan. Una luz baja y cálida cruza el campo y dora sus cofias y sus hombros. Mantiene el detalle suave y la paleta terrosa, para que nada distraiga de los cuerpos encorvados. La cosecha luminosa del fondo, pequeña y distante, no es la suya.",
+      "painter": "Hacia 1857 Millet había dejado París por el pueblo de Barbizon, al borde del bosque de Fontainebleau, donde se instaló entre los campesinos pobres con los que había crecido en Normandía. Hijo de labradores, pintó el trabajo sin sentimentalismo ni protesta. Insistía en que no era socialista, solo un hombre atraído por el lado humano del trabajo.",
+      "point": "Afirma que el trabajo más duro y humilde merece la escala y la dignidad que el arte reservaba antes a santos y reyes, y el público leyó esa afirmación como una amenaza."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Gleaning was a legally protected right of the rural poor to collect the grain left after a harvest; Millet gives that lowly task a grand scale that the Salon usually kept for history and religion.",
+    "es": "Espigar era un derecho legalmente protegido de los pobres del campo para recoger el grano que quedaba tras la siega; Millet da a esa tarea humilde una escala solemne que el Salón reservaba a la historia y la religión."
+  },
+  "tags": [
+    "realism",
+    "peasants",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The gleaners gather only leftovers; gleaning was the right of the poorest to the scraps of a harvest they did not own.",
+      "es": "Las espigadoras solo recogen sobras; espigar era el derecho de los más pobres a las migajas de una cosecha que no era suya."
+    },
+    {
+      "en": "Far to the right, a mounted overseer watches over the stacks and the bustling reapers, a quiet reminder of who owns the field.",
+      "es": "A la derecha, lejos, un capataz a caballo vigila los hacinamientos y a los segadores atareados, recordando en silencio de quién es el campo."
+    },
+    {
+      "en": "The three bent figures never show their faces clearly; they read as types, the shape of poverty itself, rather than named individuals.",
+      "es": "Las tres figuras encorvadas nunca muestran el rostro con claridad; se leen como tipos, la forma misma de la pobreza, más que como individuos con nombre."
+    }
+  ]
+}

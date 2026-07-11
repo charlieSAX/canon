@@ -1,0 +1,64 @@
+{
+  "id": "portrait-of-adele-bloch-bauer-i",
+  "title": {
+    "en": "Portrait of Adele Bloch-Bauer I",
+    "es": "Retrato de Adele Bloch-Bauer I"
+  },
+  "artist": "Gustav Klimt",
+  "year": 1907,
+  "movement": "vienna-secession",
+  "medium": {
+    "en": "Oil, silver and gold leaf on canvas",
+    "es": "Óleo, pan de plata y pan de oro sobre lienzo"
+  },
+  "dimensions": "140 x 140 cm",
+  "location": {
+    "museum": "Neue Galerie",
+    "city": "New York"
+  },
+  "image": {
+    "src": "img/portrait-of-adele-bloch-bauer-i.webp",
+    "width": 1600,
+    "height": 1599,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGustav_Klimt%2C_1907%2C_Adele_Bloch-Bauer_I%2C_Neue_Galerie_New_York.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A dark-haired woman rises from a shimmering field of gold. Her pale face and hands are painted realistically, but her gown and the whole surrounding space dissolve into flat golden ornament, spirals, eyes and rectangles. A jewelled choker rings her throat as she gazes out with a faintly anxious intensity.",
+      "craft": "Klimt sets naturalistic flesh against acres of pure decoration. Real gold and silver leaf are pressed into the surface, worked with spirals and the eye motifs he borrowed from Byzantine mosaics. The flat gold denies depth, so Adele seems to hover, half woman and half icon, on a wall of precious metal.",
+      "painter": "Klimt was at the peak of his golden phase, having visited the mosaics of Ravenna. Adele Bloch-Bauer, wife of a wealthy sugar industrialist, was the only society woman he painted twice. The portrait took years and was finished in 1907, after Klimt had covered it in real gold.",
+      "point": "It fuses portrait and precious object, turning a real Viennese woman into a golden idol and marking the dazzling high point of Klimt's decorative art."
+    },
+    "es": {
+      "scene": "Una mujer de cabello oscuro emerge de un campo dorado y reluciente. Su rostro pálido y sus manos están pintados con realismo, pero el vestido y todo el espacio se disuelven en ornamento plano de oro: espirales, ojos y rectángulos. Una gargantilla de joyas ciñe su cuello mientras mira con leve intensidad ansiosa.",
+      "craft": "Klimt enfrenta la carne naturalista a extensiones de pura decoración. Pan de oro y de plata reales se prensan en la superficie, trabajados con espirales y los motivos de ojos que tomó del mosaico bizantino. El oro plano niega la profundidad, y Adele parece flotar, mitad mujer, mitad icono, sobre un muro de metal precioso.",
+      "painter": "Klimt estaba en la cima de su fase dorada, tras visitar los mosaicos de Rávena. Adele Bloch-Bauer, esposa de un rico industrial del azúcar, fue la única dama de la sociedad a la que retrató dos veces. La obra le llevó años y la terminó en 1907, tras cubrirla de oro auténtico.",
+      "point": "Funde retrato y objeto precioso, convierte a una mujer vienesa real en ídolo dorado y marca el deslumbrante punto culminante del arte decorativo de Klimt."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Looted by the Nazis and recovered by Adele's niece Maria Altmann after a long lawsuit, the portrait sold in 2006 for 135 million dollars, then a record for any painting.",
+    "es": "Saqueado por los nazis y recuperado por Maria Altmann, sobrina de Adele, tras un largo pleito, el retrato se vendió en 2006 por 135 millones de dólares, récord entonces para una pintura."
+  },
+  "tags": [
+    "vienna-secession",
+    "portrait",
+    "20th century"
+  ],
+  "notables": [
+    {
+      "en": "Only Adele's face, shoulders and hands are modelled in flesh; everything else flattens into shining, weightless pattern.",
+      "es": "Solo el rostro, los hombros y las manos de Adele están modelados como carne; todo lo demás se aplana en patrón brillante e ingrávido."
+    },
+    {
+      "en": "Small eye and oval motifs scattered through the gown come straight from Byzantine mosaic, worked in real gold leaf.",
+      "es": "Los pequeños ojos y óvalos repartidos por el vestido proceden del mosaico bizantino, trabajados en pan de oro auténtico."
+    },
+    {
+      "en": "Her tightly clasped hands, one covering the other, hint at a nervousness the golden splendour tries to hide.",
+      "es": "Sus manos muy juntas, una cubriendo la otra, insinúan un nerviosismo que el esplendor dorado intenta ocultar."
+    }
+  ]
+}

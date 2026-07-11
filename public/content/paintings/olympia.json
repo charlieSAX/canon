@@ -1,10 +1,16 @@
 {
   "id": "olympia",
-  "title": "Olympia",
+  "title": {
+    "en": "Olympia",
+    "es": "Olimpia"
+  },
   "artist": "Édouard Manet",
   "year": 1863,
-  "movement": "Realism",
-  "medium": "Oil on canvas",
+  "movement": "realism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
   "dimensions": "130.5 x 190 cm",
   "location": {
     "museum": "Musée d'Orsay",
@@ -18,15 +24,41 @@
     "license_note": "Public domain. Faithful reproduction of a work by Édouard Manet (died 1883)."
   },
   "text": {
-    "scene": "A naked woman reclines on white sheets, one hand flat on her thigh, a black ribbon at her throat and a slipper dangling from one foot. A maid brings a wrapped bouquet, presumably from a client; a black cat arches at the bed's end. She looks straight at you, unhurried and unashamed.",
-    "craft": "The pose quotes Titian's Venus of Urbino, but Manet strips out the honeyed glazes: flat frontal light, hard edges, broad planes of paint, and that level stare in place of a goddess's drowsy gaze. The affront was less the nudity than the modernity; everyone knew what profession they were looking at.",
-    "painter": "A well-born Parisian who wanted Salon medals rather than bohemian glory, Manet kept scandalising the juries he courted. His flat, quick, urban way of painting became the bridge into Impressionism, though he never exhibited with the group. Friends finally bought Olympia for the French state after his death. He died at 51 after a leg amputation."
+    "en": {
+      "scene": "A naked woman reclines on white sheets, one hand flat on her thigh, a black ribbon at her throat and a slipper dangling from one foot. A maid brings a wrapped bouquet, presumably from a client; a black cat arches at the bed's end. She looks straight at you, unhurried and unashamed.",
+      "craft": "The pose quotes Titian's Venus of Urbino, but Manet strips out the honeyed glazes: flat frontal light, hard edges, broad planes of paint, and that level stare in place of a goddess's drowsy gaze. The affront was less the nudity than the modernity; everyone knew what profession they were looking at.",
+      "painter": "A well-born Parisian who wanted Salon medals rather than bohemian glory, Manet kept scandalising the juries he courted. His flat, quick, urban way of painting became the bridge into Impressionism, though he never exhibited with the group. Friends finally bought Olympia for the French state after his death. He died at 51 after a leg amputation.",
+      "point": "Manet replaces a Venus available to the gaze with a modern woman who returns it and controls the encounter."
+    },
+    "es": {
+      "scene": "Una mujer desnuda se reclina sobre sábanas blancas, con una mano firme sobre el muslo, una cinta negra al cuello y una zapatilla colgando. Una criada trae un ramo, probablemente enviado por un cliente; un gato negro se arquea a los pies. Ella te mira sin prisa y sin vergüenza.",
+      "craft": "La pose cita la Venus de Urbino de Tiziano, pero Manet elimina sus veladuras melosas: luz frontal y plana, bordes duros, grandes zonas de pintura y una mirada directa en vez del sueño de una diosa. La ofensa no fue tanto la desnudez como la modernidad; todos reconocían su profesión.",
+      "painter": "Manet, parisino acomodado que deseaba medallas del Salón y no gloria bohemia, escandalizó una y otra vez a los jurados que cortejaba. Su pintura plana, rápida y urbana abrió el camino al impresionismo, aunque nunca expuso con el grupo. Tras su muerte, sus amigos compraron Olimpia para el Estado francés.",
+      "point": "Manet sustituye la Venus disponible para la mirada por una mujer moderna que devuelve esa mirada y controla el encuentro."
+    }
   },
-  "draft": true,
-  "fact": "The model was Victorine Meurent, a painter in her own right who later exhibited at the same Salon that had jeered her body on Manet's canvas.",
+  "draft": false,
+  "fact": {
+    "en": "The model was Victorine Meurent, a painter in her own right who later exhibited at the same Salon that had jeered her body on Manet's canvas.",
+    "es": "La modelo fue Victorine Meurent, pintora por derecho propio, que más tarde expuso en el mismo Salón que había abucheado su cuerpo en el lienzo de Manet."
+  },
   "tags": [
-    "Realism",
+    "realism",
     "nude",
     "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The black cat replaces the faithful dog in Titian's Venus of Urbino.",
+      "es": "El gato negro sustituye al perro fiel de la Venus de Urbino de Tiziano."
+    },
+    {
+      "en": "The orchid in Olympia's hair carried an openly sexual association for contemporary viewers.",
+      "es": "La orquídea del cabello de Olimpia tenía una asociación sexual evidente para el público."
+    },
+    {
+      "en": "The bouquet arrives wrapped in paper, like a delivery from a waiting client.",
+      "es": "El ramo llega envuelto en papel, como un envío de un cliente que espera."
+    }
   ]
 }

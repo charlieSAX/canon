@@ -9,11 +9,23 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       workbox: {
-        // Precache the whole shell, all content JSON and all seed images.
-        // TODO at 50+ paintings: drop webp from globPatterns and move /img/
-        // to a runtime cache-first strategy instead.
-        globPatterns: ['**/*.{js,css,html,woff2,webp,png,json,svg}'],
-        maximumFileSizeToCacheInBytes: 8 * 1024 * 1024
+        // Shell, fonts, icons and ALL content JSON are precached. At 100
+        // paintings the images moved to runtime cache-first (the v1 TODO):
+        // a day's images are cached when first loaded and served from cache
+        // after that, so previously loaded days keep working offline.
+        globPatterns: ['**/*.{js,css,html,woff2,png,json,svg}'],
+        maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
+        runtimeCaching: [
+          {
+            urlPattern: ({ url }) => url.pathname.includes('/canon/img/'),
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'canon-images',
+              expiration: { maxEntries: 220, maxAgeSeconds: 60 * 60 * 24 * 365 },
+              cacheableResponse: { statuses: [0, 200] }
+            }
+          }
+        ]
       },
       manifest: {
         name: 'CANON',

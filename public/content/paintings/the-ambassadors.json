@@ -1,10 +1,16 @@
 {
   "id": "the-ambassadors",
-  "title": "The Ambassadors",
+  "title": {
+    "en": "The Ambassadors",
+    "es": "Los embajadores"
+  },
   "artist": "Hans Holbein the Younger",
   "year": 1533,
-  "movement": "Northern Renaissance",
-  "medium": "Oil on oak panel",
+  "movement": "northern-renaissance",
+  "medium": {
+    "en": "Oil on oak panel",
+    "es": "Óleo sobre tabla de roble"
+  },
   "dimensions": "207 x 209.5 cm",
   "location": {
     "museum": "The National Gallery",
@@ -18,15 +24,41 @@
     "license_note": "Public domain. Faithful reproduction of a work by Hans Holbein the Younger (died 1543)."
   },
   "text": {
-    "scene": "Two young Frenchmen at the English court, a landowner and a bishop, stand either side of a table stacked with globes, sundials, a lute and an open hymn book. Between them, smeared across the floor, lies a long grey streak that refuses to resolve into anything at all. Objects on the table quietly record both men's ages.",
-    "craft": "Holbein renders fur, velvet and polished instruments with cold exactness, then plants one deliberate distortion: the streak is a skull, painted in stretched perspective so it only snaps into shape from the far right edge. A broken lute string and a half-hidden crucifix carry the same quiet warning. The device is called anamorphosis, and this is its masterpiece.",
-    "painter": "Born in Augsburg, trained beside his father, Holbein made his name in Basel and then in London, where he became King's Painter to Henry VIII. His portraits fixed the faces of the Tudor court so completely that we still see those people through his eyes. Plague killed him at about 45."
+    "en": {
+      "scene": "Two young Frenchmen at the English court, a landowner and a bishop, stand either side of a table stacked with globes, sundials, a lute and an open hymn book. Between them, smeared across the floor, lies a long grey streak that refuses to resolve into anything at all. Objects on the table quietly record both men's ages.",
+      "craft": "Holbein renders fur, velvet and polished instruments with cold exactness, then plants one deliberate distortion: the streak is a skull, painted in stretched perspective so it only snaps into shape from the far right edge. A broken lute string and a half-hidden crucifix carry the same quiet warning. The device is called anamorphosis, and this is its masterpiece.",
+      "painter": "Born in Augsburg, trained beside his father, Holbein made his name in Basel and then in London, where he became King's Painter to Henry VIII. His portraits fixed the faces of the Tudor court so completely that we still see those people through his eyes. Plague killed him at about 45.",
+      "point": "Knowledge, wealth and diplomacy command the room, but death cuts across everything the men can master."
+    },
+    "es": {
+      "scene": "Dos jóvenes franceses en la corte inglesa, un terrateniente y un obispo, flanquean una mesa cubierta de globos, relojes solares, un laúd y un libro de himnos. Entre ambos, extendida por el suelo, hay una franja gris que se resiste a tomar forma. Los objetos registran incluso las edades de los retratados.",
+      "craft": "Holbein pinta piel, terciopelo e instrumentos pulidos con exactitud fría, y después introduce una distorsión deliberada: la franja es una calavera alargada que solo recupera su forma desde el extremo derecho. Una cuerda rota del laúd y un crucifijo casi oculto repiten la advertencia. La técnica se llama anamorfosis.",
+      "painter": "Nacido en Augsburgo y formado junto a su padre, Holbein triunfó primero en Basilea y después en Londres, donde fue pintor de Enrique VIII. Sus retratos fijaron los rostros de la corte Tudor con tal autoridad que todavía vemos a esas personas a través de sus ojos. Murió de peste hacia los cuarenta y cinco años.",
+      "point": "Conocimiento, riqueza y diplomacia ocupan la escena, pero la muerte atraviesa todo aquello que los hombres dominan."
+    }
   },
-  "draft": true,
-  "fact": "Stand to the right of the painting, almost against the wall, and the grey smear across the floor becomes a perfect skull staring back; from the front it stays unreadable.",
+  "draft": false,
+  "fact": {
+    "en": "Stand to the right of the painting, almost against the wall, and the grey smear across the floor becomes a perfect skull staring back; from the front it stays unreadable.",
+    "es": "Al mirar desde la derecha, casi pegado a la pared, la mancha gris del suelo se convierte en una calavera perfecta; vista de frente permanece ilegible."
+  },
   "tags": [
-    "Northern Renaissance",
+    "northern-renaissance",
     "double portrait",
     "16th century"
+  ],
+  "notables": [
+    {
+      "en": "The broken lute string may evoke political and religious discord in Europe.",
+      "es": "La cuerda rota del laúd puede aludir a la discordia política y religiosa europea."
+    },
+    {
+      "en": "A crucifix peeks from behind the green curtain at the upper left.",
+      "es": "Un crucifijo asoma detrás de la cortina verde en la esquina superior izquierda."
+    },
+    {
+      "en": "The floor pattern copies the medieval Cosmati pavement in Westminster Abbey.",
+      "es": "El suelo reproduce el pavimento medieval de estilo cosmatesco de la abadía de Westminster."
+    }
   ]
 }

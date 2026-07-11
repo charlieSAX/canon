@@ -1,0 +1,68 @@
+{
+  "id": "the-calling-of-saint-matthew",
+  "title": {
+    "en": "The Calling of Saint Matthew",
+    "es": "La vocación de san Mateo"
+  },
+  "artist": "Caravaggio",
+  "year": 1600,
+  "movement": "baroque",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "340 x 322 cm",
+  "location": {
+    "museum": "San Luigi dei Francesi",
+    "city": "Rome"
+  },
+  "image": {
+    "src": "img/the-calling-of-saint-matthew.webp",
+    "width": 1600,
+    "height": 1515,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMichelangelo_Caravaggio_040.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A shaft of light cuts across a dim room where a tax collector and his well-dressed companions sit counting coins at a table. From the shadows on the right, Christ enters and points towards them. One of the seated men looks up and gestures to his own chest, startled, as if asking who is meant.",
+      "craft": "Caravaggio stages the miracle in a Roman tavern, in the clothes of his own day. A single diagonal of light does the theology, travelling with Christ's pointing hand to strike Matthew's face out of deep shadow. The bodies emerge from blackness in raking light, a technique, tenebrism, that made Caravaggio famous.",
+      "painter": "Caravaggio was about twenty-eight and still little known when this, his first major public commission, made his name overnight in Rome. He worked straight onto canvas from live models off the street, scorning preparatory drawings. Violent, brilliant and quarrelsome, he would later kill a man and die on the run at thirty-eight.",
+      "point": "The instant of a calling. An ordinary, sinful man is picked out of the crowd by a pointing finger and a beam of light, and everything in his life is about to change."
+    },
+    "es": {
+      "scene": "Un haz de luz atraviesa una sala en penumbra donde un recaudador de impuestos y sus compañeros bien vestidos cuentan monedas en una mesa. Desde la sombra de la derecha, Cristo entra y los señala. Uno de los sentados alza la vista y se lleva la mano al pecho, sobresaltado, como preguntando a quién se refiere.",
+      "craft": "Caravaggio sitúa el milagro en una taberna romana, con la ropa de su tiempo. Una sola diagonal de luz hace la teología: viaja con la mano de Cristo hasta arrancar de la sombra el rostro de Mateo. Los cuerpos surgen de la negrura en luz rasante, la técnica del tenebrismo que hizo famoso a Caravaggio.",
+      "painter": "Caravaggio tenía unos veintiocho años y era aún poco conocido cuando esta, su primera gran obra pública, le dio nombre de la noche a la mañana en Roma. Pintaba directamente sobre el lienzo con modelos vivos de la calle, despreciando los dibujos previos. Violento y genial, mataría a un hombre y moriría huido a los treinta y ocho.",
+      "point": "El instante de una vocación. A un hombre común y pecador lo escoge de entre la multitud un dedo que señala y un haz de luz, y toda su vida está a punto de cambiar."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Christ's outstretched, pointing hand is a direct quotation of Adam's hand from Michelangelo's Creation of Adam, reversing the gesture: here man is called to life, not given it.",
+    "es": "La mano extendida de Cristo es una cita directa de la mano de Adán en la Creación de Adán de Miguel Ángel, con el gesto invertido: aquí se llama al hombre a la vida, no se le da."
+  },
+  "tags": [
+    "baroque",
+    "religious",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "Christ's pointing hand deliberately echoes Adam's limp hand in Michelangelo's Creation of Adam on the Sistine ceiling.",
+      "es": "La mano que señala de Cristo repite a propósito la mano lánguida de Adán en la Creación de Adán de Miguel Ángel."
+    },
+    {
+      "en": "Scholars still argue which man is Matthew: the bearded one pointing at himself, or the youth with his head bowed over the coins.",
+      "es": "Los estudiosos aún discuten quién es Mateo: el barbudo que se señala, o el joven inclinado sobre las monedas."
+    },
+    {
+      "en": "The light enters from the right, following Christ's gesture, not from the real window painted above the men.",
+      "es": "La luz entra por la derecha, siguiendo el gesto de Cristo, no por la ventana real pintada sobre los hombres."
+    },
+    {
+      "en": "Christ and Peter are barefoot and plainly dressed, while the tax collectors wear the fashionable finery of Caravaggio's Rome.",
+      "es": "Cristo y Pedro van descalzos y con ropa sencilla, mientras los recaudadores lucen las galas de moda de la Roma de Caravaggio."
+    }
+  ]
+}

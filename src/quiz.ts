@@ -1,25 +1,26 @@
-import type { Painting } from './types'
+import type { Lang, Painting } from './types'
 import { db } from './db'
-import { loadAllPaintings } from './content'
-import { ordinalCentury } from './content'
+import { loadAllPaintings, loadMovements } from './content'
 
 export const SESSION_LENGTH = 8
 
-export type QuestionType = 'title-to-painting' | 'painting-to-artist' | 'fact-to-painting' | 'chronology'
+export type QuestionType =
+  | 'title-to-painting'
+  | 'painting-to-artist'
+  | 'point'
+  | 'fact-to-painting'
+  | 'style'
+  | 'chronology'
+  | 'notable'
 
-export interface Question {
-  type: QuestionType
-  target: Painting
-  options: Painting[] // shuffled; includes target for choice types, the sequence pool for chronology
-}
+export type Question =
+  | { kind: 'image-grid'; type: 'title-to-painting' | 'fact-to-painting' | 'notable'; target: Painting; prompt: string; options: Painting[] }
+  | { kind: 'text-choice'; type: 'painting-to-artist' | 'point' | 'style'; target: Painting; prompt: string; options: Array<{ key: string; label: string }>; correctKey: string }
+  | { kind: 'chronology'; type: 'chronology'; target: Painting; options: Painting[] }
 
 export async function quizUnlockThreshold(): Promise<number> {
   const total = (await loadAllPaintings()).size
   return Math.min(15, total)
-}
-
-export async function seenCount(): Promise<number> {
-  return db.seen.count()
 }
 
 function shuffle<T>(arr: T[]): T[] {
@@ -33,14 +34,14 @@ function shuffle<T>(arr: T[]): T[] {
 
 // Sample 3 from the seen pool, preferring same century or movement when at
 // least 3 such candidates exist, otherwise uniform random. The answer key
-// (id, title or artist) is never duplicated among the options. With a large
-// Phase 2 pool, key dedup can leave fewer than 3 distractors when kin share
-// an artist; the question renders with fewer options rather than duplicating.
+// (id, artist or point text) is never duplicated among the options. With a
+// large pool, key dedup can leave fewer than 3 distractors when kin share a
+// key; the question renders with fewer options rather than duplicating.
 function distractors(target: Painting, pool: Painting[], keyOf: (p: Painting) => string, n = 3): Painting[] {
   const used = new Set([keyOf(target)])
   const others = pool.filter((p) => p.id !== target.id && !used.has(keyOf(p)))
   const kin = others.filter(
-    (p) => p.movement === target.movement || ordinalCentury(p.year) === ordinalCentury(target.year)
+    (p) => p.movement === target.movement || Math.ceil(p.year / 100) === Math.ceil(target.year / 100)
   )
   const source = kin.length >= n ? kin : others
   const out: Painting[] = []
@@ -53,16 +54,28 @@ function distractors(target: Painting, pool: Painting[], keyOf: (p: Painting) =>
   return out
 }
 
-const KEY_FOR: Record<Exclude<QuestionType, 'chronology'>, (p: Painting) => string> = {
-  'title-to-painting': (p) => p.id,
-  'painting-to-artist': (p) => p.artist,
-  'fact-to-painting': (p) => p.id
+const ROTATION: QuestionType[] = [
+  'title-to-painting',
+  'point',
+  'painting-to-artist',
+  'notable',
+  'style',
+  'fact-to-painting',
+  'chronology'
+]
+
+function feasible(type: QuestionType, target: Painting, pool: Painting[]): boolean {
+  if (type === 'chronology') {
+    const years = new Set(pool.filter((p) => p.id !== target.id && p.year !== target.year).map((p) => p.year))
+    return years.size >= 2
+  }
+  if (type === 'notable') return target.notables.length > 0
+  return true
 }
 
-const ROTATION: QuestionType[] = ['title-to-painting', 'painting-to-artist', 'fact-to-painting', 'chronology']
-
-export async function buildSession(now: Date): Promise<Question[]> {
+export async function buildSession(now: Date, lang: Lang): Promise<Question[]> {
   const all = await loadAllPaintings()
+  const movements = await loadMovements()
   const seenRows = await db.seen.toArray()
   const pool = seenRows
     .map((r) => all.get(r.paintingId))
@@ -80,16 +93,13 @@ export async function buildSession(now: Date): Promise<Question[]> {
     .slice(0, SESSION_LENGTH)
 
   const questions: Question[] = []
-  let rotationIndex = 0
+  let r = 0
   for (const target of picked) {
-    let type = ROTATION[rotationIndex % ROTATION.length]
-    // Chronology needs three paintings with distinct years in the pool.
-    if (type === 'chronology') {
-      const candidates = pool.filter((p) => p.id !== target.id && p.year !== target.year)
-      const distinctYears = new Set(candidates.map((p) => p.year))
-      if (distinctYears.size < 2) type = ROTATION[(rotationIndex + 1) % ROTATION.length]
+    let type = ROTATION[r % ROTATION.length]
+    for (let hop = 0; hop < ROTATION.length && !feasible(type, target, pool); hop += 1) {
+      type = ROTATION[(r + hop + 1) % ROTATION.length]
     }
-    rotationIndex += 1
+    r += 1
 
     if (type === 'chronology') {
       const candidates = shuffle(pool.filter((p) => p.id !== target.id && p.year !== target.year))
@@ -98,11 +108,57 @@ export async function buildSession(now: Date): Promise<Question[]> {
         if (chosen.length === 3) break
         if (!chosen.some((x) => x.year === c.year)) chosen.push(c)
       }
-      questions.push({ type, target, options: shuffle(chosen) })
-    } else {
-      const keyOf = KEY_FOR[type]
+      questions.push({ kind: 'chronology', type, target, options: shuffle(chosen) })
+    } else if (type === 'title-to-painting' || type === 'fact-to-painting' || type === 'notable') {
+      const prompt =
+        type === 'title-to-painting'
+          ? target.title[lang]
+          : type === 'fact-to-painting'
+            ? target.fact[lang]
+            : target.notables[Math.floor(Math.random() * target.notables.length)][lang]
+      const keyOf = type === 'title-to-painting' ? (p: Painting) => p.title[lang] : (p: Painting) => p.id
       const opts = shuffle([target, ...distractors(target, pool, keyOf)])
-      questions.push({ type, target, options: opts })
+      questions.push({ kind: 'image-grid', type, target, prompt, options: opts })
+    } else if (type === 'painting-to-artist') {
+      const opts = shuffle([target, ...distractors(target, pool, (p) => p.artist)])
+      questions.push({
+        kind: 'text-choice',
+        type,
+        target,
+        prompt: '',
+        options: opts.map((p) => ({ key: p.artist, label: p.artist })),
+        correctKey: target.artist
+      })
+    } else if (type === 'point') {
+      const opts = shuffle([target, ...distractors(target, pool, (p) => p.text[lang].point)])
+      questions.push({
+        kind: 'text-choice',
+        type,
+        target,
+        prompt: '',
+        options: opts.map((p) => ({ key: p.id, label: p.text[lang].point })),
+        correctKey: target.id
+      })
+    } else {
+      // style: movement options drawn from the seen pool, topped up from all
+      // content movements when the pool is narrow.
+      const poolSlugs = [...new Set(pool.map((p) => p.movement))].filter((m) => m !== target.movement)
+      const allSlugs = [...new Set([...all.values()].map((p) => p.movement))].filter(
+        (m) => m !== target.movement && !poolSlugs.includes(m)
+      )
+      const slugs = [target.movement, ...shuffle(poolSlugs).slice(0, 3)]
+      for (const s of shuffle(allSlugs)) {
+        if (slugs.length === 4) break
+        slugs.push(s)
+      }
+      questions.push({
+        kind: 'text-choice',
+        type,
+        target,
+        prompt: '',
+        options: shuffle(slugs).map((s) => ({ key: s, label: movements[s]?.name[lang] ?? s })),
+        correctKey: target.movement
+      })
     }
   }
   return questions

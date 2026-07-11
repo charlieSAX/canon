@@ -1,0 +1,64 @@
+{
+  "id": "the-raft-of-the-medusa",
+  "title": {
+    "en": "The Raft of the Medusa",
+    "es": "La balsa de la Medusa"
+  },
+  "artist": "Théodore Géricault",
+  "year": 1819,
+  "movement": "romanticism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "491 x 716 cm",
+  "location": {
+    "museum": "Musée du Louvre",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/the-raft-of-the-medusa.webp",
+    "width": 1600,
+    "height": 1092,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre%2C_1818-19).jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "On a makeshift raft tossed on a heaving sea, a pyramid of half-naked survivors strains upward. The dead and dying sprawl below; at the summit a Black sailor waves a scrap of cloth toward a tiny ship on the horizon. Some strain to see it, others have already given up, slumped over corpses.",
+      "craft": "Géricault builds the whole scene as two diagonals: one of bodies rising to the waving man, one of the mast leaning against the wind. He models the flesh with morgue-cold precision, then floods it with stormy Baroque light and shadow. The horizon is set brutally low, so the sea seems ready to swallow everyone.",
+      "painter": "Géricault was only twenty-seven, hungry to make his name with something raw and current. He interviewed survivors, had a carpenter build a model raft, and studied severed limbs and corpses in the morgue to get the dead flesh right. He shaved his head and shut himself away for months to finish it.",
+      "point": "A national scandal turned into a monument: a government's negligence killed these people, and Géricault forces the viewer onto the raft with the last survivors, between hope and despair."
+    },
+    "es": {
+      "scene": "Sobre una balsa improvisada zarandeada por un mar embravecido, una pirámide de supervivientes semidesnudos se estira hacia arriba. Los muertos y moribundos yacen abajo; en la cima, un marinero negro agita un jirón de tela hacia un barco diminuto en el horizonte. Algunos se esfuerzan por verlo, otros ya se han rendido, desplomados sobre los cadáveres.",
+      "craft": "Géricault construye la escena con dos diagonales: una de cuerpos que ascienden hacia el hombre que hace señas, otra del mástil inclinado contra el viento. Modela la carne con fría precisión de morgue y la inunda de luz y sombra barrocas y tormentosas. El horizonte queda brutalmente bajo, y el mar parece a punto de tragarse a todos.",
+      "painter": "Géricault tenía solo veintisiete años y ansiaba hacerse un nombre con algo crudo y actual. Entrevistó a los supervivientes, encargó a un carpintero una maqueta de la balsa y estudió miembros amputados y cadáveres en la morgue para acertar con la carne muerta. Se rapó la cabeza y se encerró durante meses para terminarla.",
+      "point": "Un escándalo nacional convertido en monumento: la negligencia de un gobierno mató a esta gente, y Géricault obliga al espectador a subir a la balsa con los últimos supervivientes, entre la esperanza y la desesperación."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The frigate Méduse ran aground in 1816 and about 147 people were cast onto the raft; after thirteen days of thirst, murder and cannibalism, only fifteen were still alive.",
+    "es": "La fragata Méduse encalló en 1816 y unas 147 personas quedaron a la deriva en la balsa; tras trece días de sed, asesinatos y canibalismo, solo quince seguían con vida."
+  },
+  "tags": [
+    "romanticism",
+    "shipwreck",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The rescue ship is a speck on the horizon, so small it is easy to miss.",
+      "es": "El barco de rescate es una mota en el horizonte, tan pequeño que es fácil pasarlo por alto."
+    },
+    {
+      "en": "A Black crewman is placed at the very top, the highest point of hope in the picture.",
+      "es": "Un tripulante negro ocupa el punto más alto, la cota máxima de esperanza del cuadro."
+    },
+    {
+      "en": "In the foreground an older man cradles a dead youth, past hope while the others still signal.",
+      "es": "En primer plano, un anciano sostiene a un joven muerto, sin esperanza mientras los demás aún hacen señas."
+    }
+  ]
+}

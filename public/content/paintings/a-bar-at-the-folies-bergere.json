@@ -1,0 +1,64 @@
+{
+  "id": "a-bar-at-the-folies-bergere",
+  "title": {
+    "en": "A Bar at the Folies-Bergère",
+    "es": "Un bar del Folies-Bergère"
+  },
+  "artist": "Édouard Manet",
+  "year": 1882,
+  "movement": "realism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "96 x 130 cm",
+  "location": {
+    "museum": "The Courtauld Gallery",
+    "city": "London"
+  },
+  "image": {
+    "src": "img/a-bar-at-the-folies-bergere.webp",
+    "width": 1600,
+    "height": 1175,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3A%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_(1882).jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A young barmaid stands facing us behind a marble counter laid with bottles, a bowl of oranges and a vase of flowers. Behind her, a vast mirror reflects the crowded, glittering music hall: chandeliers, balconies, a dense evening crowd. In the mirror at the right she leans toward a top-hatted customer we cannot see face on.",
+      "craft": "Almost the whole scene is a reflection. Manet paints the barmaid frontally and still, then, in the mirror, shifts her sideways and bends her toward a client, a perspective that cannot be true. Loose, sparkling strokes conjure glass, gaslight and satin, while the impossible geometry quietly unsettles everything you think you see.",
+      "painter": "This was Manet's last great painting, made as his health collapsed under the illness that would kill him within a year. Too weak to work at the Folies-Bergère itself, he had a barmaid named Suzon pose in his studio beside a mock counter. After decades of scandal, the ageing painter was finally, grudgingly, being honoured.",
+      "point": "Behind the glitter of modern Paris, Manet paints a working woman's solitude and the transaction beneath the gaiety, using a broken mirror-world to show that appearances lie."
+    },
+    "es": {
+      "scene": "Una joven camarera está frente a nosotros tras un mostrador de mármol con botellas, un frutero de naranjas y un jarrón de flores. Detrás, un enorme espejo refleja la sala abarrotada y reluciente: lámparas, palcos y una multitud nocturna. En el espejo, a la derecha, se inclina hacia un cliente de chistera al que no vemos de frente.",
+      "craft": "Casi toda la escena es un reflejo. Pinta a la camarera de frente y quieta; en el espejo, la desplaza de lado y la inclina hacia un cliente, en una perspectiva imposible. Pinceladas sueltas y centelleantes evocan el cristal, el gas y el raso, mientras esa geometría falsa desazona todo lo que uno cree ver.",
+      "painter": "Fue el último gran cuadro de Manet, hecho mientras la enfermedad que lo mataría en un año hundía su salud. Demasiado débil para trabajar en el propio Folies-Bergère, hizo posar en su estudio a una camarera llamada Suzon junto a un mostrador simulado. Tras décadas de escándalo, por fin se le honraba a regañadientes.",
+      "point": "Tras el brillo del París moderno, Manet pinta la soledad de una mujer trabajadora y la transacción que late bajo la alegría, y usa un mundo de espejo roto para mostrar que las apariencias engañan."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Nearly everything in the painting is a mirror reflection, and Manet deliberately painted the barmaid's reflected back and her customer out of true, in a perspective that is physically impossible.",
+    "es": "Casi todo lo que se ve es un reflejo, y Manet pintó adrede la espalda reflejada de la camarera y a su cliente fuera de lugar, en una perspectiva físicamente imposible."
+  },
+  "tags": [
+    "realism",
+    "nightlife",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "In the reflection the barmaid's back and the customer are shifted far to the right, where a straight-on mirror could never place them.",
+      "es": "En el reflejo, la espalda de la camarera y el cliente aparecen desplazados muy a la derecha, donde un espejo frontal nunca podría situarlos."
+    },
+    {
+      "en": "Manet signed the picture on the label of a bottle at the lower left of the counter.",
+      "es": "Manet firmó el cuadro en la etiqueta de una botella, en el extremo inferior izquierdo del mostrador."
+    },
+    {
+      "en": "Top left, the green-shod feet of a trapeze artist dangle into the frame, a scrap of the circus overhead.",
+      "es": "Arriba a la izquierda, los pies con calzado verde de una trapecista cuelgan dentro del encuadre, un retazo del circo que hay encima."
+    }
+  ]
+}

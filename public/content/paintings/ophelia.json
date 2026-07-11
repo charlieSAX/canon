@@ -1,0 +1,64 @@
+{
+  "id": "ophelia",
+  "title": {
+    "en": "Ophelia",
+    "es": "Ofelia"
+  },
+  "artist": "John Everett Millais",
+  "year": 1852,
+  "movement": "pre-raphaelite",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "76 x 112 cm",
+  "location": {
+    "museum": "Tate Britain",
+    "city": "London"
+  },
+  "image": {
+    "src": "img/ophelia.webp",
+    "width": 1600,
+    "height": 1164,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMillais_-_Ophelia.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A young woman floats on her back in a dark stream, her brocade dress spread and slowly pulling her under. Her hands drift open at the surface, her lips parted in song as the water takes her. All around, painted with startling precision, grow reeds, willows and scattered flowers along the green bank.",
+      "craft": "Millais painted the riverbank outdoors over months, every leaf and petal recorded like a naturalist, then added the figure later in the studio. The flowers are botanically exact and each carries meaning from the play. Deep greens and glassy water surround the pale face, so beauty and death share one luminous surface.",
+      "painter": "Millais was barely twenty-two, a founder of the young Pre-Raphaelite Brotherhood in open revolt against the art establishment. His model, Elizabeth Siddal, lay for hours in a bath of water kept warm by lamps beneath. When the lamps went out and Millais painted on, she caught a serious chill and her father demanded he pay the doctor.",
+      "point": "Shakespeare's drowning Ophelia painted as if real: the Pre-Raphaelites make a literary death exact and physical, so that unbearable beauty and quiet horror occupy the same still water."
+    },
+    "es": {
+      "scene": "Una joven flota boca arriba en un arroyo oscuro; el vestido de brocado, extendido, la arrastra poco a poco al fondo. Sus manos se abren en la superficie y sus labios se entreabren en un canto mientras el agua se la lleva. Alrededor, con precisión asombrosa, crecen juncos, sauces y flores por la orilla verde.",
+      "craft": "Millais pintó la orilla al aire libre durante meses, registrando cada hoja y pétalo como un naturalista, y añadió la figura después en el estudio. Las flores son botánicamente exactas y cada una lleva un significado de la obra. Verdes profundos y agua vidriosa rodean el rostro pálido: la belleza y la muerte comparten una superficie luminosa.",
+      "painter": "Millais tenía apenas veintidós años, fundador de la joven Hermandad Prerrafaelita en abierta rebeldía contra el arte oficial. Su modelo, Elizabeth Siddal, permaneció horas en una bañera con agua calentada por lámparas debajo. Cuando las lámparas se apagaron y Millais siguió pintando, ella cogió un fuerte resfriado y su padre le exigió que pagara al médico.",
+      "point": "La Ofelia ahogada de Shakespeare pintada como si fuera real: los prerrafaelitas vuelven exacta y física una muerte literaria, para que la belleza insoportable y el horror callado ocupen la misma agua quieta."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "To pose as the drowning Ophelia, Elizabeth Siddal lay in a bathtub warmed by lamps; the lamps went out, Millais painted on, and she fell so ill her father sent him the doctor's bill.",
+    "es": "Para posar como la Ofelia ahogada, Elizabeth Siddal se tendió en una bañera calentada por lámparas; las lámparas se apagaron, Millais siguió pintando y ella enfermó tanto que su padre le envió la factura del médico."
+  },
+  "tags": [
+    "pre-raphaelite",
+    "drowning",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The flowers are drawn from Ophelia's own speeches: poppies for death, daisies for innocence, violets for faithfulness.",
+      "es": "Las flores proceden de los propios versos de Ofelia: amapolas por la muerte, margaritas por la inocencia, violetas por la fidelidad."
+    },
+    {
+      "en": "A robin sits in the willow at upper left, echoing a line from one of Ophelia's songs.",
+      "es": "Un petirrojo se posa en el sauce, arriba a la izquierda, eco de un verso de una de las canciones de Ofelia."
+    },
+    {
+      "en": "A ghostly skull shape is said to hide in the foliage on the right bank.",
+      "es": "Se dice que una forma fantasmal de calavera se esconde entre el follaje de la orilla derecha."
+    }
+  ]
+}

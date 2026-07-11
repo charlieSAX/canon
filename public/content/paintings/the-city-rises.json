@@ -1,0 +1,64 @@
+{
+  "id": "the-city-rises",
+  "title": {
+    "en": "The City Rises",
+    "es": "La ciudad se levanta"
+  },
+  "artist": "Umberto Boccioni",
+  "year": 1910,
+  "movement": "futurism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "199.3 x 301 cm",
+  "location": {
+    "museum": "Museum of Modern Art",
+    "city": "New York"
+  },
+  "image": {
+    "src": "img/the-city-rises.webp",
+    "width": 1600,
+    "height": 1062,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AThe_City_Rises_by_Umberto_Boccioni_1910.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A huge red workhorse surges forward, hauling and rearing while labourers strain to hold it. Their bodies and the horse blur into swirling strokes of colour, half dissolved by their own motion. Behind them rise the scaffolds, factory walls and chimneys of a new city under construction.",
+      "craft": "Boccioni fuses Impressionist broken colour with a drive to paint pure energy. Long, streaming brushstrokes and dissolving outlines make horse and men read as forces rather than solid bodies. The composition swings on a great diagonal, so the whole surface heaves with the effort of labour and the momentum of a rising industrial age.",
+      "painter": "Boccioni was the leading painter of Italian Futurism, a movement in love with speed, machines and the modern city, launched by Marinetti's manifesto of 1909. He called this his first truly Futurist picture. In 1916 he died young, thrown from a horse during military training.",
+      "point": "It makes labour and the building of the modern city heroic, turning muscle, horse and machine into one surging image of raw energy and progress."
+    },
+    "es": {
+      "scene": "Un enorme caballo rojo de tiro se lanza hacia delante, tirando y encabritándose mientras los obreros se esfuerzan por sujetarlo. Sus cuerpos y el caballo se difuminan en pinceladas arremolinadas, medio disueltos por su propio movimiento. Detrás se alzan los andamios, muros y chimeneas de una ciudad nueva en construcción.",
+      "craft": "Boccioni funde el color descompuesto del impresionismo con el afán de pintar pura energía. Pinceladas largas y contornos que se disuelven hacen que caballo y hombres se lean como fuerzas, no como cuerpos sólidos. La composición pivota sobre una gran diagonal, y toda la superficie se agita con el esfuerzo y el empuje industrial.",
+      "painter": "Boccioni fue el pintor principal del futurismo italiano, movimiento enamorado de la velocidad, las máquinas y la ciudad moderna, lanzado por el manifiesto de Marinetti de 1909. Llamó a esta su primera obra verdaderamente futurista. En 1916 murió joven, arrojado de un caballo durante una instrucción militar.",
+      "point": "Vuelve heroico el trabajo y la construcción de la ciudad moderna, y funde músculo, caballo y máquina en una sola imagen impetuosa de energía en bruto y progreso."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Nearly three metres wide, The City Rises is often called the first true Futurist painting, made when Boccioni was still in his twenties.",
+    "es": "De casi tres metros de ancho, La ciudad se levanta suele considerarse la primera pintura verdaderamente futurista, hecha cuando Boccioni aún tenía veintipocos años."
+  },
+  "tags": [
+    "futurism",
+    "city",
+    "20th century"
+  ],
+  "notables": [
+    {
+      "en": "The giant red horse dominating the centre is symbolic, not real, an image of raw industrial force overwhelming the workers.",
+      "es": "El gigantesco caballo rojo que domina el centro es simbólico, no real, imagen de la fuerza industrial en bruto que desborda a los obreros."
+    },
+    {
+      "en": "In the background, small figures raise the scaffolding and factory chimneys of a Milan suburb being built.",
+      "es": "Al fondo, pequeñas figuras levantan los andamios y las chimeneas de un suburbio de Milán en obras."
+    },
+    {
+      "en": "Look for the workmen almost swallowed by the horse and their own motion, bodies smeared into pure movement.",
+      "es": "Busca a los obreros casi tragados por el caballo y por su propio movimiento, cuerpos deshechos en puro impulso."
+    }
+  ]
+}

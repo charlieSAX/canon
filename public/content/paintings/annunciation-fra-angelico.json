@@ -1,0 +1,64 @@
+{
+  "id": "annunciation-fra-angelico",
+  "title": {
+    "en": "The Annunciation",
+    "es": "La Anunciación"
+  },
+  "artist": "Fra Angelico",
+  "year": 1426,
+  "movement": "early-renaissance",
+  "medium": {
+    "en": "Tempera and gold on panel",
+    "es": "Temple y oro sobre tabla"
+  },
+  "dimensions": "194 x 194 cm",
+  "location": {
+    "museum": "Museo del Prado",
+    "city": "Madrid"
+  },
+  "image": {
+    "src": "img/annunciation-fra-angelico.webp",
+    "width": 1600,
+    "height": 1579,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALa_Anunciaci%C3%B3n%2C_by_Fra_Angelico%2C_from_Prado_in_Google_Earth.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Under a pink colonnade, the angel Gabriel bows before the Virgin, both crossing their arms over their breasts as gold rays cross the space between them. To the left, in a flowering meadow, an angel drives Adam and Eve out of Eden. A swallow perches on the tie-beam above.",
+      "craft": "Fra Angelico sets the scene in a sharply ruled portico, its columns and coffered vault drawing the eye to a vanishing point deep in Mary's chamber. Jewel colours, tooled gold and clear morning light give the mystery a calm, measured order, the new Florentine perspective turned to devotion.",
+      "painter": "Painted around 1426, Fra Angelico was a Dominican friar known as the pious painter, working from the convent of San Domenico in Fiesole. Vasari wrote that he never took up his brush without prayer and wept as he painted the Crucifixion. Here he fuses new Florentine science with cloistered faith.",
+      "point": "Adam and Eve's fall and Mary's yes are shown in one frame: the sin that lost paradise and the moment that begins its recovery."
+    },
+    "es": {
+      "scene": "Bajo una columnata rosada, el ángel Gabriel se inclina ante la Virgen; ambos cruzan los brazos sobre el pecho mientras rayos dorados atraviesan el espacio entre ellos. A la izquierda, en un prado florido, un ángel expulsa a Adán y Eva del Edén. Una golondrina se posa en la viga superior.",
+      "craft": "Fra Angelico sitúa la escena en un pórtico de trazado preciso, cuyas columnas y bóveda de casetones llevan la mirada a un punto de fuga en el fondo de la alcoba de María. Colores de joya, oro labrado y luz matinal dan al misterio un orden sereno: la nueva perspectiva florentina al servicio de la devoción.",
+      "painter": "Pintada hacia 1426, Fra Angelico era un fraile dominico llamado el pintor piadoso, que trabajaba en el convento de San Domenico de Fiesole. Vasari escribió que nunca tomaba el pincel sin rezar y que lloraba al pintar la Crucifixión. Aquí funde la nueva ciencia florentina con la fe del claustro.",
+      "point": "La caída de Adán y Eva y el sí de María aparecen en un mismo cuadro: el pecado que perdió el paraíso y el instante en que empieza a recobrarse."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Fra Angelico paints humanity's expulsion from Eden and the angel's greeting to Mary in the same picture, so the fall and its undoing meet across a single garden wall.",
+    "es": "Fra Angelico pinta la expulsión del Edén y el saludo del ángel a María en el mismo cuadro, de modo que la caída y su reparación se encuentran junto a un mismo muro de jardín."
+  },
+  "tags": [
+    "early-renaissance",
+    "annunciation",
+    "15th century"
+  ],
+  "notables": [
+    {
+      "en": "At far left an angel expels Adam and Eve, linking humanity's fall directly to the redemption beginning at the right.",
+      "es": "En el extremo izquierdo un ángel expulsa a Adán y Eva, uniendo la caída de la humanidad a la redención que empieza a la derecha."
+    },
+    {
+      "en": "Five small predella panels beneath the main scene tell episodes from the Virgin's life, from her birth to her death.",
+      "es": "Cinco pequeñas escenas de la predela, bajo la principal, narran episodios de la vida de la Virgen, de su nacimiento a su muerte."
+    },
+    {
+      "en": "The garden's palm and red roses are symbols: Christ's coming martyrdom and the blood of the Passion.",
+      "es": "La palma y las rosas rojas del jardín son símbolos: el martirio venidero de Cristo y la sangre de la Pasión."
+    }
+  ]
+}

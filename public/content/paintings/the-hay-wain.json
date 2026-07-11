@@ -1,0 +1,64 @@
+{
+  "id": "the-hay-wain",
+  "title": {
+    "en": "The Hay Wain",
+    "es": "El carro de heno"
+  },
+  "artist": "John Constable",
+  "year": 1821,
+  "movement": "romanticism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "130 x 185 cm",
+  "location": {
+    "museum": "The National Gallery",
+    "city": "London"
+  },
+  "image": {
+    "src": "img/the-hay-wain.webp",
+    "width": 1600,
+    "height": 1103,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJohn-constable-the-hay-wain.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A midsummer noon on the River Stour. A wooden hay wagon, pulled by three horses, stands in the shallow water while a dog watches from the bank. To the left sits an old brick and timber cottage; beyond, water meadows stretch under a wide sky of drifting, sunlit cloud. Nothing dramatic happens at all.",
+      "craft": "Constable painted the sky as the keynote of the whole picture, flecking the green and water with tiny touches of white to catch flickering light, a technique later nicknamed Constable's snow. He worked from full-size oil sketches, keeping the finished surface fresh and broken rather than smoothly polished, so the landscape seems to breathe and move with weather.",
+      "painter": "Constable painted the Suffolk countryside of his boyhood over and over, refusing the grand tours and classical scenes his rivals favoured. Home ground was his whole subject. Ignored in England for years, he found sudden fame in France, where the freshness of this picture struck young painters as a revelation.",
+      "point": "Ordinary English countryside, painted with the seriousness once reserved for saints and heroes: Constable makes weather, water and a working cart into a subject worth a huge canvas."
+    },
+    "es": {
+      "scene": "Un mediodía de verano en el río Stour. Un carro de heno de madera, tirado por tres caballos, se detiene en el agua mientras un perro observa desde la orilla. A la izquierda se alza una vieja casa de ladrillo y madera; más allá, las praderas se extienden bajo un cielo amplio de nubes soleadas. No ocurre nada dramático.",
+      "craft": "Constable pintó el cielo como la clave del cuadro, salpicando el verde y el agua con toques de blanco para captar la luz temblorosa, técnica luego apodada la nieve de Constable. Trabajó a partir de bocetos al óleo a tamaño real y dejó la superficie fresca y quebrada, no pulida, para que el paisaje parezca respirar con el clima.",
+      "painter": "Constable pintó una y otra vez la campiña de Suffolk de su infancia, rechazando los grandes viajes y las escenas clásicas que preferían sus rivales. Su tierra natal era todo su tema. Ignorado en Inglaterra durante años, halló una fama repentina en Francia, donde la frescura de este cuadro pareció una revelación a los pintores jóvenes.",
+      "point": "Campiña inglesa corriente, pintada con la seriedad antes reservada a santos y héroes: Constable convierte el clima, el agua y un carro de labor en un tema digno de un lienzo enorme."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Constable was largely overlooked at home, but when The Hay Wain was shown in Paris in 1824 it won a gold medal and helped inspire Delacroix and the French Romantics.",
+    "es": "Constable fue muy ignorado en su país, pero cuando El carro de heno se expuso en París en 1824 ganó una medalla de oro y ayudó a inspirar a Delacroix y a los románticos franceses."
+  },
+  "tags": [
+    "romanticism",
+    "landscape",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The cottage belonged to farmer Willy Lott, who reportedly lived there over eighty years and rarely left.",
+      "es": "La casa pertenecía al granjero Willy Lott, que según se cuenta vivió allí más de ochenta años y apenas salía."
+    },
+    {
+      "en": "A small dog stands on the near bank, a quiet anchor pulling the eye into the scene.",
+      "es": "Un perro pequeño se detiene en la orilla cercana, un ancla silenciosa que atrae la mirada hacia la escena."
+    },
+    {
+      "en": "Look for the tiny figures haymaking in the sunlit meadow far behind the wagon.",
+      "es": "Busca las diminutas figuras que siegan el heno en la pradera soleada, muy detrás del carro."
+    }
+  ]
+}

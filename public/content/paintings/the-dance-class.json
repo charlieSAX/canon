@@ -1,0 +1,64 @@
+{
+  "id": "the-dance-class",
+  "title": {
+    "en": "The Dance Class",
+    "es": "La clase de danza"
+  },
+  "artist": "Edgar Degas",
+  "year": 1874,
+  "movement": "impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "85 x 75 cm",
+  "location": {
+    "museum": "Musée d'Orsay",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/the-dance-class.webp",
+    "width": 1394,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEdgar_Degas_-_The_Ballet_Class_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A ballet rehearsal winds down in a bright, high-ceilinged studio at the Paris Opera. Young dancers in white tulle stretch, scratch, adjust a ribbon or an earring and wait, scattered across the floor. At the centre the old ballet master leans on a long stick, watching. A small dog sits among them.",
+      "craft": "Degas was a draughtsman first, and it shows in the ruled floorboards and the deep, tilted perspective that pulls you into the room. He arranges the dancers off-centre, with an empty foreground, like a snapshot. Nothing is posed; the eye wanders from body to body as it would in a real, restless studio.",
+      "painter": "Degas was forty and, though he showed with the Impressionists, he rejected the label and painted indoors from memory and studies, not outdoors. He was obsessed with the ballet, returning to it in hundreds of works. He wanted to catch the unglamorous labour behind the performance: the aching feet, the boredom, the wait.",
+      "point": "The painting looks past the glamour of the stage to the discipline behind it: ballet as hard, repetitive work, and young girls as labourers rather than fairies."
+    },
+    "es": {
+      "scene": "Un ensayo de ballet toca a su fin en un estudio luminoso de la Ópera de París. Jóvenes bailarinas de tul blanco se estiran, se rascan, se ajustan una cinta o un pendiente y esperan, repartidas por el suelo. En el centro, el viejo maestro se apoya en un bastón y observa. Un perrito descansa entre ellas.",
+      "craft": "Degas era ante todo dibujante, y se nota en las tablas del suelo trazadas a regla y en la perspectiva profunda e inclinada que te arrastra a la sala. Coloca a las bailarinas descentradas, con un primer plano vacío, como en una instantánea. Nada está posado; la mirada vaga de un cuerpo a otro.",
+      "painter": "Degas tenía cuarenta años y, aunque exponía con los impresionistas, rechazaba la etiqueta y pintaba en el estudio, de memoria y con apuntes, no al aire libre. Obsesionado con el ballet, volvió a él en cientos de obras. Quería captar el trabajo sin gloria tras la función: los pies doloridos, el aburrimiento, la espera.",
+      "point": "El cuadro mira más allá del brillo del escenario, hacia la disciplina que lo sostiene: el ballet como trabajo duro y repetitivo, y las niñas como obreras, no como hadas."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Degas painted more than a thousand pictures of dancers, but rarely the performance itself; he was drawn to the rehearsals, the exhaustion and the waiting between steps.",
+    "es": "Degas pintó más de mil imágenes de bailarinas, pero rara vez la función en sí; le atraían los ensayos, el agotamiento y la espera entre paso y paso."
+  },
+  "tags": [
+    "impressionism",
+    "ballet",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The man with the stick is Jules Perrot, a famous real ballet master; Degas painted him over an earlier teacher.",
+      "es": "El hombre del bastón es Jules Perrot, un célebre maestro de ballet real; Degas lo pintó encima de un profesor anterior."
+    },
+    {
+      "en": "A small dog and a green watering can, used to damp the floor against dust, sit unnoticed among the dancers.",
+      "es": "Un perrito y una regadera verde, usada para humedecer el suelo contra el polvo, pasan inadvertidos entre las bailarinas."
+    },
+    {
+      "en": "Almost no one is dancing; the girls fidget, yawn and adjust their costumes, caught in the dead time of rehearsal.",
+      "es": "Casi nadie baila; las niñas se inquietan, bostezan y arreglan sus trajes, atrapadas en el tiempo muerto del ensayo."
+    }
+  ]
+}

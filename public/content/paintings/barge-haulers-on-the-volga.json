@@ -1,0 +1,64 @@
+{
+  "id": "barge-haulers-on-the-volga",
+  "title": {
+    "en": "Barge Haulers on the Volga",
+    "es": "Los sirgadores del Volga"
+  },
+  "artist": "Ilya Repin",
+  "year": 1873,
+  "movement": "realism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "132 x 281 cm",
+  "location": {
+    "museum": "State Russian Museum",
+    "city": "Saint Petersburg"
+  },
+  "image": {
+    "src": "img/barge-haulers-on-the-volga.webp",
+    "width": 1600,
+    "height": 749,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AIlya_Repin_-_Barge_Haulers_on_the_Volga_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Eleven ragged men, roped together in harness, drag a barge upstream along a wide, pale bank of the Volga. They lean into the straps, sunburnt and exhausted, boots sinking in the sand. The river and sky stretch empty behind them. Far off, the barge they are hauling rides high on the water.",
+      "craft": "Repin strings the haulers in a long, low band across the canvas, each face a separate study drawn from real men he met on the river. Hot, bleached light flattens the sand and throws every strained muscle into relief. The near-empty landscape and horizontal format make the labour feel endless and the men very small.",
+      "painter": "Repin was a young painter fresh from the St Petersburg Academy when he travelled the Volga in the early 1870s and lived among the barge haulers, sketching them and learning their names. The lead figure was modelled on a defrocked priest named Kanin, whose worn dignity Repin never forgot. The picture made his reputation.",
+      "point": "It turns the brute labour of the poor into a monument, forcing the comfortable classes to look at the human cost of the goods moving up their river."
+    },
+    "es": {
+      "scene": "Once hombres harapientos, uncidos por cuerdas, arrastran una barcaza río arriba por una orilla ancha y pálida del Volga. Se inclinan sobre las correas, quemados por el sol y agotados, con las botas hundidas en la arena. El río y el cielo se extienden vacíos tras ellos. A lo lejos, la barcaza que remolcan flota alta sobre el agua.",
+      "craft": "Repin alinea a los sirgadores en una franja larga y baja del lienzo; cada rostro es un estudio de hombres reales que conoció en el río. Una luz caliente y blanquecina aplana la arena y realza cada músculo en tensión. El paisaje casi vacío y el formato horizontal hacen que el esfuerzo parezca interminable y los hombres muy pequeños.",
+      "painter": "Repin era un pintor joven recién salido de la Academia de San Petersburgo cuando recorrió el Volga a comienzos de la década de 1870 y vivió entre los sirgadores, dibujándolos y aprendiendo sus nombres. La figura que va en cabeza se basó en Kanin, un sacerdote expulsado del oficio cuya dignidad gastada Repin no olvidó nunca. El cuadro lo consagró.",
+      "point": "Convierte en monumento el trabajo bruto de los pobres y obliga a las clases acomodadas a mirar el coste humano de las mercancías que suben por su río."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The eleven men were real barge haulers Repin met on the Volga; he recorded their names and histories, and modelled the group's leader on Kanin, a former priest who had lost his position.",
+    "es": "Los once hombres eran sirgadores reales que Repin conoció en el Volga; anotó sus nombres e historias y basó al líder del grupo en Kanin, un antiguo sacerdote que había perdido su puesto."
+  },
+  "tags": [
+    "realism",
+    "labour",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "In the middle of the line, a fair-haired youth in a red-toned shirt straightens up and pulls against his harness, the one figure still resisting.",
+      "es": "En mitad de la hilera, un muchacho rubio con camisa de tono rojo se yergue y tira contra su arnés, la única figura que aún se resiste."
+    },
+    {
+      "en": "The lead hauler, a calm, deep-eyed man, was based on Kanin, a priest stripped of his office whom Repin thought looked like a philosopher.",
+      "es": "El sirgador que va en cabeza, un hombre sereno y de mirada honda, se basó en Kanin, un sacerdote despojado de su cargo que a Repin le parecía un filósofo."
+    },
+    {
+      "en": "On the distant barge a tiny Russian flag flies, and a steam tug could have done the work the men are doing by hand.",
+      "es": "En la barcaza lejana ondea una diminuta bandera rusa, y un remolcador de vapor podría haber hecho el trabajo que los hombres hacen a mano."
+    }
+  ]
+}

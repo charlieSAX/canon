@@ -1,0 +1,64 @@
+{
+  "id": "sistine-madonna",
+  "title": {
+    "en": "The Sistine Madonna",
+    "es": "La Madona Sixtina"
+  },
+  "artist": "Raphael",
+  "year": 1512,
+  "movement": "high-renaissance",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "265 x 196 cm",
+  "location": {
+    "museum": "Gemäldegalerie Alte Meister",
+    "city": "Dresden"
+  },
+  "image": {
+    "src": "img/sistine-madonna.webp",
+    "width": 1178,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ARaphael_-_The_Sistine_Madonna_-_Google_Arts_%26_Culture.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "The Virgin walks toward us across the clouds, the Christ child heavy in her arms, her gaze grave and direct. Green curtains part above. Saint Sixtus kneels to one side, pointing outward, while Saint Barbara looks demurely down. At the very bottom, two small winged cherubs lean on a ledge, gazing up, bored.",
+      "craft": "Raphael frames the whole vision as a stage: parted curtains, a painted ledge at the base, and figures arranged in a stable triangle. The clouds are made of countless tiny cherub faces. The Madonna's forward step and level stare pull her out of the frame and toward the worshipper below.",
+      "painter": "Raphael painted this altarpiece around 1512 for the church of San Sisto in Piacenza, a papal commission at the height of his Roman fame. He was running a busy workshop and juggling frescoes, portraits, and architecture, yet here he worked on canvas, unusual for him, for a distant provincial altar.",
+      "point": "A vision of the Mother of God stepping down from heaven to meet the faithful, painted so that mother and child seem to walk straight into the viewer's world."
+    },
+    "es": {
+      "scene": "La Virgen avanza hacia nosotros sobre las nubes, con el Niño pesando en sus brazos y una mirada grave y directa. Arriba se abren cortinas verdes. San Sixto se arrodilla a un lado y señala hacia fuera, mientras santa Bárbara baja la vista. Abajo, dos angelitos alados se apoyan en un pretil, mirando aburridos.",
+      "craft": "Rafael presenta la visión como un escenario: cortinas descorridas, un pretil pintado en la base y figuras dispuestas en un triángulo estable. Las nubes se componen de incontables caritas de querubín. El paso adelante de la Virgen y su mirada serena la sacan del marco hacia el fiel que reza abajo.",
+      "painter": "Rafael pintó este retablo hacia 1512 para la iglesia de San Sixto en Piacenza, un encargo papal en la cima de su fama romana. Dirigía un taller muy activo entre frescos, retratos y arquitectura, y aquí trabajó sobre lienzo, algo poco habitual en él, para un altar provincial lejano.",
+      "point": "Una visión de la Madre de Dios que baja del cielo para salir al encuentro de los fieles, pintada de modo que madre e hijo parecen caminar hacia el mundo del espectador."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The two bored little angels leaning at the foot of the Sistine Madonna were later cropped out on their own and turned into one of the most reproduced images on Earth.",
+    "es": "Los dos angelitos aburridos apoyados al pie de la Madona Sixtina se recortaron después por su cuenta y se convirtieron en una de las imágenes más reproducidas del planeta."
+  },
+  "tags": [
+    "high-renaissance",
+    "religious",
+    "16th century"
+  ],
+  "notables": [
+    {
+      "en": "The two dreamy cherubs at the bottom were cut from the picture and became one of the most reproduced images in the world.",
+      "es": "Los dos angelitos soñadores de abajo se recortaron del cuadro y se volvieron una de las imágenes más reproducidas del mundo."
+    },
+    {
+      "en": "The clouds behind the Virgin dissolve, on close looking, into dozens of faint, half-formed cherub faces.",
+      "es": "Las nubes tras la Virgen se deshacen, al mirar de cerca, en decenas de caras de querubín apenas formadas."
+    },
+    {
+      "en": "Saint Sixtus points out of the picture toward the altar cross that once stood before it, linking painting to Mass.",
+      "es": "San Sixto señala fuera del cuadro, hacia la cruz del altar que antes se alzaba delante, uniendo pintura y misa."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+name: Weekly schedule
+
+on:
+  schedule:
+    - cron: '5 5 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  schedule:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Madrid
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Extend schedule
+        run: node scripts/schedule.mjs
+      - name: Validate content
+        run: node scripts/validate.mjs
+      - name: Commit schedule
+        run: |
+          if git diff --quiet -- public/content/schedule.json public/content/index.json; then
+            echo "Schedule already has 14 days of runway."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/content/schedule.json public/content/index.json
+          git commit -m "Extend weekly painting schedule"
+          git push

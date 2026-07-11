@@ -1,10 +1,16 @@
 {
   "id": "the-kiss",
-  "title": "The Kiss",
+  "title": {
+    "en": "The Kiss",
+    "es": "El beso"
+  },
   "artist": "Gustav Klimt",
   "year": 1908,
-  "movement": "Vienna Secession",
-  "medium": "Oil and gold leaf on canvas",
+  "movement": "vienna-secession",
+  "medium": {
+    "en": "Oil and gold leaf on canvas",
+    "es": "Óleo y pan de oro sobre lienzo"
+  },
   "dimensions": "180 x 180 cm",
   "location": {
     "museum": "Österreichische Galerie Belvedere",
@@ -18,15 +24,41 @@
     "license_note": "Public domain. Faithful reproduction of a work by Gustav Klimt (died 1918)."
   },
   "text": {
-    "scene": "On the lip of a flowered ledge, a couple kneel wrapped in a single golden cloak. He bends to kiss her cheek, hands cradling her face; her eyes are closed, fingers curled around his hand, toes gripping the very edge. Around them there is nothing but a dark shimmer of gold.",
-    "craft": "Klimt, son of a gold engraver, lays real gold leaf over the canvas and differentiates the lovers by ornament alone: hard black and white rectangles for him, circling flowers for her, the two patterns fusing inside one silhouette. Only faces, hands and feet are modelled as flesh; everything else is pattern.",
-    "painter": "Leader of the Vienna Secession, the artists who walked out of the conservative establishment in 1897, Klimt scandalised the city with erotic drawings and gilded portraits of its wives. This painting crowns his Golden Phase, made while Vienna around him invented psychoanalysis, atonal music and modern design. He never married, never explained, and rarely left Vienna."
+    "en": {
+      "scene": "On the lip of a flowered ledge, a couple kneel wrapped in a single golden cloak. He bends to kiss her cheek, hands cradling her face; her eyes are closed, fingers curled around his hand, toes gripping the very edge. Around them there is nothing but a dark shimmer of gold.",
+      "craft": "Klimt, son of a gold engraver, lays real gold leaf over the canvas and differentiates the lovers by ornament alone: hard black and white rectangles for him, circling flowers for her, the two patterns fusing inside one silhouette. Only faces, hands and feet are modelled as flesh; everything else is pattern.",
+      "painter": "Leader of the Vienna Secession, the artists who walked out of the conservative establishment in 1897, Klimt scandalised the city with erotic drawings and gilded portraits of its wives. This painting crowns his Golden Phase, made while Vienna around him invented psychoanalysis, atonal music and modern design. He never married, never explained, and rarely left Vienna.",
+      "point": "Ornament erases the world, turning the intimacy of two bodies into a public and almost sacred icon."
+    },
+    "es": {
+      "scene": "Al borde de un prado florido, una pareja arrodillada queda envuelta en un único manto de oro. Él se inclina para besarle la mejilla y sostiene su rostro; ella cierra los ojos, rodea la mano de él con los dedos y agarra el borde con los pies. Alrededor solo hay oro oscuro.",
+      "craft": "Klimt, hijo de un grabador de oro, aplica auténtico pan de oro y distingue a los amantes solo con ornamentos: rectángulos negros y blancos para él, círculos y flores para ella, fundidos dentro de una silueta. Solo rostros, manos y pies conservan volumen de carne; todo lo demás se vuelve dibujo y superficie.",
+      "painter": "Klimt dirigió la Secesión de Viena, cuyos artistas abandonaron el establishment conservador en 1897, y escandalizó la ciudad con dibujos eróticos y retratos dorados. El beso corona su fase dorada, mientras Viena inventaba el psicoanálisis, la música atonal y el diseño moderno. Nunca se casó, explicó poco y apenas salió de la ciudad.",
+      "point": "El ornamento borra el mundo y convierte la intimidad de dos cuerpos en un icono público y casi sagrado."
+    }
   },
-  "draft": true,
-  "fact": "The Austrian state bought The Kiss in 1908, straight from the easel and arguably before it was quite finished, for 25,000 crowns, an enormous price that settled the argument about Klimt in a single purchase.",
+  "draft": false,
+  "fact": {
+    "en": "The Austrian state bought The Kiss in 1908, straight from the easel and arguably before it was quite finished, for 25,000 crowns, an enormous price that settled the argument about Klimt in a single purchase.",
+    "es": "El Estado austriaco compró El beso en 1908, directamente del caballete y quizá antes de estar terminado, por 25.000 coronas, un precio enorme que resolvió de golpe la discusión sobre Klimt."
+  },
   "tags": [
-    "Vienna Secession",
+    "vienna-secession",
     "lovers",
     "20th century"
+  ],
+  "notables": [
+    {
+      "en": "His rectangular pattern and her circular pattern begin to mingle near their hands.",
+      "es": "El dibujo rectangular de él y el circular de ella empiezan a mezclarse junto a sus manos."
+    },
+    {
+      "en": "Her bare toes curl over the edge of the flowered ground.",
+      "es": "Los dedos desnudos de ella se curvan sobre el borde del suelo florido."
+    },
+    {
+      "en": "The gold makes the painting resemble a Byzantine mosaic or religious icon.",
+      "es": "El oro hace que el cuadro parezca un mosaico bizantino o un icono religioso."
+    }
   ]
 }

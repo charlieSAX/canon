@@ -1,0 +1,722 @@
+{
+  "lamentation-giotto": {
+    "file_title": "File:Fresque de Giotto, chapelle des Scrovegni à Padoue.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFresque_de_Giotto%2C_chapelle_des_Scrovegni_%C3%A0_Padoue.jpg",
+    "original_width": 1956,
+    "original_height": 2558,
+    "width": 1223,
+    "height": 1600
+  },
+  "annunciation-fra-angelico": {
+    "file_title": "File:La Anunciación, by Fra Angelico, from Prado in Google Earth.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALa_Anunciaci%C3%B3n%2C_by_Fra_Angelico%2C_from_Prado_in_Google_Earth.jpg",
+    "original_width": 30000,
+    "original_height": 29605,
+    "width": 1600,
+    "height": 1579
+  },
+  "battle-of-san-romano": {
+    "file_title": "File:San Romano Battle (Paolo Uccello, London) 01.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASan_Romano_Battle_(Paolo_Uccello%2C_London)_01.jpg",
+    "original_width": 6074,
+    "original_height": 3435,
+    "width": 1600,
+    "height": 905
+  },
+  "the-birth-of-venus": {
+    "file_title": "File:Sandro Botticelli - La nascita di Venere - Google Art Project - edited.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+    "original_width": 30000,
+    "original_height": 18840,
+    "width": 1600,
+    "height": 1005
+  },
+  "primavera": {
+    "file_title": "File:Sandro Botticelli - La Primavera - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg",
+    "original_width": 5084,
+    "original_height": 3377,
+    "width": 1600,
+    "height": 1063
+  },
+  "lamentation-of-christ-mantegna": {
+    "file_title": "File:The dead Christ with three mourners (by Andrea Mantegna) - Pinacoteca di Brera.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AThe_dead_Christ_with_three_mourners_(by_Andrea_Mantegna)_%E2%80%93_Pinacoteca_di_Brera.jpg",
+    "original_width": 2439,
+    "original_height": 2068,
+    "width": 1600,
+    "height": 1357
+  },
+  "descent-from-the-cross": {
+    "file_title": "File:El Descendimiento, by Rogier van der Weyden, from Prado in Google Earth.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEl_Descendimiento%2C_by_Rogier_van_der_Weyden%2C_from_Prado_in_Google_Earth.jpg",
+    "original_width": 30000,
+    "original_height": 23277,
+    "width": 1600,
+    "height": 1241
+  },
+  "mona-lisa": {
+    "file_title": "File:Leonardo da Vinci - Mona Lisa (Louvre, Paris).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALeonardo_da_Vinci_-_Mona_Lisa_(Louvre%2C_Paris).jpg",
+    "original_width": 6441,
+    "original_height": 9565,
+    "width": 1078,
+    "height": 1600
+  },
+  "the-last-supper": {
+    "file_title": "File:Leonardo da Vinci - The Last Supper high res.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALeonardo_da_Vinci_-_The_Last_Supper_high_res.jpg",
+    "original_width": 5381,
+    "original_height": 2926,
+    "width": 1600,
+    "height": 870
+  },
+  "the-creation-of-adam": {
+    "file_title": "File:Michelangelo Buonarroti - The Creation of Adam, ceiling (unrestored).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMichelangelo_Buonarroti_-_The_Creation_of_Adam%2C_ceiling_(unrestored).jpg",
+    "original_width": 2560,
+    "original_height": 1755,
+    "width": 1600,
+    "height": 1097
+  },
+  "the-school-of-athens": {
+    "file_title": "File:The School of Athens Fresco by Raphael (Ank Kumar, Infosys Limited) 02.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AThe_School_of_Athens_Fresco_by_Raphael_(Ank_Kumar%2C_Infosys_Limited)_02.jpg",
+    "original_width": 6000,
+    "original_height": 4000,
+    "width": 1600,
+    "height": 1067
+  },
+  "sistine-madonna": {
+    "file_title": "File:Raphael - The Sistine Madonna - Google Arts & Culture.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ARaphael_-_The_Sistine_Madonna_-_Google_Arts_%26_Culture.jpg",
+    "original_width": 7029,
+    "original_height": 9546,
+    "width": 1178,
+    "height": 1600
+  },
+  "the-tempest": {
+    "file_title": "File:Accademia - La tempesta - Giorgione.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAccademia_-_La_tempesta_-_Giorgione.jpg",
+    "original_width": 4031,
+    "original_height": 4471,
+    "width": 1443,
+    "height": 1600
+  },
+  "venus-of-urbino": {
+    "file_title": "File:Tiziano - Venere di Urbino - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATiziano_-_Venere_di_Urbino_-_Google_Art_Project.jpg",
+    "original_width": 3000,
+    "original_height": 2110,
+    "width": 1600,
+    "height": 1125
+  },
+  "bacchus-and-ariadne": {
+    "file_title": "File:Titian - Bacchus and Ariadne - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATitian_-_Bacchus_and_Ariadne_-_Google_Art_Project.jpg",
+    "original_width": 3000,
+    "original_height": 2715,
+    "width": 1600,
+    "height": 1448
+  },
+  "self-portrait-at-28": {
+    "file_title": "File:Albrecht Dürer - 1500 self-portrait (High resolution and detail).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAlbrecht_D%C3%BCrer_-_1500_self-portrait_(High_resolution_and_detail).jpg",
+    "original_width": 4130,
+    "original_height": 5710,
+    "width": 1157,
+    "height": 1600
+  },
+  "isenheim-altarpiece": {
+    "file_title": "File:Musée Unterlinden - Matthias Grünewald - retable d'Issenheim - Saint Sébastien, Crucifixion, Saint Antoine abbé & Déposition (1512-1516) (1).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMus%C3%A9e_Unterlinden_-_Matthias_Gr%C3%BCnewald_-_retable_d'Issenheim_-_Saint_S%C3%A9bastien%2C_Crucifixion%2C_Saint_Antoine_abb%C3%A9_%26_D%C3%A9position_(1512-1516)_(1).jpg",
+    "original_width": 5100,
+    "original_height": 3648,
+    "width": 1600,
+    "height": 1145
+  },
+  "hunters-in-the-snow": {
+    "file_title": "File:Pieter Bruegel the Elder - Hunters in the Snow (Winter) - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_(Winter)_-_Google_Art_Project.jpg",
+    "original_width": 6819,
+    "original_height": 4853,
+    "width": 1600,
+    "height": 1139
+  },
+  "the-tower-of-babel": {
+    "file_title": "File:Pieter Bruegel the Elder - The Tower of Babel (Vienna) - Google Art Project - edited.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project_-_edited.jpg",
+    "original_width": 30000,
+    "original_height": 21952,
+    "width": 1600,
+    "height": 1171
+  },
+  "madonna-with-the-long-neck": {
+    "file_title": "File:Parmigianino - Madonna dal collo lungo - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AParmigianino_-_Madonna_dal_collo_lungo_-_Google_Art_Project.jpg",
+    "original_width": 1325,
+    "original_height": 2074,
+    "width": 1022,
+    "height": 1600
+  },
+  "venus-cupid-folly-and-time": {
+    "file_title": "File:Angelo Bronzino - Venus, Cupid, Folly and Time - National Gallery, London.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAngelo_Bronzino_-_Venus%2C_Cupid%2C_Folly_and_Time_-_National_Gallery%2C_London.jpg",
+    "original_width": 3349,
+    "original_height": 4226,
+    "width": 1268,
+    "height": 1600
+  },
+  "the-burial-of-the-count-of-orgaz": {
+    "file_title": "File:El Greco - The Burial of the Count of Orgaz.JPG",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEl_Greco_-_The_Burial_of_the_Count_of_Orgaz.JPG",
+    "original_width": 1316,
+    "original_height": 1612,
+    "width": 1306,
+    "height": 1600
+  },
+  "the-calling-of-saint-matthew": {
+    "file_title": "File:Michelangelo Caravaggio 040.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMichelangelo_Caravaggio_040.jpg",
+    "original_width": 2024,
+    "original_height": 1916,
+    "width": 1600,
+    "height": 1515
+  },
+  "judith-beheading-holofernes-caravaggio": {
+    "file_title": "File:Michelangelo Merisi da Caravaggio (1571-1610), Judith i Holofernes (1598) Museu Nacional d'Art Antic (Palau Barberini), Roma.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMichelangelo_Merisi_da_Caravaggio_(1571-1610)%2C_Judith_i_Holofernes_(1598)_Museu_Nacional_d'Art_Antic_(Palau_Barberini)%2C_Roma.jpg",
+    "original_width": 3704,
+    "original_height": 3127,
+    "width": 1600,
+    "height": 1351
+  },
+  "judith-slaying-holofernes": {
+    "file_title": "File:Artemisia Gentileschi - Giuditta decapita Oloferne - Google Art Project-Adjust.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AArtemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project-Adjust.jpg",
+    "original_width": 2685,
+    "original_height": 3301,
+    "width": 1301,
+    "height": 1600
+  },
+  "the-surrender-of-breda": {
+    "file_title": "File:Velázquez - de Breda o Las Lanzas (Museo del Prado, 1634-35)FXD.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AVel%C3%A1zquez_-_de_Breda_o_Las_Lanzas_(Museo_del_Prado%2C_1634-35)FXD.jpg",
+    "original_width": 2870,
+    "original_height": 2362,
+    "width": 1600,
+    "height": 1317
+  },
+  "the-rokeby-venus": {
+    "file_title": "File:Diego Velázquez - Rokeby Venus.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ADiego_Vel%C3%A1zquez_-_Rokeby_Venus.jpg",
+    "original_width": 6162,
+    "original_height": 4226,
+    "width": 1600,
+    "height": 1098
+  },
+  "et-in-arcadia-ego": {
+    "file_title": "File:Nicolas Poussin - Et in Arcadia ego (deuxième version).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ANicolas_Poussin_-_Et_in_Arcadia_ego_(deuxi%C3%A8me_version).jpg",
+    "original_width": 5966,
+    "original_height": 4253,
+    "width": 1600,
+    "height": 1140
+  },
+  "magdalene-with-the-smoking-flame": {
+    "file_title": "File:Georges de La Tour - The Magdalen with the Smoking Flame - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGeorges_de_La_Tour_-_The_Magdalen_with_the_Smoking_Flame_-_Google_Art_Project.jpg",
+    "original_width": 4017,
+    "original_height": 5121,
+    "width": 1255,
+    "height": 1600
+  },
+  "agnus-dei": {
+    "file_title": "File:Agnus Dei Zurbarán.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAgnus_Dei_Zurbar%C3%A1n.jpg",
+    "original_width": 3050,
+    "original_height": 1822,
+    "width": 1600,
+    "height": 956
+  },
+  "the-milkmaid": {
+    "file_title": "File:Johannes Vermeer - Het melkmeisje - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJohannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
+    "original_width": 4000,
+    "original_height": 4485,
+    "width": 1427,
+    "height": 1600
+  },
+  "view-of-delft": {
+    "file_title": "File:View of Delft, by Johannes Vermeer.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AView_of_Delft%2C_by_Johannes_Vermeer.jpg",
+    "original_width": 6000,
+    "original_height": 4982,
+    "width": 1600,
+    "height": 1328
+  },
+  "the-art-of-painting": {
+    "file_title": "File:Jan Vermeer - The Art of Painting - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg",
+    "original_width": 6209,
+    "original_height": 7377,
+    "width": 1347,
+    "height": 1600
+  },
+  "the-anatomy-lesson": {
+    "file_title": "File:Den Haag - Mauritshuis - Rembrandt Harmensz. van Rijn (1606-1669) - The Anatomy Lesson of Dr. Nicolaes Tulp 1632.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ADen_Haag_-_Mauritshuis_-_Rembrandt_Harmensz._van_Rijn_(1606-1669)_-_The_Anatomy_Lesson_of_Dr._Nicolaes_Tulp_1632.jpg",
+    "original_width": 5877,
+    "original_height": 4670,
+    "width": 1600,
+    "height": 1271
+  },
+  "the-return-of-the-prodigal-son": {
+    "file_title": "File:Rembrandt Harmensz van Rijn - Return of the Prodigal Son - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ARembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg",
+    "original_width": 22991,
+    "original_height": 30000,
+    "width": 1226,
+    "height": 1600
+  },
+  "the-laughing-cavalier": {
+    "file_title": "File:Frans Hals – The Laughing Cavalier.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFrans_Hals_%E2%80%93_The_Laughing_Cavalier.jpg",
+    "original_width": 6687,
+    "original_height": 8165,
+    "width": 1310,
+    "height": 1600
+  },
+  "the-goldfinch": {
+    "file_title": "File:Carel Fabritius - The Goldfinch - 605 - Mauritshuis.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACarel_Fabritius_-_The_Goldfinch_-_605_-_Mauritshuis.jpg",
+    "original_width": 3930,
+    "original_height": 6000,
+    "width": 1048,
+    "height": 1600
+  },
+  "the-swing": {
+    "file_title": "File:Fragonard, The Swing, Wallace Collection.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFragonard%2C_The_Swing%2C_Wallace_Collection.jpg",
+    "original_width": 2595,
+    "original_height": 3129,
+    "width": 1327,
+    "height": 1600
+  },
+  "pilgrimage-to-cythera": {
+    "file_title": "File:L'Embarquement pour Cythère, by Antoine Watteau, from C2RMF retouched.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AL'Embarquement_pour_Cyth%C3%A8re%2C_by_Antoine_Watteau%2C_from_C2RMF_retouched.jpg",
+    "original_width": 19842,
+    "original_height": 13013,
+    "width": 1600,
+    "height": 1049
+  },
+  "mr-and-mrs-andrews": {
+    "file_title": "File:Thomas Gainsborough - Mr and Mrs Andrews.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AThomas_Gainsborough_-_Mr_and_Mrs_Andrews.jpg",
+    "original_width": 7301,
+    "original_height": 4231,
+    "width": 1600,
+    "height": 927
+  },
+  "the-oath-of-the-horatii": {
+    "file_title": "File:Jacques-Louis David - Oath of the Horatii - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJacques-Louis_David_-_Oath_of_the_Horatii_-_Google_Art_Project.jpg",
+    "original_width": 6156,
+    "original_height": 4800,
+    "width": 1600,
+    "height": 1248
+  },
+  "the-death-of-marat": {
+    "file_title": "File:Jacques-Louis David - Marat assassinated - Google Art Project 2.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2.jpg",
+    "original_width": 16134,
+    "original_height": 20762,
+    "width": 1244,
+    "height": 1600
+  },
+  "napoleon-crossing-the-alps": {
+    "file_title": "File:Napoleon at the Great St. Bernard - Jacques-Louis David - Google Cultural Institute.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ANapoleon_at_the_Great_St._Bernard_-_Jacques-Louis_David_-_Google_Cultural_Institute.jpg",
+    "original_width": 4897,
+    "original_height": 5850,
+    "width": 1339,
+    "height": 1600
+  },
+  "la-grande-odalisque": {
+    "file_title": "File:La Grande Odalisque - Jean-Auguste-Dominique Ingres - Musée du Louvre Peintures RF 1158 - avec cadre.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALa_Grande_Odalisque_-_Jean-Auguste-Dominique_Ingres_-_Mus%C3%A9e_du_Louvre_Peintures_RF_1158_-_avec_cadre.jpg",
+    "original_width": 11177,
+    "original_height": 7499,
+    "width": 1600,
+    "height": 1073
+  },
+  "the-third-of-may-1808": {
+    "file_title": "File:El Tres de Mayo, by Francisco de Goya, from Prado in Google Earth.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEl_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_in_Google_Earth.jpg",
+    "original_width": 30000,
+    "original_height": 23131,
+    "width": 1600,
+    "height": 1234
+  },
+  "saturn-devouring-his-son": {
+    "file_title": "File:Francisco de Goya, Saturno devorando a su hijo (1819-1823).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFrancisco_de_Goya%2C_Saturno_devorando_a_su_hijo_(1819-1823).jpg",
+    "original_width": 1661,
+    "original_height": 3051,
+    "width": 871,
+    "height": 1600
+  },
+  "the-raft-of-the-medusa": {
+    "file_title": "File:JEAN LOUIS THÉODORE GÉRICAULT - La Balsa de la Medusa (Museo del Louvre, 1818-19).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre%2C_1818-19).jpg",
+    "original_width": 5872,
+    "original_height": 4008,
+    "width": 1600,
+    "height": 1092
+  },
+  "the-hay-wain": {
+    "file_title": "File:John-constable-the-hay-wain.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJohn-constable-the-hay-wain.jpg",
+    "original_width": 6128,
+    "original_height": 4226,
+    "width": 1600,
+    "height": 1103
+  },
+  "the-fighting-temeraire": {
+    "file_title": "File:The Fighting Temeraire, JMW Turner, National Gallery.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AThe_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg",
+    "original_width": 5684,
+    "original_height": 4223,
+    "width": 1600,
+    "height": 1189
+  },
+  "rain-steam-and-speed": {
+    "file_title": "File:Turner - Rain, Steam and Speed - National Gallery file.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATurner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg",
+    "original_width": 5661,
+    "original_height": 4226,
+    "width": 1600,
+    "height": 1195
+  },
+  "the-lady-of-shalott": {
+    "file_title": "File:John William Waterhouse - The Lady of Shalott - Google Art Project edit.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJohn_William_Waterhouse_-_The_Lady_of_Shalott_-_Google_Art_Project_edit.jpg",
+    "original_width": 4180,
+    "original_height": 3208,
+    "width": 1600,
+    "height": 1228
+  },
+  "the-gleaners": {
+    "file_title": "File:Jean-François Millet - Gleaners - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project.jpg",
+    "original_width": 5357,
+    "original_height": 4009,
+    "width": 1600,
+    "height": 1198
+  },
+  "the-angelus": {
+    "file_title": "File:Jean-François Millet - The Angelus - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJean-Fran%C3%A7ois_Millet_-_The_Angelus_-_Google_Art_Project.jpg",
+    "original_width": 7053,
+    "original_height": 5864,
+    "width": 1600,
+    "height": 1330
+  },
+  "a-burial-at-ornans": {
+    "file_title": "File:Gustave Courbet - A Burial at Ornans - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project.jpg",
+    "original_width": 6045,
+    "original_height": 2779,
+    "width": 1600,
+    "height": 735
+  },
+  "barge-haulers-on-the-volga": {
+    "file_title": "File:Ilya Repin - Barge Haulers on the Volga - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AIlya_Repin_-_Barge_Haulers_on_the_Volga_-_Google_Art_Project.jpg",
+    "original_width": 5734,
+    "original_height": 2684,
+    "width": 1600,
+    "height": 749
+  },
+  "whistlers-mother": {
+    "file_title": "File:Whistlers Mother high res.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWhistlers_Mother_high_res.jpg",
+    "original_width": 5897,
+    "original_height": 5247,
+    "width": 1600,
+    "height": 1424
+  },
+  "le-dejeuner-sur-lherbe": {
+    "file_title": "File:Edouard Manet - Luncheon on the Grass - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEdouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg",
+    "original_width": 5649,
+    "original_height": 4389,
+    "width": 1600,
+    "height": 1243
+  },
+  "a-bar-at-the-folies-bergere": {
+    "file_title": "File:\"Un Bar aux Folies-Bergère\" by Édouard Manet (1882).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3A%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_(1882).jpg",
+    "original_width": 12580,
+    "original_height": 9236,
+    "width": 1600,
+    "height": 1175
+  },
+  "madame-x": {
+    "file_title": "File:John Singer Sargent (American, Florence 1856-1925 London) - Madame X (Madame Pierre Gautreau) - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJohn_Singer_Sargent_(American%2C_Florence_1856%E2%80%931925_London)_-_Madame_X_(Madame_Pierre_Gautreau)_-_Google_Art_Project.jpg",
+    "original_width": 1967,
+    "original_height": 3722,
+    "width": 846,
+    "height": 1600
+  },
+  "impression-sunrise": {
+    "file_title": "File:Monet - Impression, Sunrise.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMonet_-_Impression%2C_Sunrise.jpg",
+    "original_width": 5773,
+    "original_height": 4478,
+    "width": 1600,
+    "height": 1241
+  },
+  "woman-with-a-parasol": {
+    "file_title": "File:Claude Monet - Woman with a Parasol - Madame Monet and Her Son - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AClaude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg",
+    "original_width": 6001,
+    "original_height": 7455,
+    "width": 1288,
+    "height": 1600
+  },
+  "bal-du-moulin-de-la-galette": {
+    "file_title": "File:Auguste Renoir - Dance at Le Moulin de la Galette - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAuguste_Renoir_-_Dance_at_Le_Moulin_de_la_Galette_-_Google_Art_Project.jpg",
+    "original_width": 40869,
+    "original_height": 30379,
+    "width": 1600,
+    "height": 1189
+  },
+  "luncheon-of-the-boating-party": {
+    "file_title": "File:Pierre-Auguste Renoir - Luncheon of the Boating Party - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg",
+    "original_width": 9025,
+    "original_height": 6684,
+    "width": 1600,
+    "height": 1185
+  },
+  "the-dance-class": {
+    "file_title": "File:Edgar Degas - The Ballet Class - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEdgar_Degas_-_The_Ballet_Class_-_Google_Art_Project.jpg",
+    "original_width": 3950,
+    "original_height": 4535,
+    "width": 1394,
+    "height": 1600
+  },
+  "paris-street-rainy-day": {
+    "file_title": "File:Gustave Caillebotte - Paris Street; Rainy Day - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGustave_Caillebotte_-_Paris_Street%3B_Rainy_Day_-_Google_Art_Project.jpg",
+    "original_width": 5982,
+    "original_height": 4531,
+    "width": 1600,
+    "height": 1212
+  },
+  "the-cradle": {
+    "file_title": "File:Berthe Morisot - The Cradle - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABerthe_Morisot_-_The_Cradle_-_Google_Art_Project.jpg",
+    "original_width": 4105,
+    "original_height": 5001,
+    "width": 1313,
+    "height": 1600
+  },
+  "walk-on-the-beach": {
+    "file_title": "File:Joaquín Sorolla y Bastida - Strolling along the Seashore - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJoaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg",
+    "original_width": 4832,
+    "original_height": 4894,
+    "width": 1580,
+    "height": 1600
+  },
+  "the-starry-night": {
+    "file_title": "File:Van Gogh - Starry Night - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AVan_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "original_width": 44567,
+    "original_height": 35291,
+    "width": 1600,
+    "height": 1267
+  },
+  "sunflowers": {
+    "file_title": "File:Vincent van Gogh - Sunflowers (1888, National Gallery London).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AVincent_van_Gogh_-_Sunflowers_(1888%2C_National_Gallery_London).jpg",
+    "original_width": 4719,
+    "original_height": 6000,
+    "width": 1259,
+    "height": 1600
+  },
+  "the-bedroom": {
+    "file_title": "File:Vincent van Gogh - De slaapkamer - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AVincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg",
+    "original_width": 30000,
+    "original_height": 23803,
+    "width": 1600,
+    "height": 1270
+  },
+  "cafe-terrace-at-night": {
+    "file_title": "File:Vincent van Gogh, Café Terrace at Night, 1888. Painting inside the Kroller Muller Museum - panoramio.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AVincent_van_Gogh%2C_Caf%C3%A9_Terrace_at_Night%2C_1888._Painting_inside_the_Kroller_Muller_Museum_-_panoramio.jpg",
+    "original_width": 2910,
+    "original_height": 3586,
+    "width": 1298,
+    "height": 1600
+  },
+  "the-card-players": {
+    "file_title": "File:Les Joueurs de cartes, par Paul Cézanne.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALes_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg",
+    "original_width": 6048,
+    "original_height": 4961,
+    "width": 1600,
+    "height": 1313
+  },
+  "mont-sainte-victoire": {
+    "file_title": "File:Mont Sainte-Victoire with Large Pine, by Paul Cézanne.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMont_Sainte-Victoire_with_Large_Pine%2C_by_Paul_C%C3%A9zanne.jpg",
+    "original_width": 2686,
+    "original_height": 1983,
+    "width": 1600,
+    "height": 1181
+  },
+  "where-do-we-come-from": {
+    "file_title": "File:Gauguin - D'ou venons-nous Que sommes-nous Ou allons-nous.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGauguin_-_D'ou_venons-nous_Que_sommes-nous_Ou_allons-nous.jpg",
+    "original_width": 1600,
+    "original_height": 600,
+    "width": 1600,
+    "height": 600
+  },
+  "sunday-on-la-grande-jatte": {
+    "file_title": "File:Georges Seurat - A Sunday on La Grande Jatte -- 1884 - Google Art Project-x1-y0.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGeorges_Seurat_-_A_Sunday_on_La_Grande_Jatte_--_1884_-_Google_Art_Project-x1-y0.jpg",
+    "original_width": 29696,
+    "original_height": 29696,
+    "width": 1600,
+    "height": 1600
+  },
+  "the-sleeping-gypsy": {
+    "file_title": "File:Henri Rousseau - La Bohémienne endormie - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AHenri_Rousseau_-_La_Boh%C3%A9mienne_endormie_-_Google_Art_Project.jpg",
+    "original_width": 6797,
+    "original_height": 4416,
+    "width": 1600,
+    "height": 1040
+  },
+  "the-dream": {
+    "file_title": "File:Henri Rousseau - Le Rêve - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AHenri_Rousseau_-_Le_R%C3%AAve_-_Google_Art_Project.jpg",
+    "original_width": 4512,
+    "original_height": 3072,
+    "width": 1600,
+    "height": 1089
+  },
+  "isle-of-the-dead": {
+    "file_title": "File:Arnold Böcklin - Die Toteninsel III (Alte Nationalgalerie, Berlin).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AArnold_B%C3%B6cklin_-_Die_Toteninsel_III_(Alte_Nationalgalerie%2C_Berlin).jpg",
+    "original_width": 4933,
+    "original_height": 2628,
+    "width": 1600,
+    "height": 853
+  },
+  "the-scream": {
+    "file_title": "File:Edvard Munch - The Scream - NG.M.00939 - National Museum of Art, Architecture and Design.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEdvard_Munch_-_The_Scream_-_NG.M.00939_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg",
+    "original_width": 6703,
+    "original_height": 8322,
+    "width": 1289,
+    "height": 1600
+  },
+  "blue-horse-i": {
+    "file_title": "File:Marc, Franz - Blue Horse I - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMarc%2C_Franz_-_Blue_Horse_I_-_Google_Art_Project.jpg",
+    "original_width": 3881,
+    "original_height": 5180,
+    "width": 1199,
+    "height": 1600
+  },
+  "self-portrait-with-physalis": {
+    "file_title": "File:Egon Schiele - Self-Portrait with Physalis - Google Art Project.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEgon_Schiele_-_Self-Portrait_with_Physalis_-_Google_Art_Project.jpg",
+    "original_width": 3781,
+    "original_height": 3062,
+    "width": 1600,
+    "height": 1296
+  },
+  "portrait-of-adele-bloch-bauer-i": {
+    "file_title": "File:Gustav Klimt, 1907, Adele Bloch-Bauer I, Neue Galerie New York.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGustav_Klimt%2C_1907%2C_Adele_Bloch-Bauer_I%2C_Neue_Galerie_New_York.jpg",
+    "original_width": 2036,
+    "original_height": 2035,
+    "width": 1600,
+    "height": 1599
+  },
+  "composition-vii": {
+    "file_title": "File:Composition VII - Wassily Kandinsky, GAC.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AComposition_VII_-_Wassily_Kandinsky%2C_GAC.jpg",
+    "original_width": 7015,
+    "original_height": 4661,
+    "width": 1600,
+    "height": 1063
+  },
+  "black-square": {
+    "file_title": "File:Kazimir Malevich, 1915, Black Suprematic Square, oil on linen canvas, 79.5 x 79.5 cm, Tretyakov Gallery, Moscow.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AKazimir_Malevich%2C_1915%2C_Black_Suprematic_Square%2C_oil_on_linen_canvas%2C_79.5_x_79.5_cm%2C_Tretyakov_Gallery%2C_Moscow.jpg",
+    "original_width": 1718,
+    "original_height": 1718,
+    "width": 1600,
+    "height": 1600
+  },
+  "the-city-rises": {
+    "file_title": "File:The City Rises by Umberto Boccioni 1910.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AThe_City_Rises_by_Umberto_Boccioni_1910.jpg",
+    "original_width": 2583,
+    "original_height": 1715,
+    "width": 1600,
+    "height": 1062
+  },
+  "view-of-toledo": {
+    "file_title": "File:El Greco View of Toledo.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEl_Greco_View_of_Toledo.jpg",
+    "original_width": 3436,
+    "original_height": 3878,
+    "width": 1418,
+    "height": 1600
+  },
+  "descent-from-the-cross-rubens": {
+    "file_title": "File:Peter Paul Rubens - The Descent from the Cross (Antwerp Cathedral)., c. 1613.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APeter_Paul_Rubens_-_The_Descent_from_the_Cross_(Antwerp_Cathedral).%2C_c._1613.jpg",
+    "original_width": 2206,
+    "original_height": 3000,
+    "width": 1177,
+    "height": 1600
+  },
+  "ophelia": {
+    "file_title": "File:Millais - Ophelia.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMillais_-_Ophelia.jpg",
+    "original_width": 1600,
+    "original_height": 1164,
+    "width": 1600,
+    "height": 1164
+  },
+  "at-the-moulin-rouge": {
+    "file_title": "File:Henri de Toulouse-Lautrec - At the Moulin Rouge - 1928.610 - Art Institute of Chicago.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AHenri_de_Toulouse-Lautrec_-_At_the_Moulin_Rouge_-_1928.610_-_Art_Institute_of_Chicago.jpg",
+    "original_width": 2573,
+    "original_height": 2250,
+    "width": 1600,
+    "height": 1399
+  },
+  "street-dresden": {
+    "file_title": "File:Kirchner - Street, Dresden, 1908, 12.1951.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AKirchner_-_Street%2C_Dresden%2C_1908%2C_12.1951.jpg",
+    "original_width": 2000,
+    "original_height": 1509,
+    "width": 1600,
+    "height": 1207
+  }
+}

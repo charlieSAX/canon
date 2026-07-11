@@ -1,0 +1,64 @@
+{
+  "id": "the-cradle",
+  "title": {
+    "en": "The Cradle",
+    "es": "La cuna"
+  },
+  "artist": "Berthe Morisot",
+  "year": 1872,
+  "movement": "impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "56 x 46 cm",
+  "location": {
+    "museum": "Musée d'Orsay",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/the-cradle.webp",
+    "width": 1313,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABerthe_Morisot_-_The_Cradle_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A young mother sits beside a gauzy white cradle, her cheek resting on one hand, watching her sleeping baby. A veil of translucent netting hangs between us and the infant, softening the tiny face. Her dark dress and the pale drapery fill a quiet, intimate domestic corner. Nothing moves.",
+      "craft": "Morisot builds the whole picture from whites and greys, matching the sheer curtain of the cradle to the mother's veil so the two rhyme across the canvas. Her brushwork is quick and light, thinning to near-transparency over the netting. The gauze both reveals and hides the baby, a soft screen of pure paint.",
+      "painter": "Morisot was thirty-one and the only woman among the founding Impressionists. The model is her sister Edma, who had given up her own painting on marrying, watching her daughter Blanche. Barred from cafes and studios where the men gathered, Morisot made the private worlds open to her, the nursery and drawing room, her subject.",
+      "point": "It gives the ordinary tenderness of a mother watching her child the seriousness of great art, and quietly maps the narrow world a woman painter was allowed to enter."
+    },
+    "es": {
+      "scene": "Una joven madre se sienta junto a una cuna blanca y vaporosa, con la mejilla apoyada en una mano, mirando a su bebé dormido. Un velo de red translúcida cuelga entre nosotros y la criatura, suavizando su carita. El vestido oscuro y la tela pálida llenan un rincón doméstico tranquilo e íntimo. Nada se mueve.",
+      "craft": "Morisot construye todo el cuadro con blancos y grises, e iguala el visillo de la cuna al velo de la madre para que ambos rimen en el lienzo. Su pincelada es rápida y ligera, y se adelgaza casi hasta la transparencia sobre la red. La gasa a la vez revela y oculta al bebé, una pantalla suave de pintura.",
+      "painter": "Morisot tenía treinta y un años y era la única mujer entre los impresionistas fundadores. La modelo es su hermana Edma, que había dejado su propia pintura al casarse, velando a su hija Blanche. Excluida de los cafés y estudios donde se reunían los hombres, hizo su tema de los mundos privados: la habitación infantil y el salón.",
+      "point": "Da a la ternura corriente de una madre que vela a su hijo la seriedad del gran arte, y traza en silencio el estrecho mundo que a una pintora se le permitía habitar."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Morisot was the only woman among the founders of Impressionism, and showed this painting at their very first exhibition in 1874, though it failed to sell.",
+    "es": "Morisot fue la única mujer entre los fundadores del impresionismo y expuso este cuadro en su primera muestra, en 1874, aunque no logró venderlo."
+  },
+  "tags": [
+    "impressionism",
+    "motherhood",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The mother is the artist's sister Edma, watching her baby daughter Blanche; the two sisters had both trained as painters.",
+      "es": "La madre es Edma, hermana de la artista, que vela a su bebé Blanche; ambas hermanas se habían formado como pintoras."
+    },
+    {
+      "en": "The gauzy net of the cradle echoes the sheer curtain behind, framing mother and child in matching veils of white.",
+      "es": "La red vaporosa de la cuna repite el visillo del fondo, y enmarca a madre e hijo en velos blancos a juego."
+    },
+    {
+      "en": "Look at the mother's hand raising the netting: a small, protective gesture that draws a quiet line between her and the sleeping baby.",
+      "es": "Fíjate en la mano de la madre que levanta la red: un gesto pequeño y protector que traza una línea callada hacia el bebé."
+    }
+  ]
+}

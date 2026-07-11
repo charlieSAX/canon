@@ -1,0 +1,64 @@
+{
+  "id": "bal-du-moulin-de-la-galette",
+  "title": {
+    "en": "Bal du moulin de la Galette",
+    "es": "Baile en el Moulin de la Galette"
+  },
+  "artist": "Pierre-Auguste Renoir",
+  "year": 1876,
+  "movement": "impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "131 x 175 cm",
+  "location": {
+    "museum": "Musée d'Orsay",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/bal-du-moulin-de-la-galette.webp",
+    "width": 1600,
+    "height": 1189,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAuguste_Renoir_-_Dance_at_Le_Moulin_de_la_Galette_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A sunlit Sunday dance in a Montmartre garden. Crowds of young Parisians talk, drink and waltz under the trees. In the foreground, women in striped dresses lean on a bench while men in straw hats lean in close. Sunlight falls in scattered patches across faces, jackets and the ground.",
+      "craft": "Renoir's signal move is the light. He dabbed pale blue and pink over the crowd to catch sun broken by leaves, so figures seem to flicker as they move. Loose, feathery strokes blur the edges of every hat and face, keeping the whole packed scene shimmering, restless and unfixed.",
+      "painter": "Renoir was thirty-five and still struggling to sell. He rented a garden near the dance hall and carried the large canvas there to work partly on the spot, using his own friends as models. He believed a picture should be a likeable, cheerful, pretty thing. This became his first real triumph.",
+      "point": "Renoir set out to paint ordinary working Parisians at play, and to prove that everyday pleasure, sunlight and movement were worthy of a huge, ambitious canvas."
+    },
+    "es": {
+      "scene": "Un baile dominical bajo el sol en un jardín de Montmartre. Multitud de jóvenes parisinos charlan, beben y bailan bajo los árboles. En primer plano, mujeres de vestidos a rayas se apoyan en un banco mientras hombres con sombrero de paja se inclinan hacia ellas. La luz cae en manchas dispersas sobre rostros, chaquetas y suelo.",
+      "craft": "El recurso clave de Renoir es la luz. Salpicó de azul y rosa pálidos a la multitud para captar el sol filtrado por las hojas, y así las figuras parecen temblar al moverse. Pinceladas sueltas y plumosas difuminan cada sombrero y cada rostro, y mantienen toda la escena vibrante, inquieta y sin fijar.",
+      "painter": "Renoir tenía treinta y cinco años y aún le costaba vender. Alquiló un jardín junto a la sala de baile y llevó allí el gran lienzo para trabajar en parte del natural, con sus propios amigos como modelos. Creía que un cuadro debía ser algo amable, alegre y bonito. Fue su primer gran triunfo.",
+      "point": "Renoir se propuso pintar a los parisinos corrientes divirtiéndose y demostrar que el placer cotidiano, la luz y el movimiento merecían un lienzo enorme y ambicioso."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "When it was shown in 1877, some critics mocked the blurred, spotted light on the dancers as looking blotchy and unfinished; today it is Renoir's most famous painting.",
+    "es": "Cuando se expuso en 1877, algunos críticos se burlaron de la luz borrosa y moteada sobre los bailarines por parecer manchada e inacabada; hoy es la pintura más famosa de Renoir."
+  },
+  "tags": [
+    "impressionism",
+    "dance",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The dappled discs of light on the dancers' clothes are pure sun filtered through leaves, one of Impressionism's boldest effects.",
+      "es": "Los discos de luz moteada sobre la ropa de los bailarines son puro sol filtrado por las hojas, uno de los efectos más audaces del impresionismo."
+    },
+    {
+      "en": "Most of the figures are Renoir's friends, fellow painters and models he persuaded to pose at the real dance hall.",
+      "es": "Casi todas las figuras son amigos de Renoir, pintores y modelos a quienes convenció para posar en la sala de baile real."
+    },
+    {
+      "en": "The collector Gustave Caillebotte, himself a painter in this book, bought the canvas and later left it to France.",
+      "es": "El coleccionista Gustave Caillebotte, él mismo pintor en este libro, compró el lienzo y luego lo legó a Francia."
+    }
+  ]
+}

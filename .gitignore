@@ -4,3 +4,5 @@ dev-dist
 verify-artifacts
 .DS_Store
 *.local
+pipeline/originals
+pipeline/contact-sheets

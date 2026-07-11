@@ -1,0 +1,64 @@
+{
+  "id": "the-return-of-the-prodigal-son",
+  "title": {
+    "en": "The Return of the Prodigal Son",
+    "es": "El regreso del hijo pródigo"
+  },
+  "artist": "Rembrandt van Rijn",
+  "year": 1668,
+  "movement": "dutch-golden-age",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "262 x 205 cm",
+  "location": {
+    "museum": "Hermitage Museum",
+    "city": "Saint Petersburg"
+  },
+  "image": {
+    "src": "img/the-return-of-the-prodigal-son.webp",
+    "width": 1226,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ARembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A ragged young man kneels at his father's feet, head shaved, one worn sole turned towards us, his face buried against the old man's chest. The father, nearly blind, leans down and lays both hands on his son's shoulders. Four muted figures watch from the shadows, the tallest standing stiff and apart on the right.",
+      "craft": "Rembrandt paints the reunion in near darkness, pulling warm light onto the son's back and the father's face while everything else sinks into brown shadow. The paint is laid on thickly, scraped and dragged, so the golden cloak seems lit from within. Detail dissolves at the edges, leaving only the essential gesture of the embrace.",
+      "painter": "Rembrandt made this near the end, around 1668, old, bankrupt and bereaved. He had outlived his wife, his partner Hendrickje and, that very year, his son Titus. Long out of fashion, he painted for himself now, in loose, brooding strokes. The picture reads like a final statement on forgiveness from a man who had lost almost everyone.",
+      "point": "It is the parable of mercy made visible: no reproach, no conditions, only a father gathering back the child who threw everything away."
+    },
+    "es": {
+      "scene": "Un joven andrajoso se arrodilla a los pies de su padre, la cabeza rapada, una suela gastada vuelta hacia nosotros, el rostro hundido contra el pecho del anciano. El padre, casi ciego, se inclina y posa ambas manos sobre los hombros de su hijo. Cuatro figuras apagadas observan desde la sombra, la más alta rígida y apartada a la derecha.",
+      "craft": "Rembrandt pinta el reencuentro casi en tinieblas, llevando la luz cálida a la espalda del hijo y al rostro del padre mientras todo lo demás se hunde en sombra parda. Aplica la pintura con espesor, raspada y arrastrada, y el manto dorado parece iluminado por dentro. El detalle se disuelve en los bordes y solo queda el gesto del abrazo.",
+      "painter": "Rembrandt lo hizo al final, hacia 1668, viejo, arruinado y en duelo. Había sobrevivido a su esposa, a su compañera Hendrickje y, ese mismo año, a su hijo Titus. Fuera de moda, ahora pintaba para sí mismo, con pinceladas sombrías. El cuadro se lee como una declaración final sobre el perdón de un hombre que lo había perdido casi todo.",
+      "point": "Es la parábola de la misericordia hecha visible: sin reproche, sin condiciones, solo un padre que recoge al hijo que lo había tirado todo por la borda."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Rembrandt painted it around 1668, the year his only surviving son, Titus, died; he himself was dead within about a year, bankrupt and largely forgotten.",
+    "es": "Rembrandt lo pintó hacia 1668, el año en que murió Titus, su único hijo superviviente; él mismo murió alrededor de un año después, arruinado y casi olvidado."
+  },
+  "tags": [
+    "dutch-golden-age",
+    "religious",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "The father's two hands differ: one broad and firm, the other slender and gentle, read by many as fatherly and motherly love combined.",
+      "es": "Las dos manos del padre son distintas: una ancha y firme, la otra fina y delicada, leídas por muchos como el amor paterno y materno unidos."
+    },
+    {
+      "en": "The son's bare left foot, its worn sole turned outward, tells his whole journey of ruin in a single detail.",
+      "es": "El pie izquierdo descalzo del hijo, con la suela gastada vuelta hacia fuera, cuenta todo su viaje de ruina en un solo detalle."
+    },
+    {
+      "en": "The tall, stern man on the right is the elder brother, standing apart, unable to share the father's joy.",
+      "es": "El hombre alto y severo de la derecha es el hermano mayor, apartado, incapaz de compartir la alegría del padre."
+    }
+  ]
+}

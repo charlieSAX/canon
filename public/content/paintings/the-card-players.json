@@ -1,0 +1,64 @@
+{
+  "id": "the-card-players",
+  "title": {
+    "en": "The Card Players",
+    "es": "Los jugadores de cartas"
+  },
+  "artist": "Paul Cézanne",
+  "year": 1892,
+  "movement": "post-impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "47.5 x 57 cm",
+  "location": {
+    "museum": "Musée d'Orsay",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/the-card-players.webp",
+    "width": 1600,
+    "height": 1313,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALes_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Two Provençal peasants sit across a small table in a bare interior, wholly absorbed in their game. Each holds his cards close and studies them, faces lowered, one in a broad hat, the other bareheaded. A single bottle stands upright between them. Nothing moves; the whole picture is concentration held still.",
+      "craft": "Cézanne strips the scene to essentials and builds it like architecture. The two men lean inward in a near-symmetry, and the vertical bottle marks the centre like a hinge. Colour is laid in patient planes of ochre, brown and blue, and every fold of cloth is treated as a solid, considered shape.",
+      "painter": "By the 1890s Cézanne had withdrawn to his native Aix-en-Provence, working slowly and apart from the Paris art world. He hired local farmhands as models and painted them with the gravity usually reserved for saints or kings. He wanted, he said, to make of Impressionism something solid and lasting.",
+      "point": "Cézanne turns a card game between two labourers into something monumental and still. This is ordinary life given the weight of a cathedral, built from colour and structure rather than story."
+    },
+    "es": {
+      "scene": "Dos campesinos provenzales se sientan a una mesa pequeña en un interior desnudo, absortos en su partida. Cada uno sostiene las cartas cerca y las estudia con el rostro bajo, uno con un sombrero de ala ancha, el otro con la cabeza descubierta. Una sola botella se alza entre ambos. Nada se mueve; todo el cuadro es concentración detenida.",
+      "craft": "Cézanne reduce la escena a lo esencial y la construye como una arquitectura. Los dos hombres se inclinan hacia dentro en una casi simetría, y la botella vertical marca el centro como una bisagra. El color se aplica en planos pacientes de ocre, marrón y azul, y cada pliegue de la tela se trata como una forma sólida y meditada.",
+      "painter": "Hacia la década de 1890, Cézanne se había retirado a su Aix-en-Provence natal, trabajando despacio y al margen del mundo artístico de París. Contrató a jornaleros locales como modelos y los pintó con la gravedad reservada por lo común a santos o reyes. Quería, decía, hacer del impresionismo algo sólido y duradero.",
+      "point": "Cézanne convierte una partida de cartas entre dos jornaleros en algo monumental y quieto. Es la vida corriente con el peso de una catedral, construida con color y estructura antes que con relato."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "One of Cézanne's larger Card Players sold in 2011 to the royal family of Qatar for a sum reported at more than 250 million dollars, then among the highest prices ever paid for a painting.",
+    "es": "Una de las versiones mayores de Los jugadores de cartas de Cézanne se vendió en 2011 a la familia real de Catar por una cifra estimada en más de 250 millones de dólares, entonces uno de los precios más altos jamás pagados por un cuadro."
+  },
+  "tags": [
+    "post-impressionism",
+    "genre scene",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The upright bottle at the exact centre acts as a pivot, dividing the two players in an almost perfect balance.",
+      "es": "La botella vertical, en el centro exacto, actúa como eje y divide a los dos jugadores en un equilibrio casi perfecto."
+    },
+    {
+      "en": "Neither man shows his hand or his thoughts; Cézanne gives no hint of who is winning.",
+      "es": "Ninguno muestra su mano ni sus pensamientos; Cézanne no da ninguna pista de quién va ganando."
+    },
+    {
+      "en": "This is the smallest and sparest of five versions Cézanne painted of the subject, and usually thought the last.",
+      "es": "Es la más pequeña y austera de las cinco versiones que Cézanne pintó del tema, y suele considerarse la última."
+    }
+  ]
+}

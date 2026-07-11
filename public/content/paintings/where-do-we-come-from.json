@@ -1,0 +1,64 @@
+{
+  "id": "where-do-we-come-from",
+  "title": {
+    "en": "Where Do We Come From? What Are We? Where Are We Going?",
+    "es": "¿De dónde venimos? ¿Qué somos? ¿A dónde vamos?"
+  },
+  "artist": "Paul Gauguin",
+  "year": 1897,
+  "movement": "post-impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "139 x 375 cm",
+  "location": {
+    "museum": "Museum of Fine Arts",
+    "city": "Boston"
+  },
+  "image": {
+    "src": "img/where-do-we-come-from.webp",
+    "width": 1600,
+    "height": 600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGauguin_-_D'ou_venons-nous_Que_sommes-nous_Ou_allons-nous.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A long, dark-green frieze of Tahitian life, read from right to left. A sleeping baby lies at one end; in the centre a young figure reaches up to pick fruit; at the far left a crouching old woman waits for death. Around them sit idols, a white bird, and quiet, watchful figures.",
+      "craft": "Gauguin works in flat zones of deep blue and green, with figures outlined and modelled only lightly, closer to a mural or tapestry than a window. Warm skin tones and a few glowing yellows lift the gloom. The title is inscribed like a caption in the top left corner, on painted gold.",
+      "painter": "Gauguin painted this vast canvas in Tahiti in 1897, sick, in debt, and shattered by news of his favourite daughter's death. He meant it as his summing up, a final testament, and said he tried to kill himself with arsenic just after finishing it. He survived and lived on for years.",
+      "point": "The three questions of the title are the whole point: birth, life and death laid out as one continuous human procession. Gauguin meant it as his philosophical last word."
+    },
+    "es": {
+      "scene": "Un largo friso de fondo verde oscuro sobre la vida tahitiana, que se lee de derecha a izquierda. Un bebé dormido yace en un extremo; en el centro, una figura joven alza el brazo para coger fruta; en el extremo izquierdo, una anciana encogida espera la muerte. A su alrededor hay ídolos, un ave blanca y figuras quietas y atentas.",
+      "craft": "Gauguin trabaja en zonas planas de azul y verde profundos, con figuras apenas perfiladas y modeladas, más cerca de un mural o un tapiz que de una ventana. Unos tonos cálidos de piel y unos pocos amarillos luminosos alivian la penumbra. El título aparece inscrito como un rótulo en la esquina superior izquierda, sobre un dorado pintado.",
+      "painter": "Gauguin pintó este enorme lienzo en Tahití en 1897, enfermo, endeudado y destrozado por la noticia de la muerte de su hija predilecta. Lo concibió como su resumen, un testamento final, y dijo que intentó quitarse la vida con arsénico justo después de terminarlo. Sobrevivió y vivió aún varios años.",
+      "point": "Las tres preguntas del título son todo el sentido: nacimiento, vida y muerte dispuestos como una única procesión humana continua. Gauguin lo concibió como su última palabra filosófica."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Gauguin inscribed the three questions of the title directly onto the canvas and treated the picture as his testament, saying he attempted suicide with arsenic soon after completing it.",
+    "es": "Gauguin inscribió las tres preguntas del título directamente sobre el lienzo y trató la obra como su testamento, y dijo que intentó suicidarse con arsénico poco después de terminarla."
+  },
+  "tags": [
+    "post-impressionism",
+    "allegory",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The picture is meant to be read from right to left, from the sleeping infant to the old woman facing death.",
+      "es": "El cuadro debe leerse de derecha a izquierda, del bebé dormido a la anciana que afronta la muerte."
+    },
+    {
+      "en": "A blue idol with raised arms stands behind the central figures, standing in for the world beyond the visible.",
+      "es": "Un ídolo azul con los brazos alzados se yergue tras las figuras centrales, representando el mundo más allá de lo visible."
+    },
+    {
+      "en": "A white bird by the old woman's feet, Gauguin wrote, represents the futility of words.",
+      "es": "Un ave blanca junto a los pies de la anciana, escribió Gauguin, representa la inutilidad de las palabras."
+    }
+  ]
+}

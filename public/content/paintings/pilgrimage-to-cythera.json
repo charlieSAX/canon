@@ -1,0 +1,64 @@
+{
+  "id": "pilgrimage-to-cythera",
+  "title": {
+    "en": "Pilgrimage to Cythera",
+    "es": "Peregrinación a la isla de Citera"
+  },
+  "artist": "Antoine Watteau",
+  "year": 1717,
+  "movement": "rococo",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "129 x 194 cm",
+  "location": {
+    "museum": "Musée du Louvre",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/pilgrimage-to-cythera.webp",
+    "width": 1600,
+    "height": 1049,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AL'Embarquement_pour_Cyth%C3%A8re%2C_by_Antoine_Watteau%2C_from_C2RMF_retouched.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "On a golden autumn afternoon, elegantly dressed couples gather on a wooded hillside above a distant shore. At the right, a garlanded statue of Venus presides over the lovers. They rise from the grass and drift downhill towards a gilded boat, where cupids swirl in the rosy air, ready to carry them across the water.",
+      "craft": "Watteau builds the scene from small, shimmering touches, dressing the figures in silks that catch stray light and letting the landscape melt into a hazy blue distance. He draws the eye in a slow curve from the statue down through the couples to the boat, so the whole picture seems gently to drift and breathe.",
+      "painter": "Watteau submitted this in 1717 as his reception piece for the Royal Academy. It fitted no existing category, so the Academy invented one for him: the fête galante, the elegant outdoor idyll. Consumptive and restless, he was already ill; he would be dead at thirty-seven, having almost single-handedly set the mood of French Rococo.",
+      "point": "Beneath the charm runs melancholy: love and pleasure are real but fleeting, and the couples leaving Venus's island already feel the afternoon, and their happiness, beginning to fade."
+    },
+    "es": {
+      "scene": "En una dorada tarde de otoño, parejas elegantemente vestidas se reúnen en una ladera boscosa sobre una costa lejana. A la derecha, una estatua de Venus adornada con guirnaldas preside a los amantes. Se levantan de la hierba y descienden hacia una barca dorada, donde unos cupidos giran en el aire rosado, listos para llevarlos al otro lado del agua.",
+      "craft": "Watteau construye la escena con toques pequeños y trémulos, viste a las figuras con sedas que atrapan la luz dispersa y deja que el paisaje se funda en una brumosa lejanía azul. Guía la mirada en una curva lenta desde la estatua, bajando por las parejas hasta la barca, de modo que todo el cuadro parece derivar y respirar.",
+      "painter": "Watteau presentó esta obra en 1717 como pieza de recepción en la Real Academia. No encajaba en ninguna categoría existente, así que la Academia inventó una para él: la fête galante, el elegante idilio al aire libre. Tísico, ya estaba enfermo; moriría a los treinta y siete años, tras fijar casi por sí solo el tono del rococó francés.",
+      "point": "Bajo el encanto corre la melancolía: el amor y el placer son reales pero fugaces, y las parejas que dejan la isla de Venus ya sienten que la tarde, y su felicidad, empiezan a apagarse."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The painting so puzzled the Royal Academy that it created a whole new category, the fête galante, to admit it; Watteau remains the genre's defining master.",
+    "es": "La pintura desconcertó tanto a la Real Academia que esta creó toda una categoría nueva, la fête galante, para admitirla; Watteau sigue siendo el maestro que define el género."
+  },
+  "tags": [
+    "rococo",
+    "lovers",
+    "18th century"
+  ],
+  "notables": [
+    {
+      "en": "Cythera was the mythical birthplace of Venus, sacred to love; the couples may be leaving the island rather than arriving.",
+      "es": "Citera era el mítico lugar de nacimiento de Venus, consagrado al amor; puede que las parejas estén dejando la isla en lugar de llegar."
+    },
+    {
+      "en": "A garlanded bust of Venus stands on the right, roses climbing its base, presiding over the whole gathering.",
+      "es": "Un busto de Venus con guirnaldas se alza a la derecha, con rosas trepando por su base, presidiendo toda la reunión."
+    },
+    {
+      "en": "A swarm of tiny cupids circles the boat and its mast, guiding the pilgrims of love out to sea.",
+      "es": "Un enjambre de cupidos diminutos rodea la barca y su mástil, guiando a los peregrinos del amor hacia el mar."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "view-of-toledo",
+  "title": {
+    "en": "View of Toledo",
+    "es": "Vista de Toledo"
+  },
+  "artist": "El Greco",
+  "year": 1600,
+  "movement": "mannerism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "121 x 109 cm",
+  "location": {
+    "museum": "The Metropolitan Museum of Art",
+    "city": "New York"
+  },
+  "image": {
+    "src": "img/view-of-toledo.webp",
+    "width": 1418,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEl_Greco_View_of_Toledo.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "The city of Toledo rides a green hill under a black, storm-charged sky. The river Tagus loops around its base, crossed by a bridge, and cold light strikes the walls and towers so they glow against the dark. There are no people: only the town, the hill, the water and the coming storm.",
+      "craft": "El Greco paints weather as emotion. Livid greens and inky blues churn in the sky; a ghostly, silvery light picks out the buildings from below, as in a nightmare. Brushwork is loose and electric. He freely rearranged the real skyline, moving landmarks to compose the city into a single charged silhouette.",
+      "painter": "By 1600 El Greco had lived in Toledo for over twenty years, prosperous, proud and out of step with fashion. Landscape barely existed as a subject in Spanish art, yet he painted his adopted city for its own sake. This is one of only two surviving pure landscapes from his hand.",
+      "point": "A city painted as a state of mind. El Greco turns Toledo into a brooding, storm-lit vision, one of the first landscapes in European art to carry pure feeling rather than fact."
+    },
+    "es": {
+      "scene": "La ciudad de Toledo cabalga sobre una colina verde bajo un cielo negro y cargado de tormenta. El río Tajo rodea su base, cruzado por un puente, y una luz fría golpea murallas y torres, que brillan contra la oscuridad. No hay personas: solo la ciudad, la colina, el agua y la tormenta que llega.",
+      "craft": "El Greco pinta el clima como emoción. Verdes lívidos y azules de tinta se agitan en el cielo; una luz fantasmal y plateada recorta los edificios desde abajo, como en una pesadilla. La pincelada es suelta y eléctrica. Reordenó a su antojo el perfil real, cambiando de sitio los monumentos para componer una silueta cargada.",
+      "painter": "Hacia 1600 El Greco llevaba más de veinte años en Toledo, próspero, orgulloso y a contracorriente de la moda. El paisaje apenas existía como tema en el arte español, y aun así pintó su ciudad de adopción por sí misma. Es uno de los dos únicos paisajes puros que se conservan de su mano.",
+      "point": "Una ciudad pintada como estado de ánimo. El Greco convierte Toledo en una visión sombría e iluminada por la tormenta, uno de los primeros paisajes del arte europeo que carga con puro sentimiento y no con hechos."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "View of Toledo is one of only two surviving landscapes by El Greco, and he rearranged the city's real buildings, shifting the cathedral, to make a more dramatic skyline.",
+    "es": "Vista de Toledo es uno de los dos únicos paisajes que se conservan de El Greco, y él reorganizó los edificios reales de la ciudad, moviendo la catedral, para lograr un perfil más dramático."
+  },
+  "tags": [
+    "mannerism",
+    "landscape",
+    "16th century"
+  ],
+  "notables": [
+    {
+      "en": "El Greco moved the cathedral to the wrong side of the royal Alcázar, rearranging the real city to suit his composition.",
+      "es": "El Greco trasladó la catedral al lado equivocado del Alcázar real, reordenando la ciudad verdadera para servir a su composición."
+    },
+    {
+      "en": "There is not a single human figure in the whole picture, unusual for its time.",
+      "es": "No hay una sola figura humana en todo el cuadro, algo insólito para su época."
+    },
+    {
+      "en": "The storm light is impossible: buildings glow as if lit from within, against a sky nearly black.",
+      "es": "La luz de tormenta es imposible: los edificios brillan como iluminados por dentro, contra un cielo casi negro."
+    }
+  ]
+}

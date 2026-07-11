@@ -1,0 +1,64 @@
+{
+  "id": "self-portrait-at-28",
+  "title": {
+    "en": "Self-Portrait at Twenty-Eight",
+    "es": "Autorretrato a los veintiocho años"
+  },
+  "artist": "Albrecht Dürer",
+  "year": 1500,
+  "movement": "northern-renaissance",
+  "medium": {
+    "en": "Oil on panel",
+    "es": "Óleo sobre tabla"
+  },
+  "dimensions": "67 x 49 cm",
+  "location": {
+    "museum": "Alte Pinakothek",
+    "city": "Munich"
+  },
+  "image": {
+    "src": "img/self-portrait-at-28.webp",
+    "width": 1157,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAlbrecht_D%C3%BCrer_-_1500_self-portrait_(High_resolution_and_detail).jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Dürer faces us head-on, filling a dark space with his own head and shoulders. Long brown hair falls in careful ringlets around a calm, symmetrical face. One hand rises to finger the fur collar of his coat. The pose, frontal and still, is the kind normally kept for images of Christ.",
+      "craft": "Dürer builds the face on strict symmetry and a rigid frontal axis, then lavishes northern oil technique on every strand of hair and fibre of fur. Light falls evenly, almost iconic, and two lines of Latin float in the dark, dating and signing the image with the authority of a holy panel.",
+      "painter": "At twenty-eight Dürer was Germany's most ambitious artist, back from Italy and determined to raise the painter from craftsman to gentleman scholar. Proud and self-aware, he signed with his famous monogram. The inscription states that he, Albrecht Dürer of Nuremberg, painted himself in lasting colours at twenty-eight.",
+      "point": "A painter claims the dignity once reserved for saints and kings, posing himself like Christ to argue that artistic genius is a God-given gift, not mere handwork."
+    },
+    "es": {
+      "scene": "Durero nos mira de frente, llenando un espacio oscuro con su cabeza y sus hombros. Una larga melena castaña cae en cuidados rizos en torno a un rostro sereno y simétrico. Una mano sube a tocar el cuello de piel de su abrigo. La pose, frontal y quieta, es la reservada a las imágenes de Cristo.",
+      "craft": "Durero levanta el rostro sobre una simetría estricta y un eje frontal rígido, y luego vuelca la técnica nórdica al óleo en cada mechón de pelo y cada fibra de piel. La luz cae uniforme, casi de icono, y dos líneas en latín flotan en la sombra, fechando y firmando la imagen como una tabla sagrada.",
+      "painter": "A los veintiocho, Durero era el artista más ambicioso de Alemania, de vuelta de Italia y decidido a elevar al pintor de artesano a caballero erudito. Orgulloso y consciente de sí, firmó con su famoso monograma. La inscripción declara que él, Alberto Durero de Núremberg, se pintó con colores duraderos a los veintiocho.",
+      "point": "Un pintor reclama la dignidad antes reservada a santos y reyes, posando como Cristo para sostener que el genio artístico es un don de Dios, no simple trabajo manual."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Dürer painted himself square-on and Christ-like, a pose then reserved for sacred images, and signed it with an inscription claiming he had made himself in everlasting colours.",
+    "es": "Durero se pintó de frente y a la manera de Cristo, una pose entonces reservada a las imágenes sagradas, y la firmó con una inscripción que afirma haberse hecho con colores eternos."
+  },
+  "tags": [
+    "northern-renaissance",
+    "self-portrait",
+    "16th century"
+  ],
+  "notables": [
+    {
+      "en": "The rigid frontal pose was reserved for holy images, so Dürer is quietly likening himself to Christ.",
+      "es": "La pose frontal rígida se reservaba a las imágenes sagradas, así que Durero se compara en silencio con Cristo."
+    },
+    {
+      "en": "His monogram AD doubles as Anno Domini, the year 1500 marked beside it like a sacred date.",
+      "es": "Su monograma AD vale también por Anno Domini, con el año 1500 marcado al lado como una fecha sagrada."
+    },
+    {
+      "en": "The hand at the collar echoes a gesture of blessing, sliding portrait toward icon.",
+      "es": "La mano en el cuello recuerda un gesto de bendición, deslizando el retrato hacia el icono."
+    }
+  ]
+}

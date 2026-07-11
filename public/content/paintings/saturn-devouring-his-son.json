@@ -1,0 +1,64 @@
+{
+  "id": "saturn-devouring-his-son",
+  "title": {
+    "en": "Saturn Devouring His Son",
+    "es": "Saturno devorando a su hijo"
+  },
+  "artist": "Francisco de Goya",
+  "year": 1823,
+  "movement": "romanticism",
+  "medium": {
+    "en": "Oil mural transferred to canvas",
+    "es": "Pintura mural al óleo trasladada a lienzo"
+  },
+  "dimensions": "143 x 81 cm",
+  "location": {
+    "museum": "Museo del Prado",
+    "city": "Madrid"
+  },
+  "image": {
+    "src": "img/saturn-devouring-his-son.webp",
+    "width": 871,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFrancisco_de_Goya%2C_Saturno_devorando_a_su_hijo_(1819-1823).jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Out of pitch darkness lunges a wild, wide-eyed giant, gripping a small headless body in both fists and biting into its bloodied arm. His mouth gapes, his knuckles white with the force of his grasp. There is no setting, no sky, nothing but the black void and this act of devouring.",
+      "craft": "Painted straight onto the plaster of his dining room, in furious blacks and a single bruised red. Goya works with slabs of shadow and raw, scraped strokes, letting the wall itself swallow the figure. No line is refined; the terror is in the crudeness. He never signed it or meant it to be seen.",
+      "painter": "Goya was old, deaf and half-mad with fear when he covered the walls of his house, the Quinta del Sordo, with fourteen private nightmares. He expected no audience: these were paintings for himself alone, made as Spain sank back into repression and his own mind turned toward darkness and dread.",
+      "point": "A god so terrified of being overthrown that he eats his own children: Goya's rawest image of power devouring the future, and of the mind consuming itself."
+    },
+    "es": {
+      "scene": "De la más absoluta oscuridad se abalanza un gigante desquiciado, de ojos desorbitados, que sujeta con ambos puños un cuerpo pequeño y decapitado y muerde su brazo ensangrentado. Tiene la boca abierta y los nudillos blancos por la fuerza de la presa. No hay escenario ni cielo, nada salvo el vacío negro y este acto de devorar.",
+      "craft": "Pintado directamente sobre el yeso de su comedor, en negros furiosos y un único rojo amoratado. Goya trabaja con masas de sombra y trazos ásperos y raspados, dejando que el propio muro se trague la figura. Ninguna línea está pulida; el terror está en la crudeza. Nunca lo firmó ni quiso que se viera.",
+      "painter": "Goya era viejo, sordo y medio enloquecido de miedo cuando cubrió las paredes de su casa, la Quinta del Sordo, con catorce pesadillas privadas. No esperaba público: eran pinturas para él solo, hechas mientras España recaía en la represión y su propia mente se volvía hacia la oscuridad y el pavor.",
+      "point": "Un dios tan aterrado de ser derrocado que devora a sus propios hijos: la imagen más descarnada de Goya sobre el poder que devora el futuro y sobre la mente que se consume a sí misma."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Goya never painted this for anyone: it was one of fourteen Black Paintings he brushed directly onto the walls of his own house, unseen until they were transferred to canvas after his death.",
+    "es": "Goya no pintó esto para nadie: era una de las catorce Pinturas negras que aplicó directamente sobre las paredes de su propia casa, invisibles hasta que se trasladaron a lienzo tras su muerte."
+  },
+  "tags": [
+    "romanticism",
+    "myth",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The son's head and one arm are already gone; Saturn bites into the second arm.",
+      "es": "La cabeza y un brazo del hijo ya han desaparecido; Saturno muerde el segundo brazo."
+    },
+    {
+      "en": "The single note of colour is the wet red of blood against the surrounding blackness.",
+      "es": "La única nota de color es el rojo húmedo de la sangre contra la negrura que lo rodea."
+    },
+    {
+      "en": "Goya painted it on his wall around 1820; the canvas we see was lifted from the plaster fifty years later.",
+      "es": "Goya lo pintó en su pared hacia 1820; el lienzo que vemos se levantó del yeso cincuenta años después."
+    }
+  ]
+}

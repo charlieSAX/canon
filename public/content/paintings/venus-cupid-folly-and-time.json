@@ -1,0 +1,68 @@
+{
+  "id": "venus-cupid-folly-and-time",
+  "title": {
+    "en": "Venus, Cupid, Folly and Time",
+    "es": "Venus, Cupido, la Locura y el Tiempo"
+  },
+  "artist": "Agnolo Bronzino",
+  "year": 1545,
+  "movement": "mannerism",
+  "medium": {
+    "en": "Oil on panel",
+    "es": "Óleo sobre tabla"
+  },
+  "dimensions": "146 x 116 cm",
+  "location": {
+    "museum": "The National Gallery",
+    "city": "London"
+  },
+  "image": {
+    "src": "img/venus-cupid-folly-and-time.webp",
+    "width": 1268,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAngelo_Bronzino_-_Venus%2C_Cupid%2C_Folly_and_Time_-_National_Gallery%2C_London.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "In a shallow, airless space, a nude Venus and her adolescent son Cupid embrace and kiss. He fondles her breast; she plucks an arrow from his quiver. Around them a boy hurls rose petals, masks lie discarded, and strange figures crowd in. Above, an old bald man and a woman draw a blue curtain across the scene.",
+      "craft": "Bronzino paints porcelain flesh with a hard, enamelled polish, packing interlocking nudes into a tight, stage-like plane. Cold ivory and shimmering blue set the palette. Everything is smooth surface and puzzle: each figure a symbol, each pose contrived, erotic and chilly at once. The court prized exactly this brilliant, learned artificiality.",
+      "painter": "Bronzino was court painter to Cosimo I de' Medici in Florence, master of the cool, aloof portrait. He painted this dense allegory around 1545, most likely as a Medici diplomatic gift to King Francis I of France. A pupil of Pontormo, he served the court for decades and wrote poetry as well.",
+      "point": "An erotic riddle for a sophisticated court. Beneath the beautiful bodies lies a moral about love, deceit and time: pleasure is sweet, and its consequences are laid out in code."
+    },
+    "es": {
+      "scene": "En un espacio poco profundo y sin aire, una Venus desnuda y su hijo adolescente Cupido se abrazan y besan. Él le acaricia el pecho; ella le roba una flecha del carcaj. Alrededor, un niño lanza pétalos de rosa, hay máscaras tiradas y figuras extrañas se agolpan. Arriba, un viejo calvo y una mujer corren una cortina azul.",
+      "craft": "Bronzino pinta una carne de porcelana con pulido duro y esmaltado, encajando desnudos entrelazados en un plano estrecho y teatral. El marfil frío y el azul reluciente fijan la paleta. Todo es superficie lisa y acertijo: cada figura un símbolo, cada pose amanerada, erótica y gélida a la vez. La corte apreciaba justamente esa artificiosidad.",
+      "painter": "Bronzino fue pintor de corte de Cosme I de Médici en Florencia, maestro del retrato frío y distante. Pintó esta densa alegoría hacia 1545, probablemente como regalo diplomático de los Médici al rey Francisco I de Francia. Discípulo de Pontormo, sirvió a la corte durante décadas y también escribió poesía.",
+      "point": "Un acertijo erótico para una corte refinada. Bajo los cuerpos hermosos late una moraleja sobre el amor, el engaño y el tiempo: el placer es dulce y sus consecuencias quedan escritas en clave."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Almost every figure is a coded symbol; the pretty girl on the right has a lion's claws and a serpent's tail, and hands a sweet honeycomb while hiding a sting.",
+    "es": "Casi cada figura es un símbolo cifrado; la bella joven de la derecha tiene garras de león y cola de serpiente, y ofrece un dulce panal mientras esconde un aguijón."
+  },
+  "tags": [
+    "mannerism",
+    "allegory",
+    "16th century"
+  ],
+  "notables": [
+    {
+      "en": "The old man at the top is Father Time, sweeping back a curtain to expose the whole embrace.",
+      "es": "El anciano de arriba es el Tiempo, que aparta una cortina para dejar al descubierto todo el abrazo."
+    },
+    {
+      "en": "The sweet-faced girl on the right is a monster, with scales, a lion's legs and a serpent's tail: Deceit.",
+      "es": "La niña de dulce rostro a la derecha es un monstruo, con escamas, patas de león y cola de serpiente: el Engaño."
+    },
+    {
+      "en": "The howling old woman clutching her head is often read as Jealousy, or as the ravages of syphilis.",
+      "es": "La vieja que aúlla y se agarra la cabeza suele leerse como los Celos, o como los estragos de la sífilis."
+    },
+    {
+      "en": "The laughing boy scattering roses is about to tread on a thorn, pleasure blind to its own pain.",
+      "es": "El niño risueño que esparce rosas está a punto de pisar una espina: el placer ciego a su propio dolor."
+    }
+  ]
+}

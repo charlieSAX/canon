@@ -1,0 +1,64 @@
+{
+  "id": "sunday-on-la-grande-jatte",
+  "title": {
+    "en": "A Sunday Afternoon on the Island of La Grande Jatte",
+    "es": "Tarde de domingo en la isla de la Grande Jatte"
+  },
+  "artist": "Georges Seurat",
+  "year": 1886,
+  "movement": "post-impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "207.5 x 308.1 cm",
+  "location": {
+    "museum": "Art Institute of Chicago",
+    "city": "Chicago"
+  },
+  "image": {
+    "src": "img/sunday-on-la-grande-jatte.webp",
+    "width": 1600,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGeorges_Seurat_-_A_Sunday_on_La_Grande_Jatte_--_1884_-_Google_Art_Project-x1-y0.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "On a sunlit island in the Seine, Parisians take their Sunday leisure. Elegant couples, strolling women with parasols, men in top hats, children, a nurse, dogs and a small monkey are spread across a green riverbank in bright sun and cool shade. Everyone is oddly still, posed and facing forward like cut-outs.",
+      "craft": "Seurat built the whole surface from tiny dots of pure, unmixed colour, set side by side so the eye blends them into shimmering light. He called the method divisionism. The composition is rigorously ordered, verticals against horizontals, and even the frame is painted in dots so nothing breaks the effect.",
+      "painter": "Seurat was in his mid-twenties, determined to put Impressionism on a scientific footing. He spent over two years on this huge canvas, making dozens of preparatory drawings and oil studies on the island itself, and worked out his theories of colour and optics as he went. He died at only thirty-one.",
+      "point": "Seurat freezes a crowd of modern city dwellers into a timeless, almost classical order. Leisure becomes monumental, and painting becomes a matter of science and structure as much as of the eye."
+    },
+    "es": {
+      "scene": "En una isla soleada del Sena, los parisinos disfrutan de su descanso dominical. Parejas elegantes, mujeres que pasean con sombrilla, hombres de sombrero de copa, niños, una niñera, perros y un pequeño mono se reparten por una orilla verde entre el sol brillante y la sombra fresca. Todos están extrañamente quietos, posando y de frente como recortes.",
+      "craft": "Seurat construyó toda la superficie con diminutos puntos de color puro, sin mezclar, colocados uno junto a otro para que el ojo los funda en una luz vibrante. Llamó divisionismo a este método. La composición es de un orden riguroso, verticales contra horizontales, y hasta el marco está pintado con puntos para que nada rompa el efecto.",
+      "painter": "Seurat rondaba los veinticinco años y estaba decidido a dar al impresionismo una base científica. Dedicó más de dos años a este enorme lienzo, con decenas de dibujos y estudios al óleo hechos en la propia isla, y fue elaborando sus teorías del color y la óptica sobre la marcha. Murió con solo treinta y un años.",
+      "point": "Seurat congela a una multitud de habitantes de la ciudad moderna en un orden atemporal, casi clásico. El ocio se vuelve monumental, y la pintura pasa a ser una cuestión de ciencia y estructura tanto como de mirada."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The canvas is over two metres tall and three wide, and Seurat covered it in countless small dots of colour over more than two years, a founding work of Pointillism.",
+    "es": "El lienzo mide más de dos metros de alto y tres de ancho, y Seurat lo cubrió con incontables puntitos de color a lo largo de más de dos años, una obra fundacional del puntillismo."
+  },
+  "tags": [
+    "post-impressionism",
+    "leisure",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "A woman at the right leads a monkey on a leash, an odd, exotic touch that Seurat added late in the work.",
+      "es": "Una mujer a la derecha lleva un mono con correa, un toque extraño y exótico que Seurat añadió ya avanzada la obra."
+    },
+    {
+      "en": "The picture is painted right to its own dotted border, which Seurat added so the frame would not jar the colours.",
+      "es": "El cuadro está pintado hasta su propio borde de puntos, que Seurat añadió para que el marco no chocara con los colores."
+    },
+    {
+      "en": "Almost every figure is seen in strict profile or full front, giving the crowd its frozen, ceremonial stillness.",
+      "es": "Casi todas las figuras se ven de perfil estricto o de frente completo, lo que da a la multitud su quietud congelada y ceremonial."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "whistlers-mother",
+  "title": {
+    "en": "Arrangement in Grey and Black No. 1",
+    "es": "La madre de Whistler"
+  },
+  "artist": "James McNeill Whistler",
+  "year": 1871,
+  "movement": "realism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "144 x 162 cm",
+  "location": {
+    "museum": "Musée d'Orsay",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/whistlers-mother.webp",
+    "width": 1600,
+    "height": 1424,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWhistlers_Mother_high_res.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "An elderly woman sits in strict profile against a plain grey wall, dressed in black with a white lace cap and cuffs, her hands folded in her lap. Her feet rest on a low stool. A patterned dark curtain hangs at the left, and a framed print breaks the bare wall above her.",
+      "craft": "Whistler builds the picture from flat rectangles: wall, curtain, frame and floor set in balanced greys and blacks. The sitter becomes one more shape in a careful arrangement of tone. Nothing is anecdotal, nothing sentimental; the interest lies in the harmony of dark against grey, the profile crisp as a silhouette.",
+      "painter": "Whistler was an American in London, a dandy and provocateur who believed art should answer to beauty, not story or sentiment. His mother Anna, devout and widowed, sat for him after another model failed to appear. He allowed the nickname but insisted the work was an arrangement of tone: interesting to him, he said, as a picture of his mother.",
+      "point": "Whistler set out to prove that a painting's real subject is its arrangement of colour and tone, not the person shown, yet it became the world's tenderest emblem of motherhood."
+    },
+    "es": {
+      "scene": "Una anciana está sentada de riguroso perfil contra una pared gris y lisa, vestida de negro con cofia y puños de encaje blanco, las manos recogidas en el regazo. Sus pies descansan sobre un escabel. A la izquierda cuelga una cortina oscura estampada, y un grabado enmarcado rompe la pared desnuda por encima de ella.",
+      "craft": "Whistler construye el cuadro con rectángulos planos: pared, cortina, marco y suelo dispuestos en grises y negros equilibrados. La modelo se vuelve una forma más dentro de una cuidada disposición de tonos. Nada es anecdótico, nada sentimental; el interés está en la armonía del negro contra el gris, y en el perfil nítido como una silueta.",
+      "painter": "Whistler era un estadounidense en Londres, dandi y provocador, convencido de que el arte respondía a la belleza, no al relato ni al sentimiento. Su madre Anna, devota y viuda, posó cuando otra modelo faltó. Aceptó el apodo, pero insistió en que la obra era una disposición de tonos: le interesaba, dijo, como retrato de su madre.",
+      "point": "Whistler quiso demostrar que el verdadero tema de un cuadro es su disposición de color y tono, no la persona retratada, y aun así la obra se convirtió en el emblema más tierno de la maternidad."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Whistler titled it Arrangement in Grey and Black No. 1 and cared far more about its balance of tones than its subject, yet the world renamed it after his mother, Anna.",
+    "es": "Whistler la tituló Arrangement in Grey and Black No. 1 y le importaba mucho más su equilibrio de tonos que la modelo, pero el mundo la rebautizó con el nombre de su madre, Anna."
+  },
+  "tags": [
+    "realism",
+    "portrait",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The framed print on the wall is one of Whistler's own etchings, a quiet signature tucked into the grey.",
+      "es": "El grabado enmarcado de la pared es una de las propias aguafuertes de Whistler, una firma discreta escondida en el gris."
+    },
+    {
+      "en": "Whistler's butterfly monogram, his personal mark, appears on the patterned curtain at the upper left, beside the framed etching.",
+      "es": "El monograma de la mariposa de Whistler, su marca personal, aparece en la cortina estampada, arriba a la izquierda, junto al grabado enmarcado."
+    },
+    {
+      "en": "She sits in pure profile, never meeting our eyes, which turns a portrait of one woman into an image of age and stillness itself.",
+      "es": "Está sentada de perfil puro, sin mirarnos nunca, lo que convierte el retrato de una mujer en una imagen de la vejez y la quietud mismas."
+    }
+  ]
+}

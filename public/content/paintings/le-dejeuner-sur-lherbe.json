@@ -1,0 +1,64 @@
+{
+  "id": "le-dejeuner-sur-lherbe",
+  "title": {
+    "en": "Le Déjeuner sur l'herbe",
+    "es": "Almuerzo sobre la hierba"
+  },
+  "artist": "Édouard Manet",
+  "year": 1863,
+  "movement": "realism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "208 x 265 cm",
+  "location": {
+    "museum": "Musée d'Orsay",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/le-dejeuner-sur-lherbe.webp",
+    "width": 1600,
+    "height": 1243,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEdouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "In a wooded glade two men in modern frock coats sit talking, while a naked woman between them looks calmly out at us, her clothes and a spilled picnic basket beside her. A second woman in a thin shift wades in a stream behind. Dappled light falls through the trees onto the strange gathering.",
+      "craft": "Manet lights the nude flatly and full-on, so she jumps forward with little shadow, almost cut out against the dark wood. He borrows the pose from a Renaissance engraving but strips away all myth. Broad, visible brushwork, abrupt tonal leaps and a shallow, stage-like space announce a deliberately modern, unfinished-looking way of painting.",
+      "painter": "Manet was a well-bred Parisian who craved official recognition yet kept outraging it. Rejected by the 1863 Salon, this canvas hung instead at the Salon des Refusés, where crowds jeered. His model was Victorine Meurent, a young professional who would pose again for the equally shocking Olympia. He wanted the old masters remade in modern dress.",
+      "point": "The scandal was not the nudity but the honesty: a real, contemporary naked woman, staring back without shame or mythical excuse, seated beside clothed men of her own day."
+    },
+    "es": {
+      "scene": "En un claro del bosque, dos hombres con levitas modernas conversan sentados, mientras una mujer desnuda entre ellos nos mira con calma, con su ropa y una cesta de merienda volcada al lado. Detrás, una segunda mujer en fina enagua se adentra en un arroyo. La luz moteada cae entre los árboles sobre la extraña reunión.",
+      "craft": "Manet ilumina el desnudo de frente y sin matices, y la figura salta hacia delante casi sin sombra, recortada contra el bosque oscuro. Toma la pose de un grabado renacentista, pero le quita todo el mito. La pincelada ancha y visible, los saltos bruscos de tono y un espacio de escenario anuncian una manera de pintar deliberadamente moderna.",
+      "painter": "Manet era un parisino de buena cuna que ansiaba el reconocimiento oficial y lo escandalizaba. Rechazado por el Salón de 1863, acabó en el Salón de los Rechazados, donde el público se burló. Su modelo fue Victorine Meurent, joven que volvería a posar para la escandalosa Olympia. Quería rehacer a los viejos maestros con ropa moderna.",
+      "point": "El escándalo no era la desnudez, sino la franqueza: una mujer desnuda, real y contemporánea, que devuelve la mirada sin vergüenza ni excusa mitológica, sentada junto a hombres vestidos de su propia época."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Rejected by the official Salon of 1863, the painting was shown at the Salon des Refusés, where visitors came largely to laugh at a naked woman picnicking with two fully dressed men.",
+    "es": "Rechazado por el Salón oficial de 1863, el cuadro se expuso en el Salón de los Rechazados, adonde el público acudía sobre todo a reírse de una mujer desnuda de merienda con dos hombres vestidos por completo."
+  },
+  "tags": [
+    "realism",
+    "picnic",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The naked woman looks straight out at the viewer, unbothered, refusing the modest downward gaze expected of a nude.",
+      "es": "La mujer desnuda mira de frente al espectador, sin inmutarse, rechazando la mirada baja y púdica que se esperaba de un desnudo."
+    },
+    {
+      "en": "The central group's poses copy a 1515 engraving of river gods after Raphael, a learned joke that made the modern setting more provocative.",
+      "es": "Las poses del grupo central copian un grabado de 1515 de dioses fluviales según Rafael, una broma culta que volvía más provocador el escenario moderno."
+    },
+    {
+      "en": "The tumbled picnic in the corner, with bread, fruit and a frog nearby, is painted as a small, loose still life.",
+      "es": "La merienda desparramada en el rincón, con pan, fruta y una rana cerca, está pintada como un pequeño bodegón suelto."
+    }
+  ]
+}

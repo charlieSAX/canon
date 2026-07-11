@@ -1,0 +1,64 @@
+{
+  "id": "the-goldfinch",
+  "title": {
+    "en": "The Goldfinch",
+    "es": "El jilguero"
+  },
+  "artist": "Carel Fabritius",
+  "year": 1654,
+  "movement": "dutch-golden-age",
+  "medium": {
+    "en": "Oil on panel",
+    "es": "Óleo sobre tabla"
+  },
+  "dimensions": "33.5 x 22.8 cm",
+  "location": {
+    "museum": "Mauritshuis",
+    "city": "The Hague"
+  },
+  "image": {
+    "src": "img/the-goldfinch.webp",
+    "width": 1048,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACarel_Fabritius_-_The_Goldfinch_-_605_-_Mauritshuis.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A small European goldfinch perches on the ring of a blue feeding box mounted high on a pale, sunlit wall. A fine chain runs from its ankle to the perch. The bird is seen slightly from below, alert, its red face and yellow wing-bar bright against the plaster. Nothing else shares the panel.",
+      "craft": "Fabritius paints a trompe l'oeil, meant to fool the eye into seeing a real bird on a real wall. He builds the feathers from thick, confident dabs, softens the shadow the box casts, and leaves the background bare and luminous. The low viewpoint and life size were designed to be hung high, where the illusion works best.",
+      "painter": "Fabritius trained under Rembrandt but moved to Delft and lightened his master's dark manner towards clear daylight. He painted this in 1654, the last year of his life. That October a gunpowder store exploded across the city, killing him at thirty-two and destroying most of his studio. Barely a dozen of his paintings survive.",
+      "point": "A humble caged pet, painted with total seriousness, becomes a meditation on captivity and freedom, and a dazzling demonstration that a single small bird can carry a whole picture."
+    },
+    "es": {
+      "scene": "Un pequeño jilguero europeo se posa en la anilla de una caja de comida azul, montada en lo alto de una pared clara y soleada. Una cadena fina va de su pata al posadero. Vemos al pájaro ligeramente desde abajo, alerta, con la cara roja y la banda amarilla del ala brillando contra el yeso. Nada más ocupa la tabla.",
+      "craft": "Fabritius pinta un trampantojo, pensado para engañar al ojo y hacerle ver un pájaro real sobre una pared. Construye las plumas con toques espesos y seguros, suaviza la sombra que proyecta la caja y deja el fondo desnudo y luminoso. El punto de vista bajo y el tamaño natural se pensaron para colgarlo en alto, donde la ilusión funciona mejor.",
+      "painter": "Fabritius se formó con Rembrandt, pero se trasladó a Delft y aclaró la manera oscura de su maestro hacia una luz diurna nítida. Pintó esto en 1654, el último año de su vida. Aquel octubre un polvorín estalló en la ciudad y lo mató a los treinta y dos años, destruyendo su taller. Apenas sobreviven diez de sus cuadros.",
+      "point": "Una humilde mascota enjaulada, pintada con total seriedad, se convierte en una meditación sobre el cautiverio y la libertad, y en una deslumbrante demostración de que un solo pajarillo puede sostener todo un cuadro."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The panel was probably once part of a protective case or window jamb; the year Fabritius finished it, 1654, a gunpowder explosion levelled part of Delft and killed him at thirty-two.",
+    "es": "La tabla probablemente formó parte de una funda protectora o de la jamba de una ventana; el mismo año en que Fabritius la terminó, 1654, una explosión de pólvora arrasó parte de Delft y lo mató a los treinta y dos años."
+  },
+  "tags": [
+    "dutch-golden-age",
+    "bird",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "A thin chain shackles the bird's leg to its perch; goldfinches were kept as pets and trained to draw water in tiny buckets.",
+      "es": "Una cadena fina encadena la pata del pájaro al posadero; los jilgueros se tenían como mascotas y se les enseñaba a sacar agua en cubos diminutos."
+    },
+    {
+      "en": "Fabritius signed and dated the panel along the base: his name and the year 1654, the year he died.",
+      "es": "Fabritius firmó y fechó la tabla en la base: su nombre y el año 1654, el año en que murió."
+    },
+    {
+      "en": "Up close the feathers are rough, unblended strokes; only at a distance do they resolve into a living, feathered bird.",
+      "es": "De cerca, las plumas son toques rugosos y sin mezclar; solo a distancia se convierten en un pájaro vivo y emplumado."
+    }
+  ]
+}

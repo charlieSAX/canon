@@ -1,0 +1,64 @@
+{
+  "id": "hunters-in-the-snow",
+  "title": {
+    "en": "The Hunters in the Snow",
+    "es": "Cazadores en la nieve"
+  },
+  "artist": "Pieter Bruegel the Elder",
+  "year": 1565,
+  "movement": "northern-renaissance",
+  "medium": {
+    "en": "Oil on panel",
+    "es": "Óleo sobre tabla"
+  },
+  "dimensions": "117 x 162 cm",
+  "location": {
+    "museum": "Kunsthistorisches Museum",
+    "city": "Vienna"
+  },
+  "image": {
+    "src": "img/hunters-in-the-snow.webp",
+    "width": 1600,
+    "height": 1139,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_(Winter)_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Three tired hunters trudge downhill through deep snow, dogs at their heels, a single fox slung over a shoulder. Below them a frozen valley opens out: villagers skate and play on green-white ponds, a fire burns by an inn, jagged peaks rise behind, and black birds hang in a heavy sky.",
+      "craft": "Bruegel leads the eye with a high viewpoint and strong diagonals: the line of trees and hunters slides down into the valley, then the tiny skaters carry it back across the ice. A near-monochrome palette of white, brown, and green, with sharp black accents, makes the cold almost physical.",
+      "painter": "Bruegel painted this in 1565 for a wealthy Antwerp merchant, Nicolaes Jonghelinck, as part of a cycle showing the turning year. Though nicknamed Peasant Bruegel for his village scenes, he was a learned, city-based artist whose landscapes gave ordinary country labour the scale of an epic.",
+      "point": "One of the first great landscapes where nature, not people, is the real subject: a whole world locked in winter, human life small and busy within it."
+    },
+    "es": {
+      "scene": "Tres cazadores cansados bajan por la nieve profunda, con los perros pegados a los talones y un solo zorro al hombro. Bajo ellos se abre un valle helado: los aldeanos patinan y juegan sobre estanques blanquiverdes, arde un fuego junto a una posada, se alzan picos escarpados y aves negras cuelgan de un cielo plomizo.",
+      "craft": "Brueghel guía la mirada con un punto de vista alto y fuertes diagonales: la hilera de árboles y cazadores baja hacia el valle y luego los diminutos patinadores la devuelven por el hielo. Una paleta casi monocroma de blanco, pardo y verde, con nítidos acentos negros, vuelve el frío casi físico.",
+      "painter": "Brueghel lo pintó en 1565 para un rico mercader de Amberes, Nicolaes Jonghelinck, dentro de un ciclo sobre el paso del año. Aunque lo apodaban Brueghel el Campesino por sus escenas de aldea, era un artista culto y urbano cuyos paisajes dieron al humilde trabajo del campo una escala de epopeya.",
+      "point": "Uno de los primeros grandes paisajes donde el verdadero tema es la naturaleza, no las personas: todo un mundo preso del invierno, con la vida humana pequeña y atareada dentro de él."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The picture is one of a series Bruegel painted on the months of the year; six were likely made and only five survive, of which this winter scene is the most famous.",
+    "es": "El cuadro forma parte de una serie de Brueghel sobre los meses del año; probablemente se hicieron seis y solo sobreviven cinco, de los cuales esta escena invernal es la más famosa."
+  },
+  "tags": [
+    "northern-renaissance",
+    "landscape",
+    "16th century"
+  ],
+  "notables": [
+    {
+      "en": "The hunters return nearly empty-handed, one small fox between them, a quiet note of a hard, hungry winter.",
+      "es": "Los cazadores vuelven casi con las manos vacías, un solo zorro entre ellos, señal callada de un invierno duro y hambriento."
+    },
+    {
+      "en": "By the inn on the left, people singe a slaughtered pig over a fire, a real December task.",
+      "es": "Junto a la posada de la izquierda, unas personas chamuscan un cerdo sacrificado al fuego, tarea propia de diciembre."
+    },
+    {
+      "en": "Look for a tiny figure carrying firewood over a bridge and a bird trap set on the ice.",
+      "es": "Busca una figura diminuta cargando leña sobre un puente y una trampa para pájaros puesta en el hielo."
+    }
+  ]
+}

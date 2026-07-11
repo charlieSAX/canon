@@ -1,0 +1,68 @@
+{
+  "id": "the-surrender-of-breda",
+  "title": {
+    "en": "The Surrender of Breda",
+    "es": "La rendición de Breda"
+  },
+  "artist": "Diego Velázquez",
+  "year": 1635,
+  "movement": "baroque",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "307 x 367 cm",
+  "location": {
+    "museum": "Museo del Prado",
+    "city": "Madrid"
+  },
+  "image": {
+    "src": "img/the-surrender-of-breda.webp",
+    "width": 1600,
+    "height": 1317,
+    "source_url": "https://commons.wikimedia.org/wiki/File:Vel%C3%A1zquez_-_de_Breda_o_Las_Lanzas_(Museo_del_Prado%2C_1634-35)FXD.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Two armies meet on a plain outside the Dutch fortress of Breda. Justin of Nassau, the defeated governor, steps forward to hand a great iron key to the victorious Spanish general Ambrosio Spínola. Behind the Spaniards a dense thicket of upright lances rises against a smoking, waterlogged landscape.",
+      "craft": "Velázquez refuses the usual triumph. He sets the two commanders at the exact centre, level and courteous, and lets Spínola's outstretched hand on his enemy's shoulder carry the whole meaning. The forest of vertical lances steadies the right side, while loosely brushed distance dissolves into haze and drifting smoke.",
+      "painter": "Velázquez painted this in his thirties for the Buen Retiro palace, one of twelve battle scenes glorifying Philip IV's reign. He had visited Italy and absorbed its scale and colour. Court painter since his mid twenties, he gives the losing side dignity rather than the crowing his royal patron might have wished.",
+      "point": "It is a picture about how to win with grace: victory shown not as humiliation but as respect between soldiers who know each other's worth."
+    },
+    "es": {
+      "scene": "Dos ejércitos se encuentran en una llanura ante la fortaleza holandesa de Breda. Justino de Nassau, el gobernador derrotado, se adelanta para entregar una gran llave de hierro al victorioso general español Ambrosio Spínola. Tras los españoles se alza un espeso bosque de lanzas verticales sobre un paisaje humeante y anegado.",
+      "craft": "Velázquez rechaza el triunfo habitual. Sitúa a los dos comandantes en el centro exacto, a la misma altura y con cortesía, y deja que la mano tendida de Spínola sobre el hombro del enemigo cargue con todo el sentido. El bosque de lanzas verticales afirma el lado derecho, mientras la distancia, pintada con soltura, se disuelve en bruma y humo.",
+      "painter": "Velázquez pintó esta obra rondando los treinta para el palacio del Buen Retiro, una de doce escenas de batalla que glorificaban el reinado de Felipe IV. Había visitado Italia y absorbido su escala y su color. Pintor de corte desde los veinticinco años, concede dignidad al bando vencido en lugar de la burla que su patrón real quizá esperaba.",
+      "point": "Es un cuadro sobre cómo vencer con elegancia: la victoria mostrada no como humillación, sino como respeto entre soldados que conocen el valor del otro."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Rather than showing the Dutch humiliated, Velázquez has the Spanish general stop his defeated enemy from kneeling, an act of courtesy almost unheard of in a victory painting.",
+    "es": "En lugar de mostrar humillados a los holandeses, Velázquez hace que el general español impida arrodillarse a su enemigo vencido, un gesto de cortesía casi inaudito en una pintura de victoria."
+  },
+  "tags": [
+    "baroque",
+    "history painting",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "The upright Spanish lances give the painting its Spanish nickname, Las Lanzas, the Lances.",
+      "es": "Las lanzas verticales de los españoles dan al cuadro su apodo, Las Lanzas."
+    },
+    {
+      "en": "Spínola lays a hand on Justin's shoulder, stopping him from kneeling in submission.",
+      "es": "Spínola posa la mano sobre el hombro de Justino y le impide arrodillarse en señal de sumisión."
+    },
+    {
+      "en": "In the smoky distance lie the drowned fields and dykes of the drawn out siege of Breda.",
+      "es": "A lo lejos, entre el humo, se extienden los campos inundados y los diques del largo asedio de Breda."
+    },
+    {
+      "en": "The great key changing hands is the literal and symbolic centre, the surrender made concrete in iron.",
+      "es": "La gran llave que cambia de manos es el centro literal y simbólico, la rendición hecha hierro."
+    }
+  ]
+}

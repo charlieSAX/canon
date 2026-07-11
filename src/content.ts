@@ -1,9 +1,11 @@
-import type { Painting, Schedule } from './types'
+import type { Movements, Painting, Schedule } from './types'
 
 const BASE = import.meta.env.BASE_URL
 
 let scheduleCache: Schedule | null = null
-let paintingsCache: Map<string, Painting> | null = null
+let indexCache: string[] | null = null
+const paintingCache = new Map<string, Painting>()
+let movementsCache: Movements | null = null
 
 export async function loadSchedule(): Promise<Schedule> {
   if (!scheduleCache) {
@@ -13,35 +15,40 @@ export async function loadSchedule(): Promise<Schedule> {
   return scheduleCache
 }
 
-export async function loadAllPaintings(): Promise<Map<string, Painting>> {
-  if (!paintingsCache) {
-    const schedule = await loadSchedule()
-    const ids = [...new Set(Object.values(schedule).flat())]
-    const entries = await Promise.all(
-      ids.map(async (id) => {
-        const res = await fetch(`${BASE}content/paintings/${id}.json`)
-        return [id, (await res.json()) as Painting] as const
-      })
-    )
-    paintingsCache = new Map(entries)
+export async function loadMovements(): Promise<Movements> {
+  if (!movementsCache) {
+    const res = await fetch(`${BASE}content/movements.json`)
+    movementsCache = (await res.json()) as Movements
   }
-  return paintingsCache
+  return movementsCache
+}
+
+export async function loadAllPaintings(): Promise<Map<string, Painting>> {
+  if (!indexCache) {
+    const res = await fetch(`${BASE}content/index.json`)
+    indexCache = (await res.json()) as string[]
+  }
+  const ids = indexCache
+  const paintings = await Promise.all(ids.map(loadPainting))
+  return new Map(paintings.map((painting) => [painting.id, painting]))
+}
+
+async function loadPainting(id: string): Promise<Painting> {
+  const cached = paintingCache.get(id)
+  if (cached) return cached
+  const res = await fetch(`${BASE}content/paintings/${id}.json`)
+  const painting = (await res.json()) as Painting
+  paintingCache.set(id, painting)
+  return painting
 }
 
 export async function paintingsFor(date: string): Promise<Painting[]> {
   const schedule = await loadSchedule()
   const ids = schedule[date]
   if (!ids) return []
-  const all = await loadAllPaintings()
-  return ids.map((id) => all.get(id)).filter((p): p is Painting => Boolean(p))
+  return Promise.all(ids.map(loadPainting))
 }
 
 export function imageUrl(p: Painting): string {
   return `${BASE}${p.image.src}`
-}
-
-export function ordinalCentury(year: number): string {
-  const c = Math.ceil(year / 100)
-  const suffix = c % 10 === 1 && c !== 11 ? 'st' : c % 10 === 2 && c !== 12 ? 'nd' : c % 10 === 3 && c !== 13 ? 'rd' : 'th'
-  return `${c}${suffix} century`
 }

@@ -1,0 +1,64 @@
+{
+  "id": "madame-x",
+  "title": {
+    "en": "Madame X",
+    "es": "Madame X"
+  },
+  "artist": "John Singer Sargent",
+  "year": 1884,
+  "movement": "realism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "209 x 110 cm",
+  "location": {
+    "museum": "The Metropolitan Museum of Art",
+    "city": "New York"
+  },
+  "image": {
+    "src": "img/madame-x.webp",
+    "width": 846,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJohn_Singer_Sargent_(American%2C_Florence_1856%E2%80%931925_London)_-_Madame_X_(Madame_Pierre_Gautreau)_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A tall woman stands in sharp profile against a plain brown ground, one hand twisting to touch a small table. Her skin is powdered lavender-white; her black satin gown plunges low, held by thin jewelled straps. Her chin lifts, her nose is proud, her expression cool. A crescent ornament glints in her auburn hair.",
+      "craft": "Sargent works in stark contrast: a pale, sculpted body and profile set against near-empty brown, the black dress a single dramatic silhouette. He built the pose over many sittings, endlessly reworking the contour of her arm and jaw. Every touch is controlled, the flesh cool and matte, the whole reduced to elegant line and tone.",
+      "painter": "Sargent was a young American in Paris, hungry to make his name with a dazzling Salon portrait. He pursued the celebrated beauty Virginie Gautreau, an American-born socialite, for months to sit. The 1884 scandal did the opposite of what he hoped and helped drive him to London. He kept the canvas for decades and thought it his finest work.",
+      "point": "A portrait meant to crown a career instead ended one in Paris, because a single fallen strap and a proud, painted beauty read as an admission of scandalous sexuality."
+    },
+    "es": {
+      "scene": "Una mujer alta posa de riguroso perfil contra un fondo pardo y liso, con una mano girada hacia una mesita. Su piel es de un blanco empolvado, casi lavanda; su vestido de raso negro cae muy escotado, sostenido por finos tirantes enjoyados. Alza el mentón, altiva y fría. Un adorno en media luna brilla en su cabello caoba.",
+      "craft": "Sargent trabaja con un contraste rotundo: un cuerpo pálido y esculpido recortado contra un pardo casi vacío, y el vestido negro, una única silueta dramática. Construyó la pose en muchas sesiones, rehaciendo el contorno del brazo y la mandíbula. Cada toque es medido, la carne fría y mate, y el conjunto se reduce a línea y tono elegantes.",
+      "painter": "Sargent era un joven estadounidense en París, ansioso por hacerse un nombre con un retrato de Salón. Persiguió meses a la célebre beldad Virginie Gautreau, socialité nacida en Estados Unidos, para que posara. El escándalo de 1884 hizo lo contrario de lo esperado y lo empujó a Londres. Guardó el lienzo décadas y lo tuvo por su mejor obra.",
+      "point": "Un retrato pensado para coronar una carrera acabó truncándola en París, porque un solo tirante caído y una beldad altiva y maquillada se leyeron como confesión de una sexualidad escandalosa."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Sargent first exhibited the gown with one jewelled strap slipping off the shoulder; the outcry was so fierce that he later repainted the strap firmly in place.",
+    "es": "Sargent expuso primero el vestido con un tirante enjoyado resbalando del hombro; el escándalo fue tan feroz que después repintó el tirante firmemente en su lugar."
+  },
+  "tags": [
+    "realism",
+    "portrait",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "When first shown, the right strap hung off her shoulder; after the outcry Sargent repainted it upright, where it stays today.",
+      "es": "Al exhibirse por primera vez, el tirante derecho colgaba del hombro; tras el escándalo, Sargent lo repintó en su sitio, donde sigue hoy."
+    },
+    {
+      "en": "Her skin has a deliberate lavender pallor; Gautreau was famous for enhancing her complexion, reportedly with powder and tints.",
+      "es": "Su piel tiene una palidez lavanda deliberada; Gautreau era famosa por realzar su cutis, al parecer con polvos y tintes."
+    },
+    {
+      "en": "Sargent hid her name, calling the work Madame X, but everyone in Paris recognised the notorious sitter at once.",
+      "es": "Sargent ocultó su nombre y tituló la obra Madame X, pero todo París reconoció al instante a la modelo, tan comentada."
+    }
+  ]
+}

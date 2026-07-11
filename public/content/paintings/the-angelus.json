@@ -1,0 +1,64 @@
+{
+  "id": "the-angelus",
+  "title": {
+    "en": "The Angelus",
+    "es": "El Ángelus"
+  },
+  "artist": "Jean-François Millet",
+  "year": 1859,
+  "movement": "realism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "56 x 66 cm",
+  "location": {
+    "museum": "Musée d'Orsay",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/the-angelus.webp",
+    "width": 1600,
+    "height": 1330,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJean-Fran%C3%A7ois_Millet_-_The_Angelus_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "At dusk a peasant couple stand alone in a darkening potato field and bow their heads. Between them sit a basket, a fork stuck in the soil and a wheelbarrow. The man holds his hat; the woman folds her hands. On the far horizon a church spire catches the last light.",
+      "craft": "Millet sets two dark upright figures against a wide, glowing evening sky, so their bowed silhouettes read from across a room. The horizon sits low, the light is warm and failing, and the brushwork stays quiet and matt. Everything is stilled to the moment of prayer, the labour paused, the tools set down.",
+      "painter": "Millet painted it for an American collector, drawing on his own childhood in Normandy. He recalled how his grandmother, hearing the church bell while they worked the fields, would make them stop and say the Angelus for the poor departed. He worked at Barbizon, poor himself, painting the piety of country people he knew.",
+      "point": "It makes a small act of daily faith monumental: two labourers pausing for the evening prayer, dignity found not in wealth or drama but in humility and routine."
+    },
+    "es": {
+      "scene": "Al anochecer, una pareja de campesinos está sola en un campo de patatas que se oscurece e inclina la cabeza. Entre ellos hay una cesta, una horca clavada en la tierra y una carretilla. El hombre sostiene el sombrero; la mujer junta las manos. En el horizonte lejano, el campanario de una iglesia atrapa la última luz.",
+      "craft": "Millet recorta dos figuras oscuras y erguidas contra un cielo amplio y luminoso del atardecer, para que sus siluetas inclinadas se lean desde lejos. El horizonte queda bajo, la luz es cálida y se apaga, y la pincelada permanece callada y mate. Todo se detiene en el momento de la oración: el trabajo suspendido, las herramientas en el suelo.",
+      "painter": "Millet lo pintó para un coleccionista estadounidense, apoyándose en su propia infancia en Normandía. Recordaba cómo su abuela, al oír la campana de la iglesia mientras trabajaban en el campo, los hacía detenerse para rezar el Ángelus por los difuntos. Trabajaba en Barbizon, él mismo pobre, pintando la piedad de la gente del campo que conocía.",
+      "point": "Convierte en monumental un pequeño acto de fe cotidiana: dos jornaleros que se detienen para la oración del atardecer, con una dignidad hallada no en la riqueza ni en el drama, sino en la humildad y la rutina."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Salvador Dalí was so convinced the couple were praying over a buried child that he pressed the Louvre to X-ray the canvas; it revealed a small overpainted geometric shape near the basket.",
+    "es": "Salvador Dalí estaba tan convencido de que la pareja rezaba sobre un hijo enterrado que presionó al Louvre para radiografiar el lienzo; la placa reveló una pequeña forma geométrica repintada junto a la cesta."
+  },
+  "tags": [
+    "realism",
+    "prayer",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The Angelus is a Catholic prayer said at morning, noon and evening; the distant church bell is what has stopped the couple where they stand.",
+      "es": "El Ángelus es una oración católica rezada al alba, al mediodía y al atardecer; la campana lejana de la iglesia ha detenido a la pareja donde está."
+    },
+    {
+      "en": "Salvador Dalí was obsessed with the picture and insisted the basket hid a small coffin; a later X-ray found an overpainted shape beneath it.",
+      "es": "Salvador Dalí estaba obsesionado con el cuadro e insistía en que la cesta ocultaba un pequeño ataúd; una radiografía posterior halló una forma repintada debajo."
+    },
+    {
+      "en": "The little basket between the couple holds their meagre crop of potatoes, the whole day's harvest set on the ground.",
+      "es": "La cestita entre la pareja guarda su escasa cosecha de patatas, todo lo recogido en el día dejado en el suelo."
+    }
+  ]
+}

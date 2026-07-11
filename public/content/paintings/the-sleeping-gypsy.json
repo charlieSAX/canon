@@ -1,0 +1,64 @@
+{
+  "id": "the-sleeping-gypsy",
+  "title": {
+    "en": "The Sleeping Gypsy",
+    "es": "La gitana dormida"
+  },
+  "artist": "Henri Rousseau",
+  "year": 1897,
+  "movement": "naive-art",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "129.5 x 200.7 cm",
+  "location": {
+    "museum": "Museum of Modern Art",
+    "city": "New York"
+  },
+  "image": {
+    "src": "img/the-sleeping-gypsy.webp",
+    "width": 1600,
+    "height": 1040,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AHenri_Rousseau_-_La_Boh%C3%A9mienne_endormie_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "On a still, moonlit desert, a dark-skinned woman in a striped robe lies fast asleep, a mandolin and a water jar beside her, a staff in her hand. A lion stands over her, mane bristling, sniffing at her body but not attacking. Behind them stretch bare sand, low hills and a cold round moon.",
+      "craft": "Rousseau, self-taught, paints with flat clarity and dreamlike precision. The forms are simplified and sharply outlined, the colours smooth and even, the light impossibly still. Even stripes on the robe and the lion's neatly combed mane sit against an empty, silent ground, and every edge is crisp, giving the scene its hypnotic, frozen calm.",
+      "painter": "Rousseau was a Paris toll collector who taught himself to paint and exhibited to jeering critics who found him laughably crude. He described this picture in a letter offering it to the mayor of Laval, his home town, who declined. Only later did Picasso and the avant-garde hail him as a visionary.",
+      "point": "Rousseau makes a fairy tale feel utterly real: a wild beast and a sleeping stranger share one enchanted, weightless moment. The picture keeps its mystery and refuses to explain itself."
+    },
+    "es": {
+      "scene": "En un desierto quieto bajo la luna, una mujer de piel oscura y túnica de rayas duerme profundamente, con mandolina, cántaro y bastón a su lado. Un león se yergue sobre ella, con la melena erizada, olfateando su cuerpo pero sin atacar. Detrás se extienden la arena desnuda, unas colinas bajas y una fría luna redonda.",
+      "craft": "Rousseau, autodidacta, pinta con claridad plana y precisión de sueño. Las formas están simplificadas y nítidamente perfiladas, los colores son lisos y uniformes, la luz imposiblemente quieta. Las rayas regulares de la túnica y la melena peinada del león se recortan sobre un fondo vacío y silencioso, y cada borde limpio da a la escena su calma hipnótica y congelada.",
+      "painter": "Rousseau era un recaudador de peajes de París que aprendió a pintar por su cuenta y expuso ante críticos burlones que lo hallaban ridículamente tosco. Describió este cuadro en una carta ofreciéndolo al alcalde de Laval, su ciudad natal, que lo rechazó. Solo más tarde Picasso y la vanguardia lo aclamaron como un visionario.",
+      "point": "Rousseau hace que un cuento de hadas parezca del todo real: una fiera y una desconocida dormida comparten un mismo instante encantado e ingrávido. El cuadro conserva su misterio y se niega a explicarse."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Rousseau, a self-taught customs officer, tried to sell this dreamlike picture to the mayor of his home town of Laval; the offer was refused, and the painting was later forgotten for decades.",
+    "es": "Rousseau, un funcionario de aduanas autodidacta, intentó vender este cuadro de ensueño al alcalde de su ciudad natal, Laval; la oferta fue rechazada y la pintura quedó luego olvidada durante décadas."
+  },
+  "tags": [
+    "naive-art",
+    "dream",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The lion sniffs the sleeper but does no harm; Rousseau wrote that it passes by and does not devour her.",
+      "es": "El león olfatea a la durmiente pero no le hace daño; Rousseau escribió que pasa a su lado y no la devora."
+    },
+    {
+      "en": "A mandolin and a water jar lie beside her, marking her out as a wandering musician.",
+      "es": "Una mandolina y un cántaro de agua reposan a su lado, señalándola como una música errante."
+    },
+    {
+      "en": "The full moon and cold light flatten the desert into a silent stage, without a breath of wind.",
+      "es": "La luna llena y la luz fría aplanan el desierto hasta convertirlo en un escenario silencioso, sin un soplo de viento."
+    }
+  ]
+}

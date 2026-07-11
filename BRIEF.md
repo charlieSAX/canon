@@ -171,3 +171,15 @@ The 1001-list pipeline, four scripts in /scripts:
 - Quiz unlocked and functional once the seed pool is seen.
 - CI green end to end: validate, dash scan, build, deploy, runway cron in place.
 - README, CLAUDE.md, BRIEF.md, IDEAS.md all present.
+
+## v3 amendments (commissioned 2026-07-10, supersede conflicting v2 lines)
+
+Charlie's rulings: 100-painting pool, everything bilingual, weekly scheduler cron.
+
+1. **Bilingual.** The app toggles between English and Spanish from a small control top right on the home screen, next to the progress icon. The choice persists in Dexie. Everything toggles: UI strings, essays, facts, notables, quiz questions. This is the only new control on the home screen.
+2. **Pool of 100.** The seed grows to 100 public-domain paintings (public domain in BOTH the EU, life plus 70, and the US, published before 1930). Same image rules as v2: Commons source, WebP 1600px longest edge quality 80, source_url and license_note recorded.
+3. **Content model v2.** Per painting, in both languages: scene, craft, painter (a biographical moment around the making, plus a reliably attested remark where one exists), point (what the painting is about, in one or two sentences), notables (2 to 4 short items surfacing hidden or secret details worth hunting for), fact. Movements get a shared two-language explainer in /content/movements.json, shown on the card as The Style. Lengths at or slightly under the v1 band; essays are teaching text now, authored in-build against this spec, not placeholders.
+4. **Quiz drills the written content.** New rotated question types alongside the v1 four: the point of the painting (image to point, 4 options), the style (image to movement, 4 options), notable to painting (4-up grid). Same FSRS card per painting, same timing bands, same distractor rules.
+5. **Weekly self-scheduling.** A Monday cron keeps at least 14 days of schedule runway: never-scheduled paintings first, then least-recently-scheduled recycling, five per day, committed to main so the push deploys. validate's minimum runway rises to 7 days. The nightly runway-issue check stays as backstop.
+6. **Images at scale.** /img/ moves to a runtime cache-first strategy; the shell and all content JSON stay precached. Days already loaded keep working offline.
+7. **User state survives.** Painting ids are stable; seen, cards, days, points and tokens carry over untouched.

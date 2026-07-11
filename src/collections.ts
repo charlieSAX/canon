@@ -1,24 +1,30 @@
-import type { Painting } from './types'
-import { ordinalCentury } from './content'
+import type { Lang, Movements, Painting } from './types'
+import { centuryName } from './i18n'
 
 export interface CollectionSet {
   kind: 'artist' | 'movement' | 'century'
-  name: string
+  key: string // stable identity: artist name, movement slug, or century number
+  label: string // display in the current language
   total: number
   seen: number
 }
 
-export function buildCollections(all: Painting[], seenIds: Set<string>): CollectionSet[] {
+export function buildCollections(
+  all: Painting[],
+  seenIds: Set<string>,
+  movements: Movements,
+  lang: Lang
+): CollectionSet[] {
   const sets = new Map<string, CollectionSet>()
   for (const p of all) {
-    const keys: Array<[CollectionSet['kind'], string]> = [
-      ['artist', p.artist],
-      ['movement', p.movement],
-      ['century', ordinalCentury(p.year)]
+    const entries: Array<[CollectionSet['kind'], string, string]> = [
+      ['artist', p.artist, p.artist],
+      ['movement', p.movement, movements[p.movement]?.name[lang] ?? p.movement],
+      ['century', String(Math.ceil(p.year / 100)), centuryName(p.year, lang)]
     ]
-    for (const [kind, name] of keys) {
-      const id = `${kind}|${name}`
-      const set = sets.get(id) ?? { kind, name, total: 0, seen: 0 }
+    for (const [kind, key, label] of entries) {
+      const id = `${kind}|${key}`
+      const set = sets.get(id) ?? { kind, key, label, total: 0, seen: 0 }
       set.total += 1
       if (seenIds.has(p.id)) set.seen += 1
       sets.set(id, set)
@@ -28,23 +34,25 @@ export function buildCollections(all: Painting[], seenIds: Set<string>): Collect
 }
 
 // Sets completed by adding `newId` to the seen pool.
-export function newlyCompleted(all: Painting[], seenBefore: Set<string>, newId: string): CollectionSet[] {
+export function newlyCompleted(
+  all: Painting[],
+  seenBefore: Set<string>,
+  newId: string,
+  movements: Movements,
+  lang: Lang
+): CollectionSet[] {
   const after = new Set(seenBefore)
   after.add(newId)
-  const before = buildCollections(all, seenBefore)
-  const now = buildCollections(all, after)
-  const completeNow = now.filter((s) => s.seen === s.total)
-  const completeBefore = new Set(
-    before.filter((s) => s.seen === s.total).map((s) => `${s.kind}|${s.name}`)
-  )
-  return completeNow.filter((s) => !completeBefore.has(`${s.kind}|${s.name}`))
+  const before = buildCollections(all, seenBefore, movements, lang)
+  const now = buildCollections(all, after, movements, lang)
+  const doneBefore = new Set(before.filter((s) => s.seen === s.total).map((s) => `${s.kind}|${s.key}`))
+  return now.filter((s) => s.seen === s.total && !doneBefore.has(`${s.kind}|${s.key}`))
 }
 
-export function milestoneLine(set: CollectionSet): string {
+export function milestoneLine(set: CollectionSet, lang: Lang): string {
   if (set.kind === 'artist') {
-    const surname = set.name.split(' ').slice(-1)[0]
-    return `Every ${surname}, seen.`
+    const surname = set.label.split(' ').slice(-1)[0]
+    return lang === 'es' ? `Cada ${surname}, visto.` : `Every ${surname}, seen.`
   }
-  if (set.kind === 'movement') return `${set.name}, complete.`
-  return `The ${set.name}, complete.`
+  return lang === 'es' ? `${set.label}, completado.` : `${set.label}, complete.`
 }

@@ -1,0 +1,64 @@
+{
+  "id": "sunflowers",
+  "title": {
+    "en": "Sunflowers",
+    "es": "Los girasoles"
+  },
+  "artist": "Vincent van Gogh",
+  "year": 1888,
+  "movement": "post-impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "92 x 73 cm",
+  "location": {
+    "museum": "The National Gallery",
+    "city": "London"
+  },
+  "image": {
+    "src": "img/sunflowers.webp",
+    "width": 1259,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AVincent_van_Gogh_-_Sunflowers_(1888%2C_National_Gallery_London).jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Fifteen sunflowers crowd a plain earthenware vase set on a table, against a flat yellow wall. Some blaze fresh and round; others droop, going to seed, petals curling and browning. The whole picture is yellow on yellow, from the palest wall to the deep gold of the flowers. A signed vase anchors it.",
+      "craft": "The daring is the near-total yellow: Van Gogh sets bright chrome, ochre and brown against one another, using colour alone to build form where other painters would use shadow. Thick, blunt strokes give the petals a rough, sculptural body. The paint is laid on so heavily the flowers seem modelled rather than drawn.",
+      "painter": "Van Gogh painted this in Arles in August 1888, in a burst of hope, decorating the Yellow House for the arrival of his friend Gauguin. He made a whole series, meaning them as a bright welcome. The friendship soon collapsed in the crisis that cost him his ear, but he prized these sunflowers as his own.",
+      "point": "The sunflowers are really about yellow itself, and about hope: an ordinary flower turned into a whole emotional world through sheer, radiant colour."
+    },
+    "es": {
+      "scene": "Quince girasoles se apiñan en una sencilla vasija de barro sobre una mesa, contra una pared amarilla y plana. Unos arden frescos y redondos; otros se marchitan camino de la semilla, con los pétalos rizados y pardos. Todo el cuadro es amarillo sobre amarillo, del muro más pálido al oro intenso de las flores. Una vasija firmada lo sostiene.",
+      "craft": "Lo atrevido es el amarillo casi total: Van Gogh enfrenta cromo brillante, ocre y pardo, usando solo el color para construir la forma donde otros usarían la sombra. Trazos gruesos y romos dan a los pétalos un cuerpo áspero y escultórico. La pintura se aplica tan espesa que las flores parecen modeladas, no dibujadas.",
+      "painter": "Van Gogh lo pintó en Arlés en agosto de 1888, en un arranque de esperanza, decorando la Casa Amarilla para la llegada de su amigo Gauguin. Hizo toda una serie, pensada como una bienvenida luminosa. La amistad pronto se rompió en la crisis que le costó la oreja, pero él apreciaba estos girasoles como algo propio.",
+      "point": "Los girasoles tratan en realidad del amarillo mismo y de la esperanza: una flor corriente convertida en todo un mundo emocional por medio de un color puro y radiante."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Van Gogh painted his sunflower pictures to decorate a room for Gauguin's visit; he counted them among the very few works he was truly proud of.",
+    "es": "Van Gogh pintó sus girasoles para decorar una habitación ante la visita de Gauguin; los contaba entre las poquísimas obras de las que se sentía de verdad orgulloso."
+  },
+  "tags": [
+    "post-impressionism",
+    "still life",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The word Vincent is painted in blue on the vase; Van Gogh signed with his first name because he thought his surname hard for the French.",
+      "es": "La palabra Vincent está pintada en azul sobre la vasija; Van Gogh firmaba con su nombre porque creía su apellido difícil para los franceses."
+    },
+    {
+      "en": "The flowers span their whole life cycle, from fresh, full blooms to withered heads dropping their petals and seeds.",
+      "es": "Las flores abarcan todo su ciclo de vida, de los capullos frescos y plenos a las cabezas marchitas que sueltan pétalos y semillas."
+    },
+    {
+      "en": "This is one of several near-identical versions; Van Gogh was proud enough of the design to repeat it carefully.",
+      "es": "Es una de varias versiones casi idénticas; Van Gogh estaba lo bastante orgulloso del diseño como para repetirlo con cuidado."
+    }
+  ]
+}

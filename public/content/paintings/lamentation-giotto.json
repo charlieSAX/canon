@@ -1,0 +1,64 @@
+{
+  "id": "lamentation-giotto",
+  "title": {
+    "en": "The Lamentation",
+    "es": "El llanto sobre Cristo muerto"
+  },
+  "artist": "Giotto di Bondone",
+  "year": 1305,
+  "movement": "proto-renaissance",
+  "medium": {
+    "en": "Fresco",
+    "es": "Fresco"
+  },
+  "dimensions": "200 x 185 cm",
+  "location": {
+    "museum": "Scrovegni Chapel",
+    "city": "Padua"
+  },
+  "image": {
+    "src": "img/lamentation-giotto.webp",
+    "width": 1223,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFresque_de_Giotto%2C_chapelle_des_Scrovegni_%C3%A0_Padoue.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "On a bare hillside, Mary cradles the dead Christ's face to her own, ringed by mourners frozen in grief. Two figures sit with their backs to us, hunched over the body. Above, ten small angels wheel across the blue sky, tearing their hair and wailing. A single leafless tree crowns the rock.",
+      "craft": "Giotto builds real space with a low diagonal ridge that drives the eye down to the two faces at the base. His figures have weight and bulk, wrapped in heavy drapery that falls like real cloth. Turning mourners away from us, backs bare, pulls us into the circle of grief.",
+      "painter": "Around 1305 Giotto was the most famous painter in Italy, summoned to Padua by the banker Enrico Scrovegni to fresco a private chapel, partly in atonement for his father's usury. Across its walls Giotto gave sacred figures ordinary human bodies and feelings, a break that would reshape Western painting.",
+      "point": "It is the first painting to treat grief as a real human event rather than a sacred symbol, staged so we stand inside the mourning circle."
+    },
+    "es": {
+      "scene": "En una ladera desnuda, María acerca a su rostro la cara de Cristo muerto, rodeada de dolientes petrificados por el dolor. Dos figuras se sientan de espaldas a nosotros, encorvadas sobre el cuerpo. Arriba, diez pequeños ángeles giran por el cielo azul, mesándose el cabello y gritando. Un árbol sin hojas corona la roca.",
+      "craft": "Giotto construye un espacio real con una cresta diagonal y baja que empuja la mirada hacia los dos rostros de la base. Sus figuras tienen peso y volumen, envueltas en paños pesados que caen como tela verdadera. Los dolientes de espaldas, con la espalda desnuda, nos meten en el círculo del duelo.",
+      "painter": "Hacia 1305 Giotto era el pintor más célebre de Italia, llamado a Padua por el banquero Enrico Scrovegni para pintar al fresco una capilla privada, en parte para expiar la usura de su padre. En sus muros dio a las figuras sagradas cuerpos y sentimientos humanos, un giro que transformaría la pintura occidental.",
+      "point": "Es la primera pintura que trata el duelo como un hecho humano real y no como un símbolo sagrado, dispuesta para que estemos dentro del círculo de los que lloran."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Giotto sets the whole scene on a downward slope, so the emotional weight collapses into the lower left corner where the mother presses her face to her dead son's.",
+    "es": "Giotto sitúa toda la escena en una pendiente descendente, de modo que el peso emocional se derrumba en el ángulo inferior izquierdo, donde la madre pega su rostro al de su hijo muerto."
+  },
+  "tags": [
+    "proto-renaissance",
+    "religious scene",
+    "14th century"
+  ],
+  "notables": [
+    {
+      "en": "The ten angels overhead each grieve differently, one tearing its hair, another flinging its arms wide in despair.",
+      "es": "Los diez ángeles del cielo se afligen cada uno de un modo, uno mesándose el cabello, otro abriendo los brazos con desesperación."
+    },
+    {
+      "en": "The two mourners seen from behind are faceless, a device that opens a real space you seem to enter.",
+      "es": "Los dos dolientes vistos de espaldas no tienen rostro, un recurso que abre un espacio real en el que parece que entramos."
+    },
+    {
+      "en": "The bare, dead tree on the ridge nods to the Tree of Knowledge and the promise of new life.",
+      "es": "El árbol seco de la cresta alude al Árbol del Conocimiento y a la promesa de una vida nueva."
+    }
+  ]
+}

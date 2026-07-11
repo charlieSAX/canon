@@ -1,6 +1,8 @@
 import { useCallback, useEffect, useState } from 'react'
+import type { Lang } from './types'
 import { initTestHooks, todayStr } from './dates'
 import { reconcile } from './streak'
+import { db, setMeta } from './db'
 import DailyView from './DailyView'
 import QuizView from './QuizView'
 import ProgressView from './ProgressView'
@@ -10,6 +12,7 @@ type View = 'daily' | 'quiz' | 'progress'
 export default function App() {
   const [view, setView] = useState<View>('daily')
   const [today, setToday] = useState(todayStr())
+  const [lang, setLang] = useState<Lang>('en')
   const [ready, setReady] = useState(false)
   const [toasts, setToasts] = useState<string[]>([])
 
@@ -24,13 +27,23 @@ export default function App() {
 
   useEffect(() => {
     let alive = true
-    reconcile(today).then(() => {
-      if (alive) setReady(true)
+    Promise.all([reconcile(today), db.meta.get('lang')]).then(([, langRow]) => {
+      if (!alive) return
+      if (langRow?.value === 'es') setLang('es')
+      setReady(true)
     })
     return () => {
       alive = false
     }
   }, [today])
+
+  const toggleLang = useCallback(() => {
+    setLang((prev) => {
+      const next: Lang = prev === 'en' ? 'es' : 'en'
+      void setMeta('lang', next)
+      return next
+    })
+  }, [])
 
   const pushToasts = useCallback((lines: string[]) => {
     if (lines.length > 0) setToasts((t) => [...t, ...lines])
@@ -47,11 +60,22 @@ export default function App() {
   return (
     <>
       {view === 'daily' && (
-        <DailyView today={today} onToasts={pushToasts} onOpenProgress={() => setView('progress')} />
+        <DailyView
+          today={today}
+          lang={lang}
+          onToggleLang={toggleLang}
+          onToasts={pushToasts}
+          onOpenProgress={() => setView('progress')}
+        />
       )}
-      {view === 'quiz' && <QuizView today={today} onExit={() => setView('progress')} />}
+      {view === 'quiz' && <QuizView today={today} lang={lang} onExit={() => setView('progress')} />}
       {view === 'progress' && (
-        <ProgressView today={today} onBack={() => setView('daily')} onStartQuiz={() => setView('quiz')} />
+        <ProgressView
+          today={today}
+          lang={lang}
+          onBack={() => setView('daily')}
+          onStartQuiz={() => setView('quiz')}
+        />
       )}
       {toasts.length > 0 && (
         <div className="toast" key={`${toasts[0]}-${toasts.length}`}>

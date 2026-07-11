@@ -1,0 +1,64 @@
+{
+  "id": "woman-with-a-parasol",
+  "title": {
+    "en": "Woman with a Parasol",
+    "es": "Mujer con sombrilla"
+  },
+  "artist": "Claude Monet",
+  "year": 1875,
+  "movement": "impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "100 x 81 cm",
+  "location": {
+    "museum": "National Gallery of Art",
+    "city": "Washington"
+  },
+  "image": {
+    "src": "img/woman-with-a-parasol.webp",
+    "width": 1288,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AClaude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "On a grassy rise against a billowing sky, Camille Monet turns to look back, her green veil and white dress caught by the wind. Her parasol tilts overhead. Her young son Jean stands lower in the meadow behind her, half hidden by the tall summer grass.",
+      "craft": "Monet worked outdoors at speed, probably in a single session of a few hours. Quick, broken strokes model the wind: the veil streams, the grass leans, the dress ripples. He viewed Camille from below against the sky, so she reads as a weightless silhouette rather than a fixed portrait.",
+      "painter": "Monet was in his mid-thirties, living at Argenteuil with Camille and Jean, and still poor despite the new movement's momentum. He painted his wife often in these years. Camille died in 1879, aged thirty-two, and he never repeated this exact figure, though he returned to the parasol motif a decade later.",
+      "point": "It is less a portrait than a snapshot of a passing instant: a gust of wind, a glance over the shoulder, painted before the moment could fade."
+    },
+    "es": {
+      "scene": "Sobre una loma de hierba, contra un cielo agitado, Camille Monet se gira para mirar atrás, con el velo verde y el vestido blanco movidos por el viento. La sombrilla se inclina sobre su cabeza. Su hijo Jean está más abajo en el prado, medio oculto entre la hierba alta del verano.",
+      "craft": "Monet trabajó al aire libre y deprisa, seguramente en una sola sesión de pocas horas. Pinceladas rápidas y quebradas modelan el viento: el velo ondea, la hierba se dobla, el vestido tiembla. Vio a Camille desde abajo, contra el cielo, y así ella parece una silueta ingrávida, no un retrato fijo.",
+      "painter": "Monet rondaba los treinta y cinco años, vivía en Argenteuil con Camille y Jean y seguía siendo pobre pese al empuje del nuevo movimiento. Pintó mucho a su esposa en estos años. Camille murió en 1879, con treinta y dos, y nunca repitió esta figura, aunque volvió a la sombrilla una década después.",
+      "point": "Más que un retrato, es la instantánea de un momento fugaz: una ráfaga de viento, una mirada por encima del hombro, pintada antes de que el instante se desvaneciera."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Monet painted the whole picture outdoors in probably a single sitting of a few hours, chasing a passing effect of wind and light before it changed.",
+    "es": "Monet pintó todo el cuadro al aire libre, seguramente en una sola sesión de pocas horas, persiguiendo un efecto pasajero de viento y luz antes de que cambiara."
+  },
+  "tags": [
+    "impressionism",
+    "portrait",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "Camille's face is barely painted, just a shadow under the parasol; Monet cared more about light and wind than her features.",
+      "es": "El rostro de Camille apenas está pintado, solo una sombra bajo la sombrilla; a Monet le importaban más la luz y el viento que sus facciones."
+    },
+    {
+      "en": "The parasol's underside glows green, catching reflected colour from the grass below rather than the blue of the sky.",
+      "es": "El envés de la sombrilla brilla en verde, recogiendo el color reflejado de la hierba y no el azul del cielo."
+    },
+    {
+      "en": "Jean, the son, stands deep in the meadow, so small and pale that many viewers miss him entirely.",
+      "es": "Jean, el hijo, está al fondo del prado, tan pequeño y pálido que muchos espectadores no lo ven."
+    }
+  ]
+}

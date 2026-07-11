@@ -1,0 +1,64 @@
+{
+  "id": "battle-of-san-romano",
+  "title": {
+    "en": "The Battle of San Romano",
+    "es": "La batalla de San Romano"
+  },
+  "artist": "Paolo Uccello",
+  "year": 1440,
+  "movement": "early-renaissance",
+  "medium": {
+    "en": "Tempera on panel",
+    "es": "Temple sobre tabla"
+  },
+  "dimensions": "182 x 320 cm",
+  "location": {
+    "museum": "The National Gallery",
+    "city": "London"
+  },
+  "image": {
+    "src": "img/battle-of-san-romano.webp",
+    "width": 1600,
+    "height": 905,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASan_Romano_Battle_(Paolo_Uccello%2C_London)_01.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Amid a hedge of orange trees, the Florentine commander Niccolò da Tolentino charges on a white horse, bareheaded under a huge patterned hat. Lances level and cross, knights in bright armour collide, and a fallen soldier lies stretched on the ground. Behind, tiny figures hunt and fight across sloping fields.",
+      "craft": "Uccello treats the battlefield as a perspective exercise. Broken lances lie on the ground like ruled lines converging into depth, and a dead soldier is carefully foreshortened. Yet the field tilts up like a tapestry, and the armour, once bright with silver leaf, made the panel glitter across the room.",
+      "painter": "Paolo Uccello was obsessed with the new science of perspective. Vasari says his wife complained he would stay up all night at his drawings, murmuring, Oh what a sweet thing this perspective is. These three panels, painted around 1440 for a Florentine palace, are his grandest experiment in it.",
+      "point": "A cavalry clash becomes a laboratory for the new perspective: Uccello cares less about the battle than about drilling the chaos of war into geometry."
+    },
+    "es": {
+      "scene": "Entre un seto de naranjos, el condotiero florentino Niccolò da Tolentino carga sobre un caballo blanco, con la cabeza descubierta bajo un enorme sombrero estampado. Las lanzas se cruzan a la horizontal, los caballeros de reluciente armadura chocan y un soldado caído yace tendido en el suelo. Al fondo, figuras diminutas cazan y combaten por los campos en pendiente.",
+      "craft": "Uccello trata el campo de batalla como un ejercicio de perspectiva. Las lanzas rotas yacen en el suelo como líneas trazadas que convergen en la profundidad, y un soldado muerto aparece cuidadosamente escorzado. Aun así, el terreno se alza como un tapiz, y las armaduras, antes brillantes de pan de plata, hacían destellar la tabla.",
+      "painter": "Paolo Uccello estaba obsesionado con la nueva ciencia de la perspectiva. Vasari cuenta que su mujer se quejaba de que pasaba las noches en vela ante sus dibujos, murmurando: ¡Oh, qué dulce cosa es esta perspectiva! Estas tres tablas, pintadas hacia 1440 para un palacio florentino, son su mayor experimento con ella.",
+      "point": "Un choque de caballería se vuelve laboratorio de la nueva perspectiva: a Uccello le importa menos la batalla que reducir el caos de la guerra a geometría."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The lances, fallen bodies and even a dead horse are arranged along invisible perspective lines, making the picture as much a geometry lesson as a battle scene.",
+    "es": "Las lanzas, los cuerpos caídos e incluso un caballo muerto se alinean según líneas de fuga invisibles, lo que hace del cuadro tanto una lección de geometría como una escena de batalla."
+  },
+  "tags": [
+    "early-renaissance",
+    "battle",
+    "15th century"
+  ],
+  "notables": [
+    {
+      "en": "The broken lances on the ground are laid deliberately along perspective lines, turning weapons into a diagram of depth.",
+      "es": "Las lanzas rotas del suelo están dispuestas a propósito según líneas de fuga, convirtiendo las armas en un diagrama de la profundidad."
+    },
+    {
+      "en": "A fallen soldier at the left lies fully foreshortened, one of the earliest such figures in Western painting.",
+      "es": "Un soldado caído a la izquierda yace en escorzo completo, una de las primeras figuras así en la pintura occidental."
+    },
+    {
+      "en": "The knights' armour was once picked out in silver leaf, now tarnished to grey, so the panel would have flashed like metal.",
+      "es": "Las armaduras se realzaron con pan de plata, hoy ennegrecido, de modo que la tabla habría destellado como metal."
+    }
+  ]
+}

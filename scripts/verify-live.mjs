@@ -32,7 +32,9 @@ try {
   const schedule = await (await fetch(`${URL}content/schedule.json`)).json()
   const dates = Object.keys(schedule).sort()
   if (dates.length === 0) await fail('schedule.json has no dates')
-  const [day1, day2] = dates
+  const [day1, day2, day3] = dates
+  const firstId = schedule[day1][0]
+  const firstPainting = await (await fetch(`${URL}content/paintings/${firstId}.json`)).json()
 
   step = '1 first painting renders'
   await page.goto(`${URL}?test=1`, { waitUntil: 'networkidle' })
@@ -52,13 +54,23 @@ try {
   await page.locator('.slide').first().click()
   await page.waitForSelector('.card.open', { timeout: 5000 })
   const card = page.locator('.card.open').first()
-  for (const label of ['The Scene', 'The Craft', 'The Painter']) {
+  for (const label of ['The Scene', 'The Craft', 'The Style', 'The Painter', 'The Point', 'Worth Hunting For']) {
     if ((await card.locator('h4.label', { hasText: label }).count()) === 0)
       await fail(`card is missing section "${label}"`)
   }
   const factText = await card.locator('.fact').textContent()
   if (!factText || factText.trim().length === 0) await fail('card fact is empty')
-  console.log('PASS 2: card opens with The Scene, The Craft, The Painter and the fact')
+  console.log('PASS 2a: English card opens with every teaching section and the fact')
+
+  step = '2b Spanish UI and content render'
+  await page.locator('.lang-btn').click()
+  for (const label of ['La escena', 'La técnica', 'El estilo', 'El pintor', 'La esencia', 'Detalles que buscar']) {
+    if ((await card.locator('h4.label', { hasText: label }).count()) === 0)
+      await fail(`Spanish card is missing section "${label}"`)
+  }
+  const SpanishScene = (await card.locator('.essay').first().textContent())?.trim()
+  if (SpanishScene !== firstPainting.text.es.scene) await fail('Spanish painting content does not match its JSON')
+  console.log('PASS 2b: Spanish section labels and painting content render')
 
   step = '3 completing the day sets streak to 1'
   const slideCount = await page.locator('.slide').count()
@@ -93,6 +105,20 @@ try {
     await slide.click({ position: { x: 195, y: 80 } })
   }
 
+  // At 100 paintings the quiz unlocks at 15 seen, so view a third day too.
+  await page.evaluate((d) => window.__canonSetDate(d), day3)
+  await page.waitForSelector(`.daily[data-date="${day3}"] img.art`, { timeout: 15000 })
+  const slides3 = await page.locator('.slide').count()
+  for (let i = 0; i < slides3; i += 1) {
+    const slide = page.locator('.slide').nth(i)
+    await slide.scrollIntoViewIfNeeded()
+    if ((await slide.locator('.card.open').count()) === 0) {
+      await slide.click()
+      await slide.locator('.card.open').waitFor({ timeout: 5000 })
+    }
+    await slide.click({ position: { x: 195, y: 80 } })
+  }
+
   const duesBefore = await page.evaluate(async () => {
     const req = indexedDB.open('canon')
     const db = await new Promise((res, rej) => {
@@ -116,24 +142,35 @@ try {
   }
   await page.locator('button.test-btn').click()
   await page.waitForSelector('.quiz', { timeout: 5000 })
-  // Answer the first question: any tap grades the card and reschedules it.
-  const artOption = page.locator('.quiz-art').first()
-  const textOption = page.locator('.text-btn.option').first()
-  if ((await artOption.count()) > 0) {
-    const isChrono = (await page.locator('.quiz-grid.three').count()) > 0
-    if (isChrono) {
-      const n = await page.locator('.quiz-art').count()
-      for (let i = 0; i < n; i += 1) await page.locator('.quiz-art').nth(i).click()
+  async function answerCurrentQuestion() {
+    const artOption = page.locator('.quiz-art').first()
+    const textOption = page.locator('.text-btn.option').first()
+    if ((await artOption.count()) > 0) {
+      const isChrono = (await page.locator('.quiz-grid.three').count()) > 0
+      if (isChrono) {
+        const n = await page.locator('.quiz-art').count()
+        for (let i = 0; i < n; i += 1) await page.locator('.quiz-art').nth(i).click()
+      } else {
+        await artOption.click()
+      }
+    } else if ((await textOption.count()) > 0) {
+      await textOption.click()
     } else {
-      await artOption.click()
+      await fail('no quiz options rendered')
     }
-  } else if ((await textOption.count()) > 0) {
-    await textOption.click()
-  } else {
-    await fail('no quiz options rendered')
+    await page.waitForSelector('.verdict', { timeout: 5000 })
+    await page.waitForFunction(() => !document.querySelector('.verdict'), { timeout: 8000 })
   }
-  await page.waitForSelector('.verdict', { timeout: 5000 })
-  await page.waitForFunction(() => !document.querySelector('.verdict'), { timeout: 8000 })
+
+  // The first rotated question is the v1 title type. The next one must drill
+  // authored content from point, style or notables.
+  await answerCurrentQuestion()
+  await page.waitForFunction(
+    () => ['point', 'style', 'notable'].includes(document.querySelector('.quiz')?.getAttribute('data-qtype') ?? ''),
+    { timeout: 5000 }
+  )
+  const contentType = await page.locator('.quiz').getAttribute('data-qtype')
+  await answerCurrentQuestion()
 
   const duesAfter = await page.evaluate(async () => {
     const req = indexedDB.open('canon')
@@ -152,7 +189,7 @@ try {
 
   const changed = Object.keys(duesBefore).some((id) => duesAfter[id] !== duesBefore[id])
   if (!changed) await fail('no stored FSRS card changed its due date after answering')
-  console.log('PASS 4: a stored FSRS card due date changed after one quiz answer')
+  console.log(`PASS 4: content-driven ${contentType} question changed a stored FSRS due date`)
 
   console.log(`verify:live PASSED against ${URL}`)
   await browser.close()

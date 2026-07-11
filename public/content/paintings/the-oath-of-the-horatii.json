@@ -1,0 +1,64 @@
+{
+  "id": "the-oath-of-the-horatii",
+  "title": {
+    "en": "The Oath of the Horatii",
+    "es": "El juramento de los Horacios"
+  },
+  "artist": "Jacques-Louis David",
+  "year": 1784,
+  "movement": "neoclassicism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "330 x 425 cm",
+  "location": {
+    "museum": "Musée du Louvre",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/the-oath-of-the-horatii.webp",
+    "width": 1600,
+    "height": 1248,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJacques-Louis_David_-_Oath_of_the_Horatii_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Three brothers stretch their arms in salute towards their father, who lifts three swords aloft in his fist. The men stand rigid and resolute beneath stark Roman arches. To the right, apart from the action, a cluster of women and children collapses in grief, already mourning the deaths the oath will bring.",
+      "craft": "David drains away colour and softness. Hard, sculptural drawing, a shallow stage-like space and cold, even light make the figures look carved from stone. The men are all straight lines and taut muscle; the women all yielding curves. Three arches sort the composition into three groups, holding the whole scene in severe, deliberate order.",
+      "painter": "David painted this in Rome in 1784, a royal commission, and it made him the leader of a new severe style. Five years before the Revolution, its call to sacrifice self for the state was read as electric. David would go on to vote for the king's execution and become the Revolution's chief artist and image-maker.",
+      "point": "It is duty against love, made stark: the men swear to fight and die for Rome, the women already grieving, because in this world the state must come before the family."
+    },
+    "es": {
+      "scene": "Tres hermanos extienden los brazos en saludo hacia su padre, que alza tres espadas en el puño. Los hombres permanecen rígidos y resueltos bajo unos austeros arcos romanos. A la derecha, apartado de la acción, un grupo de mujeres y niños se derrumba de dolor, llorando ya las muertes que el juramento traerá.",
+      "craft": "David despoja la escena de color y suavidad. El dibujo duro y escultórico, un espacio poco profundo de escenario y una luz fría y uniforme hacen que las figuras parezcan talladas en piedra. Los hombres son líneas rectas y músculo tenso; las mujeres, curvas que ceden. Tres arcos ordenan la composición en tres grupos, con un orden severo y deliberado.",
+      "painter": "David pintó esto en Roma en 1784, un encargo real, y lo convirtió en el líder de un nuevo estilo severo. Cinco años antes de la Revolución, su llamada a sacrificar el yo por el Estado se leyó como algo eléctrico. David acabaría votando por la ejecución del rey y se convertiría en el principal artista de la Revolución.",
+      "point": "Es el deber frente al amor, llevado a lo descarnado: los hombres juran luchar y morir por Roma, las mujeres ya de duelo, porque en este mundo el Estado debe anteponerse a la familia."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "There is no such oath scene in the ancient sources; David invented the moment of the brothers swearing on their swords, and it became the defining image of Neoclassicism.",
+    "es": "No existe tal escena de juramento en las fuentes antiguas; David inventó el momento de los hermanos jurando sobre sus espadas, y se convirtió en la imagen que define el neoclasicismo."
+  },
+  "tags": [
+    "neoclassicism",
+    "history",
+    "18th century"
+  ],
+  "notables": [
+    {
+      "en": "The three raised swords form the exact centre of the picture, the point where every line and gesture converges.",
+      "es": "Las tres espadas alzadas forman el centro exacto del cuadro, el punto donde convergen todas las líneas y todos los gestos."
+    },
+    {
+      "en": "One grieving woman is a sister betrothed to an enemy Curiatius; whoever wins, she loses a brother or a lover.",
+      "es": "Una de las mujeres en duelo es una hermana prometida a un Curiacio enemigo; gane quien gane, ella pierde a un hermano o a un amante."
+    },
+    {
+      "en": "The three arches behind divide the men, the father and the weeping women into three clean, separate zones.",
+      "es": "Los tres arcos del fondo dividen a los hombres, al padre y a las mujeres que lloran en tres zonas limpias y separadas."
+    }
+  ]
+}

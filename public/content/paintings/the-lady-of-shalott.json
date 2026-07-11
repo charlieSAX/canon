@@ -1,0 +1,64 @@
+{
+  "id": "the-lady-of-shalott",
+  "title": {
+    "en": "The Lady of Shalott",
+    "es": "La dama de Shalott"
+  },
+  "artist": "John William Waterhouse",
+  "year": 1888,
+  "movement": "pre-raphaelite",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "153 x 200 cm",
+  "location": {
+    "museum": "Tate Britain",
+    "city": "London"
+  },
+  "image": {
+    "src": "img/the-lady-of-shalott.webp",
+    "width": 1600,
+    "height": 1228,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJohn_William_Waterhouse_-_The_Lady_of_Shalott_-_Google_Art_Project_edit.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A pale young woman in white sits in a wooden boat among the reeds, about to loose the chain that moors her. She gazes ahead with parted lips, resigned and sorrowful. Behind her lies the tapestry she has woven, trailing over the boat's side; three candles stand at the prow, two of them already out.",
+      "craft": "Waterhouse blends Pre-Raphaelite detail with a softer, looser touch. The autumn reeds, dark water and embroidered cloth are rendered with loving exactness, while the light on her white gown and stricken face is warm and dramatic. Every prop, from candles to crucifix, is chosen to tell the story and seal her fate.",
+      "painter": "Waterhouse came a generation after the original Pre-Raphaelites and revived their love of doomed heroines from myth and verse. He painted Tennyson's cursed Lady three times across his career. Working in Victorian London, he was drawn again and again to women caught at the fatal moment when longing overrules safety.",
+      "point": "From Tennyson's poem: a woman under a curse who chooses one real look at life and love over safe illusion, and dies for it. The cost of leaving the tower."
+    },
+    "es": {
+      "scene": "Una joven pálida de blanco se sienta en una barca entre los juncos, a punto de soltar la cadena que la amarra. Mira al frente con los labios entreabiertos, resignada y afligida. Tras ella queda el tapiz que ha tejido, cayendo por el costado de la barca; en la proa hay tres velas, dos ya apagadas.",
+      "craft": "Waterhouse mezcla el detalle prerrafaelita con una pincelada más suelta y suave. Los juncos otoñales, el agua oscura y la tela bordada están rendidos con exactitud amorosa, mientras la luz sobre su túnica blanca y su rostro atribulado es cálida y dramática. Cada objeto, de las velas al crucifijo, se elige para contar la historia y sellar su destino.",
+      "painter": "Waterhouse llegó una generación después de los primeros prerrafaelitas y revivió su gusto por las heroínas condenadas del mito y el verso. A lo largo de su carrera pintó tres veces a la Dama maldita de Tennyson. En Londres le atraían sin cesar las mujeres atrapadas en el instante fatal en que el anhelo vence a la prudencia.",
+      "point": "Del poema de Tennyson: una mujer bajo una maldición que elige una mirada real a la vida y al amor en vez de la ilusión segura, y muere por ello. El precio de dejar la torre."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Tennyson's Lady is cursed to weave the world only as reflections in a mirror; the instant she looks directly at Camelot the mirror cracks, and she boards the boat to die.",
+    "es": "La Dama de Tennyson está maldita a tejer el mundo solo como reflejos en un espejo; en cuanto mira directamente hacia Camelot el espejo se raja, y ella sube a la barca para morir."
+  },
+  "tags": [
+    "pre-raphaelite",
+    "literature",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "Three candles stand at the bow and two have blown out, marking how little of her life is left.",
+      "es": "En la proa hay tres velas y dos se han apagado, señal de lo poco que le queda de vida."
+    },
+    {
+      "en": "A crucifix rests at the prow before her, a small sign of the death she is sailing toward.",
+      "es": "Un crucifijo reposa en la proa ante ella, pequeña señal de la muerte hacia la que navega."
+    },
+    {
+      "en": "The tapestry over the boat shows scenes of the outside world she was cursed only to weave, never live.",
+      "es": "El tapiz sobre la barca muestra escenas del mundo exterior que fue maldita a solo tejer, nunca a vivir."
+    }
+  ]
+}

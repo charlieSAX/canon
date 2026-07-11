@@ -1,0 +1,64 @@
+{
+  "id": "mr-and-mrs-andrews",
+  "title": {
+    "en": "Mr and Mrs Andrews",
+    "es": "El matrimonio Andrews"
+  },
+  "artist": "Thomas Gainsborough",
+  "year": 1750,
+  "movement": "rococo",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "70 x 119 cm",
+  "location": {
+    "museum": "The National Gallery",
+    "city": "London"
+  },
+  "image": {
+    "src": "img/mr-and-mrs-andrews.webp",
+    "width": 1600,
+    "height": 927,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AThomas_Gainsborough_-_Mr_and_Mrs_Andrews.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A young couple pose at the edge of their Suffolk estate. Mr Andrews stands in shooting dress, gun under his arm and a dog at his feet, leaning against an ornate bench where his wife sits in a shimmering blue-grey gown. Behind them stretch their own fields: a sheaf of ripe corn, grazing sheep and hedgerows rolling to distant trees.",
+      "craft": "Gainsborough splits the canvas in two: the couple crowded to the left, the land opening to the right. He renders the sky and foliage with the quick, feathery touch he loved, while the silk dress is worked to a cool sheen. Clear English daylight, not studio drama, fills the whole scene with fresh, breezy air.",
+      "painter": "Gainsborough painted this around 1750, in his early twenties, freshly returned to his native Suffolk. He loved landscape far more than portraits, which merely paid the bills, and here he indulged both. The Andrewses were a young local couple, recently married. He would later become Britain's most fashionable portraitist and a founder of the Royal Academy.",
+      "point": "It is a portrait of property as much as people: a young landowning couple posed with visible pride not only in themselves but in the fields, crops and estate they command."
+    },
+    "es": {
+      "scene": "Una pareja posa al borde de su finca de Suffolk. El señor Andrews está en traje de caza, la escopeta bajo el brazo y un perro a sus pies, apoyado en un banco donde su esposa se sienta con un vestido azul grisáceo. Detrás se extienden sus campos: una gavilla de trigo maduro, ovejas paciendo y setos hasta árboles lejanos.",
+      "craft": "Gainsborough divide el lienzo en dos: la pareja apretada a la izquierda, la tierra abriéndose a la derecha. Pinta el cielo y el follaje con el toque rápido y plumoso que amaba, mientras el vestido de seda se trabaja hasta un brillo frío. Una luz inglesa clara, no el drama de estudio, llena la escena de aire fresco y ventoso.",
+      "painter": "Gainsborough pintó esto hacia 1750, con poco más de veinte años, recién vuelto a su Suffolk natal. Amaba el paisaje mucho más que los retratos, que solo pagaban las facturas, y aquí se permitió ambos. Los Andrews eran una joven pareja local. Con el tiempo sería el retratista más de moda de Gran Bretaña y fundador de la Real Academia.",
+      "point": "Es un retrato de la propiedad tanto como de las personas: una joven pareja terrateniente posando con orgullo visible no solo por sí misma, sino por los campos, las cosechas y la finca que domina."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The couple stand off to one side so that a third of the canvas can be given over to their land; by 1750 Robert Andrews owned nearly three thousand acres of it.",
+    "es": "La pareja se sitúa a un lado para que un tercio del lienzo pueda dedicarse a sus tierras; hacia 1750 Robert Andrews poseía casi tres mil acres de ellas."
+  },
+  "tags": [
+    "rococo",
+    "portrait",
+    "18th century"
+  ],
+  "notables": [
+    {
+      "en": "A patch of Mrs Andrews's lap is left unpainted, perhaps meant for a shot pheasant or bird her husband would bag.",
+      "es": "Una parte del regazo de la señora Andrews quedó sin pintar, quizá destinada a un faisán o un ave abatidos que cazaría su marido."
+    },
+    {
+      "en": "The neat rows of harvested corn on the left show off up-to-date farming methods, a mark of the couple's prosperity.",
+      "es": "Las hileras ordenadas de trigo segado a la izquierda lucen métodos agrícolas modernos, señal de la prosperidad de la pareja."
+    },
+    {
+      "en": "The church tower in the distance is All Saints, Sudbury, where Robert and Frances Andrews were married.",
+      "es": "La torre de la iglesia al fondo es la de All Saints, en Sudbury, donde se casaron Robert y Frances Andrews."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "judith-beheading-holofernes-caravaggio",
+  "title": {
+    "en": "Judith Beheading Holofernes",
+    "es": "Judit decapitando a Holofernes"
+  },
+  "artist": "Caravaggio",
+  "year": 1599,
+  "movement": "baroque",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "145 x 195 cm",
+  "location": {
+    "museum": "Palazzo Barberini",
+    "city": "Rome"
+  },
+  "image": {
+    "src": "img/judith-beheading-holofernes-caravaggio.webp",
+    "width": 1600,
+    "height": 1351,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMichelangelo_Merisi_da_Caravaggio_(1571-1610)%2C_Judith_i_Holofernes_(1598)_Museu_Nacional_d'Art_Antic_(Palau_Barberini)%2C_Roma.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "In a black void, a young woman grips a soldier by the hair and saws through his neck with his own sword. Blood jets across the white sheets as Holofernes wakes and screams. Judith leans back, brow furrowed in distaste, while behind her a wizened old servant waits, cloth ready to carry off the head.",
+      "craft": "Caravaggio floods a raking light onto three figures against total darkness, freezing the killing at its most violent instant. He paints the arc of spurting blood with forensic care. The white bed, the crimson drape and Judith's pale, shrinking face carry the drama; everything unnecessary is swallowed by shadow.",
+      "painter": "Around 1599 Caravaggio was the sensation of Rome, taking on biblical horror with unprecedented realism. For his beautiful, hesitant Judith he is thought to have used the courtesan Fillide Melandroni as model. He staged Bible stories as brutal, present-tense events, and lived a violent life that ended with him a fugitive killer.",
+      "point": "Holy violence made shockingly real. Caravaggio strips the heroic story to its bloody, physical truth: killing is hard, ugly work, and even a righteous hand recoils from it."
+    },
+    "es": {
+      "scene": "En un vacío negro, una joven agarra por el pelo a un soldado y le corta el cuello con su propia espada. La sangre salta sobre las sábanas blancas mientras Holofernes despierta y grita. Judit se echa hacia atrás, el ceño fruncido de asco, y tras ella una vieja sirvienta espera, con un paño para llevarse la cabeza.",
+      "craft": "Caravaggio derrama una luz rasante sobre tres figuras contra la oscuridad total y congela el crimen en su instante más violento. Pinta el arco de sangre que brota con precisión forense. La cama blanca, el paño carmesí y el rostro pálido y encogido de Judit sostienen el drama; todo lo demás lo traga la sombra.",
+      "painter": "Hacia 1599 Caravaggio era la sensación de Roma y abordaba el horror bíblico con un realismo sin precedentes. Para su Judit bella y vacilante se cree que usó de modelo a la cortesana Fillide Melandroni. Escenificaba los relatos bíblicos como hechos brutales y presentes, y llevó una vida violenta que acabó como asesino y fugitivo.",
+      "point": "La violencia sagrada vuelta espantosamente real. Caravaggio reduce la historia heroica a su verdad sangrienta y física: matar es un trabajo duro y feo, y hasta una mano justa retrocede ante él."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Caravaggio shows the beheading at its exact midpoint, the sword already half through the neck and Holofernes still alive and screaming, a moment earlier painters had always avoided.",
+    "es": "Caravaggio muestra la decapitación en su punto exacto, con la espada ya a medio atravesar el cuello y Holofernes aún vivo y gritando, un momento que antes los pintores siempre habían evitado."
+  },
+  "tags": [
+    "baroque",
+    "biblical",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "Caravaggio studied real blood to paint the spurting arc from the severed artery with anatomical accuracy.",
+      "es": "Caravaggio estudió sangre real para pintar el arco que brota de la arteria seccionada con exactitud anatómica."
+    },
+    {
+      "en": "Judith holds the general at arm's length, leaning away, her face full of reluctance rather than triumph.",
+      "es": "Judit sostiene al general a distancia, apartándose, con el rostro lleno de rechazo más que de triunfo."
+    },
+    {
+      "en": "The model for Judith is thought to be Fillide Melandroni, a Roman courtesan Caravaggio painted several times.",
+      "es": "Se cree que el modelo de Judit fue Fillide Melandroni, una cortesana romana que Caravaggio pintó varias veces."
+    },
+    {
+      "en": "The old maidservant leans in hungrily with her cloth, a study in age set against Judith's youth.",
+      "es": "La vieja sirvienta se inclina ávida con su paño, un estudio de la vejez frente a la juventud de Judit."
+    }
+  ]
+}

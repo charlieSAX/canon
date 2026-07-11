@@ -1,0 +1,64 @@
+{
+  "id": "the-starry-night",
+  "title": {
+    "en": "The Starry Night",
+    "es": "La noche estrellada"
+  },
+  "artist": "Vincent van Gogh",
+  "year": 1889,
+  "movement": "post-impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "74 x 92 cm",
+  "location": {
+    "museum": "Museum of Modern Art",
+    "city": "New York"
+  },
+  "image": {
+    "src": "img/the-starry-night.webp",
+    "width": 1600,
+    "height": 1267,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AVan_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A night sky boils with movement above a sleeping village. Eleven great stars and a crescent moon swirl in spirals of yellow and blue. A dark cypress flames upward on the left like green fire. Below, the little town lies quiet under a church spire; blue hills roll along the horizon.",
+      "craft": "Van Gogh loads the paint on thick, dragging the brush in long curling ridges you can almost feel. The sky is built from rolling spirals and short dashes of unmixed yellow and blue, set side by side so they vibrate. The cypress and the flame-like clouds turn the whole night into pure, swirling energy.",
+      "painter": "Van Gogh painted this from memory in June 1889, a voluntary patient in the asylum at Saint-Rémy, recovering from the breakdown in which he had cut off part of his ear. He worked from the view through his barred window, adding an imaginary village. He would be dead within fourteen months, aged thirty-seven.",
+      "point": "It is less a view of the sky than a picture of intense feeling: the vast, turning night pressed against a small, sleeping human world, painted by a man in great distress."
+    },
+    "es": {
+      "scene": "Un cielo nocturno hierve de movimiento sobre un pueblo dormido. Once grandes estrellas y una luna creciente giran en espirales de amarillo y azul. Un ciprés oscuro se alza a la izquierda como fuego verde. Abajo, el pueblecito reposa bajo la aguja de una iglesia; colinas azules ondulan en el horizonte.",
+      "craft": "Van Gogh carga la pintura con espesor y arrastra el pincel en largos surcos ondulados que casi se palpan. El cielo se construye con espirales que giran y breves trazos de amarillo y azul sin mezclar, puestos juntos para que vibren. El ciprés y las nubes en llamas convierten toda la noche en pura energía en remolino.",
+      "painter": "Van Gogh lo pintó de memoria en junio de 1889, ingresado voluntariamente en el manicomio de Saint-Rémy, mientras se recuperaba de la crisis en que se había cortado parte de la oreja. Trabajó a partir de la vista desde su ventana enrejada y añadió un pueblo imaginario. Moriría en catorce meses, a los treinta y siete años.",
+      "point": "Más que una vista del cielo, es un cuadro de emoción intensa: la noche enorme y giratoria apretada contra un pequeño mundo humano dormido, pintada por un hombre en gran angustia."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Van Gogh painted The Starry Night while a voluntary patient in an asylum, working from the view through his window and adding a village from imagination.",
+    "es": "Van Gogh pintó La noche estrellada estando ingresado voluntariamente en un manicomio, trabajando a partir de la vista desde su ventana y añadiendo un pueblo de su imaginación."
+  },
+  "tags": [
+    "post-impressionism",
+    "night sky",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The village, with its northern church spire, is largely imaginary; it was not visible from the asylum window and recalls Van Gogh's Dutch homeland.",
+      "es": "El pueblo, con su aguja de iglesia nórdica, es en gran parte imaginario; no se veía desde la ventana y evoca la tierra natal holandesa de Van Gogh."
+    },
+    {
+      "en": "The dark cypress in the foreground was a tree long linked with death and graveyards in Europe.",
+      "es": "El ciprés oscuro del primer plano era un árbol asociado desde antiguo con la muerte y los cementerios en Europa."
+    },
+    {
+      "en": "Count the swirling lights: there are eleven stars, plus a bright crescent moon glowing in the upper right.",
+      "es": "Cuenta las luces en remolino: hay once estrellas, más una luna creciente que brilla arriba a la derecha."
+    }
+  ]
+}

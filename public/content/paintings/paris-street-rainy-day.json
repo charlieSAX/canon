@@ -1,0 +1,64 @@
+{
+  "id": "paris-street-rainy-day",
+  "title": {
+    "en": "Paris Street; Rainy Day",
+    "es": "Calle de París, día lluvioso"
+  },
+  "artist": "Gustave Caillebotte",
+  "year": 1877,
+  "movement": "impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "212 x 276 cm",
+  "location": {
+    "museum": "Art Institute of Chicago",
+    "city": "Chicago"
+  },
+  "image": {
+    "src": "img/paris-street-rainy-day.webp",
+    "width": 1600,
+    "height": 1212,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGustave_Caillebotte_-_Paris_Street%3B_Rainy_Day_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A wide, wet Paris intersection under a grey sky. Bourgeois couples cross the cobbles beneath black umbrellas. In the foreground, a well-dressed man and woman advance straight towards us, almost life-size. A green lamppost splits the canvas down the middle. New Haussmann buildings recede in cool, silvery light.",
+      "craft": "Caillebotte breaks with loose Impressionist brushwork for something crisper and more photographic. He builds precise one-point perspective around the lamppost, with the wide-angle sweep of a camera lens. The couple is sharply drawn; figures behind soften and blur. Wet cobbles and reflections do the atmospheric work that other Impressionists gave to sunlight.",
+      "painter": "Caillebotte was twenty-eight, rich enough not to need sales, which freed him to paint exactly as he liked and to buy his friends' work. He was as much the group's patron as its member, quietly funding exhibitions. He gave modern Paris, its new boulevards and grey weather, the scale of a history painting.",
+      "point": "The painting captures the newly rebuilt Paris of wide boulevards and anonymous crowds, where strangers share a street yet pass without meeting each other's eyes."
+    },
+    "es": {
+      "scene": "Un cruce ancho y mojado de París bajo un cielo gris. Parejas burguesas atraviesan los adoquines bajo paraguas negros. En primer plano, un hombre y una mujer bien vestidos avanzan directamente hacia nosotros, casi de tamaño natural. Una farola verde parte el lienzo por la mitad. Los nuevos edificios de Haussmann se alejan en una luz fría y plateada.",
+      "craft": "Caillebotte rompe con la pincelada suelta del impresionismo por algo más nítido y fotográfico. Construye una perspectiva de un solo punto en torno a la farola, con el barrido de gran angular de una lente. La pareja está dibujada con precisión; las figuras del fondo se ablandan y difuminan. Los adoquines mojados y sus reflejos aportan la atmósfera.",
+      "painter": "Caillebotte tenía veintiocho años y era lo bastante rico para no depender de las ventas, lo que le permitió pintar a su gusto y comprar obra de sus amigos. Fue tanto mecenas del grupo como miembro, financiando en silencio sus exposiciones. Dio al París moderno, sus bulevares nuevos y su clima gris, la escala de una pintura de historia.",
+      "point": "El cuadro capta el París recién reconstruido de bulevares anchos y multitudes anónimas, donde los desconocidos comparten una calle pero se cruzan sin mirarse a los ojos."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The picture is nearly nine feet wide and over two metres tall, giving an ordinary rainy street corner the vast scale usually reserved for battles and coronations.",
+    "es": "El cuadro mide casi tres metros de ancho y más de dos de alto, y da a una vulgar esquina lluviosa la escala reservada por lo común a batallas y coronaciones."
+  },
+  "tags": [
+    "impressionism",
+    "cityscape",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The green lamppost runs precisely down the centre of the canvas, splitting the scene into two like a spine.",
+      "es": "La farola verde baja justo por el centro del lienzo y parte la escena en dos, como una columna vertebral."
+    },
+    {
+      "en": "The foreground man is walking off the edge of the picture, and no two figures quite look at one another.",
+      "es": "El hombre del primer plano sale del borde del cuadro, y no hay dos figuras que se miren de verdad."
+    },
+    {
+      "en": "The building behind the couple meets at a sharp corner, its wedge shape driving the street's dramatic perspective.",
+      "es": "El edificio tras la pareja forma una esquina afilada, y su forma de cuña impulsa la dramática perspectiva de la calle."
+    }
+  ]
+}

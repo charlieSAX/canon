@@ -1,0 +1,68 @@
+{
+  "id": "the-burial-of-the-count-of-orgaz",
+  "title": {
+    "en": "The Burial of the Count of Orgaz",
+    "es": "El entierro del conde de Orgaz"
+  },
+  "artist": "El Greco",
+  "year": 1586,
+  "movement": "mannerism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "480 x 360 cm",
+  "location": {
+    "museum": "Iglesia de Santo Tomé",
+    "city": "Toledo"
+  },
+  "image": {
+    "src": "img/the-burial-of-the-count-of-orgaz.webp",
+    "width": 1306,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEl_Greco_-_The_Burial_of_the_Count_of_Orgaz.JPG",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Two great zones fill the canvas. Below, saints Stephen and Augustine, in gold vestments, lower the armoured dead count into his grave, watched by a solemn row of Toledo gentlemen in black with white ruffs. Above, the clouds part into heaven, where Christ, the Virgin and the saints wait to receive the count's rising soul.",
+      "craft": "El Greco splits the picture in two and paints each world differently. The earthly rank is grave, solid portraiture; the heavenly zone stretches and flickers, bodies drawn out like flames in cold, unearthly light. A line of gazes and gestures carries the eye upward, from the black-clad mourners into the silver clouds.",
+      "painter": "Born in Crete and trained on icons, El Greco passed through Venice and Rome before settling in Toledo, where his strange style found its home. The parish of Santo Tomé commissioned this vast canvas in 1586. He filled the mourners' row with living Toledo notables, and placed his own son and, most likely, himself among them.",
+      "point": "Heaven and earth in one frame. The picture makes a local burial legend into a promise: the pious soul, lifted from the grave, is received directly into glory."
+    },
+    "es": {
+      "scene": "Dos grandes zonas llenan el lienzo. Abajo, los santos Esteban y Agustín, con vestiduras doradas, bajan a la tumba al conde muerto y armado, ante una fila solemne de caballeros toledanos de negro y gola blanca. Arriba, las nubes se abren al cielo, donde Cristo, la Virgen y los santos esperan el alma que asciende.",
+      "craft": "El Greco parte el cuadro en dos y pinta cada mundo de otro modo. La franja terrenal es retrato grave y sólido; la zona celeste se estira y tiembla, cuerpos alargados como llamas en una luz fría e irreal. Una línea de miradas y gestos lleva el ojo hacia arriba, del luto negro a las nubes plateadas.",
+      "painter": "Nacido en Creta y formado en los iconos, El Greco pasó por Venecia y Roma antes de instalarse en Toledo, donde su estilo extraño halló su hogar. La parroquia de Santo Tomé encargó este enorme lienzo en 1586. Llenó la fila de dolientes con notables vivos de Toledo, y puso a su hijo y, muy probablemente, a sí mismo.",
+      "point": "El cielo y la tierra en un mismo marco. El cuadro convierte una leyenda local de entierro en una promesa: el alma piadosa, alzada de la tumba, es recibida directamente en la gloria."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The count died in 1323, but El Greco dressed the mourners as gentlemen of his own day and painted living Toledo citizens into the funeral of a man dead for over two centuries.",
+    "es": "El conde murió en 1323, pero El Greco vistió a los dolientes como caballeros de su tiempo y pintó a ciudadanos vivos de Toledo en el entierro de un hombre muerto hacía más de dos siglos."
+  },
+  "tags": [
+    "mannerism",
+    "funeral",
+    "16th century"
+  ],
+  "notables": [
+    {
+      "en": "The boy at the lower left is El Greco's son; a handkerchief in his pocket bears the painter's signature and the date 1578.",
+      "es": "El niño de abajo a la izquierda es el hijo de El Greco; un pañuelo en su bolsillo lleva la firma del pintor y la fecha de 1578."
+    },
+    {
+      "en": "The count's soul rises as a small, ghostly infant, squeezed by an angel up a narrow gap in the clouds.",
+      "es": "El alma del conde asciende como un niño pequeño y fantasmal, que un ángel aprieta por un estrecho hueco entre las nubes."
+    },
+    {
+      "en": "El Greco is thought to have painted himself among the mourners, the one figure looking straight out at the viewer.",
+      "es": "Se cree que El Greco se retrató entre los dolientes: la única figura que mira directamente al espectador."
+    },
+    {
+      "en": "The saints' gold vestments carry tiny scenes of their own stories, embroidered in jewel-bright detail.",
+      "es": "Las vestiduras doradas de los santos llevan escenas diminutas de sus propias historias, bordadas con detalle de joya."
+    }
+  ]
+}

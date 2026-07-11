@@ -1,0 +1,64 @@
+{
+  "id": "the-bedroom",
+  "title": {
+    "en": "The Bedroom",
+    "es": "El dormitorio en Arlés"
+  },
+  "artist": "Vincent van Gogh",
+  "year": 1888,
+  "movement": "post-impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "72 x 90 cm",
+  "location": {
+    "museum": "Van Gogh Museum",
+    "city": "Amsterdam"
+  },
+  "image": {
+    "src": "img/the-bedroom.webp",
+    "width": 1600,
+    "height": 1270,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AVincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A narrow room seen from above, its floor tilting up towards you. A wooden bed fills the centre, two chairs wait, a washstand and a mirror stand by the door, and framed portraits hang on the wall. Two pillows and a red blanket suggest someone has only just risen.",
+      "craft": "Van Gogh flattened the space on purpose, tilting the floor and steepening the walls so the little room reads as a single held breath. Flat blocks of unmixed colour do the work: butter yellow furniture, red tiles, a scarlet cover. He wanted colour alone, he told Theo, to suggest rest and sleep.",
+      "painter": "Van Gogh painted this in Arles in October 1888, in the Yellow House he had rented, giddy with hope that Gauguin would soon join him and found an artists' colony. He made it while resting after an illness. The picture is his idea of home, the first he had ever truly kept.",
+      "point": "Colour, not perspective, carries the feeling. A humble bedroom becomes an image of the peace and belonging Van Gogh craved and rarely found."
+    },
+    "es": {
+      "scene": "Una habitación estrecha vista desde arriba, con el suelo inclinado hacia ti. Una cama de madera ocupa el centro, esperan dos sillas, un lavabo y un espejo junto a la puerta, y en la pared cuelgan retratos enmarcados. Dos almohadas y una manta roja sugieren que alguien acaba de levantarse.",
+      "craft": "Van Gogh aplanó el espacio a propósito, inclinando el suelo y empinando las paredes para que el cuartito se lea como un único aliento contenido. Bloques planos de color sin mezclar hacen el trabajo: muebles de amarillo mantequilla, baldosas rojas, una colcha escarlata. Quería que solo el color, le dijo a Theo, sugiriera descanso y sueño.",
+      "painter": "Van Gogh pintó esto en Arlés en octubre de 1888, en la Casa Amarilla que había alquilado, henchido de esperanza porque Gauguin pronto se le uniría para fundar una colonia de artistas. Lo hizo mientras descansaba tras una enfermedad. El cuadro es su idea de hogar, el primero que de verdad tuvo.",
+      "point": "El color, y no la perspectiva, sostiene la emoción. Un dormitorio humilde se convierte en imagen de la paz y la pertenencia que Van Gogh anhelaba y rara vez encontró."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Van Gogh painted three versions of this bedroom; he made the later two after the first was damaged by a flood while he was in hospital in Arles.",
+    "es": "Van Gogh pintó tres versiones de este dormitorio; hizo las dos últimas después de que la primera se dañara en una inundación mientras él estaba hospitalizado en Arlés."
+  },
+  "tags": [
+    "post-impressionism",
+    "interior",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The perspective is deliberately skewed: the floor tilts up and the walls lean, as though the room were breathing.",
+      "es": "La perspectiva está deformada a propósito: el suelo se inclina y las paredes se ladean, como si la habitación respirara."
+    },
+    {
+      "en": "The walls, now pale blue, were originally violet; the red pigment in the paint has faded over more than a century.",
+      "es": "Las paredes, hoy de un azul pálido, eran originalmente violetas; el pigmento rojo de la pintura se ha desvanecido a lo largo de más de un siglo."
+    },
+    {
+      "en": "Small portraits hang above the bed, and a mirror by the door; the pictures are thought to include Van Gogh's own friends.",
+      "es": "Sobre la cama cuelgan pequeños retratos, y junto a la puerta un espejo; se cree que las imágenes incluyen a amigos del propio Van Gogh."
+    }
+  ]
+}

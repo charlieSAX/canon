@@ -1,0 +1,64 @@
+{
+  "id": "venus-of-urbino",
+  "title": {
+    "en": "Venus of Urbino",
+    "es": "La Venus de Urbino"
+  },
+  "artist": "Titian",
+  "year": 1538,
+  "movement": "venetian-renaissance",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "119 x 165 cm",
+  "location": {
+    "museum": "Galleria degli Uffizi",
+    "city": "Florence"
+  },
+  "image": {
+    "src": "img/venus-of-urbino.webp",
+    "width": 1600,
+    "height": 1125,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATiziano_-_Venere_di_Urbino_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A young naked woman lies along a bed in a Renaissance palace, propped on cushions, meeting our eyes without shame. One hand rests over her lap, the other holds roses. A little dog sleeps at her feet. Behind her, two maids bend over a chest while the room opens to evening light.",
+      "craft": "Titian warms the whole picture with glowing flesh tones built from layered glazes, setting the pale nude against a dark curtain that throws her body forward. A strong diagonal runs from her head to her feet, and small domestic details, dog, maids, chest, root this goddess firmly in a real bedroom.",
+      "painter": "By 1538 Titian was the most sought-after painter in Europe, working for dukes, popes, and the emperor Charles V. This canvas went to the Duke of Urbino, probably to mark his marriage. Titian ran a large Venetian workshop and had effectively invented the reclining nude as a genre.",
+      "point": "A wedding picture of sensual love and marital duty in one body: openly erotic, yet framed by symbols of fidelity and the running of a household."
+    },
+    "es": {
+      "scene": "Una joven desnuda yace a lo largo de una cama en un palacio renacentista, apoyada en cojines, mirándonos sin pudor. Una mano descansa sobre su regazo; la otra sostiene unas rosas. Un perrito duerme a sus pies. Detrás, dos criadas se inclinan sobre un arcón mientras la sala se abre a la luz del atardecer.",
+      "craft": "Tiziano templa todo el cuadro con carnaciones luminosas hechas de veladuras superpuestas, y recorta el desnudo pálido contra una cortina oscura que lo empuja hacia delante. Una fuerte diagonal recorre el cuerpo de la cabeza a los pies, y detalles domésticos, perro, criadas, arcón, arraigan a esta diosa en una alcoba real.",
+      "painter": "Hacia 1538 Tiziano era el pintor más solicitado de Europa, al servicio de duques, papas y el emperador Carlos V. Este lienzo fue al duque de Urbino, quizá para celebrar su boda. Tiziano dirigía un gran taller veneciano y prácticamente había inventado el desnudo reclinado como género.",
+      "point": "Un cuadro de bodas que reúne en un mismo cuerpo el amor sensual y el deber conyugal: abiertamente erótico, pero rodeado de símbolos de fidelidad y del gobierno de la casa."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Mark Twain called it the foulest, the vilest, the obscenest picture the world possesses, singling out Titian's reclining nude for mock outrage in his travel book A Tramp Abroad.",
+    "es": "Mark Twain la llamó el cuadro más sucio, vil y obsceno que posee el mundo, señalando el desnudo reclinado de Tiziano con fingida indignación en su libro de viajes Un vagabundo en el extranjero."
+  },
+  "tags": [
+    "venetian-renaissance",
+    "nude",
+    "16th century"
+  ],
+  "notables": [
+    {
+      "en": "The sleeping lapdog is a stock symbol of fidelity, curled up just where a wife's loyalty would be tested.",
+      "es": "El perrito dormido es símbolo clásico de fidelidad, acurrucado justo donde se pondría a prueba la lealtad de la esposa."
+    },
+    {
+      "en": "In the background a maid rummages in a cassone, the marriage chest that held a bride's dowry.",
+      "es": "Al fondo, una criada hurga en un cassone, el arcón nupcial que guardaba la dote de la novia."
+    },
+    {
+      "en": "Her right hand and steady gaze together turn a classical goddess into a real woman inviting the viewer.",
+      "es": "Su mano derecha y su mirada firme convierten a una diosa clásica en una mujer real que invita al espectador."
+    }
+  ]
+}

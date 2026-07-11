@@ -1,10 +1,16 @@
 {
   "id": "girl-with-a-pearl-earring",
-  "title": "Girl with a Pearl Earring",
+  "title": {
+    "en": "Girl with a Pearl Earring",
+    "es": "La joven de la perla"
+  },
   "artist": "Johannes Vermeer",
   "year": 1665,
-  "movement": "Dutch Golden Age",
-  "medium": "Oil on canvas",
+  "movement": "dutch-golden-age",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
   "dimensions": "44.5 x 39 cm",
   "location": {
     "museum": "Mauritshuis",
@@ -18,15 +24,41 @@
     "license_note": "Public domain. Faithful reproduction of a work by Johannes Vermeer (died 1675)."
   },
   "text": {
-    "scene": "A girl turns over her shoulder against a dark ground, lips slightly parted, wearing a blue and gold turban and a single enormous pearl. There is no room, no table, no letter, none of Vermeer's usual apparatus. Just the turn of a head and a look that has not ended yet.",
-    "craft": "This is a tronie, a study of a type and costume rather than a commissioned likeness, which freed Vermeer to simplify everything. The face is built from soft transitions with almost no drawn line; the pearl is two strokes, a bright point and a smudge of reflected collar, and the eye completes it.",
-    "painter": "Vermeer worked slowly in Delft, ran an art dealership, fathered many children and left perhaps three dozen paintings. He was locally respected, then forgotten for two centuries until French critics resurrected him. The domestic quiet he painted now reads as one of the most distinct voices in European art. No document records who the girl was."
+    "en": {
+      "scene": "A girl turns over her shoulder against a dark ground, lips slightly parted, wearing a blue and gold turban and a single enormous pearl. There is no room, no table, no letter, none of Vermeer's usual apparatus. Just the turn of a head and a look that has not ended yet.",
+      "craft": "This is a tronie, a study of a type and costume rather than a commissioned likeness, which freed Vermeer to simplify everything. The face is built from soft transitions with almost no drawn line; the pearl is two strokes, a bright point and a smudge of reflected collar, and the eye completes it.",
+      "painter": "Vermeer worked slowly in Delft, ran an art dealership, fathered many children and left perhaps three dozen paintings. He was locally respected, then forgotten for two centuries until French critics resurrected him. The domestic quiet he painted now reads as one of the most distinct voices in European art. No document records who the girl was.",
+      "point": "With almost nothing, Vermeer turns one instant of shared attention into a presence that is hard to leave."
+    },
+    "es": {
+      "scene": "Una joven gira por encima del hombro contra un fondo oscuro, con los labios entreabiertos, un turbante azul y dorado y una perla enorme. No hay habitación, mesa, carta ni ninguno de los recursos habituales de Vermeer. Solo el giro de una cabeza y una mirada que todavía no ha terminado.",
+      "craft": "Es una tronie, un estudio de tipo y vestimenta, no un retrato encargado; esa libertad permitió a Vermeer simplificarlo todo. El rostro nace de transiciones suaves, casi sin dibujo. La perla son dos pinceladas, un punto brillante y un reflejo del cuello, y el ojo completa lo que falta.",
+      "painter": "Vermeer trabajó despacio en Delft, dirigió un negocio de arte, tuvo muchos hijos y dejó quizá tres docenas de cuadros. Respetado en su ciudad, cayó en el olvido durante dos siglos hasta que la crítica francesa lo recuperó. Nadie documentó quién era la joven, y él nunca explicó sus silenciosas escenas domésticas.",
+      "point": "Con casi nada, Vermeer convierte un instante de atención compartida en una presencia imposible de abandonar."
+    }
   },
-  "draft": true,
-  "fact": "Recent imaging found no hook or loop holding the pearl; it hangs on nothing, a piece of painted light that the eye insists on believing.",
+  "draft": false,
+  "fact": {
+    "en": "Recent imaging found no hook or loop holding the pearl; it hangs on nothing, a piece of painted light that the eye insists on believing.",
+    "es": "Las imágenes técnicas recientes no encontraron gancho ni aro que sostenga la perla: cuelga de la nada, un fragmento de luz pintada que el ojo insiste en creer."
+  },
   "tags": [
-    "Dutch Golden Age",
+    "dutch-golden-age",
     "tronie",
     "17th century"
+  ],
+  "notables": [
+    {
+      "en": "The pearl has no contour; background and collar define its missing edges.",
+      "es": "La perla no tiene contorno; el fondo y el cuello definen sus bordes ausentes."
+    },
+    {
+      "en": "The blue of the turban came from costly natural ultramarine made with lapis lazuli.",
+      "es": "El azul del turbante procede del caro ultramar natural, fabricado con lapislázuli."
+    },
+    {
+      "en": "A green curtain once filled the background, but its pigments have faded almost black.",
+      "es": "Una cortina verde llenaba el fondo, pero sus pigmentos se han oscurecido casi por completo."
+    }
   ]
 }

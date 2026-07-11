@@ -1,0 +1,64 @@
+{
+  "id": "mona-lisa",
+  "title": {
+    "en": "Mona Lisa",
+    "es": "La Gioconda"
+  },
+  "artist": "Leonardo da Vinci",
+  "year": 1503,
+  "movement": "high-renaissance",
+  "medium": {
+    "en": "Oil on poplar panel",
+    "es": "Óleo sobre tabla de álamo"
+  },
+  "dimensions": "77 x 53 cm",
+  "location": {
+    "museum": "Musée du Louvre",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/mona-lisa.webp",
+    "width": 1078,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALeonardo_da_Vinci_-_Mona_Lisa_(Louvre%2C_Paris).jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A young woman sits half-turned towards us, hands folded calmly one over the other, against a low balustrade. Behind her a wild, hazy landscape of winding paths, water and blue mountains recedes into mist. Her faint smile hovers at the edge of appearing, and her steady eyes seem to follow you across the room.",
+      "craft": "The magic is sfumato, smoke: Leonardo builds form from many near-invisible glazes, so edges dissolve with no line or brushstroke to be seen. The corners of the mouth and eyes are left deliberately soft and unresolved, which is why the smile seems to shift as you look.",
+      "painter": "Leonardo began the portrait around 1503, probably of Lisa Gherardini, a Florentine merchant's wife. He never handed it over. He carried it to France and reworked it for years, testing his ideas about light, air and the soul. It stayed with him until his death in 1519.",
+      "point": "It is less a record of a face than an attempt to paint an inner life, a living presence whose expression will not hold still."
+    },
+    "es": {
+      "scene": "Una mujer joven se sienta medio girada hacia nosotros, con las manos plegadas serenamente una sobre otra, ante una balaustrada baja. Detrás, un paisaje agreste y brumoso de senderos sinuosos, agua y montañas azules se pierde en la niebla. Su leve sonrisa apenas asoma, y sus ojos firmes parecen seguirte por la sala.",
+      "craft": "La magia es el sfumato, humo: Leonardo construye la forma con muchas veladuras casi invisibles, de modo que los contornos se disuelven sin línea ni pincelada a la vista. Las comisuras de la boca y los ojos quedan a propósito blandas y sin definir, por eso la sonrisa parece cambiar mientras la miras.",
+      "painter": "Leonardo empezó el retrato hacia 1503, seguramente de Lisa Gherardini, esposa de un mercader florentino. Nunca lo entregó. Lo llevó a Francia y lo retocó durante años, ensayando sus ideas sobre la luz, el aire y el alma. Siguió con él hasta su muerte, en 1519.",
+      "point": "Más que el registro de un rostro, es un intento de pintar una vida interior, una presencia viva cuya expresión no se deja fijar."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "When it was stolen from the Louvre in 1911, the empty wall drew bigger crowds than the painting had, and the two-year hunt turned the Mona Lisa into the most famous picture on earth.",
+    "es": "Cuando la robaron del Louvre en 1911, el muro vacío atrajo más público que el propio cuadro, y la búsqueda de dos años convirtió a la Gioconda en la pintura más famosa del mundo."
+  },
+  "tags": [
+    "high-renaissance",
+    "portrait",
+    "16th century"
+  ],
+  "notables": [
+    {
+      "en": "The sitter has no visible eyebrows or eyelashes, whether by fashion, later cleaning, or unfinished paint.",
+      "es": "La retratada no tiene cejas ni pestañas visibles, sea por moda, por limpiezas posteriores o por quedar sin terminar."
+    },
+    {
+      "en": "The landscape does not match up across her: the horizon sits higher on the right than on the left.",
+      "es": "El paisaje no encaja de un lado a otro de la figura: el horizonte queda más alto a la derecha que a la izquierda."
+    },
+    {
+      "en": "Look for the single arched bridge tucked into the misty valley over her left shoulder.",
+      "es": "Busca el único puente de un arco escondido en el valle brumoso, sobre su hombro izquierdo."
+    }
+  ]
+}

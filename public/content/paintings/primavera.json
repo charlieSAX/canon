@@ -1,0 +1,64 @@
+{
+  "id": "primavera",
+  "title": {
+    "en": "Primavera",
+    "es": "La primavera"
+  },
+  "artist": "Sandro Botticelli",
+  "year": 1482,
+  "movement": "early-renaissance",
+  "medium": {
+    "en": "Tempera on panel",
+    "es": "Temple sobre tabla"
+  },
+  "dimensions": "202 x 314 cm",
+  "location": {
+    "museum": "Galleria degli Uffizi",
+    "city": "Florence"
+  },
+  "image": {
+    "src": "img/primavera.webp",
+    "width": 1600,
+    "height": 1063,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "In a dark orange grove, nine mythological figures stand across a flowered meadow. At the right the wind god seizes a fleeing nymph, who turns into flower-strewn Flora. Venus presides at the centre, blindfold Cupid hovering above. Three Graces dance in thin white gowns, and Mercury stirs the clouds at the left.",
+      "craft": "Botticelli sets the figures on a shallow, tapestry-like stage and links them with flowing line and rhyming gestures. In tempera on panel, he renders the ground with astonishing botanical care: around two hundred plant species, many in exact flower. The whole reads left to right like a slow procession.",
+      "painter": "Painted around 1482 for Lorenzo di Pierfrancesco de' Medici, probably to mark his marriage, Primavera came out of the same learned circle as Botticelli's Venus. The poet Poliziano likely helped devise its allegory. Botticelli was then the favoured painter of Medici Florence, at the height of his powers.",
+      "point": "An allegory of spring and love as a civilising force: desire, at the right, is transformed through beauty and grace into something ordered and almost sacred."
+    },
+    "es": {
+      "scene": "En un oscuro naranjal, nueve figuras mitológicas se reparten por un prado florido. A la derecha, el dios del viento apresa a una ninfa que huye y se transforma en Flora, cubierta de flores. Venus preside el centro, con Cupido vendado sobre ella. Las tres Gracias danzan con finos velos blancos y Mercurio despeja las nubes a la izquierda.",
+      "craft": "Botticelli dispone las figuras en un escenario poco profundo, como un tapiz, y las enlaza con líneas fluidas y gestos que riman. En temple sobre tabla, pinta el suelo con asombroso cuidado botánico: unas doscientas especies vegetales, muchas en flor exacta. El conjunto se lee de izquierda a derecha como una procesión lenta.",
+      "painter": "Pintada hacia 1482 para Lorenzo di Pierfrancesco de Medici, seguramente para celebrar su boda, la Primavera nació del mismo círculo culto que la Venus de Botticelli. El poeta Poliziano ayudó, con probabilidad, a idear su alegoría. Botticelli era entonces el pintor predilecto de la Florencia medicea, en plena madurez.",
+      "point": "Una alegoría de la primavera y del amor como fuerza civilizadora: el deseo, a la derecha, se transforma mediante la belleza y la gracia en algo ordenado y casi sagrado."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Botanists have counted roughly two hundred different plant species in the flowered meadow, most of them painted precisely enough to name, and many bloom in Florence in spring.",
+    "es": "Los botánicos han contado cerca de doscientas especies vegetales distintas en el prado florido, casi todas pintadas con la precisión suficiente para nombrarlas, y muchas florecen en Florencia en primavera."
+  },
+  "tags": [
+    "early-renaissance",
+    "mythology",
+    "15th century"
+  ],
+  "notables": [
+    {
+      "en": "Botanists have identified around two hundred plant species in the meadow, many painted in accurate, recognisable flower.",
+      "es": "Los botánicos han identificado unas doscientas especies vegetales en el prado, muchas pintadas en flor precisa y reconocible."
+    },
+    {
+      "en": "Follow the right edge: the wind god grasps a nymph, flowers spill from her mouth, and she becomes Flora beside her.",
+      "es": "Sigue el borde derecho: el dios del viento agarra a una ninfa, brotan flores de su boca y se convierte en Flora."
+    },
+    {
+      "en": "Blindfold Cupid aims his flaming arrow directly at the central Grace, who has turned to gaze at Mercury.",
+      "es": "Cupido, con los ojos vendados, apunta su flecha ardiente a la Gracia central, que se ha vuelto a mirar a Mercurio."
+    }
+  ]
+}

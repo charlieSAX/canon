@@ -1,10 +1,10 @@
-import type { Painting } from './types'
+import type { Lang, Painting } from './types'
 import { db, getMetaNum, setMeta } from './db'
 import { ensureCard } from './fsrsAdapter'
 import { awardPoints } from './points'
 import { countCompletedDays } from './streak'
 import { newlyCompleted, milestoneLine } from './collections'
-import { loadAllPaintings } from './content'
+import { loadAllPaintings, loadMovements } from './content'
 
 export interface ViewResult {
   firstToday: boolean
@@ -14,7 +14,12 @@ export interface ViewResult {
 }
 
 // A painting is "viewed" the first time its info card is opened that day.
-export async function recordView(p: Painting, today: string, scheduledIds: string[]): Promise<ViewResult> {
+export async function recordView(
+  p: Painting,
+  today: string,
+  scheduledIds: string[],
+  lang: Lang
+): Promise<ViewResult> {
   const key = `${today}|${p.id}`
   if (await db.dayViews.get(key)) {
     return { firstToday: false, gained: 0, completedDay: false, milestones: [] }
@@ -28,8 +33,9 @@ export async function recordView(p: Painting, today: string, scheduledIds: strin
     await db.seen.put({ paintingId: p.id, firstSeen: today })
     await ensureCard(p.id, new Date())
     const all = [...(await loadAllPaintings()).values()]
-    for (const set of newlyCompleted(all, seenBefore, p.id)) {
-      milestones.push(milestoneLine(set))
+    const movements = await loadMovements()
+    for (const set of newlyCompleted(all, seenBefore, p.id, movements, lang)) {
+      milestones.push(milestoneLine(set, lang))
     }
   }
 

@@ -1,0 +1,64 @@
+{
+  "id": "the-death-of-marat",
+  "title": {
+    "en": "The Death of Marat",
+    "es": "La muerte de Marat"
+  },
+  "artist": "Jacques-Louis David",
+  "year": 1793,
+  "movement": "neoclassicism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "162 x 128 cm",
+  "location": {
+    "museum": "Royal Museums of Fine Arts of Belgium",
+    "city": "Brussels"
+  },
+  "image": {
+    "src": "img/the-death-of-marat.webp",
+    "width": 1244,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Marat lies dead in his bath, slumped against a white sheet, one arm trailing to the floor still holding a quill. A wound gapes below his collarbone; a bloodied knife rests on the ground. He grips a letter from his killer. Above him spreads a vast, empty, brown-green darkness. A wooden crate serves as his desk.",
+      "craft": "David strips the scene bare. The lower half is packed with sharply lit, tender detail: the skin, the sheet, the knife. The upper half is nearly empty, a shadowed void that acts like the gold ground of a religious icon. Marat's slumped arm deliberately echoes the dead Christ in old Deposition paintings.",
+      "painter": "David was a leading Jacobin and Marat's friend and political ally. He painted this within months of the murder in July 1793, at the height of the Terror, as a public memorial. He smoothed away Marat's disfiguring skin disease and turned a stabbed politician into a serene, secular saint. It hung in the Convention itself.",
+      "point": "It turns a squalid political murder into martyrdom: revolutionary propaganda dressed as sacred art, made to canonise Marat and stir fury against the Revolution's enemies."
+    },
+    "es": {
+      "scene": "Marat yace muerto en su bañera, desplomado contra una sábana blanca, un brazo colgando al suelo y todavía sosteniendo una pluma. Una herida se abre bajo su clavícula; un cuchillo ensangrentado descansa en el suelo. Sujeta una carta de su asesina. Sobre él se extiende una vasta oscuridad vacía, de pardo verdoso. Una caja de madera le sirve de escritorio.",
+      "craft": "David despoja la escena. La mitad inferior está cargada de detalle tierno y muy iluminado: la piel, la sábana, el cuchillo. La mitad superior está casi vacía, un vacío en sombra que actúa como el fondo dorado de un icono religioso. El brazo caído de Marat repite a propósito al Cristo muerto de los viejos descendimientos.",
+      "painter": "David era un jacobino destacado y amigo y aliado político de Marat. Pintó esto pocos meses después del asesinato, en julio de 1793, en pleno Terror, como un memorial público. Suavizó la desfigurante enfermedad de la piel de Marat y convirtió a un político apuñalado en un santo laico y sereno. Colgó en la propia Convención.",
+      "point": "Convierte un sórdido asesinato político en martirio: propaganda revolucionaria vestida de arte sagrado, hecha para canonizar a Marat y avivar la furia contra los enemigos de la Revolución."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "David painted Marat's skin flawless, though a chronic disease forced him to work in a medicated bath; and the friendly note in his hand was the ruse his assassin, Charlotte Corday, used to reach him.",
+    "es": "David pintó la piel de Marat impecable, aunque una enfermedad crónica lo obligaba a trabajar en un baño medicinal; y la nota amable en su mano fue la treta que usó su asesina, Charlotte Corday, para llegar hasta él."
+  },
+  "tags": [
+    "neoclassicism",
+    "portrait",
+    "18th century"
+  ],
+  "notables": [
+    {
+      "en": "Marat had a painful skin condition and worked in medicinal baths; David painted his skin flawless and smooth.",
+      "es": "Marat padecía una dolorosa afección de la piel y trabajaba en baños medicinales; David le pintó la piel impecable y tersa."
+    },
+    {
+      "en": "The crate is inscribed like a gravestone: 'À MARAT, DAVID', the artist signing his tribute to the dead man.",
+      "es": "La caja lleva una inscripción como una lápida: «À MARAT, DAVID», el artista firmando su homenaje al muerto."
+    },
+    {
+      "en": "The letter in his hand is from Charlotte Corday, who used a plea for help to talk her way in and stab him.",
+      "es": "La carta en su mano es de Charlotte Corday, que usó una súplica de ayuda para entrar y apuñalarlo."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "street-dresden",
+  "title": {
+    "en": "Street, Dresden",
+    "es": "Calle de Dresde"
+  },
+  "artist": "Ernst Ludwig Kirchner",
+  "year": 1908,
+  "movement": "expressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "150.5 x 200.4 cm",
+  "location": {
+    "museum": "Museum of Modern Art",
+    "city": "New York"
+  },
+  "image": {
+    "src": "img/street-dresden.webp",
+    "width": 1600,
+    "height": 1207,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AKirchner_-_Street%2C_Dresden%2C_1908%2C_12.1951.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Fashionable women in wide hats crowd a Dresden pavement that glows an unnatural pink. Their faces are mask-like, powdered blank, eyes vacant. A small girl in green stares out from the front. Behind them the crowd compresses into a jostling wall of hats, coats and a distant tram.",
+      "craft": "Kirchner cranks colour past nature: acid pinks, sour greens and clashing complementaries set the street on edge. Space tilts up steeply, figures crowd the surface, and quick, angular strokes keep everything jittery. The overall harshness is deliberate, a visual equivalent of the nervous overload of the modern city.",
+      "painter": "Kirchner had co-founded Die Brücke in Dresden in 1905, a group of young architects turned painters who wanted a raw, direct art. Here he paints Dresden's smart Königstrasse as a parade of alienated strangers. He later reworked the canvas and back-dated it, sharpening its colours toward this hallucinatory pitch.",
+      "point": "Beneath the finery, the modern crowd is a mass of isolated, masklike strangers; the picture makes fashionable city life feel airless and estranged."
+    },
+    "es": {
+      "scene": "Mujeres elegantes con sombreros anchos abarrotan una acera de Dresde que brilla con un rosa antinatural. Sus rostros son máscaras empolvadas, de ojos vacíos. Una niña de verde mira al frente. Detrás, la multitud se comprime en un muro apretado de sombreros, abrigos y un tranvía lejano.",
+      "craft": "Kirchner fuerza el color más allá de la naturaleza: rosas ácidos, verdes agrios y complementarios que chocan tensan la calle. El espacio se inclina hacia arriba, las figuras saturan la superficie y las pinceladas rápidas y angulosas lo mantienen todo nervioso. La aspereza es deliberada, equivalente visual de la sobrecarga urbana.",
+      "painter": "Kirchner había cofundado Die Brücke en Dresde en 1905, un grupo de jóvenes que dejaron la arquitectura por la pintura buscando un arte crudo y directo. Aquí retrata la elegante Königstrasse como un desfile de desconocidos ajenos. Después reelaboró el lienzo y lo antedató, agudizando los colores hasta este tono alucinado.",
+      "point": "Bajo la elegancia, la multitud moderna es una masa de desconocidos aislados y enmascarados; el cuadro hace que la vida urbana refinada resulte irrespirable y extraña."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Painted in 1908, the canvas was reworked around 1919 and Kirchner then dated it 1907 on the surface, so its inscribed date is wrong.",
+    "es": "Pintado en 1908, el lienzo se reelaboró hacia 1919 y Kirchner escribió entonces 1907 sobre la superficie, de modo que su fecha inscrita es errónea."
+  },
+  "tags": [
+    "expressionism",
+    "street",
+    "20th century"
+  ],
+  "notables": [
+    {
+      "en": "The little girl in green at lower centre looks straight out, the one face that seems to see us.",
+      "es": "La niña de verde, abajo en el centro, mira de frente: el único rostro que parece vernos."
+    },
+    {
+      "en": "Nobody meets anyone else's eyes; the packed figures share a pavement yet remain entirely alone.",
+      "es": "Nadie cruza la mirada con nadie; las figuras apretadas comparten acera y siguen del todo solas."
+    },
+    {
+      "en": "The lurid pink of the pavement has no source in reality; Kirchner uses it purely to unsettle.",
+      "es": "El rosa chillón de la acera no existe en la realidad; Kirchner lo usa solo para inquietar."
+    }
+  ]
+}

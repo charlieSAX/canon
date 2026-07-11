@@ -1,0 +1,64 @@
+{
+  "id": "a-burial-at-ornans",
+  "title": {
+    "en": "A Burial at Ornans",
+    "es": "Un entierro en Ornans"
+  },
+  "artist": "Gustave Courbet",
+  "year": 1850,
+  "movement": "realism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "315 x 660 cm",
+  "location": {
+    "museum": "Musée d'Orsay",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/a-burial-at-ornans.webp",
+    "width": 1600,
+    "height": 735,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A crowd of ordinary townsfolk gathers around an open grave under a grey provincial sky. Mourners, a priest and altar boys, a kneeling gravedigger, a dog and the weeping women of Ornans line up in a long dark frieze. The coffin arrives at the left; the black pit waits at the front.",
+      "craft": "Courbet spreads some fifty life-size figures across a canvas over six metres wide, with no hero and no focal drama, just a level row of faces. The palette is sombre, the paint thick and blunt, the composition frankly horizontal. He gives a village funeral the vast scale the Salon kept for battles and gods.",
+      "painter": "Courbet was a young provincial from Ornans in eastern France, ambitious and combative. He posed the real townspeople who had attended the funeral of his great-uncle, painting them at their true size. He later said the picture was, in reality, the burial of Romanticism, and made himself the champion of a new Realism.",
+      "point": "By painting ordinary villagers at the size and seriousness reserved for kings and saints, Courbet declared that common life was worthy of great art, and buried Romantic grandeur in the process."
+    },
+    "es": {
+      "scene": "Una multitud de vecinos corrientes se reúne en torno a una fosa abierta bajo un cielo gris de provincia. Dolientes, un sacerdote con monaguillos, un sepulturero arrodillado, un perro y las mujeres llorosas de Ornans forman un largo friso oscuro. El féretro llega por la izquierda; el hoyo negro espera en primer término.",
+      "craft": "Courbet reparte medio centenar de figuras a tamaño natural en un lienzo de más de seis metros, sin héroe ni drama central, solo una hilera nivelada de rostros. La paleta es sombría, la pintura espesa y tosca, la composición horizontal. Da a un entierro de pueblo la escala inmensa que el Salón guardaba para batallas y dioses.",
+      "painter": "Courbet era un joven provinciano de Ornans, en el este de Francia, ambicioso y combativo. Posó a los vecinos reales que habían asistido al entierro de su tío abuelo y los pintó a su tamaño verdadero. Más tarde dijo que el cuadro era, en realidad, el entierro del Romanticismo, y se erigió en adalid de un nuevo Realismo.",
+      "point": "Al pintar a vecinos corrientes con el tamaño y la gravedad reservados a reyes y santos, Courbet declaró que la vida común era digna del gran arte, y de paso enterró la grandilocuencia romántica."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The canvas is over three metres tall and nearly seven metres wide, a scale the Salon reserved for battles and saints; Courbet used it for the funeral of a nobody in a small town.",
+    "es": "El lienzo mide más de tres metros de alto y casi siete de ancho, una escala que el Salón reservaba a batallas y santos; Courbet la empleó para el entierro de un don nadie en un pueblo pequeño."
+  },
+  "tags": [
+    "realism",
+    "funeral",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The open grave gapes at the very front of the picture, pulling the viewer to the edge of the pit itself.",
+      "es": "La fosa abierta se abre en el mismísimo primer plano del cuadro, arrastrando al espectador hasta el borde del hoyo."
+    },
+    {
+      "en": "A brown and white dog stands in the foreground, ignoring the ceremony, an ordinary detail critics found insolent in so solemn a scene.",
+      "es": "Un perro pardo y blanco está en primer término, ajeno a la ceremonia, un detalle corriente que los críticos hallaron insolente en escena tan solemne."
+    },
+    {
+      "en": "The gravedigger kneels ready by the hole, one of the few figures who is calm; the townswomen at the right dab at tears.",
+      "es": "El sepulturero se arrodilla listo junto al hoyo, una de las pocas figuras serenas; las mujeres del pueblo, a la derecha, se enjugan las lágrimas."
+    }
+  ]
+}

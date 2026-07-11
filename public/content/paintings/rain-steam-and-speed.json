@@ -1,0 +1,64 @@
+{
+  "id": "rain-steam-and-speed",
+  "title": {
+    "en": "Rain, Steam and Speed",
+    "es": "Lluvia, vapor y velocidad"
+  },
+  "artist": "J. M. W. Turner",
+  "year": 1844,
+  "movement": "romanticism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "91 x 122 cm",
+  "location": {
+    "museum": "The National Gallery",
+    "city": "London"
+  },
+  "image": {
+    "src": "img/rain-steam-and-speed.webp",
+    "width": 1600,
+    "height": 1195,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATurner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A black locomotive races straight out of the canvas toward us across a bridge, its funnel glowing, driving through slanting rain and golden haze. The landscape, river and a second bridge dissolve into wet light and vapour. Almost everything is smeared and indistinct; only the dark engine and its bridge hold firm shape.",
+      "craft": "Turner dissolves the visible world into weather. He scumbles and smears thin, glowing paint so rain, steam and sunlight blur into one atmosphere, then plants the one hard black note of the engine to make the haze read as speed. The famous train seems to be tearing the picture itself apart.",
+      "painter": "Turner, near seventy, was fascinated by the machines remaking Britain and unafraid to paint them. Legend says he once put his head out of a train window in a storm to feel the speed and the rain. Here he takes the newest, fastest thing in the world and turns it into pure sensation.",
+      "point": "The modern world arrives at full speed: Turner paints not the train but the experience of it, blur, rush and roar, and asks whether nature can survive the machine."
+    },
+    "es": {
+      "scene": "Una locomotora negra se lanza hacia nosotros, saliendo del lienzo, cruzando un puente con la chimenea encendida, avanzando entre la lluvia oblicua y una bruma dorada. El paisaje, el río y un segundo puente se disuelven en luz húmeda y vapor. Casi todo aparece emborronado e impreciso; solo la máquina oscura y su puente conservan una forma firme.",
+      "craft": "Turner disuelve el mundo visible en clima. Frota y difumina una pintura fina y luminosa para que la lluvia, el vapor y la luz del sol se fundan en una sola atmósfera, y luego planta la única nota negra y dura de la máquina para que la bruma se lea como velocidad. El célebre tren parece desgarrar el propio cuadro.",
+      "painter": "Turner, cerca de los setenta años, estaba fascinado por las máquinas que rehacían Gran Bretaña y no temía pintarlas. Se cuenta que una vez sacó la cabeza por la ventanilla de un tren en plena tormenta para sentir la velocidad y la lluvia. Aquí toma lo más nuevo y veloz del mundo y lo convierte en pura sensación.",
+      "point": "El mundo moderno llega a toda velocidad: Turner no pinta el tren, sino su experiencia, el borrón, la embestida y el estruendo, y pregunta si la naturaleza puede sobrevivir a la máquina."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Turner painted a hare sprinting along the track ahead of the train, a living creature outrunning the machine, but the thin paint has faded until the hare is almost impossible to see.",
+    "es": "Turner pintó una liebre corriendo por la vía delante del tren, una criatura viva que adelanta a la máquina, pero la pintura fina se ha desvanecido hasta hacer la liebre casi imposible de ver."
+  },
+  "tags": [
+    "romanticism",
+    "railway",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "A hare runs along the track ahead of the engine, living speed racing mechanical speed; age has made it faint.",
+      "es": "Una liebre corre por la vía delante de la máquina, la velocidad viva compitiendo con la mecánica; el tiempo la ha vuelto tenue."
+    },
+    {
+      "en": "On the river and the old bridge to the left, a boat and tiny figures mark the slower world left behind.",
+      "es": "En el río y el viejo puente de la izquierda, una barca y figuras diminutas señalan el mundo más lento que queda atrás."
+    },
+    {
+      "en": "The bridge is Brunel's real viaduct at Maidenhead, then the newest railway crossing over the Thames.",
+      "es": "El puente es el viaducto real de Brunel en Maidenhead, entonces el cruce ferroviario más nuevo sobre el Támesis."
+    }
+  ]
+}

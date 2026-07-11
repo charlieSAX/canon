@@ -1,10 +1,16 @@
 {
   "id": "garden-of-earthly-delights",
-  "title": "The Garden of Earthly Delights",
+  "title": {
+    "en": "The Garden of Earthly Delights",
+    "es": "El jardín de las delicias"
+  },
   "artist": "Hieronymus Bosch",
   "year": 1500,
-  "movement": "Early Netherlandish",
-  "medium": "Oil on oak panel, triptych",
+  "movement": "early-netherlandish",
+  "medium": {
+    "en": "Oil on oak panel, triptych",
+    "es": "Óleo sobre tabla de roble, tríptico"
+  },
   "dimensions": "205.5 x 384.9 cm open",
   "location": {
     "museum": "Museo del Prado",
@@ -18,15 +24,41 @@
     "license_note": "Public domain. Faithful reproduction of a work by Hieronymus Bosch (died 1516)."
   },
   "text": {
-    "scene": "Read left to right: Eden, where God presents Eve to a seated Adam; a teeming garden where naked crowds ride birds, climb inside fruit and swim with monsters; then a black, burning hell where instruments become torture machines and a tree-man looks back over his shoulder at the wreckage. Nothing in it has ever been fully explained.",
-    "craft": "Bosch paints hundreds of small figures with miniaturist care, then organises the chaos through colour: pale flesh scattered across green in the centre, everything cooling to fire and ice on the right. The triptych form lets him run time across the panels, from creation to consequence, like a hinged argument.",
-    "painter": "Bosch lived his whole life in the Brabant town of 's-Hertogenbosch, a respected citizen of a religious brotherhood, not the madman his imagery suggests. His invented creatures made him famous; Philip II of Spain collected him avidly, which is why the great triptych hangs in Madrid. About twenty-five surviving paintings are securely his."
+    "en": {
+      "scene": "Read left to right: Eden, where God presents Eve to a seated Adam; a teeming garden where naked crowds ride birds, climb inside fruit and swim with monsters; then a black, burning hell where instruments become torture machines and a tree-man looks back over his shoulder at the wreckage. Nothing in it has ever been fully explained.",
+      "craft": "Bosch paints hundreds of small figures with miniaturist care, then organises the chaos through colour: pale flesh scattered across green in the centre, everything cooling to fire and ice on the right. The triptych form lets him run time across the panels, from creation to consequence, like a hinged argument.",
+      "painter": "Bosch lived his whole life in the Brabant town of 's-Hertogenbosch, a respected citizen of a religious brotherhood, not the madman his imagery suggests. His invented creatures made him famous; Philip II of Spain collected him avidly, which is why the great triptych hangs in Madrid. About twenty-five surviving paintings are securely his.",
+      "point": "Desire, abundance and punishment form a warning whose exact key the painter refused to supply."
+    },
+    "es": {
+      "scene": "De izquierda a derecha: el Edén, donde Dios presenta Eva a Adán; un jardín repleto de multitudes desnudas que montan aves, entran en frutas y nadan con monstruos; después, un infierno negro y ardiente donde los instrumentos torturan y un hombre árbol mira hacia atrás. Nada se ha explicado por completo.",
+      "craft": "Bosco pinta cientos de figuras con cuidado de miniaturista y organiza el caos mediante el color: carne pálida dispersa sobre el verde central, luego fuego y hielo en el panel derecho. La forma de tríptico le permite desplegar el tiempo, desde la creación hasta sus consecuencias, como un argumento articulado con bisagras.",
+      "painter": "Bosco vivió siempre en la ciudad brabanzona de Bolduque y fue un ciudadano respetado de una cofradía religiosa, no el loco que sugieren sus imágenes. Sus criaturas inventadas lo hicieron famoso. Felipe II lo coleccionó con pasión, por eso el gran tríptico está en Madrid. Se le atribuyen con seguridad unas veinticinco pinturas.",
+      "point": "Deseo, abundancia y castigo forman una advertencia cuya clave exacta el pintor se negó a entregar."
+    }
   },
-  "draft": true,
-  "fact": "Closed, the shutters show the world itself, painted in grey glass-like tones: the globe on the third day of creation, before animals, before people, before any of what happens inside.",
+  "draft": false,
+  "fact": {
+    "en": "Closed, the shutters show the world itself, painted in grey glass-like tones: the globe on the third day of creation, before animals, before people, before any of what happens inside.",
+    "es": "Cerradas, las puertas muestran el mundo en tonos grises de cristal: el globo en el tercer día de la creación, antes de los animales, de las personas y de todo lo que sucede dentro."
+  },
   "tags": [
-    "Early Netherlandish",
+    "early-netherlandish",
     "religious allegory",
     "15th century"
+  ],
+  "notables": [
+    {
+      "en": "A transparent sphere encloses a couple, as fragile as the pleasure it contains.",
+      "es": "Una esfera transparente encierra a una pareja, tan frágil como el placer que contiene."
+    },
+    {
+      "en": "The tree-man in Hell carries a tavern inside his hollow body.",
+      "es": "El hombre árbol del infierno lleva una taberna dentro de su cuerpo hueco."
+    },
+    {
+      "en": "Music turns into punishment: a harp, lute and drum become instruments of torture.",
+      "es": "La música se vuelve castigo: arpa, laúd y tambor se convierten en instrumentos de tortura."
+    }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "id": "the-rokeby-venus",
+  "title": {
+    "en": "The Rokeby Venus",
+    "es": "La Venus del espejo"
+  },
+  "artist": "Diego Velázquez",
+  "year": 1650,
+  "movement": "baroque",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "122 x 177 cm",
+  "location": {
+    "museum": "The National Gallery",
+    "city": "London"
+  },
+  "image": {
+    "src": "img/the-rokeby-venus.webp",
+    "width": 1600,
+    "height": 1098,
+    "source_url": "https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_-_Rokeby_Venus.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Venus lies stretched along a bed, seen from behind, her pale body a long diagonal against grey silk and dark crimson drapery. Her son Cupid kneels at the far end holding up a mirror, in which her face returns to us, soft and indistinct. The room is bare and quiet.",
+      "craft": "The picture is built on one long, unbroken contour running from shoulder to heel, the body drawn in warm flesh tones against cool greys. Velázquez paints the mirror trick knowingly: Venus's reflected face is larger and blurrier than optics allow, a gentle cheat that keeps her both present and unknowable.",
+      "painter": "Velázquez probably painted this in or soon after his second trip to Italy, around 1650, where he also fathered a child and painted his blazing portrait of Pope Innocent X. A female nude was daring in Counter Reformation Spain, where the Inquisition frowned on such work; it stayed discreetly in private collections.",
+      "point": "It is the only surviving nude by Velázquez, a study of beauty that hides the face and offers only a blurred reflection, keeping the goddess forever just out of reach."
+    },
+    "es": {
+      "scene": "Venus se tiende a lo largo de un lecho, vista de espaldas, su cuerpo pálido una larga diagonal sobre seda gris y cortinaje de un carmesí oscuro. Su hijo Cupido se arrodilla al otro extremo sosteniendo un espejo, en el que su rostro nos regresa, suave y difuso. La habitación está desnuda y en silencio.",
+      "craft": "El cuadro se construye sobre un único contorno largo que va del hombro al talón, con el cuerpo en cálidos tonos de carne sobre grises fríos. Velázquez pinta el truco del espejo a conciencia: el rostro reflejado de Venus es mayor y más borroso de lo que permite la óptica, una trampa suave que la mantiene presente e inasible.",
+      "painter": "Velázquez pintó esto probablemente durante o poco después de su segundo viaje a Italia, hacia 1650, donde además tuvo un hijo y pintó su deslumbrante retrato del papa Inocencio X. Un desnudo femenino era atrevido en la España de la Contrarreforma, donde la Inquisición veía mal tales obras; permaneció discretamente en colecciones privadas.",
+      "point": "Es el único desnudo conservado de Velázquez, un estudio de la belleza que oculta el rostro y solo ofrece un reflejo borroso, manteniendo a la diosa siempre fuera de alcance."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "In 1914 the suffragette Mary Richardson attacked the painting with a butcher's cleaver, leaving seven long slashes across Venus's back in protest at the arrest of Emmeline Pankhurst.",
+    "es": "En 1914 la sufragista Mary Richardson atacó el cuadro con un cuchillo de carnicero y dejó siete largos tajos en la espalda de Venus, en protesta por la detención de Emmeline Pankhurst."
+  },
+  "tags": [
+    "baroque",
+    "nude",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "The face in the mirror is painted deliberately soft, too large and blurred to be a true reflection.",
+      "es": "El rostro del espejo está pintado deliberadamente suave, demasiado grande y difuso para ser un reflejo verdadero."
+    },
+    {
+      "en": "This is the only female nude by Velázquez known to survive, rare in devout Spanish art.",
+      "es": "Es el único desnudo femenino de Velázquez que se sabe conservado, algo raro en el devoto arte español."
+    },
+    {
+      "en": "The cool greys of the sheets set off the warm flesh, making the body seem lit from within.",
+      "es": "Los grises fríos de las sábanas realzan la carne cálida y hacen que el cuerpo parezca iluminado desde dentro."
+    },
+    {
+      "en": "Cupid holds the mirror but has no arrows, and a pink ribbon is draped across its frame.",
+      "es": "Cupido sostiene el espejo pero no tiene flechas, y una cinta rosa cruza el marco."
+    }
+  ]
+}

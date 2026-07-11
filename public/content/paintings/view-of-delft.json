@@ -1,0 +1,68 @@
+{
+  "id": "view-of-delft",
+  "title": {
+    "en": "View of Delft",
+    "es": "Vista de Delft"
+  },
+  "artist": "Johannes Vermeer",
+  "year": 1661,
+  "movement": "dutch-golden-age",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "96.5 x 115.7 cm",
+  "location": {
+    "museum": "Mauritshuis",
+    "city": "The Hague"
+  },
+  "image": {
+    "src": "img/view-of-delft.webp",
+    "width": 1600,
+    "height": 1328,
+    "source_url": "https://commons.wikimedia.org/wiki/File:View_of_Delft%2C_by_Johannes_Vermeer.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "The town of Delft lies stretched along the far bank of a calm harbour under a huge, cloud filled sky. Its red roofs, brick gates and church towers glow in patches of sunlight after rain, mirrored in the still water. A few small figures stand talking on the near shore.",
+      "craft": "Vermeer divides the picture into broad bands of water, town and sky, then lets weather do the drama. Shadowed buildings in front throw the sunlit tower behind into brilliance. Thick dabs of pale paint speckle the boats and walls, so that the whole damp, glittering surface seems to hold the light of a single passing moment.",
+      "painter": "Delft was Vermeer's whole world; he was born there, married there and died there in debt at forty three. This is one of only two townscapes he made, and by far the greater. He may have used a camera obscura, a lens and box that projects a scene, to study the soft focus and bright specks of light.",
+      "point": "It is a portrait of a whole town caught in one shift of light, and perhaps the greatest cityscape in European art: ordinary brick and water raised to the sublime."
+    },
+    "es": {
+      "scene": "La ciudad de Delft se extiende a lo largo de la orilla opuesta de un puerto en calma, bajo un cielo inmenso lleno de nubes. Sus tejados rojos, sus puertas de ladrillo y sus torres de iglesia brillan en zonas de sol tras la lluvia, reflejados en el agua quieta. Unas pocas figuras pequeñas conversan en la orilla cercana.",
+      "craft": "Vermeer divide el cuadro en anchas franjas de agua, ciudad y cielo, y deja que el clima ponga el drama. Los edificios en sombra del primer plano hacen resplandecer la torre iluminada del fondo. Espesos toques de pintura clara motean los barcos y los muros, y la superficie húmeda y reluciente parece retener la luz de un instante fugaz.",
+      "painter": "Delft fue el mundo de Vermeer; allí nació, allí se casó y allí murió endeudado a los cuarenta y tres años. Esta es una de sus solo dos vistas urbanas, y con mucho la mayor. Pudo haber usado una cámara oscura, una lente y una caja que proyectan una escena, para estudiar el enfoque suave y los destellos de luz.",
+      "point": "Es el retrato de toda una ciudad captada en un solo cambio de luz, y quizá la mayor vista urbana del arte europeo: ladrillo y agua corrientes elevados a lo sublime."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Marcel Proust called View of Delft the most beautiful painting in the world, and wrote a dying novelist into In Search of Lost Time who collapses gazing at its little patch of yellow wall.",
+    "es": "Marcel Proust llamó a la Vista de Delft el cuadro más hermoso del mundo, y en En busca del tiempo perdido creó a un novelista moribundo que se desploma contemplando su pequeña mancha de pared amarilla."
+  },
+  "tags": [
+    "dutch-golden-age",
+    "cityscape",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "The sunlit tower is the New Church, where the Dutch royal family are buried to this day.",
+      "es": "La torre iluminada es la Iglesia Nueva, donde aún hoy se entierra a la familia real holandesa."
+    },
+    {
+      "en": "The French writer Marcel Proust called this the most beautiful painting in the world.",
+      "es": "El escritor francés Marcel Proust llamó a esta obra el cuadro más hermoso del mundo."
+    },
+    {
+      "en": "Look for a small patch of yellow on a sunlit roof; Proust made it famous in his great novel.",
+      "es": "Busca una pequeña mancha de amarillo en un tejado al sol; Proust la hizo célebre en su gran novela."
+    },
+    {
+      "en": "Tiny beads of thick white paint on the boats catch light like it fell through a lens.",
+      "es": "Diminutas gotas de espesa pintura blanca en los barcos atrapan la luz como si cayera a través de una lente."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "the-scream",
+  "title": {
+    "en": "The Scream",
+    "es": "El grito"
+  },
+  "artist": "Edvard Munch",
+  "year": 1893,
+  "movement": "expressionism",
+  "medium": {
+    "en": "Oil, tempera and pastel on cardboard",
+    "es": "Óleo, temple y pastel sobre cartón"
+  },
+  "dimensions": "91 x 73 cm",
+  "location": {
+    "museum": "National Museum",
+    "city": "Oslo"
+  },
+  "image": {
+    "src": "img/the-scream.webp",
+    "width": 1289,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEdvard_Munch_-_The_Scream_-_NG.M.00939_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A hairless figure stands on a coastal walkway, hands pressed to a hollow, skull-like face, mouth open in a soundless cry. The sky behind writhes in bands of orange and red above a blue-black fjord. Two dark strollers move away along the rail, indifferent to whatever the screamer feels.",
+      "craft": "Munch abandons realistic colour for feeling. The same wavy strokes run through sky, water and figure, so the whole world seems to ripple with one anxiety. The sharp diagonal of the railing shoots back into space, while the foreground body, bent and boneless, curves like an echo of the burning sky.",
+      "painter": "Munch traced the picture to a real evening walk near Kristiania, now Oslo. In his diary he wrote that the sky turned blood red, he felt tired and anxious, and sensed an infinite scream passing through nature. He made it part of his Frieze of Life, a cycle on love, dread and death.",
+      "point": "The figure is not screaming but shielding itself from a scream it hears in the world, making raw modern anxiety visible in a way no earlier picture had."
+    },
+    "es": {
+      "scene": "Una figura sin cabello está en un paseo junto al mar, las manos sobre un rostro hueco y cadavérico, la boca abierta en un grito mudo. Detrás, el cielo se retuerce en franjas naranjas y rojas sobre un fiordo azul negruzco. Dos paseantes oscuros se alejan por la baranda, indiferentes.",
+      "craft": "Munch abandona el color realista por el sentimiento. Las mismas pinceladas onduladas recorren cielo, agua y figura, y todo el mundo parece vibrar con una sola angustia. La diagonal afilada de la baranda se hunde en el espacio, mientras el cuerpo del frente, doblado y sin huesos, imita el cielo ardiente.",
+      "painter": "Munch remontó el cuadro a un paseo real al atardecer cerca de Kristiania, hoy Oslo. En su diario escribió que el cielo se volvió rojo sangre, que se sintió cansado y angustiado y percibió un grito infinito atravesando la naturaleza. Lo integró en su Friso de la vida, ciclo sobre amor, miedo y muerte.",
+      "point": "La figura no grita, sino que se protege de un grito que oye en el mundo, y hace visible la angustia moderna en carne viva como ningún cuadro anterior."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Munch made four versions of The Scream between 1893 and 1910; this 1893 painting carries a tiny pencilled inscription calling it the work of a madman.",
+    "es": "Munch hizo cuatro versiones de El grito entre 1893 y 1910; esta pintura de 1893 lleva una diminuta inscripción a lápiz que la llama obra de un loco."
+  },
+  "tags": [
+    "expressionism",
+    "figure",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "A faint pencil line reads, could only have been painted by a madman, scratched into the sky, probably by Munch himself.",
+      "es": "Una tenue línea a lápiz dice: solo pudo pintarlo un loco, rayada en el cielo, probablemente por el propio Munch."
+    },
+    {
+      "en": "The two figures on the bridge walk calmly away, feeling nothing of the terror that unmakes the central face.",
+      "es": "Las dos figuras del puente se alejan con calma, ajenas al terror que deshace el rostro central."
+    },
+    {
+      "en": "In the distance, two small boats and a church spire anchor the writhing sky to a real Oslo view.",
+      "es": "A lo lejos, dos barcas y la aguja de una iglesia anclan el cielo revuelto a una vista real de Oslo."
+    }
+  ]
+}

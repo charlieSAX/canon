@@ -1,0 +1,64 @@
+{
+  "id": "the-third-of-may-1808",
+  "title": {
+    "en": "The Third of May 1808",
+    "es": "El tres de mayo de 1808"
+  },
+  "artist": "Francisco de Goya",
+  "year": 1814,
+  "movement": "romanticism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "268 x 347 cm",
+  "location": {
+    "museum": "Museo del Prado",
+    "city": "Madrid"
+  },
+  "image": {
+    "src": "img/the-third-of-may-1808.webp",
+    "width": 1600,
+    "height": 1234,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEl_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_in_Google_Earth.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Night on a hill outside Madrid. A firing squad of French soldiers stands with backs turned, rifles levelled at a huddle of Spanish captives. One man in a white shirt throws his arms wide, lit by a square lantern on the ground. Corpses lie in blood at his feet; others wait their turn, hiding their faces.",
+      "craft": "Goya throws out heroic composition. The soldiers are a faceless machine, a wall of shakos and gun barrels; the victims are all face and feeling. A lantern, not heaven, supplies the harsh light, and the loose, urgent paint refuses to make the slaughter beautiful. Everything drives the eye to the white shirt.",
+      "painter": "Goya lived through the French occupation as court painter, keeping his post under both kings. In 1814, with the French driven out, he offered to paint Spain's resistance and the government agreed. He was nearly seventy and stone deaf, and the private horror of these years would soon spill onto his own walls.",
+      "point": "The first great modern painting of war: no glory, no hero, just an ordinary man about to be shot by an anonymous machine, arms flung wide in terror and defiance."
+    },
+    "es": {
+      "scene": "Noche en una colina a las afueras de Madrid. Un pelotón de soldados franceses, de espaldas, apunta con los fusiles a un grupo de cautivos españoles. Un hombre de camisa blanca abre los brazos de par en par, iluminado por un farol cuadrado en el suelo. A sus pies yacen cadáveres ensangrentados; otros esperan su turno tapándose la cara.",
+      "craft": "Goya renuncia a la composición heroica. Los soldados son una máquina sin rostro, un muro de morriones y cañones de fusil; las víctimas son todo cara y sentimiento. Un farol, y no el cielo, da la luz cruda, y la pintura suelta y urgente se niega a embellecer la matanza. Todo lleva la mirada a la camisa blanca.",
+      "painter": "Goya vivió la ocupación francesa como pintor de corte y conservó su puesto con ambos reyes. En 1814, expulsados los franceses, se ofreció a pintar la resistencia española y el gobierno aceptó. Tenía casi setenta años y estaba completamente sordo, y el horror privado de aquellos años pronto se derramaría sobre sus propias paredes.",
+      "point": "La primera gran pintura moderna de la guerra: sin gloria, sin héroe, solo un hombre corriente a punto de ser fusilado por una máquina anónima, con los brazos abiertos de terror y desafío."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Goya painted the massacre six years after it happened, in 1814, and the anonymous man in the white shirt has a wound on his hand placed exactly where Christ's was.",
+    "es": "Goya pintó la matanza seis años después de ocurrida, en 1814, y el hombre anónimo de la camisa blanca tiene en la mano una herida colocada justo donde estaba la de Cristo."
+  },
+  "tags": [
+    "romanticism",
+    "execution",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The white-shirted man's right hand carries a dark mark, echoing the wound in Christ's palm.",
+      "es": "La mano derecha del hombre de camisa blanca lleva una marca oscura, eco de la herida en la palma de Cristo."
+    },
+    {
+      "en": "The soldiers show no faces, deliberately reduced to an impersonal rank of backs and bayonets.",
+      "es": "Los soldados no muestran rostro, reducidos a propósito a una fila impersonal de espaldas y bayonetas."
+    },
+    {
+      "en": "A monk kneels among the condemned, praying, while the dead already lie face down in blood.",
+      "es": "Un fraile se arrodilla entre los condenados y reza, mientras los muertos yacen boca abajo en la sangre."
+    }
+  ]
+}

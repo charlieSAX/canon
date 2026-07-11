@@ -1,0 +1,64 @@
+{
+  "id": "agnus-dei",
+  "title": {
+    "en": "Agnus Dei",
+    "es": "Agnus Dei"
+  },
+  "artist": "Francisco de Zurbarán",
+  "year": 1640,
+  "movement": "baroque",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "38 x 62 cm",
+  "location": {
+    "museum": "Museo del Prado",
+    "city": "Madrid"
+  },
+  "image": {
+    "src": "img/agnus-dei.webp",
+    "width": 1600,
+    "height": 956,
+    "source_url": "https://commons.wikimedia.org/wiki/File:Agnus_Dei_Zurbar%C3%A1n.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A single young lamb lies on a plain grey stone ledge against a black background, and nothing else is shown. Its four legs are bound together with cord. It rests on its side, head turned back, eyes half closed, its thick fleece painted curl by curl in warm cream and grey. It does not struggle.",
+      "craft": "Everything depends on a single beam of light falling from the left. It models the soft wool against total darkness, catching each ringlet and the tension of the cord, and leaves the rest in shadow. With no halo, no words and no setting, Zurbarán paints the lamb like a humble still life, calm and exact.",
+      "painter": "Zurbarán was the great painter of the Spanish religious orders, supplying austere, deeply felt images to the monasteries of Seville. A friend and contemporary of Velázquez, he specialised in white robed monks and quiet devotion. He painted the bound lamb several times; the Prado kept the plainest and finest of them.",
+      "point": "A bound lamb is the oldest symbol of Christ, the Lamb of God led willingly to sacrifice. Stripped of all decoration, it turns a simple animal into an image of innocent, accepted death."
+    },
+    "es": {
+      "scene": "Un solo cordero joven yace sobre una sencilla repisa de piedra gris ante un fondo negro, y no se muestra nada más. Tiene las cuatro patas atadas con una cuerda. Descansa de costado, con la cabeza vuelta hacia atrás y los ojos entornados, su espeso vellón pintado rizo a rizo en cálidos tonos de crema y gris. No se resiste.",
+      "craft": "Todo depende de un único haz de luz que cae desde la izquierda. Modela la lana suave contra la oscuridad total, capta cada rizo y la tensión de la cuerda, y deja el resto en sombra. Sin halo, sin palabras y sin escenario, Zurbarán pinta el cordero como un humilde bodegón, sereno y exacto.",
+      "painter": "Zurbarán fue el gran pintor de las órdenes religiosas españolas, que abastecía de imágenes austeras y hondamente sentidas a los monasterios de Sevilla. Amigo y contemporáneo de Velázquez, se especializó en monjes de hábito blanco y devoción callada. Pintó el cordero atado varias veces; el Prado conservó el más sencillo y logrado de todos.",
+      "point": "Un cordero atado es el símbolo más antiguo de Cristo, el Cordero de Dios llevado voluntariamente al sacrificio. Despojado de todo adorno, convierte a un simple animal en una imagen de la muerte inocente y aceptada."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Without a halo, a cross or any words, the picture reads equally as a plain still life of a sheep and as an image of the crucified Christ.",
+    "es": "Sin halo, sin cruz y sin palabra alguna, el cuadro se lee igual como un simple bodegón de un cordero que como una imagen de Cristo crucificado."
+  },
+  "tags": [
+    "baroque",
+    "still life",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "The lamb's legs are tied with a single cord, the sign that it is bound for sacrifice.",
+      "es": "Las patas del cordero están atadas con una sola cuerda, señal de que está destinado al sacrificio."
+    },
+    {
+      "en": "The Prado version wears no halo and carries no inscription, unlike other versions Zurbarán painted.",
+      "es": "La versión del Prado no lleva halo ni inscripción alguna, a diferencia de otras que pintó Zurbarán."
+    },
+    {
+      "en": "Every curl of the merino fleece is picked out separately, a feat of patient, tactile brushwork.",
+      "es": "Cada rizo del vellón merino se distingue por separado, una proeza de pincelada paciente y táctil."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "self-portrait-with-physalis",
+  "title": {
+    "en": "Self-Portrait with Physalis",
+    "es": "Autorretrato con physalis"
+  },
+  "artist": "Egon Schiele",
+  "year": 1912,
+  "movement": "expressionism",
+  "medium": {
+    "en": "Oil and gouache on wood",
+    "es": "Óleo y gouache sobre tabla"
+  },
+  "dimensions": "32.2 x 39.8 cm",
+  "location": {
+    "museum": "Leopold Museum",
+    "city": "Vienna"
+  },
+  "image": {
+    "src": "img/self-portrait-with-physalis.webp",
+    "width": 1600,
+    "height": 1296,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEgon_Schiele_-_Self-Portrait_with_Physalis_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Schiele turns his head sharply, one shoulder raised, gazing sidelong from a spare, pale ground. His hair is a dark, clipped mass, his features gaunt and watchful. To the left leans a sprig of physalis, its orange lantern fruits and thin leaves echoing the tilt of his head.",
+      "craft": "The composition is stripped to essentials and finely balanced. Every line answers another: hair mirrors body, the plant's diagonal counters the rigid ground, and the bright orange lanterns lift an otherwise sombre palette. Schiele draws with a taut, nervous contour, letting empty background press in around the sharply cropped figure.",
+      "painter": "Schiele was twenty-two and working under the shadow and support of his mentor Klimt. Earlier that same year, 1912, he had been arrested at Neulengbach and briefly jailed, a judge burning one drawing in court. This portrait shows the intense, self-scrutinising style that made him the sharpest of the Expressionists.",
+      "point": "Schiele reinvents the self-portrait as raw psychological exposure, using a gaunt body and a nervous line to lay a private, anxious self bare on the panel."
+    },
+    "es": {
+      "scene": "Schiele gira la cabeza con brusquedad, un hombro alzado, mirando de reojo sobre un fondo escueto y pálido. Su cabello es una masa oscura y recortada; sus rasgos, enjutos y alertas. A la izquierda se inclina una rama de physalis, cuyas linternas naranjas y hojas finas repiten la inclinación de su cabeza.",
+      "craft": "La composición se reduce a lo esencial y queda finamente equilibrada. Cada línea responde a otra: el pelo refleja el cuerpo, la diagonal de la planta contrarresta el fondo rígido y las linternas naranjas animan una paleta sombría. Schiele dibuja con un contorno tenso y nervioso, dejando que el vacío presione la figura recortada.",
+      "painter": "Schiele tenía veintidós años y trabajaba a la sombra y el amparo de su mentor Klimt. Ese mismo año, 1912, había sido arrestado en Neulengbach y encarcelado brevemente, y un juez quemó un dibujo suyo en la sala. El retrato muestra el estilo intenso e introspectivo que lo hizo el más agudo de los expresionistas.",
+      "point": "Schiele reinventa el autorretrato como pura exposición psicológica y usa un cuerpo enjuto y una línea nerviosa para desnudar en la tabla un yo íntimo y angustiado."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The little orange lanterns are physalis, or Chinese lantern fruit; the picture is also known as Self-Portrait with Chinese Lantern Plant and is painted on a small wooden panel.",
+    "es": "Las linternas naranjas son physalis, el fruto del farolillo chino; el cuadro se conoce también como Autorretrato con farolillos chinos y está pintado sobre una pequeña tabla de madera."
+  },
+  "tags": [
+    "expressionism",
+    "self-portrait",
+    "20th century"
+  ],
+  "notables": [
+    {
+      "en": "The physalis sprig on the left leans at the same angle as Schiele's head, a small living mirror of his pose.",
+      "es": "La rama de physalis de la izquierda se inclina en el mismo ángulo que la cabeza de Schiele, pequeño espejo vivo de su pose."
+    },
+    {
+      "en": "The figure is cropped hard at shoulders and hair, as if the panel were too small to contain him.",
+      "es": "La figura se recorta con dureza en hombros y cabello, como si la tabla fuera demasiado pequeña para contenerlo."
+    },
+    {
+      "en": "The bare, undecorated background isolates him completely, giving nothing to lean on but his own tense outline.",
+      "es": "El fondo desnudo y sin adornos lo aísla por completo, sin más apoyo que su propio contorno tenso."
+    }
+  ]
+}

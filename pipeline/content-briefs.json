@@ -1,0 +1,1712 @@
+{
+  "lamentation-giotto": {
+    "id": "lamentation-giotto",
+    "title": {
+      "en": "The Lamentation",
+      "es": "El llanto sobre Cristo muerto"
+    },
+    "artist": "Giotto di Bondone",
+    "year": 1305,
+    "movement": "proto-renaissance",
+    "museum": "Scrovegni Chapel",
+    "city": "Padua",
+    "image": {
+      "src": "img/lamentation-giotto.webp",
+      "width": 1223,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AFresque_de_Giotto%2C_chapelle_des_Scrovegni_%C3%A0_Padoue.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "annunciation-fra-angelico": {
+    "id": "annunciation-fra-angelico",
+    "title": {
+      "en": "The Annunciation",
+      "es": "La Anunciación"
+    },
+    "artist": "Fra Angelico",
+    "year": 1426,
+    "movement": "early-renaissance",
+    "museum": "Museo del Prado",
+    "city": "Madrid",
+    "image": {
+      "src": "img/annunciation-fra-angelico.webp",
+      "width": 1600,
+      "height": 1579,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ALa_Anunciaci%C3%B3n%2C_by_Fra_Angelico%2C_from_Prado_in_Google_Earth.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "battle-of-san-romano": {
+    "id": "battle-of-san-romano",
+    "title": {
+      "en": "The Battle of San Romano",
+      "es": "La batalla de San Romano"
+    },
+    "artist": "Paolo Uccello",
+    "year": 1440,
+    "movement": "early-renaissance",
+    "museum": "The National Gallery",
+    "city": "London",
+    "image": {
+      "src": "img/battle-of-san-romano.webp",
+      "width": 1600,
+      "height": 905,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ASan_Romano_Battle_(Paolo_Uccello%2C_London)_01.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-birth-of-venus": {
+    "id": "the-birth-of-venus",
+    "title": {
+      "en": "The Birth of Venus",
+      "es": "El nacimiento de Venus"
+    },
+    "artist": "Sandro Botticelli",
+    "year": 1485,
+    "movement": "early-renaissance",
+    "museum": "Galleria degli Uffizi",
+    "city": "Florence",
+    "image": {
+      "src": "img/the-birth-of-venus.webp",
+      "width": 1600,
+      "height": 1005,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ASandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "primavera": {
+    "id": "primavera",
+    "title": {
+      "en": "Primavera",
+      "es": "La primavera"
+    },
+    "artist": "Sandro Botticelli",
+    "year": 1482,
+    "movement": "early-renaissance",
+    "museum": "Galleria degli Uffizi",
+    "city": "Florence",
+    "image": {
+      "src": "img/primavera.webp",
+      "width": 1600,
+      "height": 1063,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ASandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "lamentation-of-christ-mantegna": {
+    "id": "lamentation-of-christ-mantegna",
+    "title": {
+      "en": "Lamentation of Christ",
+      "es": "Cristo muerto"
+    },
+    "artist": "Andrea Mantegna",
+    "year": 1480,
+    "movement": "early-renaissance",
+    "museum": "Pinacoteca di Brera",
+    "city": "Milan",
+    "image": {
+      "src": "img/lamentation-of-christ-mantegna.webp",
+      "width": 1600,
+      "height": 1357,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AThe_dead_Christ_with_three_mourners_(by_Andrea_Mantegna)_%E2%80%93_Pinacoteca_di_Brera.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "descent-from-the-cross": {
+    "id": "descent-from-the-cross",
+    "title": {
+      "en": "The Descent from the Cross",
+      "es": "El descendimiento"
+    },
+    "artist": "Rogier van der Weyden",
+    "year": 1435,
+    "movement": "early-netherlandish",
+    "museum": "Museo del Prado",
+    "city": "Madrid",
+    "image": {
+      "src": "img/descent-from-the-cross.webp",
+      "width": 1600,
+      "height": 1241,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AEl_Descendimiento%2C_by_Rogier_van_der_Weyden%2C_from_Prado_in_Google_Earth.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "mona-lisa": {
+    "id": "mona-lisa",
+    "title": {
+      "en": "Mona Lisa",
+      "es": "La Gioconda"
+    },
+    "artist": "Leonardo da Vinci",
+    "year": 1503,
+    "movement": "high-renaissance",
+    "museum": "Musée du Louvre",
+    "city": "Paris",
+    "image": {
+      "src": "img/mona-lisa.webp",
+      "width": 1078,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ALeonardo_da_Vinci_-_Mona_Lisa_(Louvre%2C_Paris).jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-last-supper": {
+    "id": "the-last-supper",
+    "title": {
+      "en": "The Last Supper",
+      "es": "La última cena"
+    },
+    "artist": "Leonardo da Vinci",
+    "year": 1498,
+    "movement": "high-renaissance",
+    "museum": "Santa Maria delle Grazie",
+    "city": "Milan",
+    "image": {
+      "src": "img/the-last-supper.webp",
+      "width": 1600,
+      "height": 870,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ALeonardo_da_Vinci_-_The_Last_Supper_high_res.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-creation-of-adam": {
+    "id": "the-creation-of-adam",
+    "title": {
+      "en": "The Creation of Adam",
+      "es": "La creación de Adán"
+    },
+    "artist": "Michelangelo Buonarroti",
+    "year": 1512,
+    "movement": "high-renaissance",
+    "museum": "Sistine Chapel",
+    "city": "Vatican City",
+    "image": {
+      "src": "img/the-creation-of-adam.webp",
+      "width": 1600,
+      "height": 1097,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AMichelangelo_Buonarroti_-_The_Creation_of_Adam%2C_ceiling_(unrestored).jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-school-of-athens": {
+    "id": "the-school-of-athens",
+    "title": {
+      "en": "The School of Athens",
+      "es": "La escuela de Atenas"
+    },
+    "artist": "Raphael",
+    "year": 1511,
+    "movement": "high-renaissance",
+    "museum": "Apostolic Palace",
+    "city": "Vatican City",
+    "image": {
+      "src": "img/the-school-of-athens.webp",
+      "width": 1600,
+      "height": 1067,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AThe_School_of_Athens_Fresco_by_Raphael_(Ank_Kumar%2C_Infosys_Limited)_02.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "sistine-madonna": {
+    "id": "sistine-madonna",
+    "title": {
+      "en": "The Sistine Madonna",
+      "es": "La Madona Sixtina"
+    },
+    "artist": "Raphael",
+    "year": 1512,
+    "movement": "high-renaissance",
+    "museum": "Gemäldegalerie Alte Meister",
+    "city": "Dresden",
+    "image": {
+      "src": "img/sistine-madonna.webp",
+      "width": 1178,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ARaphael_-_The_Sistine_Madonna_-_Google_Arts_%26_Culture.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-tempest": {
+    "id": "the-tempest",
+    "title": {
+      "en": "The Tempest",
+      "es": "La tempestad"
+    },
+    "artist": "Giorgione",
+    "year": 1508,
+    "movement": "venetian-renaissance",
+    "museum": "Gallerie dell'Accademia",
+    "city": "Venice",
+    "image": {
+      "src": "img/the-tempest.webp",
+      "width": 1443,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AAccademia_-_La_tempesta_-_Giorgione.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "venus-of-urbino": {
+    "id": "venus-of-urbino",
+    "title": {
+      "en": "Venus of Urbino",
+      "es": "La Venus de Urbino"
+    },
+    "artist": "Titian",
+    "year": 1538,
+    "movement": "venetian-renaissance",
+    "museum": "Galleria degli Uffizi",
+    "city": "Florence",
+    "image": {
+      "src": "img/venus-of-urbino.webp",
+      "width": 1600,
+      "height": 1125,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ATiziano_-_Venere_di_Urbino_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "bacchus-and-ariadne": {
+    "id": "bacchus-and-ariadne",
+    "title": {
+      "en": "Bacchus and Ariadne",
+      "es": "Baco y Ariadna"
+    },
+    "artist": "Titian",
+    "year": 1523,
+    "movement": "venetian-renaissance",
+    "museum": "The National Gallery",
+    "city": "London",
+    "image": {
+      "src": "img/bacchus-and-ariadne.webp",
+      "width": 1600,
+      "height": 1448,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ATitian_-_Bacchus_and_Ariadne_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "self-portrait-at-28": {
+    "id": "self-portrait-at-28",
+    "title": {
+      "en": "Self-Portrait at Twenty-Eight",
+      "es": "Autorretrato a los veintiocho años"
+    },
+    "artist": "Albrecht Dürer",
+    "year": 1500,
+    "movement": "northern-renaissance",
+    "museum": "Alte Pinakothek",
+    "city": "Munich",
+    "image": {
+      "src": "img/self-portrait-at-28.webp",
+      "width": 1157,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AAlbrecht_D%C3%BCrer_-_1500_self-portrait_(High_resolution_and_detail).jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "isenheim-altarpiece": {
+    "id": "isenheim-altarpiece",
+    "title": {
+      "en": "The Isenheim Altarpiece",
+      "es": "El retablo de Isenheim"
+    },
+    "artist": "Matthias Grünewald",
+    "year": 1515,
+    "movement": "northern-renaissance",
+    "museum": "Musée Unterlinden",
+    "city": "Colmar",
+    "image": {
+      "src": "img/isenheim-altarpiece.webp",
+      "width": 1600,
+      "height": 1145,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AMus%C3%A9e_Unterlinden_-_Matthias_Gr%C3%BCnewald_-_retable_d'Issenheim_-_Saint_S%C3%A9bastien%2C_Crucifixion%2C_Saint_Antoine_abb%C3%A9_%26_D%C3%A9position_(1512-1516)_(1).jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "hunters-in-the-snow": {
+    "id": "hunters-in-the-snow",
+    "title": {
+      "en": "The Hunters in the Snow",
+      "es": "Cazadores en la nieve"
+    },
+    "artist": "Pieter Bruegel the Elder",
+    "year": 1565,
+    "movement": "northern-renaissance",
+    "museum": "Kunsthistorisches Museum",
+    "city": "Vienna",
+    "image": {
+      "src": "img/hunters-in-the-snow.webp",
+      "width": 1600,
+      "height": 1139,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3APieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_(Winter)_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-tower-of-babel": {
+    "id": "the-tower-of-babel",
+    "title": {
+      "en": "The Tower of Babel",
+      "es": "La torre de Babel"
+    },
+    "artist": "Pieter Bruegel the Elder",
+    "year": 1563,
+    "movement": "northern-renaissance",
+    "museum": "Kunsthistorisches Museum",
+    "city": "Vienna",
+    "image": {
+      "src": "img/the-tower-of-babel.webp",
+      "width": 1600,
+      "height": 1171,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3APieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project_-_edited.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "madonna-with-the-long-neck": {
+    "id": "madonna-with-the-long-neck",
+    "title": {
+      "en": "Madonna with the Long Neck",
+      "es": "La Madona del cuello largo"
+    },
+    "artist": "Parmigianino",
+    "year": 1540,
+    "movement": "mannerism",
+    "museum": "Galleria degli Uffizi",
+    "city": "Florence",
+    "image": {
+      "src": "img/madonna-with-the-long-neck.webp",
+      "width": 1022,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AParmigianino_-_Madonna_dal_collo_lungo_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "venus-cupid-folly-and-time": {
+    "id": "venus-cupid-folly-and-time",
+    "title": {
+      "en": "Venus, Cupid, Folly and Time",
+      "es": "Venus, Cupido, la Locura y el Tiempo"
+    },
+    "artist": "Agnolo Bronzino",
+    "year": 1545,
+    "movement": "mannerism",
+    "museum": "The National Gallery",
+    "city": "London",
+    "image": {
+      "src": "img/venus-cupid-folly-and-time.webp",
+      "width": 1268,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AAngelo_Bronzino_-_Venus%2C_Cupid%2C_Folly_and_Time_-_National_Gallery%2C_London.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-burial-of-the-count-of-orgaz": {
+    "id": "the-burial-of-the-count-of-orgaz",
+    "title": {
+      "en": "The Burial of the Count of Orgaz",
+      "es": "El entierro del conde de Orgaz"
+    },
+    "artist": "El Greco",
+    "year": 1586,
+    "movement": "mannerism",
+    "museum": "Iglesia de Santo Tomé",
+    "city": "Toledo",
+    "image": {
+      "src": "img/the-burial-of-the-count-of-orgaz.webp",
+      "width": 1306,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AEl_Greco_-_The_Burial_of_the_Count_of_Orgaz.JPG",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "view-of-toledo": {
+    "id": "view-of-toledo",
+    "title": {
+      "en": "View of Toledo",
+      "es": "Vista de Toledo"
+    },
+    "artist": "El Greco",
+    "year": 1600,
+    "movement": "mannerism",
+    "museum": "The Metropolitan Museum of Art",
+    "city": "New York",
+    "image": {
+      "src": "img/view-of-toledo.webp",
+      "width": 1418,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AEl_Greco_View_of_Toledo.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-calling-of-saint-matthew": {
+    "id": "the-calling-of-saint-matthew",
+    "title": {
+      "en": "The Calling of Saint Matthew",
+      "es": "La vocación de san Mateo"
+    },
+    "artist": "Caravaggio",
+    "year": 1600,
+    "movement": "baroque",
+    "museum": "San Luigi dei Francesi",
+    "city": "Rome",
+    "image": {
+      "src": "img/the-calling-of-saint-matthew.webp",
+      "width": 1600,
+      "height": 1515,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AMichelangelo_Caravaggio_040.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "judith-beheading-holofernes-caravaggio": {
+    "id": "judith-beheading-holofernes-caravaggio",
+    "title": {
+      "en": "Judith Beheading Holofernes",
+      "es": "Judit decapitando a Holofernes"
+    },
+    "artist": "Caravaggio",
+    "year": 1599,
+    "movement": "baroque",
+    "museum": "Palazzo Barberini",
+    "city": "Rome",
+    "image": {
+      "src": "img/judith-beheading-holofernes-caravaggio.webp",
+      "width": 1600,
+      "height": 1351,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AMichelangelo_Merisi_da_Caravaggio_(1571-1610)%2C_Judith_i_Holofernes_(1598)_Museu_Nacional_d'Art_Antic_(Palau_Barberini)%2C_Roma.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "judith-slaying-holofernes": {
+    "id": "judith-slaying-holofernes",
+    "title": {
+      "en": "Judith Slaying Holofernes",
+      "es": "Judit decapitando a Holofernes (Gentileschi)"
+    },
+    "artist": "Artemisia Gentileschi",
+    "year": 1620,
+    "movement": "baroque",
+    "museum": "Galleria degli Uffizi",
+    "city": "Florence",
+    "image": {
+      "src": "img/judith-slaying-holofernes.webp",
+      "width": 1301,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AArtemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project-Adjust.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "descent-from-the-cross-rubens": {
+    "id": "descent-from-the-cross-rubens",
+    "title": {
+      "en": "The Descent from the Cross",
+      "es": "El descendimiento (Rubens)"
+    },
+    "artist": "Peter Paul Rubens",
+    "year": 1614,
+    "movement": "baroque",
+    "museum": "Cathedral of Our Lady",
+    "city": "Antwerp",
+    "image": {
+      "src": "img/descent-from-the-cross-rubens.webp",
+      "width": 1177,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3APeter_Paul_Rubens_-_The_Descent_from_the_Cross_(Antwerp_Cathedral).%2C_c._1613.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-surrender-of-breda": {
+    "id": "the-surrender-of-breda",
+    "title": {
+      "en": "The Surrender of Breda",
+      "es": "La rendición de Breda"
+    },
+    "artist": "Diego Velázquez",
+    "year": 1635,
+    "movement": "baroque",
+    "museum": "Museo del Prado",
+    "city": "Madrid",
+    "image": {
+      "src": "img/the-surrender-of-breda.webp",
+      "width": 1600,
+      "height": 1317,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AVel%C3%A1zquez_-_de_Breda_o_Las_Lanzas_(Museo_del_Prado%2C_1634-35)FXD.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-rokeby-venus": {
+    "id": "the-rokeby-venus",
+    "title": {
+      "en": "The Rokeby Venus",
+      "es": "La Venus del espejo"
+    },
+    "artist": "Diego Velázquez",
+    "year": 1650,
+    "movement": "baroque",
+    "museum": "The National Gallery",
+    "city": "London",
+    "image": {
+      "src": "img/the-rokeby-venus.webp",
+      "width": 1600,
+      "height": 1098,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ADiego_Vel%C3%A1zquez_-_Rokeby_Venus.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "et-in-arcadia-ego": {
+    "id": "et-in-arcadia-ego",
+    "title": {
+      "en": "Et in Arcadia Ego",
+      "es": "Los pastores de la Arcadia"
+    },
+    "artist": "Nicolas Poussin",
+    "year": 1638,
+    "movement": "baroque",
+    "museum": "Musée du Louvre",
+    "city": "Paris",
+    "image": {
+      "src": "img/et-in-arcadia-ego.webp",
+      "width": 1600,
+      "height": 1140,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ANicolas_Poussin_-_Et_in_Arcadia_ego_(deuxi%C3%A8me_version).jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "magdalene-with-the-smoking-flame": {
+    "id": "magdalene-with-the-smoking-flame",
+    "title": {
+      "en": "Magdalene with the Smoking Flame",
+      "es": "Magdalena de la llama humeante"
+    },
+    "artist": "Georges de La Tour",
+    "year": 1640,
+    "movement": "baroque",
+    "museum": "Los Angeles County Museum of Art",
+    "city": "Los Angeles",
+    "image": {
+      "src": "img/magdalene-with-the-smoking-flame.webp",
+      "width": 1255,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AGeorges_de_La_Tour_-_The_Magdalen_with_the_Smoking_Flame_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "agnus-dei": {
+    "id": "agnus-dei",
+    "title": {
+      "en": "Agnus Dei",
+      "es": "Agnus Dei"
+    },
+    "artist": "Francisco de Zurbarán",
+    "year": 1640,
+    "movement": "baroque",
+    "museum": "Museo del Prado",
+    "city": "Madrid",
+    "image": {
+      "src": "img/agnus-dei.webp",
+      "width": 1600,
+      "height": 956,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AAgnus_Dei_Zurbar%C3%A1n.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-milkmaid": {
+    "id": "the-milkmaid",
+    "title": {
+      "en": "The Milkmaid",
+      "es": "La lechera"
+    },
+    "artist": "Johannes Vermeer",
+    "year": 1658,
+    "movement": "dutch-golden-age",
+    "museum": "Rijksmuseum",
+    "city": "Amsterdam",
+    "image": {
+      "src": "img/the-milkmaid.webp",
+      "width": 1427,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AJohannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "view-of-delft": {
+    "id": "view-of-delft",
+    "title": {
+      "en": "View of Delft",
+      "es": "Vista de Delft"
+    },
+    "artist": "Johannes Vermeer",
+    "year": 1661,
+    "movement": "dutch-golden-age",
+    "museum": "Mauritshuis",
+    "city": "The Hague",
+    "image": {
+      "src": "img/view-of-delft.webp",
+      "width": 1600,
+      "height": 1328,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AView_of_Delft%2C_by_Johannes_Vermeer.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-art-of-painting": {
+    "id": "the-art-of-painting",
+    "title": {
+      "en": "The Art of Painting",
+      "es": "El arte de la pintura"
+    },
+    "artist": "Johannes Vermeer",
+    "year": 1668,
+    "movement": "dutch-golden-age",
+    "museum": "Kunsthistorisches Museum",
+    "city": "Vienna",
+    "image": {
+      "src": "img/the-art-of-painting.webp",
+      "width": 1347,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AJan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-anatomy-lesson": {
+    "id": "the-anatomy-lesson",
+    "title": {
+      "en": "The Anatomy Lesson of Dr Nicolaes Tulp",
+      "es": "La lección de anatomía del doctor Nicolaes Tulp"
+    },
+    "artist": "Rembrandt van Rijn",
+    "year": 1632,
+    "movement": "dutch-golden-age",
+    "museum": "Mauritshuis",
+    "city": "The Hague",
+    "image": {
+      "src": "img/the-anatomy-lesson.webp",
+      "width": 1600,
+      "height": 1271,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ADen_Haag_-_Mauritshuis_-_Rembrandt_Harmensz._van_Rijn_(1606-1669)_-_The_Anatomy_Lesson_of_Dr._Nicolaes_Tulp_1632.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-return-of-the-prodigal-son": {
+    "id": "the-return-of-the-prodigal-son",
+    "title": {
+      "en": "The Return of the Prodigal Son",
+      "es": "El regreso del hijo pródigo"
+    },
+    "artist": "Rembrandt van Rijn",
+    "year": 1668,
+    "movement": "dutch-golden-age",
+    "museum": "Hermitage Museum",
+    "city": "Saint Petersburg",
+    "image": {
+      "src": "img/the-return-of-the-prodigal-son.webp",
+      "width": 1226,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ARembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-laughing-cavalier": {
+    "id": "the-laughing-cavalier",
+    "title": {
+      "en": "The Laughing Cavalier",
+      "es": "El caballero sonriente"
+    },
+    "artist": "Frans Hals",
+    "year": 1624,
+    "movement": "dutch-golden-age",
+    "museum": "The Wallace Collection",
+    "city": "London",
+    "image": {
+      "src": "img/the-laughing-cavalier.webp",
+      "width": 1310,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AFrans_Hals_%E2%80%93_The_Laughing_Cavalier.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-goldfinch": {
+    "id": "the-goldfinch",
+    "title": {
+      "en": "The Goldfinch",
+      "es": "El jilguero"
+    },
+    "artist": "Carel Fabritius",
+    "year": 1654,
+    "movement": "dutch-golden-age",
+    "museum": "Mauritshuis",
+    "city": "The Hague",
+    "image": {
+      "src": "img/the-goldfinch.webp",
+      "width": 1048,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ACarel_Fabritius_-_The_Goldfinch_-_605_-_Mauritshuis.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-swing": {
+    "id": "the-swing",
+    "title": {
+      "en": "The Swing",
+      "es": "El columpio"
+    },
+    "artist": "Jean-Honoré Fragonard",
+    "year": 1767,
+    "movement": "rococo",
+    "museum": "The Wallace Collection",
+    "city": "London",
+    "image": {
+      "src": "img/the-swing.webp",
+      "width": 1327,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AFragonard%2C_The_Swing%2C_Wallace_Collection.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "pilgrimage-to-cythera": {
+    "id": "pilgrimage-to-cythera",
+    "title": {
+      "en": "Pilgrimage to Cythera",
+      "es": "Peregrinación a la isla de Citera"
+    },
+    "artist": "Antoine Watteau",
+    "year": 1717,
+    "movement": "rococo",
+    "museum": "Musée du Louvre",
+    "city": "Paris",
+    "image": {
+      "src": "img/pilgrimage-to-cythera.webp",
+      "width": 1600,
+      "height": 1049,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AL'Embarquement_pour_Cyth%C3%A8re%2C_by_Antoine_Watteau%2C_from_C2RMF_retouched.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "mr-and-mrs-andrews": {
+    "id": "mr-and-mrs-andrews",
+    "title": {
+      "en": "Mr and Mrs Andrews",
+      "es": "El matrimonio Andrews"
+    },
+    "artist": "Thomas Gainsborough",
+    "year": 1750,
+    "movement": "rococo",
+    "museum": "The National Gallery",
+    "city": "London",
+    "image": {
+      "src": "img/mr-and-mrs-andrews.webp",
+      "width": 1600,
+      "height": 927,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AThomas_Gainsborough_-_Mr_and_Mrs_Andrews.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-oath-of-the-horatii": {
+    "id": "the-oath-of-the-horatii",
+    "title": {
+      "en": "The Oath of the Horatii",
+      "es": "El juramento de los Horacios"
+    },
+    "artist": "Jacques-Louis David",
+    "year": 1784,
+    "movement": "neoclassicism",
+    "museum": "Musée du Louvre",
+    "city": "Paris",
+    "image": {
+      "src": "img/the-oath-of-the-horatii.webp",
+      "width": 1600,
+      "height": 1248,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AJacques-Louis_David_-_Oath_of_the_Horatii_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-death-of-marat": {
+    "id": "the-death-of-marat",
+    "title": {
+      "en": "The Death of Marat",
+      "es": "La muerte de Marat"
+    },
+    "artist": "Jacques-Louis David",
+    "year": 1793,
+    "movement": "neoclassicism",
+    "museum": "Royal Museums of Fine Arts of Belgium",
+    "city": "Brussels",
+    "image": {
+      "src": "img/the-death-of-marat.webp",
+      "width": 1244,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AJacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "napoleon-crossing-the-alps": {
+    "id": "napoleon-crossing-the-alps",
+    "title": {
+      "en": "Napoleon Crossing the Alps",
+      "es": "Napoleón cruzando los Alpes"
+    },
+    "artist": "Jacques-Louis David",
+    "year": 1801,
+    "movement": "neoclassicism",
+    "museum": "Château de Malmaison",
+    "city": "Rueil-Malmaison",
+    "image": {
+      "src": "img/napoleon-crossing-the-alps.webp",
+      "width": 1339,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ANapoleon_at_the_Great_St._Bernard_-_Jacques-Louis_David_-_Google_Cultural_Institute.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "la-grande-odalisque": {
+    "id": "la-grande-odalisque",
+    "title": {
+      "en": "La Grande Odalisque",
+      "es": "La gran odalisca"
+    },
+    "artist": "Jean-Auguste-Dominique Ingres",
+    "year": 1814,
+    "movement": "neoclassicism",
+    "museum": "Musée du Louvre",
+    "city": "Paris",
+    "image": {
+      "src": "img/la-grande-odalisque.webp",
+      "width": 1600,
+      "height": 1073,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ALa_Grande_Odalisque_-_Jean-Auguste-Dominique_Ingres_-_Mus%C3%A9e_du_Louvre_Peintures_RF_1158_-_avec_cadre.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-third-of-may-1808": {
+    "id": "the-third-of-may-1808",
+    "title": {
+      "en": "The Third of May 1808",
+      "es": "El tres de mayo de 1808"
+    },
+    "artist": "Francisco de Goya",
+    "year": 1814,
+    "movement": "romanticism",
+    "museum": "Museo del Prado",
+    "city": "Madrid",
+    "image": {
+      "src": "img/the-third-of-may-1808.webp",
+      "width": 1600,
+      "height": 1234,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AEl_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_in_Google_Earth.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "saturn-devouring-his-son": {
+    "id": "saturn-devouring-his-son",
+    "title": {
+      "en": "Saturn Devouring His Son",
+      "es": "Saturno devorando a su hijo"
+    },
+    "artist": "Francisco de Goya",
+    "year": 1823,
+    "movement": "romanticism",
+    "museum": "Museo del Prado",
+    "city": "Madrid",
+    "image": {
+      "src": "img/saturn-devouring-his-son.webp",
+      "width": 871,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AFrancisco_de_Goya%2C_Saturno_devorando_a_su_hijo_(1819-1823).jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-raft-of-the-medusa": {
+    "id": "the-raft-of-the-medusa",
+    "title": {
+      "en": "The Raft of the Medusa",
+      "es": "La balsa de la Medusa"
+    },
+    "artist": "Théodore Géricault",
+    "year": 1819,
+    "movement": "romanticism",
+    "museum": "Musée du Louvre",
+    "city": "Paris",
+    "image": {
+      "src": "img/the-raft-of-the-medusa.webp",
+      "width": 1600,
+      "height": 1092,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AJEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre%2C_1818-19).jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-hay-wain": {
+    "id": "the-hay-wain",
+    "title": {
+      "en": "The Hay Wain",
+      "es": "El carro de heno"
+    },
+    "artist": "John Constable",
+    "year": 1821,
+    "movement": "romanticism",
+    "museum": "The National Gallery",
+    "city": "London",
+    "image": {
+      "src": "img/the-hay-wain.webp",
+      "width": 1600,
+      "height": 1103,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AJohn-constable-the-hay-wain.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-fighting-temeraire": {
+    "id": "the-fighting-temeraire",
+    "title": {
+      "en": "The Fighting Temeraire",
+      "es": "El temerario remolcado a dique seco"
+    },
+    "artist": "J. M. W. Turner",
+    "year": 1839,
+    "movement": "romanticism",
+    "museum": "The National Gallery",
+    "city": "London",
+    "image": {
+      "src": "img/the-fighting-temeraire.webp",
+      "width": 1600,
+      "height": 1189,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AThe_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "rain-steam-and-speed": {
+    "id": "rain-steam-and-speed",
+    "title": {
+      "en": "Rain, Steam and Speed",
+      "es": "Lluvia, vapor y velocidad"
+    },
+    "artist": "J. M. W. Turner",
+    "year": 1844,
+    "movement": "romanticism",
+    "museum": "The National Gallery",
+    "city": "London",
+    "image": {
+      "src": "img/rain-steam-and-speed.webp",
+      "width": 1600,
+      "height": 1195,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ATurner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "ophelia": {
+    "id": "ophelia",
+    "title": {
+      "en": "Ophelia",
+      "es": "Ofelia"
+    },
+    "artist": "John Everett Millais",
+    "year": 1852,
+    "movement": "pre-raphaelite",
+    "museum": "Tate Britain",
+    "city": "London",
+    "image": {
+      "src": "img/ophelia.webp",
+      "width": 1600,
+      "height": 1164,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AMillais_-_Ophelia.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-lady-of-shalott": {
+    "id": "the-lady-of-shalott",
+    "title": {
+      "en": "The Lady of Shalott",
+      "es": "La dama de Shalott"
+    },
+    "artist": "John William Waterhouse",
+    "year": 1888,
+    "movement": "pre-raphaelite",
+    "museum": "Tate Britain",
+    "city": "London",
+    "image": {
+      "src": "img/the-lady-of-shalott.webp",
+      "width": 1600,
+      "height": 1228,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AJohn_William_Waterhouse_-_The_Lady_of_Shalott_-_Google_Art_Project_edit.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-gleaners": {
+    "id": "the-gleaners",
+    "title": {
+      "en": "The Gleaners",
+      "es": "Las espigadoras"
+    },
+    "artist": "Jean-François Millet",
+    "year": 1857,
+    "movement": "realism",
+    "museum": "Musée d'Orsay",
+    "city": "Paris",
+    "image": {
+      "src": "img/the-gleaners.webp",
+      "width": 1600,
+      "height": 1198,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AJean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-angelus": {
+    "id": "the-angelus",
+    "title": {
+      "en": "The Angelus",
+      "es": "El Ángelus"
+    },
+    "artist": "Jean-François Millet",
+    "year": 1859,
+    "movement": "realism",
+    "museum": "Musée d'Orsay",
+    "city": "Paris",
+    "image": {
+      "src": "img/the-angelus.webp",
+      "width": 1600,
+      "height": 1330,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AJean-Fran%C3%A7ois_Millet_-_The_Angelus_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "a-burial-at-ornans": {
+    "id": "a-burial-at-ornans",
+    "title": {
+      "en": "A Burial at Ornans",
+      "es": "Un entierro en Ornans"
+    },
+    "artist": "Gustave Courbet",
+    "year": 1850,
+    "movement": "realism",
+    "museum": "Musée d'Orsay",
+    "city": "Paris",
+    "image": {
+      "src": "img/a-burial-at-ornans.webp",
+      "width": 1600,
+      "height": 735,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AGustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "barge-haulers-on-the-volga": {
+    "id": "barge-haulers-on-the-volga",
+    "title": {
+      "en": "Barge Haulers on the Volga",
+      "es": "Los sirgadores del Volga"
+    },
+    "artist": "Ilya Repin",
+    "year": 1873,
+    "movement": "realism",
+    "museum": "State Russian Museum",
+    "city": "Saint Petersburg",
+    "image": {
+      "src": "img/barge-haulers-on-the-volga.webp",
+      "width": 1600,
+      "height": 749,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AIlya_Repin_-_Barge_Haulers_on_the_Volga_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "whistlers-mother": {
+    "id": "whistlers-mother",
+    "title": {
+      "en": "Arrangement in Grey and Black No. 1",
+      "es": "La madre de Whistler"
+    },
+    "artist": "James McNeill Whistler",
+    "year": 1871,
+    "movement": "realism",
+    "museum": "Musée d'Orsay",
+    "city": "Paris",
+    "image": {
+      "src": "img/whistlers-mother.webp",
+      "width": 1600,
+      "height": 1424,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AWhistlers_Mother_high_res.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "le-dejeuner-sur-lherbe": {
+    "id": "le-dejeuner-sur-lherbe",
+    "title": {
+      "en": "Le Déjeuner sur l'herbe",
+      "es": "Almuerzo sobre la hierba"
+    },
+    "artist": "Édouard Manet",
+    "year": 1863,
+    "movement": "realism",
+    "museum": "Musée d'Orsay",
+    "city": "Paris",
+    "image": {
+      "src": "img/le-dejeuner-sur-lherbe.webp",
+      "width": 1600,
+      "height": 1243,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AEdouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "a-bar-at-the-folies-bergere": {
+    "id": "a-bar-at-the-folies-bergere",
+    "title": {
+      "en": "A Bar at the Folies-Bergère",
+      "es": "Un bar del Folies-Bergère"
+    },
+    "artist": "Édouard Manet",
+    "year": 1882,
+    "movement": "realism",
+    "museum": "The Courtauld Gallery",
+    "city": "London",
+    "image": {
+      "src": "img/a-bar-at-the-folies-bergere.webp",
+      "width": 1600,
+      "height": 1175,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3A%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_(1882).jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "madame-x": {
+    "id": "madame-x",
+    "title": {
+      "en": "Madame X",
+      "es": "Madame X"
+    },
+    "artist": "John Singer Sargent",
+    "year": 1884,
+    "movement": "realism",
+    "museum": "The Metropolitan Museum of Art",
+    "city": "New York",
+    "image": {
+      "src": "img/madame-x.webp",
+      "width": 846,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AJohn_Singer_Sargent_(American%2C_Florence_1856%E2%80%931925_London)_-_Madame_X_(Madame_Pierre_Gautreau)_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "impression-sunrise": {
+    "id": "impression-sunrise",
+    "title": {
+      "en": "Impression, Sunrise",
+      "es": "Impresión, sol naciente"
+    },
+    "artist": "Claude Monet",
+    "year": 1872,
+    "movement": "impressionism",
+    "museum": "Musée Marmottan Monet",
+    "city": "Paris",
+    "image": {
+      "src": "img/impression-sunrise.webp",
+      "width": 1600,
+      "height": 1241,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AMonet_-_Impression%2C_Sunrise.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "woman-with-a-parasol": {
+    "id": "woman-with-a-parasol",
+    "title": {
+      "en": "Woman with a Parasol",
+      "es": "Mujer con sombrilla"
+    },
+    "artist": "Claude Monet",
+    "year": 1875,
+    "movement": "impressionism",
+    "museum": "National Gallery of Art",
+    "city": "Washington",
+    "image": {
+      "src": "img/woman-with-a-parasol.webp",
+      "width": 1288,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AClaude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "bal-du-moulin-de-la-galette": {
+    "id": "bal-du-moulin-de-la-galette",
+    "title": {
+      "en": "Bal du moulin de la Galette",
+      "es": "Baile en el Moulin de la Galette"
+    },
+    "artist": "Pierre-Auguste Renoir",
+    "year": 1876,
+    "movement": "impressionism",
+    "museum": "Musée d'Orsay",
+    "city": "Paris",
+    "image": {
+      "src": "img/bal-du-moulin-de-la-galette.webp",
+      "width": 1600,
+      "height": 1189,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AAuguste_Renoir_-_Dance_at_Le_Moulin_de_la_Galette_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "luncheon-of-the-boating-party": {
+    "id": "luncheon-of-the-boating-party",
+    "title": {
+      "en": "Luncheon of the Boating Party",
+      "es": "El almuerzo de los remeros"
+    },
+    "artist": "Pierre-Auguste Renoir",
+    "year": 1881,
+    "movement": "impressionism",
+    "museum": "The Phillips Collection",
+    "city": "Washington",
+    "image": {
+      "src": "img/luncheon-of-the-boating-party.webp",
+      "width": 1600,
+      "height": 1185,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3APierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-dance-class": {
+    "id": "the-dance-class",
+    "title": {
+      "en": "The Dance Class",
+      "es": "La clase de danza"
+    },
+    "artist": "Edgar Degas",
+    "year": 1874,
+    "movement": "impressionism",
+    "museum": "Musée d'Orsay",
+    "city": "Paris",
+    "image": {
+      "src": "img/the-dance-class.webp",
+      "width": 1394,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AEdgar_Degas_-_The_Ballet_Class_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "paris-street-rainy-day": {
+    "id": "paris-street-rainy-day",
+    "title": {
+      "en": "Paris Street; Rainy Day",
+      "es": "Calle de París, día lluvioso"
+    },
+    "artist": "Gustave Caillebotte",
+    "year": 1877,
+    "movement": "impressionism",
+    "museum": "Art Institute of Chicago",
+    "city": "Chicago",
+    "image": {
+      "src": "img/paris-street-rainy-day.webp",
+      "width": 1600,
+      "height": 1212,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AGustave_Caillebotte_-_Paris_Street%3B_Rainy_Day_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-cradle": {
+    "id": "the-cradle",
+    "title": {
+      "en": "The Cradle",
+      "es": "La cuna"
+    },
+    "artist": "Berthe Morisot",
+    "year": 1872,
+    "movement": "impressionism",
+    "museum": "Musée d'Orsay",
+    "city": "Paris",
+    "image": {
+      "src": "img/the-cradle.webp",
+      "width": 1313,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ABerthe_Morisot_-_The_Cradle_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "walk-on-the-beach": {
+    "id": "walk-on-the-beach",
+    "title": {
+      "en": "Walk on the Beach",
+      "es": "Paseo a orillas del mar"
+    },
+    "artist": "Joaquín Sorolla",
+    "year": 1909,
+    "movement": "luminism",
+    "museum": "Museo Sorolla",
+    "city": "Madrid",
+    "image": {
+      "src": "img/walk-on-the-beach.webp",
+      "width": 1580,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AJoaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-starry-night": {
+    "id": "the-starry-night",
+    "title": {
+      "en": "The Starry Night",
+      "es": "La noche estrellada"
+    },
+    "artist": "Vincent van Gogh",
+    "year": 1889,
+    "movement": "post-impressionism",
+    "museum": "Museum of Modern Art",
+    "city": "New York",
+    "image": {
+      "src": "img/the-starry-night.webp",
+      "width": 1600,
+      "height": 1267,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AVan_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "sunflowers": {
+    "id": "sunflowers",
+    "title": {
+      "en": "Sunflowers",
+      "es": "Los girasoles"
+    },
+    "artist": "Vincent van Gogh",
+    "year": 1888,
+    "movement": "post-impressionism",
+    "museum": "The National Gallery",
+    "city": "London",
+    "image": {
+      "src": "img/sunflowers.webp",
+      "width": 1259,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AVincent_van_Gogh_-_Sunflowers_(1888%2C_National_Gallery_London).jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-bedroom": {
+    "id": "the-bedroom",
+    "title": {
+      "en": "The Bedroom",
+      "es": "El dormitorio en Arlés"
+    },
+    "artist": "Vincent van Gogh",
+    "year": 1888,
+    "movement": "post-impressionism",
+    "museum": "Van Gogh Museum",
+    "city": "Amsterdam",
+    "image": {
+      "src": "img/the-bedroom.webp",
+      "width": 1600,
+      "height": 1270,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AVincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "cafe-terrace-at-night": {
+    "id": "cafe-terrace-at-night",
+    "title": {
+      "en": "Café Terrace at Night",
+      "es": "Terraza de café por la noche"
+    },
+    "artist": "Vincent van Gogh",
+    "year": 1888,
+    "movement": "post-impressionism",
+    "museum": "Kröller-Müller Museum",
+    "city": "Otterlo",
+    "image": {
+      "src": "img/cafe-terrace-at-night.webp",
+      "width": 1298,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AVincent_van_Gogh%2C_Caf%C3%A9_Terrace_at_Night%2C_1888._Painting_inside_the_Kroller_Muller_Museum_-_panoramio.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-card-players": {
+    "id": "the-card-players",
+    "title": {
+      "en": "The Card Players",
+      "es": "Los jugadores de cartas"
+    },
+    "artist": "Paul Cézanne",
+    "year": 1892,
+    "movement": "post-impressionism",
+    "museum": "Musée d'Orsay",
+    "city": "Paris",
+    "image": {
+      "src": "img/the-card-players.webp",
+      "width": 1600,
+      "height": 1313,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3ALes_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "mont-sainte-victoire": {
+    "id": "mont-sainte-victoire",
+    "title": {
+      "en": "Mont Sainte-Victoire",
+      "es": "La montaña Sainte-Victoire"
+    },
+    "artist": "Paul Cézanne",
+    "year": 1887,
+    "movement": "post-impressionism",
+    "museum": "The Courtauld Gallery",
+    "city": "London",
+    "image": {
+      "src": "img/mont-sainte-victoire.webp",
+      "width": 1600,
+      "height": 1181,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AMont_Sainte-Victoire_with_Large_Pine%2C_by_Paul_C%C3%A9zanne.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "where-do-we-come-from": {
+    "id": "where-do-we-come-from",
+    "title": {
+      "en": "Where Do We Come From? What Are We? Where Are We Going?",
+      "es": "¿De dónde venimos? ¿Qué somos? ¿A dónde vamos?"
+    },
+    "artist": "Paul Gauguin",
+    "year": 1897,
+    "movement": "post-impressionism",
+    "museum": "Museum of Fine Arts",
+    "city": "Boston",
+    "image": {
+      "src": "img/where-do-we-come-from.webp",
+      "width": 1600,
+      "height": 600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AGauguin_-_D'ou_venons-nous_Que_sommes-nous_Ou_allons-nous.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "sunday-on-la-grande-jatte": {
+    "id": "sunday-on-la-grande-jatte",
+    "title": {
+      "en": "A Sunday Afternoon on the Island of La Grande Jatte",
+      "es": "Tarde de domingo en la isla de la Grande Jatte"
+    },
+    "artist": "Georges Seurat",
+    "year": 1886,
+    "movement": "post-impressionism",
+    "museum": "Art Institute of Chicago",
+    "city": "Chicago",
+    "image": {
+      "src": "img/sunday-on-la-grande-jatte.webp",
+      "width": 1600,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AGeorges_Seurat_-_A_Sunday_on_La_Grande_Jatte_--_1884_-_Google_Art_Project-x1-y0.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "at-the-moulin-rouge": {
+    "id": "at-the-moulin-rouge",
+    "title": {
+      "en": "At the Moulin Rouge",
+      "es": "En el Moulin Rouge"
+    },
+    "artist": "Henri de Toulouse-Lautrec",
+    "year": 1895,
+    "movement": "post-impressionism",
+    "museum": "Art Institute of Chicago",
+    "city": "Chicago",
+    "image": {
+      "src": "img/at-the-moulin-rouge.webp",
+      "width": 1600,
+      "height": 1399,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AHenri_de_Toulouse-Lautrec_-_At_the_Moulin_Rouge_-_1928.610_-_Art_Institute_of_Chicago.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-sleeping-gypsy": {
+    "id": "the-sleeping-gypsy",
+    "title": {
+      "en": "The Sleeping Gypsy",
+      "es": "La gitana dormida"
+    },
+    "artist": "Henri Rousseau",
+    "year": 1897,
+    "movement": "naive-art",
+    "museum": "Museum of Modern Art",
+    "city": "New York",
+    "image": {
+      "src": "img/the-sleeping-gypsy.webp",
+      "width": 1600,
+      "height": 1040,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AHenri_Rousseau_-_La_Boh%C3%A9mienne_endormie_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-dream": {
+    "id": "the-dream",
+    "title": {
+      "en": "The Dream",
+      "es": "El sueño"
+    },
+    "artist": "Henri Rousseau",
+    "year": 1910,
+    "movement": "naive-art",
+    "museum": "Museum of Modern Art",
+    "city": "New York",
+    "image": {
+      "src": "img/the-dream.webp",
+      "width": 1600,
+      "height": 1089,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AHenri_Rousseau_-_Le_R%C3%AAve_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "isle-of-the-dead": {
+    "id": "isle-of-the-dead",
+    "title": {
+      "en": "Isle of the Dead",
+      "es": "La isla de los muertos"
+    },
+    "artist": "Arnold Böcklin",
+    "year": 1883,
+    "movement": "symbolism",
+    "museum": "Alte Nationalgalerie",
+    "city": "Berlin",
+    "image": {
+      "src": "img/isle-of-the-dead.webp",
+      "width": 1600,
+      "height": 853,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AArnold_B%C3%B6cklin_-_Die_Toteninsel_III_(Alte_Nationalgalerie%2C_Berlin).jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-scream": {
+    "id": "the-scream",
+    "title": {
+      "en": "The Scream",
+      "es": "El grito"
+    },
+    "artist": "Edvard Munch",
+    "year": 1893,
+    "movement": "expressionism",
+    "museum": "National Museum",
+    "city": "Oslo",
+    "image": {
+      "src": "img/the-scream.webp",
+      "width": 1289,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AEdvard_Munch_-_The_Scream_-_NG.M.00939_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "street-dresden": {
+    "id": "street-dresden",
+    "title": {
+      "en": "Street, Dresden",
+      "es": "Calle de Dresde"
+    },
+    "artist": "Ernst Ludwig Kirchner",
+    "year": 1908,
+    "movement": "expressionism",
+    "museum": "Museum of Modern Art",
+    "city": "New York",
+    "image": {
+      "src": "img/street-dresden.webp",
+      "width": 1182,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AKirchner_Berlin_Street_Scene_1913.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "blue-horse-i": {
+    "id": "blue-horse-i",
+    "title": {
+      "en": "Blue Horse I",
+      "es": "Caballo azul I"
+    },
+    "artist": "Franz Marc",
+    "year": 1911,
+    "movement": "expressionism",
+    "museum": "Lenbachhaus",
+    "city": "Munich",
+    "image": {
+      "src": "img/blue-horse-i.webp",
+      "width": 1199,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AMarc%2C_Franz_-_Blue_Horse_I_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "self-portrait-with-physalis": {
+    "id": "self-portrait-with-physalis",
+    "title": {
+      "en": "Self-Portrait with Physalis",
+      "es": "Autorretrato con physalis"
+    },
+    "artist": "Egon Schiele",
+    "year": 1912,
+    "movement": "expressionism",
+    "museum": "Leopold Museum",
+    "city": "Vienna",
+    "image": {
+      "src": "img/self-portrait-with-physalis.webp",
+      "width": 1600,
+      "height": 1296,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AEgon_Schiele_-_Self-Portrait_with_Physalis_-_Google_Art_Project.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "portrait-of-adele-bloch-bauer-i": {
+    "id": "portrait-of-adele-bloch-bauer-i",
+    "title": {
+      "en": "Portrait of Adele Bloch-Bauer I",
+      "es": "Retrato de Adele Bloch-Bauer I"
+    },
+    "artist": "Gustav Klimt",
+    "year": 1907,
+    "movement": "vienna-secession",
+    "museum": "Neue Galerie",
+    "city": "New York",
+    "image": {
+      "src": "img/portrait-of-adele-bloch-bauer-i.webp",
+      "width": 1600,
+      "height": 1599,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AGustav_Klimt%2C_1907%2C_Adele_Bloch-Bauer_I%2C_Neue_Galerie_New_York.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "composition-vii": {
+    "id": "composition-vii",
+    "title": {
+      "en": "Composition VII",
+      "es": "Composición VII"
+    },
+    "artist": "Wassily Kandinsky",
+    "year": 1913,
+    "movement": "early-abstraction",
+    "museum": "Tretyakov Gallery",
+    "city": "Moscow",
+    "image": {
+      "src": "img/composition-vii.webp",
+      "width": 1600,
+      "height": 1063,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AComposition_VII_-_Wassily_Kandinsky%2C_GAC.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "black-square": {
+    "id": "black-square",
+    "title": {
+      "en": "Black Square",
+      "es": "Cuadrado negro"
+    },
+    "artist": "Kazimir Malevich",
+    "year": 1915,
+    "movement": "early-abstraction",
+    "museum": "Tretyakov Gallery",
+    "city": "Moscow",
+    "image": {
+      "src": "img/black-square.webp",
+      "width": 1600,
+      "height": 1600,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AKazimir_Malevich%2C_1915%2C_Black_Suprematic_Square%2C_oil_on_linen_canvas%2C_79.5_x_79.5_cm%2C_Tretyakov_Gallery%2C_Moscow.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  },
+  "the-city-rises": {
+    "id": "the-city-rises",
+    "title": {
+      "en": "The City Rises",
+      "es": "La ciudad se levanta"
+    },
+    "artist": "Umberto Boccioni",
+    "year": 1910,
+    "movement": "futurism",
+    "museum": "Museum of Modern Art",
+    "city": "New York",
+    "image": {
+      "src": "img/the-city-rises.webp",
+      "width": 1600,
+      "height": 1062,
+      "source_url": "https://commons.wikimedia.org/wiki/File%3AThe_City_Rises_by_Umberto_Boccioni_1910.jpg",
+      "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+    }
+  }
+}

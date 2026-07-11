@@ -1,0 +1,64 @@
+{
+  "id": "the-dream",
+  "title": {
+    "en": "The Dream",
+    "es": "El sueño"
+  },
+  "artist": "Henri Rousseau",
+  "year": 1910,
+  "movement": "naive-art",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "204.5 x 298.5 cm",
+  "location": {
+    "museum": "Museum of Modern Art",
+    "city": "New York"
+  },
+  "image": {
+    "src": "img/the-dream.webp",
+    "width": 1600,
+    "height": 1089,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AHenri_Rousseau_-_Le_R%C3%AAve_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A naked woman reclines on a red velvet sofa, incongruously set deep in a moonlit jungle. Around her rise dense, dark leaves, lotus flowers and fruit, while lions peer out, birds perch, and a dark snake-charmer stands playing a pipe among the foliage. Hidden animal eyes watch from the green.",
+      "craft": "Rousseau layers dozens of shades of green into a wall of foliage, each leaf outlined and distinct, patient as botanical illustration. The jungle is flat and tapestry-like, with no real depth, yet teeming. Against all that darkness the pale nude and the red couch glow, and the whole vast canvas holds an eerie, even stillness.",
+      "painter": "This was the last major work Rousseau finished before his death in 1910, and the largest of his jungle scenes. He never left France; his jungles came from Paris botanical gardens, picture books and imagination. He wrote a short poem about the sleeping woman, Yadwigha, drawn by the snake-charmer's music into her dream.",
+      "point": "Rousseau fuses the everyday and the exotic, a Paris sofa lost in a dream jungle, and asks you simply to believe it. Painting becomes pure imagination, unbothered by realism or logic."
+    },
+    "es": {
+      "scene": "Una mujer desnuda se recuesta en un sofá de terciopelo rojo, incongruente en plena selva iluminada por la luna. A su alrededor se alzan hojas densas y oscuras, flores de loto y frutos, mientras unos leones asoman, se posan pájaros y un oscuro encantador de serpientes toca una flauta entre el follaje. Ojos ocultos vigilan desde el verde.",
+      "craft": "Rousseau superpone decenas de tonos de verde en un muro de follaje, con cada hoja perfilada y distinta, paciente como una lámina botánica. La selva es plana y parece un tapiz, sin profundidad real y, sin embargo, rebosante. Contra esa oscuridad, el desnudo pálido y el diván rojo resplandecen, y el vasto lienzo mantiene una quietud extraña y uniforme.",
+      "painter": "Fue la última obra que Rousseau terminó antes de su muerte en 1910 y la mayor de sus selvas. Nunca salió de Francia; sus junglas venían de los jardines botánicos de París, de los libros ilustrados y de la imaginación. Escribió un poema sobre la mujer dormida, Yadwigha, atraída hacia su sueño por la música del encantador de serpientes.",
+      "point": "Rousseau funde lo cotidiano y lo exótico, un sofá parisino perdido en una selva de ensueño, y te pide sencillamente que lo creas. La pintura se vuelve pura imaginación, ajena al realismo y a la lógica."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Painted the year he died, The Dream is Rousseau's last great jungle, yet he never saw a jungle; he built them from plants in the Paris botanical gardens and hothouses.",
+    "es": "Pintado el año de su muerte, El sueño es la última gran selva de Rousseau, aunque él nunca vio una selva; las construía a partir de las plantas de los jardines botánicos y los invernaderos de París."
+  },
+  "tags": [
+    "naive-art",
+    "jungle",
+    "20th century"
+  ],
+  "notables": [
+    {
+      "en": "A dark snake-charmer stands almost camouflaged among the leaves, playing the pipe that calls the dream into being.",
+      "es": "Un oscuro encantador de serpientes se yergue casi camuflado entre las hojas, tocando la flauta que hace nacer el sueño."
+    },
+    {
+      "en": "Lions, an elephant, birds and a snake hide in the foliage; the more you look, the more eyes appear.",
+      "es": "Leones, un elefante, pájaros y una serpiente se esconden en el follaje; cuanto más miras, más ojos aparecen."
+    },
+    {
+      "en": "Rousseau said the woman, Yadwigha, is dreaming, and the red sofa belongs to her Paris room, not the jungle.",
+      "es": "Rousseau dijo que la mujer, Yadwigha, está soñando, y que el sofá rojo pertenece a su habitación de París, no a la selva."
+    }
+  ]
+}

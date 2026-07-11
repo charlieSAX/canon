@@ -1,10 +1,16 @@
 {
   "id": "the-night-watch",
-  "title": "The Night Watch",
+  "title": {
+    "en": "The Night Watch",
+    "es": "La ronda de noche"
+  },
   "artist": "Rembrandt van Rijn",
   "year": 1642,
-  "movement": "Dutch Golden Age",
-  "medium": "Oil on canvas",
+  "movement": "dutch-golden-age",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
   "dimensions": "379.5 x 453.5 cm",
   "location": {
     "museum": "Rijksmuseum",
@@ -18,15 +24,41 @@
     "license_note": "Public domain. Faithful reproduction of a work by Rembrandt van Rijn (died 1669)."
   },
   "text": {
-    "scene": "An Amsterdam civic militia spills out of an archway: Captain Frans Banninck Cocq in black gives the order to march, his lieutenant in gold beside him, muskets loading and firing around them, a drummer starting up, and a small girl in luminous yellow, with a dead chicken at her belt, caught in the crush.",
-    "craft": "Group portraits of militias were usually rows of seated men. Rembrandt paid subjects be damned, throwing the company into motion and carving it with theatrical light, so the two officers and the strange girl blaze while everyone else negotiates the shadow. The painting is a story pretending to be a roll call.",
-    "painter": "The miller's son from Leiden who became Amsterdam's most sought-after portraitist, Rembrandt painted this at the height of his success, the year his wife Saskia died. Taste moved on; he spent extravagantly, went effectively bankrupt, and kept painting himself with ruthless honesty to the end. Legend says this painting ruined him; the record says otherwise."
+    "en": {
+      "scene": "An Amsterdam civic militia spills out of an archway: Captain Frans Banninck Cocq in black gives the order to march, his lieutenant in gold beside him, muskets loading and firing around them, a drummer starting up, and a small girl in luminous yellow, with a dead chicken at her belt, caught in the crush.",
+      "craft": "Group portraits of militias were usually rows of seated men. Rembrandt paid subjects be damned, throwing the company into motion and carving it with theatrical light, so the two officers and the strange girl blaze while everyone else negotiates the shadow. The painting is a story pretending to be a roll call.",
+      "painter": "The miller's son from Leiden who became Amsterdam's most sought-after portraitist, Rembrandt painted this at the height of his success, the year his wife Saskia died. Taste moved on; he spent extravagantly, went effectively bankrupt, and kept painting himself with ruthless honesty to the end. Legend says this painting ruined him; the record says otherwise.",
+      "point": "A group portrait becomes civic theatre: identity, hierarchy and action caught inside one invented instant."
+    },
+    "es": {
+      "scene": "Una milicia cívica de Ámsterdam sale en tropel de un arco. El capitán Frans Banninck Cocq, vestido de negro, ordena marchar junto a su teniente de dorado; alrededor cargan y disparan mosquetes, arranca el tambor y una niña luminosa, con un pollo muerto al cinturón, queda atrapada entre la multitud.",
+      "craft": "Los retratos de milicia solían mostrar filas de hombres sentados. Rembrandt ignoró esa norma y lanzó la compañía al movimiento, tallándola con luz teatral. Los dos oficiales y la extraña niña resplandecen mientras los demás negocian la sombra. El cuadro es una historia que se hace pasar por una lista de miembros.",
+      "painter": "Hijo de un molinero de Leiden, Rembrandt se convirtió en el retratista más solicitado de Ámsterdam y pintó esta obra en la cima de su éxito, el año en que murió su esposa Saskia. Después cambió el gusto, gastó demasiado y quebró, pero siguió retratándose con una honestidad implacable hasta el final.",
+      "point": "Un retrato colectivo se transforma en teatro cívico: identidad, jerarquía y acción capturadas en un instante inventado."
+    }
   },
-  "draft": true,
-  "fact": "In 1715 the canvas was simply cut down to fit a wall in the town hall; the two figures and the bridge rail lost from the left edge are known only from an early copy.",
+  "draft": false,
+  "fact": {
+    "en": "In 1715 the canvas was simply cut down to fit a wall in the town hall; the two figures and the bridge rail lost from the left edge are known only from an early copy.",
+    "es": "En 1715 el lienzo fue recortado para caber en una pared del ayuntamiento. Las dos figuras y parte del puente perdidos a la izquierda solo se conocen gracias a una copia anterior."
+  },
   "tags": [
-    "Dutch Golden Age",
+    "dutch-golden-age",
     "group portrait",
     "17th century"
+  ],
+  "notables": [
+    {
+      "en": "The captain's hand throws a shadow across the lieutenant's golden coat.",
+      "es": "La mano del capitán proyecta su sombra sobre la casaca dorada del teniente."
+    },
+    {
+      "en": "The girl carries a chicken whose claws echo the militia company's emblem.",
+      "es": "La niña lleva un pollo cuyas garras evocan el emblema de la compañía."
+    },
+    {
+      "en": "Despite its nickname, the scene takes place in daylight; dark varnish caused the mistake.",
+      "es": "Pese al apodo, la escena ocurre de día; un barniz oscurecido provocó el error."
+    }
   ]
 }

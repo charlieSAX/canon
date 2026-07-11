@@ -1,0 +1,64 @@
+{
+  "id": "blue-horse-i",
+  "title": {
+    "en": "Blue Horse I",
+    "es": "Caballo azul I"
+  },
+  "artist": "Franz Marc",
+  "year": 1911,
+  "movement": "expressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "112 x 84.5 cm",
+  "location": {
+    "museum": "Lenbachhaus",
+    "city": "Munich"
+  },
+  "image": {
+    "src": "img/blue-horse-i.webp",
+    "width": 1199,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMarc%2C_Franz_-_Blue_Horse_I_-_Google_Art_Project.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A single young horse fills the frame, its body a deep, luminous blue. It stands with head bowed and turned aside, mane curving down its neck. Behind it, rolling hills swell in bands of red, yellow and green, echoing the animal's rounded flanks so that horse and landscape rhyme.",
+      "craft": "Marc uses colour as a private language rather than description. Rounded, simplified forms and curving contours make horse and hills flow together. The blue is not naturalistic but symbolic, chosen to carry a mood of calm and spirit, while the warm hills push against it to keep the small canvas humming.",
+      "painter": "Marc believed animals were purer and more spiritual than people, and gave each colour a meaning: for him blue stood for the masculine and the spiritual. In 1911 he and Kandinsky founded Der Blaue Reiter in Munich. Five years later he was killed in action at Verdun, aged thirty-six.",
+      "point": "The painting treats an animal as a vessel of pure feeling, using colour to reach past appearances toward what Marc saw as the spiritual life of nature."
+    },
+    "es": {
+      "scene": "Un solo caballo joven llena el cuadro, con el cuerpo de un azul hondo y luminoso. Está de pie con la cabeza inclinada y vuelta a un lado, la crin cayendo por el cuello. Detrás, colinas onduladas se hinchan en franjas rojas, amarillas y verdes que repiten sus flancos redondeados.",
+      "craft": "Marc usa el color como lengua privada, no como descripción. Formas redondeadas y contornos curvos funden caballo y colinas. El azul no es naturalista sino simbólico, elegido para transmitir calma y espíritu, mientras las colinas cálidas lo empujan y mantienen vibrando el pequeño lienzo.",
+      "painter": "Marc creía que los animales eran más puros y espirituales que las personas, y dio a cada color un sentido: para él el azul era lo masculino y lo espiritual. En 1911 fundó con Kandinsky Der Blaue Reiter en Múnich. Cinco años después murió en combate en Verdún, a los treinta y seis.",
+      "point": "El cuadro trata al animal como recipiente de puro sentimiento y usa el color para ir más allá de las apariencias, hacia lo que Marc veía como la vida espiritual de la naturaleza."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "For Marc, colours carried fixed meanings: blue was the masculine and spiritual principle, yellow the feminine, red the brutal weight of matter, a private code behind his blue horses.",
+    "es": "Para Marc los colores tenían sentidos fijos: el azul era el principio masculino y espiritual, el amarillo el femenino y el rojo el peso brutal de la materia, un código tras sus caballos azules."
+  },
+  "tags": [
+    "expressionism",
+    "horse",
+    "20th century"
+  ],
+  "notables": [
+    {
+      "en": "The hills behind repeat the exact curve of the horse's back and haunches, binding creature and land into one shape.",
+      "es": "Las colinas del fondo repiten la curva exacta del lomo y las ancas del caballo, uniendo criatura y tierra en una sola forma."
+    },
+    {
+      "en": "The horse lowers and turns its head away, a gesture of gentleness rather than the power such animals usually signal.",
+      "es": "El caballo baja y aparta la cabeza, gesto de ternura más que del poder que estos animales suelen transmitir."
+    },
+    {
+      "en": "Nothing here is the colour it would be in life; every hue is chosen for feeling, not fact.",
+      "es": "Nada tiene aquí el color que tendría en la vida real; cada tono se elige por sentimiento, no por exactitud."
+    }
+  ]
+}

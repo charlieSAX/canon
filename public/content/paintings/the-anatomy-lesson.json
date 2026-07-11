@@ -1,0 +1,68 @@
+{
+  "id": "the-anatomy-lesson",
+  "title": {
+    "en": "The Anatomy Lesson of Dr Nicolaes Tulp",
+    "es": "La lección de anatomía del doctor Nicolaes Tulp"
+  },
+  "artist": "Rembrandt van Rijn",
+  "year": 1632,
+  "movement": "dutch-golden-age",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "169.5 x 216.5 cm",
+  "location": {
+    "museum": "Mauritshuis",
+    "city": "The Hague"
+  },
+  "image": {
+    "src": "img/the-anatomy-lesson.webp",
+    "width": 1600,
+    "height": 1271,
+    "source_url": "https://commons.wikimedia.org/wiki/File:Den_Haag_-_Mauritshuis_-_Rembrandt_Harmensz._van_Rijn_(1606-1669)_-_The_Anatomy_Lesson_of_Dr._Nicolaes_Tulp_1632.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A pale corpse lies on a table in a dark room. Dr Nicolaes Tulp, in a black hat, grips the muscles of the dead man's forearm with forceps, lifting them to demonstrate. Seven surgeons crowd around, leaning in, some watching the body, others the open book at its feet.",
+      "craft": "Rembrandt breaks with the stiff row of a group portrait and builds a pyramid of living faces, each caught at a different angle of attention. A single light picks out the corpse and the ring of heads against deep shadow. The eye is led up the dissected arm to Tulp's calm, explaining hand.",
+      "painter": "Rembrandt was only twenty five and newly arrived in Amsterdam when the surgeons' guild gave him this commission. It made his name. Each man paid to be included, so the picture had to be both a group portrait and a drama, and the young painter delivered a scene that still feels alive.",
+      "point": "It turns a routine guild portrait into a gripping study of men looking at death, and of the new science that dared to open the human body and explain it."
+    },
+    "es": {
+      "scene": "Un cadáver pálido yace sobre una mesa en una sala oscura. El doctor Nicolaes Tulp, con sombrero negro, sujeta con unas pinzas los músculos del antebrazo del difunto y los levanta para mostrarlos. Siete cirujanos se agolpan alrededor, inclinándose; unos miran el cuerpo, otros el libro abierto a sus pies.",
+      "craft": "Rembrandt rompe con la rígida hilera del retrato de grupo y construye una pirámide de rostros vivos, cada uno captado en un ángulo distinto de atención. Una sola luz recorta el cadáver y el corro de cabezas contra la sombra profunda. La mirada asciende por el brazo diseccionado hasta la mano serena y explicativa de Tulp.",
+      "painter": "Rembrandt tenía solo veinticinco años y acababa de llegar a Ámsterdam cuando el gremio de cirujanos le dio este encargo. Le dio fama. Cada hombre pagó por aparecer, así que el cuadro debía ser a la vez retrato de grupo y drama, y el joven pintor entregó una escena que aún parece viva.",
+      "point": "Convierte un rutinario retrato gremial en un absorbente estudio de hombres que contemplan la muerte, y de la nueva ciencia que se atrevió a abrir el cuerpo humano y explicarlo."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The dead man is Aris Kindt, a convicted robber hanged in Amsterdam on the very day of the lesson; public dissections were held only on the bodies of executed criminals.",
+    "es": "El muerto es Aris Kindt, un ladrón condenado y ahorcado en Ámsterdam el mismo día de la lección; las disecciones públicas solo se hacían con los cuerpos de criminales ejecutados."
+  },
+  "tags": [
+    "dutch-golden-age",
+    "group portrait",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "The muscles of the opened arm may be copied from an anatomy textbook rather than the corpse itself.",
+      "es": "Los músculos del brazo abierto quizá estén copiados de un tratado de anatomía y no del propio cadáver."
+    },
+    {
+      "en": "Rembrandt signed the painting near the top, one of the first times he used his first name alone.",
+      "es": "Rembrandt firmó el cuadro cerca del borde superior, una de las primeras veces que usó solo su nombre de pila."
+    },
+    {
+      "en": "The open book at the corpse's feet is a famous anatomy atlas, the surgeons' authority on the body.",
+      "es": "El libro abierto a los pies del cadáver es un famoso atlas de anatomía, la autoridad de los cirujanos sobre el cuerpo."
+    },
+    {
+      "en": "Tulp begins, unusually, with the forearm rather than the belly, showing off the tendons that move the hand.",
+      "es": "Tulp empieza, insólitamente, por el antebrazo y no por el vientre, luciendo los tendones que mueven la mano."
+    }
+  ]
+}

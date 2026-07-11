@@ -1,0 +1,68 @@
+{
+  "id": "descent-from-the-cross-rubens",
+  "title": {
+    "en": "The Descent from the Cross",
+    "es": "El descendimiento (Rubens)"
+  },
+  "artist": "Peter Paul Rubens",
+  "year": 1614,
+  "movement": "baroque",
+  "medium": {
+    "en": "Oil on panel",
+    "es": "Óleo sobre tabla"
+  },
+  "dimensions": "421 x 311 cm",
+  "location": {
+    "museum": "Cathedral of Our Lady",
+    "city": "Antwerp"
+  },
+  "image": {
+    "src": "img/descent-from-the-cross-rubens.webp",
+    "width": 1177,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APeter_Paul_Rubens_-_The_Descent_from_the_Cross_(Antwerp_Cathedral).%2C_c._1613.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "The dead body of Christ slides down a stark white shroud into a knot of mourners. Nine figures strain to catch him: John the Evangelist in red braces the weight from below, the fainting Virgin reaches up in blue, and Mary Magdalene, golden-haired, takes his bloodied feet against the twilight sky.",
+      "craft": "Rubens hangs the whole design on one long diagonal, the slack, luminous body of Christ, and drapes the brilliant white sheet behind it like a spotlight. Warm, glowing flesh and rich reds fill the Baroque design, learned in Italy. The interlocking hands and arms pass the heavy body carefully down towards us.",
+      "painter": "Rubens had just returned to Antwerp from eight years in Italy, steeped in Titian, Michelangelo and Caravaggio, and was quickly the leading painter of northern Europe. This altarpiece for the cathedral, commissioned by the guild of arquebusiers, sealed his fame. He ran a huge workshop and moved through courts as a diplomat too.",
+      "point": "The weight of a dead god. Rubens turns the taking down of Christ into a single, tender, physical act of lowering, where grief becomes the careful work of many straining hands."
+    },
+    "es": {
+      "scene": "El cuerpo muerto de Cristo se desliza por un sudario blanco y crudo hacia un grupo de dolientes. Nueve figuras se esfuerzan por sostenerlo: Juan Evangelista, de rojo, aguanta el peso desde abajo; la Virgen, desfallecida, alza los brazos de azul, y María Magdalena, de cabello dorado, recibe sus pies ensangrentados contra el cielo del crepúsculo.",
+      "craft": "Rubens cuelga todo el diseño de una larga diagonal, el cuerpo lacio y luminoso de Cristo, y despliega tras él la sábana blanca como un foco. La carne cálida y encendida y los rojos intensos llenan la composición barroca aprendida en Italia. Las manos y brazos entrelazados bajan con cuidado el cuerpo pesado hacia nosotros.",
+      "painter": "Rubens acababa de volver a Amberes tras ocho años en Italia, empapado de Tiziano, Miguel Ángel y Caravaggio, y pronto fue el primer pintor del norte de Europa. Este retablo para la catedral, encargado por el gremio de arcabuceros, selló su fama. Dirigía un enorme taller y también se movía entre las cortes como diplomático.",
+      "point": "El peso de un dios muerto. Rubens convierte el descendimiento de Cristo en un único acto físico y tierno de bajarlo, donde el dolor se vuelve la tarea cuidadosa de muchas manos en tensión."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The confraternity that commissioned it took Saint Christopher, whose name means Christ-bearer, as its patron; Rubens answered by making the whole triptych a meditation on carrying the body of Christ.",
+    "es": "La cofradía que lo encargó tomó por patrón a san Cristóbal, cuyo nombre significa portador de Cristo; Rubens respondió haciendo de todo el tríptico una meditación sobre cargar el cuerpo de Cristo."
+  },
+  "tags": [
+    "baroque",
+    "religious",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "The guild that paid for it worshipped Saint Christopher, the Christ-bearer, so every panel of the triptych shows someone carrying Christ.",
+      "es": "El gremio que lo pagó veneraba a san Cristóbal, el portador de Cristo, así que cada tabla del tríptico muestra a alguien cargando a Cristo."
+    },
+    {
+      "en": "A man at the top grips a corner of the shroud in his teeth, freeing both hands to bear the body's weight.",
+      "es": "Un hombre en lo alto sujeta con los dientes una esquina del sudario, liberando ambas manos para sostener el peso del cuerpo."
+    },
+    {
+      "en": "Mary Magdalene's fair head bends to Christ's feet, her shoulder taking his weight where she once wept over them.",
+      "es": "La cabeza rubia de María Magdalena se inclina hacia los pies de Cristo, cargando su peso donde antes lloró sobre ellos."
+    },
+    {
+      "en": "The bright white shroud is the true centre of the picture, a diagonal of light carrying the pale body.",
+      "es": "El sudario blanco y brillante es el verdadero centro del cuadro, una diagonal de luz que sostiene el cuerpo pálido."
+    }
+  ]
+}

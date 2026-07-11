@@ -1,0 +1,64 @@
+{
+  "id": "mont-sainte-victoire",
+  "title": {
+    "en": "Mont Sainte-Victoire",
+    "es": "La montaña Sainte-Victoire"
+  },
+  "artist": "Paul Cézanne",
+  "year": 1887,
+  "movement": "post-impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "66.8 x 92.3 cm",
+  "location": {
+    "museum": "The Courtauld Gallery",
+    "city": "London"
+  },
+  "image": {
+    "src": "img/mont-sainte-victoire.webp",
+    "width": 1600,
+    "height": 1181,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMont_Sainte-Victoire_with_Large_Pine%2C_by_Paul_C%C3%A9zanne.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A wide valley in Provence, seen from a rise. A single tall pine leans across the foreground, its branches framing the view like a curtain. Beyond lie patchwork fields, a scattering of houses, a slender viaduct, and at the far right the pale limestone mountain rises against a light, warm sky.",
+      "craft": "Cézanne builds depth without conventional perspective. Small, flat patches of green, ochre and blue, each a deliberate touch, knit foreground and distant mountain into one continuous woven surface. The pine's branches echo the mountain's slopes, tying near and far together, so the whole scene feels constructed rather than merely observed.",
+      "painter": "The limestone ridge of Mont Sainte-Victoire rose near Cézanne's home in Aix, and he returned to it for decades, painting and drawing it more than sixty times. It became his laboratory, the fixed motif against which he tested how to render solid form in pure colour. He never tired of it.",
+      "point": "Cézanne is not just recording a mountain but rebuilding it from colour and geometry. This patient search for the underlying structure of nature opened the door to Cubism and modern art."
+    },
+    "es": {
+      "scene": "Un amplio valle de la Provenza, visto desde una loma. Un pino alto se inclina sobre el primer plano y sus ramas enmarcan la vista como una cortina. Más allá se extienden campos de mosaico, unas casas dispersas, un viaducto esbelto y, al fondo a la derecha, la pálida montaña caliza se alza contra un cielo claro y cálido.",
+      "craft": "Cézanne construye la profundidad sin perspectiva convencional. Pequeñas manchas planas de verde, ocre y azul, cada una un toque deliberado, entretejen el primer plano y la montaña lejana en una superficie continua. Las ramas del pino repiten las laderas de la montaña y unen lo cercano con lo lejano, de modo que la escena parece construida más que observada.",
+      "painter": "La cresta caliza de la montaña Sainte-Victoire se alzaba cerca de la casa de Cézanne en Aix, y volvió a ella durante décadas, pintándola y dibujándola más de sesenta veces. Se convirtió en su laboratorio, el motivo fijo con el que ensayaba cómo plasmar la forma sólida en color puro. Nunca se cansó de ella.",
+      "point": "Cézanne no se limita a registrar una montaña, sino que la reconstruye a partir del color y la geometría. Esta búsqueda paciente de la estructura oculta de la naturaleza abrió la puerta al cubismo y al arte moderno."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Cézanne painted Mont Sainte-Victoire again and again over the last decades of his life, in oil and watercolour more than sixty times, chasing the same mountain until he died.",
+    "es": "Cézanne pintó la montaña Sainte-Victoire una y otra vez durante las últimas décadas de su vida, al óleo y a la acuarela más de sesenta veces, persiguiendo la misma montaña hasta su muerte."
+  },
+  "tags": [
+    "post-impressionism",
+    "landscape",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The large pine on the left is the key device; its branches repeat the line of the distant ridge and stitch the picture together.",
+      "es": "El gran pino de la izquierda es el recurso clave; sus ramas repiten la línea de la cresta lejana y cosen el cuadro entero."
+    },
+    {
+      "en": "A low railway viaduct crosses the valley, a small sign of the modern world in an ancient landscape.",
+      "es": "Un bajo viaducto de ferrocarril cruza el valle, una pequeña señal del mundo moderno en un paisaje antiguo."
+    },
+    {
+      "en": "There is no clear near-to-far recession; the far mountain is painted as firmly as the trees close at hand.",
+      "es": "No hay una clara recesión de lo cercano a lo lejano; la montaña del fondo está pintada con tanta firmeza como los árboles próximos."
+    }
+  ]
+}

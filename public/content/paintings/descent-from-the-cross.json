@@ -1,0 +1,64 @@
+{
+  "id": "descent-from-the-cross",
+  "title": {
+    "en": "The Descent from the Cross",
+    "es": "El descendimiento"
+  },
+  "artist": "Rogier van der Weyden",
+  "year": 1435,
+  "movement": "early-netherlandish",
+  "medium": {
+    "en": "Oil on panel",
+    "es": "Óleo sobre tabla"
+  },
+  "dimensions": "204.5 x 261.5 cm",
+  "location": {
+    "museum": "Museo del Prado",
+    "city": "Madrid"
+  },
+  "image": {
+    "src": "img/descent-from-the-cross.webp",
+    "width": 1600,
+    "height": 1241,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEl_Descendimiento%2C_by_Rogier_van_der_Weyden%2C_from_Prado_in_Google_Earth.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Ten near-life-size figures are packed into a shallow gold box, like a carved shrine come to life. Christ's pale body sags as Joseph of Arimathea and Nicodemus lower him. Below, the fainting Virgin collapses in an identical arc, echoing her son's curve. Around them, faces stream with painted tears.",
+      "craft": "Van der Weyden compresses everything into a shallow niche, so the figures read like painted sculpture pressed against gold. Working in fine oil glazes, he gives every tear, vein and brocade a hard, jewel-like finish. The masterstroke is rhyme: the dead Christ and the swooning Mary trace the same falling curve.",
+      "painter": "Painted around 1435 for the crossbowmen's guild of Leuven, this was a young Rogier van der Weyden's bid for greatness, and it worked: it made his international name. Trained under Robert Campin, he became the most influential painter in northern Europe, prized above all for raw, controlled emotion.",
+      "point": "It makes grief the whole subject: by matching the Virgin's collapse to Christ's dead body, it says the mother suffers a death alongside her son."
+    },
+    "es": {
+      "scene": "Diez figuras casi de tamaño natural se apiñan en una hornacina dorada y poco profunda, como un retablo tallado que cobra vida. El cuerpo pálido de Cristo se desploma mientras José de Arimatea y Nicodemo lo bajan. Abajo, la Virgen se desmaya en un arco idéntico, que repite la curva de su hijo. Alrededor, los rostros bañados en lágrimas.",
+      "craft": "Van der Weyden lo comprime todo en una hornacina poco profunda, de modo que las figuras parecen escultura pintada apretada contra el oro. Con finas veladuras al óleo, da a cada lágrima, vena y brocado un acabado duro, de joya. El golpe maestro es la rima: Cristo muerto y María desmayada trazan la misma curva.",
+      "painter": "Pintada hacia 1435 para el gremio de ballesteros de Lovaina, fue la apuesta por la gloria de un joven Rogier van der Weyden, y funcionó: le dio nombre internacional. Formado con Robert Campin, llegó a ser el pintor más influyente del norte de Europa, admirado sobre todo por la emoción cruda y contenida.",
+      "point": "Hace del dolor todo el tema: al igualar el desmayo de la Virgen con el cuerpo muerto de Cristo, dice que la madre sufre una muerte junto a su hijo."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Van der Weyden bends the swooning Virgin into precisely the same curve as her dead son's body, so mother and child echo each other like two notes of the same chord.",
+    "es": "Van der Weyden dobla a la Virgen desmayada en la misma curva exacta que el cuerpo de su hijo muerto, de modo que madre e hijo se responden como dos notas del mismo acorde."
+  },
+  "tags": [
+    "early-netherlandish",
+    "religious scene",
+    "15th century"
+  ],
+  "notables": [
+    {
+      "en": "The Virgin's fainting body repeats the exact curve of the dead Christ above her, binding their two griefs into one.",
+      "es": "El cuerpo desmayado de la Virgen repite la curva exacta del Cristo muerto que tiene encima, uniendo los dos dolores en uno."
+    },
+    {
+      "en": "Adam's skull lies at the lower left, marking the spot where tradition placed the first man's grave beneath the cross.",
+      "es": "La calavera de Adán yace abajo a la izquierda, en el lugar donde la tradición situaba la tumba del primer hombre bajo la cruz."
+    },
+    {
+      "en": "Tiny crossbows are worked into the gold tracery at the corners, a nod to the guild that paid for the picture.",
+      "es": "Pequeñas ballestas se esconden en la tracería dorada de las esquinas, un guiño al gremio que pagó el cuadro."
+    }
+  ]
+}

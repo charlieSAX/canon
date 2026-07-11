@@ -1,0 +1,64 @@
+{
+  "id": "napoleon-crossing-the-alps",
+  "title": {
+    "en": "Napoleon Crossing the Alps",
+    "es": "Napoleón cruzando los Alpes"
+  },
+  "artist": "Jacques-Louis David",
+  "year": 1801,
+  "movement": "neoclassicism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "261 x 221 cm",
+  "location": {
+    "museum": "Château de Malmaison",
+    "city": "Rueil-Malmaison"
+  },
+  "image": {
+    "src": "img/napoleon-crossing-the-alps.webp",
+    "width": 1339,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ANapoleon_at_the_Great_St._Bernard_-_Jacques-Louis_David_-_Google_Cultural_Institute.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Napoleon sits astride a rearing horse on a rocky mountain pass, his cloak whipping in gold and orange behind him. He is calm and upright, one gloved hand raised to point up the slope while the horse's mane and his hair stream in the same wind. Below, tiny soldiers haul a cannon through the snow.",
+      "craft": "David builds a great diagonal from the horse's hoof to Napoleon's pointing hand, filling the canvas with sweeping, theatrical movement. Smooth, polished paint hides every brushstroke. Cool grey rock and sky throw the warm reds and gold of horse and rider forward, so the commander seems to surge up and out of the mountain itself.",
+      "painter": "David had survived the Revolution that made and nearly unmade him, and had now found a new master in Bonaparte. Napoleon commissioned this portrait in 1801 and told David to paint him 'calm upon a fiery horse'. He did not sit for it. David became First Painter to the Emperor and followed him into exile.",
+      "point": "It is pure political myth-making: an idealised image built to project Napoleon as a serene, unstoppable leader in the tradition of the great generals who crossed the Alps before him."
+    },
+    "es": {
+      "scene": "Napoleón cabalga sobre un caballo encabritado en un paso rocoso de montaña, con la capa ondeando en dorado y naranja tras él. Está tranquilo y erguido, una mano enguantada alzada para señalar ladera arriba mientras la crin del caballo y su cabello flotan en el mismo viento. Abajo, unos soldados diminutos arrastran un cañón por la nieve.",
+      "craft": "David construye una gran diagonal desde el casco del caballo hasta la mano alzada de Napoleón, llenando el lienzo de movimiento teatral. Una pintura lisa y pulida oculta cada pincelada. La roca y el cielo fríos empujan hacia delante los cálidos rojos y el oro del caballo y el jinete, de modo que el comandante parece surgir de la montaña.",
+      "painter": "David había sobrevivido a la Revolución que lo encumbró y casi lo hundió, y ahora había encontrado un nuevo amo en Bonaparte. Napoleón encargó este retrato en 1801 y le dijo a David que lo pintara «tranquilo sobre un caballo fogoso». No posó para él. David se convirtió en Primer Pintor del Emperador y lo siguió al exilio.",
+      "point": "Es pura fabricación de mito político: una imagen idealizada creada para proyectar a Napoleón como un líder sereno e imparable, en la tradición de los grandes generales que cruzaron los Alpes antes que él."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Napoleon actually crossed the Alps on a mule led by a guide, in good weather; David replaced it with a rearing warhorse and a storm to turn a supply march into legend.",
+    "es": "Napoleón cruzó en realidad los Alpes sobre una mula conducida por un guía y con buen tiempo; David la sustituyó por un caballo de guerra encabritado y una tormenta para convertir una marcha de avituallamiento en leyenda."
+  },
+  "tags": [
+    "neoclassicism",
+    "portrait",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "Names carved on the rocks read Bonaparte, Hannibal and Karolus Magnus, linking Napoleon to two earlier conquerors who crossed the Alps.",
+      "es": "Los nombres tallados en las rocas dicen Bonaparte, Hannibal y Karolus Magnus, vinculando a Napoleón con dos conquistadores anteriores que cruzaron los Alpes."
+    },
+    {
+      "en": "In reality Napoleon crossed on a sure-footed mule in fine weather, not a rearing stallion through a storm.",
+      "es": "En realidad Napoleón cruzó sobre una mula de paso seguro y con buen tiempo, no sobre un semental encabritado en plena tormenta."
+    },
+    {
+      "en": "David painted five versions of the image; this one comes from the series made between 1801 and 1805.",
+      "es": "David pintó cinco versiones de la imagen; esta procede de la serie realizada entre 1801 y 1805."
+    }
+  ]
+}

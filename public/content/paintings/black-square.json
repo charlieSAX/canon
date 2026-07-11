@@ -1,0 +1,64 @@
+{
+  "id": "black-square",
+  "title": {
+    "en": "Black Square",
+    "es": "Cuadrado negro"
+  },
+  "artist": "Kazimir Malevich",
+  "year": 1915,
+  "movement": "early-abstraction",
+  "medium": {
+    "en": "Oil on linen",
+    "es": "Óleo sobre lino"
+  },
+  "dimensions": "79.5 x 79.5 cm",
+  "location": {
+    "museum": "Tretyakov Gallery",
+    "city": "Moscow"
+  },
+  "image": {
+    "src": "img/black-square.webp",
+    "width": 1600,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AKazimir_Malevich%2C_1915%2C_Black_Suprematic_Square%2C_oil_on_linen_canvas%2C_79.5_x_79.5_cm%2C_Tretyakov_Gallery%2C_Moscow.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A single black square sits on a white ground, filling most of a modest canvas. It is not quite geometrically perfect, its edges slightly irregular, its surface now webbed with fine cracks. There is nothing else: no horizon, no figure, no depth, only black form against white void.",
+      "craft": "The power lies in radical reduction. Malevich painted a rough black field over a white border by hand, so the square breathes rather than sits mechanically flat. Refusing any subject, he offered pure geometry as pure feeling, the starting point for what he called Suprematism, the supremacy of art over the visible world.",
+      "painter": "Malevich unveiled the square in Petrograd in December 1915, at the exhibition he called 0.10. He hung it high across a corner, the place reserved for a holy icon in a Russian home, declaring it the zero point of painting and the face of a new art.",
+      "point": "It is painting reduced to zero and started again: an image of nothing that claimed to open the door to a wholly abstract, spiritual art."
+    },
+    "es": {
+      "scene": "Un único cuadrado negro se posa sobre un fondo blanco y ocupa casi todo un lienzo modesto. No es del todo perfecto: sus bordes son algo irregulares y su superficie está ya surcada de grietas finas. No hay nada más: ni horizonte, ni figura, ni profundidad, solo forma negra sobre vacío blanco.",
+      "craft": "Su fuerza está en la reducción radical. Malevich pintó a mano un campo negro tosco sobre un borde blanco, y el cuadrado respira en vez de quedar mecánicamente plano. Al rechazar todo tema, ofreció geometría pura como sentimiento puro, punto de partida de lo que llamó suprematismo, la supremacía del arte sobre lo visible.",
+      "painter": "Malevich mostró el cuadrado en Petrogrado en diciembre de 1915, en la exposición que llamó 0.10. Lo colgó alto, cruzando una esquina, el lugar reservado al icono sagrado en la casa rusa, y lo declaró el punto cero de la pintura y el rostro de un arte nuevo.",
+      "point": "Es la pintura reducida a cero y comenzada de nuevo: una imagen de la nada que pretendía abrir la puerta a un arte del todo abstracto y espiritual."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "In 2015, conservators found hidden paintings and a faint inscription beneath the black paint, apparently a nod to an 1882 joke picture by the French writer Alphonse Allais.",
+    "es": "En 2015, los restauradores hallaron pinturas ocultas y una tenue inscripción bajo la capa negra, al parecer un guiño a un cuadro humorístico de 1882 del escritor francés Alphonse Allais."
+  },
+  "tags": [
+    "early-abstraction",
+    "geometry",
+    "20th century"
+  ],
+  "notables": [
+    {
+      "en": "Hung high across a room corner, the square took the spot Russian homes reserve for a religious icon.",
+      "es": "Colgado alto y cruzando una esquina, el cuadrado ocupó el sitio que las casas rusas reservan a un icono religioso."
+    },
+    {
+      "en": "The web of cracks reveals other colours beneath; scans show Malevich painted the square over earlier compositions.",
+      "es": "La red de grietas deja ver otros colores debajo; los análisis muestran que Malevich pintó el cuadrado sobre composiciones anteriores."
+    },
+    {
+      "en": "Look closely and the square is slightly off, its sides not truly parallel or level, made by hand not ruler.",
+      "es": "Míralo de cerca y el cuadrado está algo torcido, con lados no del todo paralelos, hecho a mano y no con regla."
+    }
+  ]
+}
