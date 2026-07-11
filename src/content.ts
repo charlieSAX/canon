@@ -37,6 +37,7 @@ async function loadPainting(id: string): Promise<Painting> {
   const cached = paintingCache.get(id)
   if (cached) return cached
   const res = await fetch(`${BASE}content/paintings/${id}.json`)
+  if (!res.ok) throw new Error(`painting ${id} fetch failed: ${res.status}`)
   const painting = (await res.json()) as Painting
   paintingCache.set(id, painting)
   return painting

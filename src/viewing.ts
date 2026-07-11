@@ -26,22 +26,19 @@ export async function recordView(
   }
   await db.dayViews.put({ key, date: today, paintingId: p.id })
 
-  const milestones: string[] = []
   const seenRows = await db.seen.toArray()
   const seenBefore = new Set(seenRows.map((r) => r.paintingId))
-  if (!seenBefore.has(p.id)) {
+  const isNewlySeen = !seenBefore.has(p.id)
+  if (isNewlySeen) {
     await db.seen.put({ paintingId: p.id, firstSeen: today })
     await ensureCard(p.id, new Date())
-    const all = [...(await loadAllPaintings()).values()]
-    const movements = await loadMovements()
-    for (const set of newlyCompleted(all, seenBefore, p.id, movements, lang)) {
-      milestones.push(milestoneLine(set, lang))
-    }
   }
 
+  // Critical path first: points and day completion must land immediately and
+  // must never block on loading the whole collection (that fetch is slow on a
+  // cold cache and would otherwise leave the streak unrecorded).
   const gained = await awardPoints(10, today)
 
-  // Day completion: all scheduled paintings viewed, recorded once per date.
   let completedDay = false
   const viewedToday = await db.dayViews.where('date').equals(today).toArray()
   const viewedIds = new Set(viewedToday.map((v) => v.paintingId))
@@ -56,6 +53,21 @@ export async function recordView(
     if (total === 1 && navigator.storage?.persist) {
       // Resist iOS storage eviction once the habit has begun.
       void navigator.storage.persist()
+    }
+  }
+
+  // Collection milestones are a best-effort flourish: they need the whole
+  // painting set, so a slow or failed load must not affect points or streak.
+  const milestones: string[] = []
+  if (isNewlySeen) {
+    try {
+      const all = [...(await loadAllPaintings()).values()]
+      const movements = await loadMovements()
+      for (const set of newlyCompleted(all, seenBefore, p.id, movements, lang)) {
+        milestones.push(milestoneLine(set, lang))
+      }
+    } catch {
+      // ignore: the milestone toast is non-essential
     }
   }
 

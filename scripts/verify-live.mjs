@@ -85,8 +85,17 @@ try {
   }
   await page.locator('.corner-btn').click()
   await page.waitForSelector('[data-testid="streak"]', { timeout: 5000 })
-  const streak = (await page.locator('[data-testid="streak"]').textContent())?.trim()
-  if (streak !== '1') await fail(`streak shows "${streak}", expected "1"`)
+  // The streak write settles asynchronously after the last card opens; wait
+  // for it rather than reading once.
+  try {
+    await page.waitForFunction(
+      () => document.querySelector('[data-testid="streak"]')?.textContent?.trim() === '1',
+      { timeout: 8000 }
+    )
+  } catch {
+    const streak = (await page.locator('[data-testid="streak"]').textContent())?.trim()
+    await fail(`streak shows "${streak}", expected "1"`)
+  }
   console.log('PASS 3: all cards opened, day completed, streak shows 1')
 
   step = '4 quiz answer changes the FSRS due date'
