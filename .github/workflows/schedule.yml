@@ -7,12 +7,14 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   schedule:
     runs-on: ubuntu-latest
     env:
       TZ: Europe/Madrid
+      GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -22,14 +24,19 @@ jobs:
         run: node scripts/schedule.mjs
       - name: Validate content
         run: node scripts/validate.mjs
-      - name: Commit schedule
+      - name: Commit schedule and redeploy
         run: |
           if git diff --quiet -- public/content/schedule.json public/content/index.json; then
-            echo "Schedule already has 14 days of runway."
-            exit 0
+            echo "Schedule already has 14 days of runway; redeploying to refresh anyway."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add public/content/schedule.json public/content/index.json
+            git commit -m "Extend weekly painting schedule"
+            git push
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/content/schedule.json public/content/index.json
-          git commit -m "Extend weekly painting schedule"
-          git push
+          # A push made with GITHUB_TOKEN does not trigger the Deploy workflow,
+          # so dispatch it explicitly. Without this the new schedule never
+          # reaches the live site and the gallery goes dark once the old
+          # runway runs out.
+          gh workflow run deploy.yml --repo "$GITHUB_REPOSITORY" --ref main
