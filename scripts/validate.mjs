@@ -109,6 +109,39 @@ const today = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0'
 const runway = Object.keys(schedule).filter((date) => date >= today).length
 if (runway < MIN_RUNWAY) fail(`schedule runway is ${runway} day(s); need at least ${MIN_RUNWAY}`)
 
+// Repetition guards, applied from tomorrow forward. Today's five are already
+// bound to views and day completion, so they are frozen whatever they hold.
+// The scheduler rests a painting for 17 days; the floor here sits at 14 to
+// leave room for a tight pass tail without breaking a deploy.
+// A day that repeats an earlier day's five is never acceptable: that was the
+// old alphabetical rotation handing back an identical gallery every 20 days.
+const REST_FLOOR = 14
+const scheduledDates = Object.keys(schedule).sort()
+const previousDate = new Map()
+const previousSet = new Map()
+
+function dayCount(value) {
+  const [year, month, day] = value.split('-').map(Number)
+  return Math.round(Date.UTC(year, month - 1, day) / 86400000)
+}
+
+for (const date of scheduledDates) {
+  const ids = Array.isArray(schedule[date]) ? schedule[date] : []
+  const key = [...ids].sort().join('|')
+  if (date > today) {
+    const clash = previousSet.get(key)
+    if (clash) fail(`schedule ${date}: repeats the exact five paintings of ${clash}`)
+    for (const id of ids) {
+      const last = previousDate.get(id)
+      if (!last) continue
+      const rest = dayCount(date) - dayCount(last)
+      if (rest < REST_FLOOR) fail(`schedule ${date}: "${id}" returns after ${rest} day(s); need ${REST_FLOOR}`)
+    }
+  }
+  previousSet.set(key, date)
+  for (const id of ids) previousDate.set(id, date)
+}
+
 if (errors.length > 0) {
   for (const error of errors) console.error(`FAIL ${error}`)
   process.exit(1)

@@ -16,6 +16,7 @@ Rules:
 - Painting ids never change. Existing seen rows, cards, completed days, points and tokens must survive every content expansion untouched.
 - English and Spanish scene, craft and painter sections contain 40 to 60 words. Points contain 15 to 40 words. Each painting has 2 to 4 notables of 8 to 30 words in both languages.
 - `npm run schedule` maintains a 14-day runway. CI requires at least seven days; the nightly issue workflow remains the backstop.
+- Scheduling runs in passes: nothing returns until the pool is exhausted, and each day's five are a date-seeded shuffle of the paintings rested 17 days or more. Never restore an alphabetical tie-break; it froze the pool into 20 identical galleries (recorded 2026-08-01). Days already served are frozen, `CANON_REBUILD=1` redeals only the days after today, `CANON_REBUILD=today` also redeals today and rests whatever it displaces, and validate rejects a future day that repeats an earlier day's five.
 
 Gotchas:
 

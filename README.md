@@ -22,7 +22,9 @@ The brief is BRIEF.md and it is law. Ideas go to IDEAS.md.
 
 ## How to extend the schedule
 
-`public/content/schedule.json` maps local `"YYYY-MM-DD"` dates to five painting ids. `npm run schedule` keeps 14 days available, selecting never-scheduled paintings first and then the least recently shown. A Monday workflow commits extensions automatically. Validation requires seven days; the nightly runway issue remains the backstop.
+`public/content/schedule.json` maps local `"YYYY-MM-DD"` dates to five painting ids. `npm run schedule` keeps 14 days available. Selection runs in passes: nothing returns until the whole pool has been hung, which holds the average gap at the pool size divided by five (20 days at 100 paintings). Within a pass the five are drawn by a date-seeded shuffle from the paintings rested at least 17 days, avoiding a repeated artist and more than two of one movement in a day, and preferring paintings whose artist or title did not appear in the previous two days. The shuffle is deterministic, so a rerun of the command changes nothing, and it stops a pass from handing back the same five paintings together the way the old alphabetical rotation did.
+
+Days already served are frozen. To redeal only the days ahead, run `CANON_REBUILD=1 npm run schedule`: it drops every date after today and deals them again, respecting the rest floor against the days already shown. `CANON_REBUILD=today npm run schedule` redeals today as well, and treats the five it displaces as hung today, since they may already have been viewed on the device. Use that one only when today is worth losing: any painting already tapped today keeps its points and its seen row, but the day needs the new five viewed before it completes. A Monday workflow commits extensions automatically. Validation requires seven days, rejects any future day that repeats an earlier day's five, and rejects a painting returning inside 14 days; the nightly runway issue remains the backstop.
 
 ## Export and import user state
 
