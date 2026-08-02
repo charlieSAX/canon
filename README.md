@@ -42,6 +42,40 @@ Check the brief before trusting it. Wikidata sometimes matches a secondary versi
 
 `node scripts/library_status.mjs` reports where the pool sits in its cycle. The Monday `Library growth` workflow uses it: at the halfway point of a pass it promotes whatever is staged and redeploys, and when staging is empty it opens an issue naming the next verified candidates. It cannot author paintings, so it asks.
 
+## The evening letter
+
+One email a day at 21:00 Barcelona time, composed by `scripts/evening_email.mjs` and sent by `.github/workflows/evening.yml`.
+
+It teases without spoiling: a real detail from one of tonight's five, taken from that painting's own notables and chosen so it does not name the artist or the title, in English and Spanish, above a crop of the picture tight enough to stay a mystery. The rest of the letter is measured from the schedule itself, so the line about how long a painting has been away, or that one has never hung here before, is always true.
+
+Preview any night without sending:
+
+```
+node scripts/evening_email.mjs --preview
+CANON_TODAY=2026-08-09 node scripts/evening_email.mjs --preview
+node scripts/send_evening.mjs /tmp/evening --build
+```
+
+GitHub cron only runs on UTC, so the workflow fires at 19:00 and 20:00 UTC and a guard lets through whichever run lands on 21:00 in Europe/Madrid. That survives daylight saving without intervention. Scheduled runs can be delayed by a few minutes under load. If a date has no paintings the composer exits 20 and nothing is sent, since a letter about an empty wall helps nobody; the runway workflow is what raises that alarm.
+
+### Setting it up (one time)
+
+Repository variables, at https://github.com/charlieSAX/canon/settings/variables/actions, "New repository variable":
+
+- `EVENING_TO`: the address that receives the letter.
+- `EVENING_FROM`: optional, defaults to the sending mailbox.
+
+Repository secrets, at https://github.com/charlieSAX/canon/settings/secrets/actions, "New repository secret":
+
+- `SMTP_HOST`, for example `smtp.gmail.com`
+- `SMTP_PORT`, `465`
+- `SMTP_USER`, the mailbox address that sends
+- `SMTP_PASS`, an app password, never the account password
+
+For Gmail: switch on 2-Step Verification at https://myaccount.google.com/signinoptions/two-step-verification, then create an app password at https://myaccount.google.com/apppasswords, name it `canon`, and paste the sixteen characters into `SMTP_PASS`. Any other SMTP provider works the same way.
+
+Then run the workflow once from the Actions tab with "Run workflow" and dry run left on. It connects, proves the credentials, and sends nothing.
+
 ## Export and import user state
 
 All progress lives on the device, in the browser. In the app: tap the small frame icon top right to open the progress view.

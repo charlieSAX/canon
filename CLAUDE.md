@@ -21,6 +21,8 @@ Rules:
 - Painting facts are sourced, never remembered: run the Wikidata probe and the brief repair, then author only from a brief. A candidate with no verified brief does not get written.
 - The library grows through `pipeline/staged` plus `scripts/promote_batch.mjs`. The Monday growth workflow promotes staged batches and otherwise opens an issue; it never authors content.
 
+- The evening letter must stay true: every claim in it is computed from the schedule and the painting's own notables. Never write flavour text that asserts something the content does not support.
+
 Gotchas:
 
 - Reference assets via import.meta.env.BASE_URL (or %BASE_URL% in index.html); the site lives at the /canon/ subpath and absolute / paths 404 on Pages (recorded 2026-07-10).
@@ -28,4 +30,5 @@ Gotchas:
 - macOS sips reads WebP but cannot write it; use scripts/mirror.mjs (sharp) for image conversion (recorded 2026-07-10).
 - validate applies the 40 to 60 word band to the SPANISH text too, not just English, which is tighter than CONTENT-SPEC implies (recorded 2026-08-02).
 - Wikidata resolves famous titles to secondary versions (Potato Eaters to the Kroller-Muller canvas, The Nightmare to the Frankfurt one) and its P2048 dimensions carry units the plain wdt shortcut drops (recorded 2026-08-02).
+- GitHub cron is UTC only, so the evening letter runs at 19:00 and 20:00 UTC with a local-hour guard to hold 21:00 Barcelona across daylight saving (recorded 2026-08-02).
 - At 100 paintings, content JSON stays precached while images use the `canon-images` runtime cache-first cache (recorded 2026-07-10).

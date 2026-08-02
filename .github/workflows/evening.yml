@@ -1,0 +1,97 @@
+name: Evening letter
+
+# One letter a day at 21:00 in Barcelona.
+#
+# GitHub cron is UTC only, so this fires at both 19:00 and 20:00 UTC and the
+# guard below lets exactly one of them through: the one where the local hour in
+# Europe/Madrid is 21. That holds through both sides of daylight saving without
+# anyone remembering to change it. GitHub can delay scheduled runs by several
+# minutes under load, which is why the brief said around nine rather than nine.
+
+on:
+  schedule:
+    - cron: '0 19 * * *'
+    - cron: '0 20 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Compose and upload the letter, connect to the mail server, send nothing'
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+jobs:
+  letter:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Madrid
+    steps:
+      - name: Is it nine in Barcelona
+        id: hour
+        run: |
+          HOUR=$(date +%H)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Manual run at local hour $HOUR; proceeding."
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          elif [ "$HOUR" = "21" ]; then
+            echo "Local hour is $HOUR; this is the run that sends."
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Local hour is $HOUR, not 21; the other cron will handle tonight."
+            echo "go=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.hour.outputs.go == 'true'
+
+      - uses: actions/setup-node@v4
+        if: steps.hour.outputs.go == 'true'
+        with:
+          node-version: 20
+
+      - name: Install
+        if: steps.hour.outputs.go == 'true'
+        run: npm ci
+
+      - name: Compose the letter
+        id: compose
+        if: steps.hour.outputs.go == 'true'
+        run: |
+          set +e
+          node scripts/evening_email.mjs --out /tmp/evening
+          STATUS=$?
+          set -e
+          if [ "$STATUS" = "20" ]; then
+            # Exit 20 means the gallery is closed tonight. Say nothing rather
+            # than send a letter about an empty wall; the runway workflow is
+            # what raises the alarm about a short schedule.
+            echo "closed=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          exit $STATUS
+
+      - name: Keep a copy
+        if: steps.hour.outputs.go == 'true' && steps.compose.outputs.closed != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: evening-letter
+          path: /tmp/evening
+          retention-days: 7
+
+      - name: Send
+        if: steps.hour.outputs.go == 'true' && steps.compose.outputs.closed != 'true'
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EVENING_TO: ${{ vars.EVENING_TO }}
+          EVENING_FROM: ${{ vars.EVENING_FROM }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.dry_run }}" = "true" ]; then
+            node scripts/send_evening.mjs /tmp/evening --dry
+          else
+            node scripts/send_evening.mjs /tmp/evening
+          fi
