@@ -1,0 +1,64 @@
+{
+  "id": "the-night-cafe",
+  "title": {
+    "en": "The Night Café",
+    "es": "El café de noche"
+  },
+  "artist": "Vincent van Gogh",
+  "year": 1888,
+  "movement": "post-impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "72 x 92 cm",
+  "location": {
+    "museum": "Yale University Art Gallery",
+    "city": "New Haven"
+  },
+  "image": {
+    "src": "img/the-night-cafe.webp",
+    "width": 1600,
+    "height": 1263,
+    "source_url": "https://commons.wikimedia.org/wiki/Vincent_Willem_van_Gogh_076.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A bare café interior at night: blood-red walls, a green ceiling, a floor tilting up towards the viewer. Four gas lamps burn with yellow haloes. A billiard table sits marooned in the middle of the room, and a few drinkers slump alone at tables against the walls.",
+      "craft": "Red and green are set against each other at full strength, the pairing that vibrates most violently to the eye. The floor rushes up at a steep angle, the lamps wear rings of orange light like small suns, and nothing in the room offers anywhere comfortable to rest.",
+      "painter": "Van Gogh painted this in Arles in September 1888, sitting up three nights running and sleeping by day. He wrote to Theo that he had tried to express the terrible passions of humanity by means of red and green, and settled his rent with the picture.",
+      "point": "A room painted as a moral condition: the café as a place where a man can ruin himself, go mad, or commit a crime."
+    },
+    "es": {
+      "scene": "Un interior de café por la noche: paredes rojo sangre, techo verde, un suelo que se inclina hacia el espectador. Cuatro lámparas de gas arden con halos amarillos. Una mesa de billar queda varada en mitad de la sala y unos pocos bebedores se desploman solos junto a los muros.",
+      "craft": "El rojo y el verde se enfrentan a plena potencia, la pareja que más violentamente vibra ante el ojo. El suelo sube en un ángulo pronunciado, las lámparas llevan anillos de luz naranja como pequeños soles y nada en la sala ofrece un sitio cómodo donde descansar.",
+      "painter": "Van Gogh lo pintó en Arlés en septiembre de 1888, velando tres noches seguidas y durmiendo de día. Escribió a Theo que había intentado expresar las terribles pasiones humanas por medio del rojo y del verde, y saldó con el cuadro el alquiler que debía.",
+      "point": "Una sala pintada como una condición moral: el café como lugar donde un hombre puede arruinarse, volverse loco o cometer un crimen."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Van Gogh told his brother the picture was one of the ugliest he had made, and in the same letter said it was the equivalent of The Potato Eaters.",
+    "es": "Van Gogh dijo a su hermano que era uno de los cuadros más feos que había hecho, y en la misma carta lo llamó el equivalente de Los comedores de patatas."
+  },
+  "tags": [
+    "post-impressionism",
+    "interior",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The clock on the back wall reads a quarter past midnight.",
+      "es": "El reloj de la pared del fondo marca las doce y cuarto de la noche."
+    },
+    {
+      "en": "The proprietor stands in white beside the billiard table, the room's only upright figure.",
+      "es": "El dueño, de blanco, está junto al billar: la única figura erguida de la sala."
+    },
+    {
+      "en": "A curtained doorway at the back hints at a further room nobody is entering.",
+      "es": "Una puerta con cortina al fondo insinúa otra sala en la que nadie entra."
+    }
+  ]
+}

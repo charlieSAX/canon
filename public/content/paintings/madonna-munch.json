@@ -1,0 +1,64 @@
+{
+  "id": "madonna-munch",
+  "title": {
+    "en": "Madonna",
+    "es": "Madonna"
+  },
+  "artist": "Edvard Munch",
+  "year": 1894,
+  "movement": "expressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "91 x 71 cm",
+  "location": {
+    "museum": "National Museum",
+    "city": "Oslo"
+  },
+  "image": {
+    "src": "img/madonna-munch.webp",
+    "width": 1236,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/Edvard_Munch_-_Madonna_-_NG.M.00841_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A bare-shouldered woman is seen close up against a dark ground, her head tipped back and her eyes closed, one arm behind her. Her hair spreads into the surrounding darkness. A thin red band circles her head where a saint would wear a halo of gold.",
+      "craft": "Munch paints the body in long curving strokes that continue straight into the background, so figure and darkness are made of the same undulating movement. The palette is reduced to flesh, blue-black and one red accent, and the closed eyes remove any exchange with the viewer.",
+      "painter": "The picture belongs to the Frieze of Life, the sequence on love, anxiety and death that occupied Munch through the 1890s. He returned to the image repeatedly, making several painted versions and a lithograph, and gave it the deliberately provocative title of a religious icon.",
+      "point": "Munch fuses the sacred image with the sexual one, and puts conception, ecstasy and death into a single figure who is not looking at you."
+    },
+    "es": {
+      "scene": "Una mujer de hombros desnudos aparece en primer plano sobre un fondo oscuro, la cabeza echada hacia atrás y los ojos cerrados, un brazo detrás. Su cabello se extiende hacia la oscuridad circundante. Una fina banda roja rodea su cabeza donde una santa llevaría una aureola de oro.",
+      "craft": "Munch pinta el cuerpo con largos trazos curvos que continúan directamente en el fondo, de modo que figura y oscuridad están hechas del mismo movimiento ondulante. La paleta se reduce a carne, azul negruzco y un acento rojo, y los ojos cerrados eliminan todo intercambio con quien mira.",
+      "painter": "La obra pertenece al Friso de la vida, la serie sobre el amor, la angustia y la muerte que ocupó a Munch durante la década de 1890. Volvió una y otra vez a la imagen, pintó varias versiones e hizo una litografía, y le dio el título provocador de un icono religioso.",
+      "point": "Munch funde la imagen sagrada con la sexual y reúne concepción, éxtasis y muerte en una sola figura que no te mira."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "In his lithographic version Munch framed the same figure with a border of swimming spermatozoa and placed a foetus in the lower corner.",
+    "es": "En su versión litográfica, Munch enmarcó la misma figura con un borde de espermatozoides y colocó un feto en la esquina inferior."
+  },
+  "tags": [
+    "expressionism",
+    "portrait",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The halo is red rather than gold, the one saturated colour in the picture.",
+      "es": "La aureola es roja y no dorada, el único color saturado del cuadro."
+    },
+    {
+      "en": "Her hair dissolves into the background, so the darkness seems to grow out of her.",
+      "es": "Su cabello se disuelve en el fondo, de modo que la oscuridad parece brotar de ella."
+    },
+    {
+      "en": "The eyes are closed, refusing the viewer the contact the pose seems to offer.",
+      "es": "Los ojos están cerrados y niegan al espectador el contacto que la postura parece ofrecer."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "the-oxbow",
+  "title": {
+    "en": "The Oxbow",
+    "es": "El meandro"
+  },
+  "artist": "Thomas Cole",
+  "year": 1836,
+  "movement": "hudson-river-school",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "131 x 193 cm",
+  "location": {
+    "museum": "The Metropolitan Museum of Art",
+    "city": "New York"
+  },
+  "image": {
+    "src": "img/the-oxbow.webp",
+    "width": 1600,
+    "height": 1087,
+    "source_url": "https://commons.wikimedia.org/wiki/Cole_Thomas_The_Oxbow_(The_Connecticut_River_near_Northampton_1836).jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "The Connecticut River loops in a great horseshoe below Mount Holyoke. The left half of the picture is wild: a rainstorm sweeping in, a blasted tree, dark broken ground. The right half is calm and sunlit, a valley floor divided into fields with smoke rising from farms.",
+      "craft": "Cole splits the canvas on a diagonal and paints two weathers at once, storm and clearing, wilderness and cultivation. The scale of the drop is measured by a tiny figure: Cole himself, halfway down the slope with his easel and parasol, looking back over his shoulder at us.",
+      "painter": "Cole was English-born, brought to Ohio at seventeen, and had taught himself landscape painting from an itinerant portraitist's manual. He made this for exhibition and sale in 1836 while labouring on his five-part series The Course of Empire, and it paid better.",
+      "point": "America at the moment of choosing: the wilderness that made the country on one side, the farmland consuming it on the other, and no verdict offered."
+    },
+    "es": {
+      "scene": "El río Connecticut describe una gran herradura al pie del monte Holyoke. La mitad izquierda del cuadro es salvaje: una tormenta que se acerca, un árbol partido, terreno oscuro y roto. La mitad derecha está en calma y al sol, un valle repartido en campos con humo de granjas.",
+      "craft": "Cole parte el lienzo en diagonal y pinta dos climas a la vez, tormenta y despejado, naturaleza salvaje y cultivo. La altura se mide gracias a una figura diminuta: el propio Cole, a media ladera con su caballete y su sombrilla, mirando hacia nosotros por encima del hombro.",
+      "painter": "Cole nació en Inglaterra, llegó a Ohio a los diecisiete años y aprendió paisaje por su cuenta con el manual de un retratista ambulante. Pintó esta obra para exponerla y venderla en 1836 mientras trabajaba en su serie El curso del imperio, y le dio más dinero.",
+      "point": "Estados Unidos en el momento de elegir: a un lado la naturaleza que hizo el país, al otro la agricultura que la devora, y ningún veredicto."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "On the far hillside, cleared patches form marks that read as Hebrew letters; turned on its side the hill spells Shaddai, one of the names of God.",
+    "es": "En la ladera lejana, los claros forman marcas que se leen como letras hebreas; girada de lado, la colina deletrea Shaddai, uno de los nombres de Dios."
+  },
+  "tags": [
+    "hudson-river-school",
+    "landscape",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "Cole paints himself mid-slope at his easel, hat and parasol beside him, turning to look out.",
+      "es": "Cole se pinta a media ladera ante su caballete, con sombrero y sombrilla, girándose para mirar."
+    },
+    {
+      "en": "A lightning-blasted tree leans in from the left edge, marking the storm's territory.",
+      "es": "Un árbol partido por un rayo se inclina desde el borde izquierdo y marca el terreno de la tormenta."
+    },
+    {
+      "en": "Rain falls in visible sheets over the far bank while the near valley stays dry.",
+      "es": "La lluvia cae en cortinas visibles sobre la orilla lejana mientras el valle cercano sigue seco."
+    }
+  ]
+}

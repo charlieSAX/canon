@@ -1,0 +1,64 @@
+{
+  "id": "wheatfield-with-crows",
+  "title": {
+    "en": "Wheatfield with Crows",
+    "es": "Trigal con cuervos"
+  },
+  "artist": "Vincent van Gogh",
+  "year": 1890,
+  "movement": "post-impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "50 x 103 cm",
+  "location": {
+    "museum": "Van Gogh Museum",
+    "city": "Amsterdam"
+  },
+  "image": {
+    "src": "img/wheatfield-with-crows.webp",
+    "width": 1600,
+    "height": 766,
+    "source_url": "https://commons.wikimedia.org/wiki/Korenveld_met_kraaien_-_s0149V1962_-_Van_Gogh_Museum.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A wheatfield the colour of hot brass runs to the horizon under a sky of churning blue-black. Three earth paths cut into the crop, one from each corner and one straight ahead, and none of them arrives anywhere. A scatter of crows lifts out of the corn towards the storm.",
+      "craft": "The canvas is a double square, twice as wide as it is tall, which forces the eye to sweep rather than settle. Paint is laid on in thick ropes straight from the tube, yellow against blue, and the crows thin from birds into pure black brushmarks as they climb.",
+      "painter": "Van Gogh painted this at Auvers-sur-Oise in July 1890, in the last weeks of his life. He wrote to his brother Theo of vast stretches of corn under troubled skies, and said he had not needed to go out of his way to express sadness and extreme loneliness.",
+      "point": "A landscape that refuses to settle: every path stops, the sky presses down, and the only movement is away from the viewer."
+    },
+    "es": {
+      "scene": "Un trigal del color del latón caliente corre hasta el horizonte bajo un cielo azul y negro revuelto. Tres senderos de tierra cortan la mies, uno desde cada esquina y otro de frente, y ninguno llega a ninguna parte. Una bandada de cuervos se alza hacia la tormenta.",
+      "craft": "El lienzo es un doble cuadrado, el doble de ancho que de alto, lo que obliga al ojo a barrer en vez de detenerse. La pintura se aplica en gruesas sogas salidas del tubo, amarillo contra azul, y los cuervos se adelgazan de aves a puras marcas negras al subir.",
+      "painter": "Van Gogh lo pintó en Auvers-sur-Oise en julio de 1890, en las últimas semanas de su vida. Escribió a su hermano Theo sobre extensiones inmensas de trigo bajo cielos turbulentos y dijo que no le había hecho falta esforzarse para expresar tristeza y soledad extrema.",
+      "point": "Un paisaje que se niega a asentarse: todos los caminos se cortan, el cielo aplasta y el único movimiento se aleja del espectador."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "It is often called his final painting, but his letters place other canvases after it; the legend grew because the picture looks like an ending.",
+    "es": "Suele llamarse su último cuadro, pero sus cartas sitúan otros lienzos después; la leyenda creció porque la imagen parece un final."
+  },
+  "tags": [
+    "post-impressionism",
+    "landscape",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The three paths all stop dead in the corn; none of them reaches the horizon.",
+      "es": "Los tres senderos se cortan en seco entre el trigo; ninguno alcanza el horizonte."
+    },
+    {
+      "en": "The crows nearest the sky are no longer birds, just flicks of black paint.",
+      "es": "Los cuervos más altos ya no son aves, solo golpes de pintura negra."
+    },
+    {
+      "en": "A thin strip of green grass at lower left is the one cool note in the field.",
+      "es": "Una franja verde abajo a la izquierda es la única nota fresca del campo."
+    }
+  ]
+}

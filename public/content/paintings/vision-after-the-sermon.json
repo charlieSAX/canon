@@ -1,0 +1,64 @@
+{
+  "id": "vision-after-the-sermon",
+  "title": {
+    "en": "Vision after the Sermon",
+    "es": "La visión tras el sermón"
+  },
+  "artist": "Paul Gauguin",
+  "year": 1888,
+  "movement": "post-impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "72 x 91 cm",
+  "location": {
+    "museum": "National Galleries Scotland",
+    "city": "Edinburgh"
+  },
+  "image": {
+    "src": "img/vision-after-the-sermon.webp",
+    "width": 1600,
+    "height": 1254,
+    "source_url": "https://commons.wikimedia.org/wiki/La_vision_apr%C3%A8s_le_sermon_(Paul_Gauguin).jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Breton women in starched white coifs bow their heads in prayer along the bottom and left of the canvas. Beyond them the ground turns pure red, and on it Jacob wrestles the angel. An apple tree branch cuts diagonally across the whole picture, separating the women from what they see.",
+      "craft": "The field is vermilion, a colour no meadow has, which announces at once that this is a vision and not a place. Gauguin bounds each shape with a dark line and fills it flat, and borrows the sharp diagonal and high viewpoint from Japanese prints.",
+      "painter": "Gauguin painted this at Pont-Aven in 1888, working alongside Émile Bernard, whose flat outlined manner he absorbed fast. He offered the finished canvas to the local church at Nizon; the priest turned it down, apparently suspecting a joke at the parish's expense.",
+      "point": "Not a miracle taking place, but the inside of belief: the picture shows what the congregation is seeing behind their closed eyes."
+    },
+    "es": {
+      "scene": "Mujeres bretonas con cofias blancas almidonadas inclinan la cabeza en oración en la parte baja e izquierda del lienzo. Más allá, el suelo se vuelve rojo puro y sobre él Jacob lucha con el ángel. Una rama de manzano cruza en diagonal todo el cuadro y separa a las mujeres de lo que ven.",
+      "craft": "El campo es bermellón, un color que ningún prado tiene, y anuncia de inmediato que esto es una visión y no un lugar. Gauguin delimita cada forma con una línea oscura y la rellena de plano, y toma la diagonal marcada y el punto de vista alto de las estampas japonesas.",
+      "painter": "Gauguin lo pintó en Pont-Aven en 1888, trabajando junto a Émile Bernard, cuya manera plana y perfilada asimiló deprisa. Ofreció el lienzo terminado a la iglesia de Nizon; el párroco lo rechazó, al parecer sospechando una burla a costa de la parroquia.",
+      "point": "No es un milagro que sucede, sino el interior de la fe: el cuadro muestra lo que la congregación ve detrás de sus ojos cerrados."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Gauguin tried to give the painting to two Breton churches and both refused it, so it stayed in his own hands.",
+    "es": "Gauguin intentó regalar el cuadro a dos iglesias bretonas y ambas lo rechazaron, de modo que se quedó en sus manos."
+  },
+  "tags": [
+    "post-impressionism",
+    "religion",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The apple tree branch divides the real congregation from the vision they are having.",
+      "es": "La rama del manzano separa a la congregación real de la visión que están teniendo."
+    },
+    {
+      "en": "A small cow stands at the left edge, an ordinary animal inside a miracle.",
+      "es": "Una vaca pequeña está en el borde izquierdo, un animal corriente dentro de un milagro."
+    },
+    {
+      "en": "The wrestling pair are painted small, well behind the enormous white headdresses.",
+      "es": "La pareja que lucha está pintada pequeña, muy detrás de las enormes cofias blancas."
+    }
+  ]
+}

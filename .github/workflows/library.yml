@@ -1,0 +1,99 @@
+name: Library growth
+
+# The pool divided by five is the cycle in days. Halfway through a pass is the
+# moment to grow the library: paintings promoted then join the very next pass
+# instead of waiting a full cycle to appear.
+#
+# What this job can and cannot do. It CAN promote paintings that have already
+# been authored into pipeline/staged, validate them as a batch, commit and
+# redeploy. It CANNOT write new paintings: sourcing a public domain image and
+# writing verified bilingual teaching text is authoring work. When the pool
+# needs feeding and staging is empty, this job opens an issue naming the exact
+# candidates from pipeline/briefs-v4.json, each already resolved against
+# Wikidata, so the authoring pass has a definite work list.
+
+on:
+  schedule:
+    - cron: '35 5 * * 1'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Promote even if the pass is not halfway through'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  actions: write
+  issues: write
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Madrid
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Read library status
+        id: status
+        run: |
+          node scripts/library_status.mjs
+          node scripts/library_status.mjs --json > /tmp/status.json
+          {
+            echo "at_halfway=$(jq -r '.atHalfway' /tmp/status.json)"
+            echo "staged=$(jq -r '.staged' /tmp/status.json)"
+            echo "pool=$(jq -r '.pool' /tmp/status.json)"
+            echo "cycle=$(jq -r '.cycleDays' /tmp/status.json)"
+            echo "day_in_pass=$(jq -r '.dayInPass' /tmp/status.json)"
+            echo "queue=$(jq -r '.queueReadyToAuthor' /tmp/status.json)"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Promote staged paintings
+        id: promote
+        if: (steps.status.outputs.at_halfway == 'true' || inputs.force) && steps.status.outputs.staged != '0'
+        run: node scripts/promote_batch.mjs
+
+      - name: Commit and redeploy
+        if: steps.promote.outcome == 'success'
+        run: |
+          if git diff --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Grow the library: promote staged paintings"
+          git push
+          # A push made with GITHUB_TOKEN does not trigger Deploy, so dispatch it.
+          gh workflow run deploy.yml --repo "$GITHUB_REPOSITORY" --ref main
+
+      - name: Ask for the next batch when staging is empty
+        if: steps.status.outputs.at_halfway == 'true' && steps.status.outputs.staged == '0'
+        run: |
+          EXISTING=$(gh issue list --repo "$GITHUB_REPOSITORY" --label library --state open --json number --jq 'length')
+          if [ "$EXISTING" != "0" ]; then
+            echo "A library issue is already open; not opening another."
+            exit 0
+          fi
+          gh label create library --description "Library growth" --color 0e8a16 --force >/dev/null 2>&1 || true
+          NEXT=$(jq -r '.nextBatch[]' /tmp/status.json | sed 's/^/- [ ] /')
+          gh issue create --repo "$GITHUB_REPOSITORY" --label library \
+            --title "Library: pool ${{ steps.status.outputs.pool }} is halfway through its ${{ steps.status.outputs.cycle }} day cycle" \
+            --body "$(cat <<EOF
+          The pool is ${{ steps.status.outputs.pool }} paintings, a ${{ steps.status.outputs.cycle }} day cycle, and this pass is on day ${{ steps.status.outputs.day_in_pass }}. Staging is empty, so the library cannot grow on its own.
+
+          ${{ steps.status.outputs.queue }} candidate(s) are already resolved against Wikidata in \`pipeline/briefs-v4.json\`, with verified year, museum, city, dimensions, materials and a Commons image, and each has passed the public domain gates (creator died before 1956, work made before 1930).
+
+          Next batch to author into \`pipeline/staged\`, following \`pipeline/CONTENT-SPEC.md\`:
+
+          $NEXT
+
+          For each id: run \`node scripts/fetch_staged_image.mjs <id>\` to mirror the verified Commons image, then write \`pipeline/staged/<id>.json\`. This job promotes them on its next run.
+          EOF
+          )"

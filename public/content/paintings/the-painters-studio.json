@@ -1,0 +1,64 @@
+{
+  "id": "the-painters-studio",
+  "title": {
+    "en": "The Painter's Studio",
+    "es": "El taller del pintor"
+  },
+  "artist": "Gustave Courbet",
+  "year": 1855,
+  "movement": "realism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "361 x 598 cm",
+  "location": {
+    "museum": "Musée d'Orsay",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/the-painters-studio.webp",
+    "width": 1600,
+    "height": 943,
+    "source_url": "https://commons.wikimedia.org/wiki/Courbet_LAtelier_du_peintre.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Courbet sits at the centre of a dim studio painting a landscape of his home country. A naked model stands behind his shoulder watching, a small boy watches from the floor, and a white cat plays at his feet. Two crowds fill the wings: strangers on the left, friends on the right.",
+      "craft": "The canvas is nearly six metres wide and lit like a stage, with the light concentrated on the painter, the model and the landscape and the flanking crowds left in gloom. The picture is built as three paintings in one, and the seams between them are deliberate.",
+      "painter": "When the jury of the 1855 Exposition Universelle turned the work down, Courbet put up his own building next door, called it the Pavilion of Realism and charged for entry. He described the picture as a real allegory summing up seven years of his artistic life.",
+      "point": "An artist installing himself at the centre of his own society, with his supporters on one side, the world he paints on the other, and the work itself in the middle."
+    },
+    "es": {
+      "scene": "Courbet se sienta en el centro de un taller en penumbra pintando un paisaje de su tierra. Una modelo desnuda observa tras su hombro, un niño mira desde el suelo y un gato blanco juega a sus pies. Dos multitudes llenan los laterales: desconocidos a la izquierda, amigos a la derecha.",
+      "craft": "El lienzo mide casi seis metros de ancho y está iluminado como un escenario, con la luz concentrada en el pintor, la modelo y el paisaje, y las multitudes laterales dejadas en penumbra. La obra está construida como tres cuadros en uno y las costuras entre ellos son deliberadas.",
+      "painter": "Cuando el jurado de la Exposición Universal de 1855 rechazó la obra, Courbet levantó su propio edificio al lado, lo llamó Pabellón del Realismo y cobró entrada. Describió el cuadro como una alegoría real que resumía siete años de su vida artística.",
+      "point": "Un artista instalándose en el centro de su propia sociedad, con sus partidarios a un lado, el mundo que pinta al otro y la obra misma en medio."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The poet Charles Baudelaire sits reading at the far right of the canvas, one of several friends Courbet painted into his own allegory.",
+    "es": "El poeta Charles Baudelaire aparece leyendo en el extremo derecho del lienzo, uno de los varios amigos que Courbet incluyó en su propia alegoría."
+  },
+  "tags": [
+    "realism",
+    "allegory",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The canvas Courbet is painting shows his native Franche-Comté, not the room he is sitting in.",
+      "es": "El lienzo que Courbet pinta muestra su Franche-Comté natal, no la sala en la que está."
+    },
+    {
+      "en": "A white cat arches its back beside the easel, ignoring the whole allegory.",
+      "es": "Un gato blanco arquea el lomo junto al caballete, ajeno a toda la alegoría."
+    },
+    {
+      "en": "The model has put her clothes down behind the painter, so she is not posing.",
+      "es": "La modelo ha dejado su ropa detrás del pintor, de modo que no está posando."
+    }
+  ]
+}

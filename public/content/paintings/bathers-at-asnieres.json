@@ -1,0 +1,64 @@
+{
+  "id": "bathers-at-asnieres",
+  "title": {
+    "en": "Bathers at Asnières",
+    "es": "Bañistas en Asnières"
+  },
+  "artist": "Georges Seurat",
+  "year": 1884,
+  "movement": "post-impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "201 x 300 cm",
+  "location": {
+    "museum": "The National Gallery",
+    "city": "London"
+  },
+  "image": {
+    "src": "img/bathers-at-asnieres.webp",
+    "width": 1600,
+    "height": 1062,
+    "source_url": "https://commons.wikimedia.org/wiki/Baigneurs_a_Asnieres.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Working men and boys rest on the grassy bank of the Seine on a hot afternoon. One sits at the water's edge with his feet in the river, another lies flat in the sun, and a boy in a red cap stands in the shallows calling across the water.",
+      "craft": "Seurat gives labourers the scale and stillness of a history painting, two metres by three. The paint is brushed in short crossed strokes rather than dots, and years later he went back into the picture and added coloured points to the hat, the water and the bank.",
+      "painter": "Seurat was twenty-four and had been rejected by the Salon. He made about fourteen small oil studies on wood panels along this stretch of river before starting, then showed the finished canvas with the breakaway Society of Independent Artists in 1884.",
+      "point": "Ordinary Parisians on their day off, painted with the gravity normally reserved for saints and generals."
+    },
+    "es": {
+      "scene": "Obreros y muchachos descansan en la orilla herbosa del Sena una tarde calurosa. Uno se sienta al borde del agua con los pies en el río, otro yace tendido al sol y un chico con gorro rojo, metido en la orilla, llama a alguien al otro lado.",
+      "craft": "Seurat da a unos jornaleros la escala y la quietud de una pintura de historia, dos metros por tres. La materia se aplica en trazos cruzados y no en puntos, y años después volvió al cuadro para añadir puntos de color en el gorro, el agua y la ribera.",
+      "painter": "Seurat tenía veinticuatro años y el Salón lo había rechazado. Pintó unos catorce estudios al óleo sobre tabla en este tramo del río antes de empezar, y después expuso el lienzo acabado con la disidente Sociedad de Artistas Independientes en 1884.",
+      "point": "Parisinos corrientes en su día libre, pintados con la gravedad que suele reservarse a santos y generales."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The factory chimneys of Clichy smoke on the horizon behind the bathers, placing the men's rest directly against the industry they worked in.",
+    "es": "Las chimeneas fabriles de Clichy humean en el horizonte tras los bañistas y sitúan su descanso frente a la industria en la que trabajaban."
+  },
+  "tags": [
+    "post-impressionism",
+    "leisure",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The boy's red cap is stippled with dots Seurat added long after finishing the canvas.",
+      "es": "El gorro rojo del muchacho lleva puntos que Seurat añadió mucho después de acabar el lienzo."
+    },
+    {
+      "en": "Factory chimneys and a railway bridge sit on the skyline behind the bathers.",
+      "es": "Chimeneas de fábrica y un puente de ferrocarril ocupan el horizonte tras los bañistas."
+    },
+    {
+      "en": "A ferry with a French flag crosses towards the island of La Grande Jatte.",
+      "es": "Un transbordador con bandera francesa cruza hacia la isla de La Grande Jatte."
+    }
+  ]
+}

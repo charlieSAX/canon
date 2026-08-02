@@ -1,0 +1,64 @@
+{
+  "id": "flaming-june",
+  "title": {
+    "en": "Flaming June",
+    "es": "Junio ardiente"
+  },
+  "artist": "Frederic Leighton",
+  "year": 1895,
+  "movement": "academic-art",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "119 x 119 cm",
+  "location": {
+    "museum": "Museo de Arte de Ponce",
+    "city": "Ponce"
+  },
+  "image": {
+    "src": "img/flaming-june.webp",
+    "width": 1599,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/Flaming_June%2C_by_Frederic_Lord_Leighton_(1830-1896).jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A young woman sleeps curled almost into a circle on a marble bench, knees drawn up, one arm folded over her head. Her gown is a saffron orange so thin that the light passes through it. Behind her a parapet, a flowering branch, and a band of sea burning in the sun.",
+      "craft": "The canvas is square and the body is coiled to fill it, a circle set inside a box. Leighton drapes the sheer fabric so that the leg beneath reads clearly through it, and keeps almost the whole picture within one narrow range of orange, gold and white.",
+      "painter": "Leighton was President of the Royal Academy and at the end of his life when he painted this. He was made a peer in January 1896 and died the next day, holding the shortest peerage in British history, and this was among the last works he finished.",
+      "point": "Sleep painted as classical repose rather than as rest: a body arranged with the deliberation of sculpture and lit like an afternoon that will not end."
+    },
+    "es": {
+      "scene": "Una joven duerme enroscada casi en círculo sobre un banco de mármol, las rodillas recogidas, un brazo doblado sobre la cabeza. Su túnica es de un naranja azafrán tan fino que la luz lo atraviesa. Detrás hay un pretil, una rama en flor y una franja de mar que arde al sol.",
+      "craft": "El lienzo es cuadrado y el cuerpo se enrosca para llenarlo, un círculo dentro de una caja. Leighton dispone la tela transparente de modo que la pierna se lea con claridad debajo, y mantiene casi todo el cuadro dentro de una gama estrecha de naranja, oro y blanco.",
+      "painter": "Leighton presidía la Royal Academy y estaba al final de su vida cuando pintó esta obra. Recibió un título nobiliario en enero de 1896 y murió al día siguiente, con el título más breve de la historia británica; esta fue de las últimas piezas que terminó.",
+      "point": "El sueño pintado como reposo clásico y no como descanso: un cuerpo dispuesto con la deliberación de la escultura y una luz de tarde que no acaba."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Victorian painting fell so far out of fashion that in the 1960s the picture hung unsold in a London shop, and the young Andrew Lloyd Webber could not borrow the money to buy it.",
+    "es": "La pintura victoriana pasó tan de moda que en los años sesenta el cuadro colgaba sin venderse en una tienda de Londres y el joven Andrew Lloyd Webber no consiguió el dinero para comprarlo."
+  },
+  "tags": [
+    "academic-art",
+    "sleep",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The branch above her is oleander, a poisonous plant, the old link between sleep and death.",
+      "es": "La rama sobre ella es de adelfa, planta venenosa, el viejo vínculo entre el sueño y la muerte."
+    },
+    {
+      "en": "The sea behind is painted as a solid bar of light, almost molten.",
+      "es": "El mar del fondo está pintado como una barra sólida de luz, casi fundida."
+    },
+    {
+      "en": "Her right arm crosses her face, hiding the expression and leaving only the pose.",
+      "es": "Su brazo derecho cruza el rostro, oculta la expresión y deja solamente la postura."
+    }
+  ]
+}

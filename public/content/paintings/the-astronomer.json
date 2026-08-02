@@ -1,0 +1,64 @@
+{
+  "id": "the-astronomer",
+  "title": {
+    "en": "The Astronomer",
+    "es": "El astrónomo"
+  },
+  "artist": "Johannes Vermeer",
+  "year": 1668,
+  "movement": "dutch-golden-age",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "51 x 45 cm",
+  "location": {
+    "museum": "Musée du Louvre",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/the-astronomer.webp",
+    "width": 1408,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/Johannes_Vermeer_-_The_Astronomer_-_1668.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A scholar in a long robe leans forward at a table and reaches out to turn a celestial globe. Light comes through a leaded window on the left across a rucked tapestry. An open book lies in front of him, and a wooden cupboard with an astrolabe stands behind.",
+      "craft": "Vermeer builds the picture on the reach of one hand: everything else is still, and the arm crossing the light is what the composition is about. The window light is described rather than dramatised, catching the fur trim, the globe's ridges and the pages in turn.",
+      "painter": "Vermeer worked slowly in Delft and left barely three dozen paintings. This one is signed and dated on the cupboard, and a companion piece, The Geographer, shows what appears to be the same man with earthly instruments instead of heavenly ones.",
+      "point": "Knowledge shown as touch: the scholar does not look up at the sky, he puts his hand on a model of it and turns it towards himself."
+    },
+    "es": {
+      "scene": "Un erudito con una larga túnica se inclina sobre una mesa y alarga la mano para girar un globo celeste. La luz entra por una ventana emplomada a la izquierda y cruza un tapiz arrugado. Ante él hay un libro abierto y detrás un armario de madera con un astrolabio.",
+      "craft": "Vermeer construye el cuadro sobre el alcance de una mano: todo lo demás está quieto y el brazo que cruza la luz es el verdadero asunto de la composición. La luz de la ventana se describe en vez de dramatizarse y recoge el ribete de piel, los relieves del globo y las páginas.",
+      "painter": "Vermeer trabajaba despacio en Delft y dejó apenas tres docenas de cuadros. Este está firmado y fechado en el armario, y una obra hermana, El geógrafo, muestra a lo que parece el mismo hombre con instrumentos terrestres en lugar de celestes.",
+      "point": "El conocimiento mostrado como tacto: el sabio no mira al cielo, pone la mano sobre un modelo del cielo y lo gira hacia sí."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The canvas was seized from the Rothschild collection by the Nazis in 1940, and a small swastika inventory stamp remains on the back of it today.",
+    "es": "El lienzo fue incautado a la colección Rothschild por los nazis en 1940 y todavía conserva en el reverso un pequeño sello de inventario con una esvástica."
+  },
+  "tags": [
+    "dutch-golden-age",
+    "science",
+    "17th century"
+  ],
+  "notables": [
+    {
+      "en": "The painting on the back wall shows the finding of Moses, an infant saved from water.",
+      "es": "El cuadro de la pared del fondo muestra el hallazgo de Moisés, un niño salvado de las aguas."
+    },
+    {
+      "en": "The globe is a real published model, and its constellations can still be identified.",
+      "es": "El globo es un modelo real publicado y sus constelaciones aún pueden identificarse."
+    },
+    {
+      "en": "Vermeer signed and dated the work on the cupboard behind the scholar's shoulder.",
+      "es": "Vermeer firmó y fechó la obra en el armario, detrás del hombro del erudito."
+    }
+  ]
+}

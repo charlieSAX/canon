@@ -1,0 +1,64 @@
+{
+  "id": "the-wounded-angel",
+  "title": {
+    "en": "The Wounded Angel",
+    "es": "El ángel herido"
+  },
+  "artist": "Hugo Simberg",
+  "year": 1903,
+  "movement": "symbolism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "127 x 154 cm",
+  "location": {
+    "museum": "Ateneum",
+    "city": "Helsinki"
+  },
+  "image": {
+    "src": "img/the-wounded-angel.webp",
+    "width": 1600,
+    "height": 1288,
+    "source_url": "https://commons.wikimedia.org/wiki/The_Wounded_Angel_-_Hugo_Simberg.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "Two boys in dark clothes carry a stretcher along a bleak shore. On it sits a young angel, head bowed, eyes bound with a white bandage, one wing bloodied. She holds a small bunch of snowdrops. The front boy walks on; the boy behind stares directly out of the picture.",
+      "craft": "The procession is arranged flat across the canvas like a frieze, so it reads as a slow left to right passage. Colour is drained to greys, browns and dull green, which leaves the white of the bandage, the wing and the flowers doing all the work.",
+      "painter": "Simberg painted this in Helsinki after a long illness, walking in the Eläintarha park where the setting is drawn from. He refused throughout his life to explain what the picture means, and later repeated it as a fresco in Tampere Cathedral.",
+      "point": "Wounded innocence carried by ordinary boys, and the one at the back looking straight at you to make sure you have seen it."
+    },
+    "es": {
+      "scene": "Dos muchachos vestidos de oscuro llevan una camilla por una orilla desolada. Sobre ella va sentado un ángel joven, con la cabeza baja, los ojos vendados de blanco y un ala ensangrentada. Sostiene un ramito de campanillas de invierno. El chico de delante sigue andando; el de atrás mira fijamente hacia fuera.",
+      "craft": "La procesión se dispone plana sobre el lienzo como un friso, de modo que se lee como un paso lento de izquierda a derecha. El color está apagado en grises, marrones y verde sucio, lo que deja todo el trabajo al blanco de la venda, del ala y de las flores.",
+      "painter": "Simberg lo pintó en Helsinki tras una larga enfermedad, paseando por el parque de Eläintarha de donde procede el escenario. Se negó toda su vida a explicar el significado del cuadro y más tarde lo repitió como fresco en la catedral de Tampere.",
+      "point": "La inocencia herida transportada por muchachos corrientes, y el de atrás mirándote de frente para asegurarse de que lo has visto."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "In a 2006 public vote organised by the Ateneum the picture was chosen as Finland's national painting.",
+    "es": "En una votación pública organizada por el Ateneum en 2006, la obra fue elegida como la pintura nacional de Finlandia."
+  },
+  "tags": [
+    "symbolism",
+    "allegory",
+    "20th century"
+  ],
+  "notables": [
+    {
+      "en": "The angel's eyes are bandaged, so she cannot see where she is being taken.",
+      "es": "El ángel lleva los ojos vendados, de modo que no ve adónde la llevan."
+    },
+    {
+      "en": "She holds snowdrops, the first flower of spring and a sign of recovery.",
+      "es": "Sostiene campanillas de invierno, la primera flor de la primavera y señal de recuperación."
+    },
+    {
+      "en": "The rear boy looks out at the viewer, the only figure to acknowledge us.",
+      "es": "El muchacho de atrás mira al espectador, la única figura que repara en nosotros."
+    }
+  ]
+}

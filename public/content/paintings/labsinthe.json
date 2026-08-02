@@ -1,0 +1,64 @@
+{
+  "id": "labsinthe",
+  "title": {
+    "en": "L'Absinthe",
+    "es": "La absenta"
+  },
+  "artist": "Edgar Degas",
+  "year": 1875,
+  "movement": "impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "92 x 68 cm",
+  "location": {
+    "museum": "Musée d'Orsay",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/labsinthe.webp",
+    "width": 1166,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/Edgar_Degas_-_In_a_Caf%C3%A9_-_Google_Art_Project_2.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A woman sits at a café table with a cloudy glass of absinthe in front of her, shoulders dropped, eyes on nothing. Beside her a bearded man in a hat looks away out of the frame. Two empty marble tables run diagonally across the foreground between them and us.",
+      "craft": "The empty tables are the whole device: they push the pair back into the room and leave the bottom third of the picture unoccupied, so the composition feels overheard rather than posed. The zigzag of table edges and the off-centre cropping borrow directly from photography.",
+      "painter": "Degas posed two friends in the Café de la Nouvelle-Athènes on the Place Pigalle: the actress Ellen Andrée and the engraver Marcellin Desboutin. He worked obsessively from models in studio conditions, revising for months, and disliked being called an Impressionist, preferring to describe himself as a realist.",
+      "point": "Two people at one table, entirely alone, painted without a word of comment either way."
+    },
+    "es": {
+      "scene": "Una mujer se sienta ante una mesa de café con una copa turbia de absenta delante, los hombros caídos, la mirada en nada. A su lado, un hombre barbudo con sombrero mira fuera del cuadro. Dos mesas de mármol vacías cruzan en diagonal el primer plano entre ellos y nosotros.",
+      "craft": "Las mesas vacías son todo el recurso: empujan a la pareja hacia el fondo y dejan desocupado el tercio inferior, de modo que la escena parece sorprendida y no posada. El zigzag de los bordes y el encuadre descentrado provienen directamente de la fotografía.",
+      "painter": "Degas hizo posar a dos amigos en el Café de la Nouvelle-Athènes, en la plaza Pigalle: la actriz Ellen Andrée y el grabador Marcellin Desboutin. Trabajaba obsesivamente con modelos en condiciones de estudio, corrigiendo durante meses, y detestaba que lo llamaran impresionista: prefería describirse como realista.",
+      "point": "Dos personas en una misma mesa, del todo solas, pintadas sin una palabra de juicio en ningún sentido."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "When the picture was shown in London in 1893 critics called it a degrading warning against drink, and Degas had to state publicly that his sitters were an actress and an artist.",
+    "es": "Cuando se expuso en Londres en 1893, la crítica la llamó una advertencia degradante contra la bebida, y Degas tuvo que declarar que sus modelos eran una actriz y un artista."
+  },
+  "tags": [
+    "impressionism",
+    "cafe life",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "Her glass holds absinthe; his holds a darker morning drink, and neither has been touched.",
+      "es": "Su copa contiene absenta; la de él, una bebida matinal más oscura, y ninguna se ha tocado."
+    },
+    {
+      "en": "Newspapers on wooden batons, the café's own, lie on the table between them.",
+      "es": "Sobre la mesa hay periódicos montados en varillas de madera, propiedad del café."
+    },
+    {
+      "en": "Her feet are cut off by the table edge, a framing trick learned from photographs.",
+      "es": "El borde de la mesa corta sus pies, un truco de encuadre aprendido de la fotografía."
+    }
+  ]
+}

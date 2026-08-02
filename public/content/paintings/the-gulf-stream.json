@@ -1,0 +1,64 @@
+{
+  "id": "the-gulf-stream",
+  "title": {
+    "en": "The Gulf Stream",
+    "es": "La corriente del Golfo"
+  },
+  "artist": "Winslow Homer",
+  "year": 1899,
+  "movement": "realism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "71 x 125 cm",
+  "location": {
+    "museum": "The Metropolitan Museum of Art",
+    "city": "New York"
+  },
+  "image": {
+    "src": "img/the-gulf-stream.webp",
+    "width": 1600,
+    "height": 962,
+    "source_url": "https://commons.wikimedia.org/wiki/Winslow_Homer_-_The_Gulf_Stream_-_Metropolitan_Museum_of_Art.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A Black sailor lies on the deck of a small boat that has lost its mast and rudder, propped on one elbow, looking away from us. Sharks circle in the swell around him, one with its mouth open. A waterspout twists on the right and a ship crosses the far horizon.",
+      "craft": "Homer sets the boat on a long diagonal and cuts the horizon high so the sea fills the picture. The water is built from broad wet strokes of green and blue with red streaks worked into the foreground trough, and the distant ship is small enough to be missed entirely.",
+      "painter": "Homer painted this after winters in the Bahamas and Florida, working up studies made a decade earlier. When collectors pressed him about the man's fate he wrote back sarcastically that the sailor would be rescued and returned home to live happily ever after.",
+      "point": "A man entirely alone between rescue and death, painted so that the picture withholds which one is coming."
+    },
+    "es": {
+      "scene": "Un marinero negro yace en la cubierta de una barca que ha perdido el mástil y el timón, apoyado en un codo, mirando lejos de nosotros. Los tiburones giran en el oleaje a su alrededor, uno con las fauces abiertas. Una tromba marina se retuerce a la derecha y un barco cruza el horizonte.",
+      "craft": "Homer coloca la barca en una larga diagonal y sitúa el horizonte alto para que el mar llene el cuadro. El agua se construye con anchas pinceladas húmedas de verde y azul, con vetas rojas trabajadas en el seno del primer plano, y el barco lejano es tan pequeño que puede pasar inadvertido.",
+      "painter": "Homer pintó esta obra tras varios inviernos en las Bahamas y Florida, elaborando estudios hechos una década antes. Cuando los coleccionistas lo presionaron sobre el destino del hombre, respondió con sarcasmo que sería rescatado y devuelto a casa para vivir feliz para siempre.",
+      "point": "Un hombre completamente solo entre el rescate y la muerte, pintado de modo que el cuadro no revela cuál de los dos llega."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The Metropolitan bought the painting in 1906 only after Homer, tired of questions about it, told his dealer to raise the price rather than explain the picture.",
+    "es": "El Metropolitan compró el cuadro en 1906 después de que Homer, harto de preguntas, dijera a su marchante que subiera el precio en lugar de explicar la obra."
+  },
+  "tags": [
+    "realism",
+    "seascape",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "A ship crosses the horizon at upper left, the one chance of rescue in the picture.",
+      "es": "Un barco cruza el horizonte arriba a la izquierda, la única posibilidad de rescate del cuadro."
+    },
+    {
+      "en": "Stalks of sugar cane lie on the deck beside him, the boat's only cargo.",
+      "es": "Junto a él hay cañas de azúcar sobre la cubierta, la única carga de la barca."
+    },
+    {
+      "en": "The water in the foreground trough is streaked red where the sharks have been.",
+      "es": "El agua del seno en primer plano está veteada de rojo donde han estado los tiburones."
+    }
+  ]
+}

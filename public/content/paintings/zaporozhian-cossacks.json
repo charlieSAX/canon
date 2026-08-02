@@ -1,0 +1,64 @@
+{
+  "id": "zaporozhian-cossacks",
+  "title": {
+    "en": "Reply of the Zaporozhian Cossacks",
+    "es": "La respuesta de los cosacos zapórogos"
+  },
+  "artist": "Ilya Repin",
+  "year": 1891,
+  "movement": "realism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "203 x 358 cm",
+  "location": {
+    "museum": "State Russian Museum",
+    "city": "Saint Petersburg"
+  },
+  "image": {
+    "src": "img/zaporozhian-cossacks.webp",
+    "width": 1600,
+    "height": 946,
+    "source_url": "https://commons.wikimedia.org/wiki/Ilja_Jefimowitsch_Repin_-_Reply_of_the_Zaporozhian_Cossacks_-_Yorck.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A crowd of Cossacks presses round a table in the open air, roaring with laughter. At the centre a scribe dips his pen, writing to dictation. Faces lean in from every side: a man in a red coat with his back to us, a bare-chested giant, an old fighter wiping his eyes.",
+      "craft": "Repin builds a ring of heads so that the laughter travels round the group and comes back, and makes the scribe the one still point in it. Every face is worked as an individual portrait, and the composition has no single hero, only a collective noise.",
+      "painter": "Repin worked on the picture for roughly a decade, travelling to the Ukrainian steppe for material and using friends and scholars as models. The historian Dmytro Yavornytsky, his adviser on Cossack history, sat for the scribe at the centre of the table.",
+      "point": "Defiance as comedy: a besieged people answering an ultimatum from a sultan with obscenity, and the painting siding entirely with the laughter."
+    },
+    "es": {
+      "scene": "Una multitud de cosacos se apretuja alrededor de una mesa al aire libre, rugiendo de risa. En el centro un escribano moja la pluma y escribe al dictado. Los rostros se inclinan desde todos lados: un hombre de casaca roja de espaldas, un gigante sin camisa, un viejo luchador secándose los ojos.",
+      "craft": "Repin construye un anillo de cabezas para que la risa recorra el grupo y regrese, y convierte al escribano en su único punto quieto. Cada rostro está trabajado como un retrato individual y la composición no tiene un héroe, solo un estruendo colectivo.",
+      "painter": "Repin trabajó en el cuadro cerca de una década, viajó a la estepa ucraniana en busca de material y usó a amigos y eruditos como modelos. El historiador Dmytro Yavornytsky, su asesor en historia cosaca, posó para el escribano del centro de la mesa.",
+      "point": "El desafío como comedia: un pueblo asediado responde con obscenidades al ultimátum de un sultán, y el cuadro se pone del lado de la risa."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "Tsar Alexander III bought the painting for 35,000 roubles, at the time the largest sum ever paid for a Russian picture.",
+    "es": "El zar Alejandro III compró el cuadro por 35.000 rublos, entonces la mayor suma jamás pagada por una pintura rusa."
+  },
+  "tags": [
+    "realism",
+    "history painting",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The scribe's hand is the only careful, controlled gesture in the whole picture.",
+      "es": "La mano del escribano es el único gesto cuidadoso y controlado de todo el cuadro."
+    },
+    {
+      "en": "A man in a red coat sits with his back to us, blocking the view of the letter.",
+      "es": "Un hombre de casaca roja se sienta de espaldas y tapa la vista de la carta."
+    },
+    {
+      "en": "One Cossack laughs so hard he grips his friend's shoulder to stay upright.",
+      "es": "Un cosaco ríe tanto que se agarra al hombro de su compañero para no caerse."
+    }
+  ]
+}

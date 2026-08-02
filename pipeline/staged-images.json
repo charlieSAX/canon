@@ -1,0 +1,114 @@
+{
+  "wheatfield-with-crows": {
+    "src": "img/wheatfield-with-crows.webp",
+    "width": 1600,
+    "height": 766,
+    "source_url": "https://commons.wikimedia.org/wiki/Korenveld_met_kraaien_-_s0149V1962_-_Van_Gogh_Museum.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "the-night-cafe": {
+    "src": "img/the-night-cafe.webp",
+    "width": 1600,
+    "height": 1263,
+    "source_url": "https://commons.wikimedia.org/wiki/Vincent_Willem_van_Gogh_076.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "the-yellow-christ": {
+    "src": "img/the-yellow-christ.webp",
+    "width": 1272,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/Paul_Gauguin_-_The_Yellow_Christ_(Le_Christ_jaune)_1889.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "the-slave-ship": {
+    "src": "img/the-slave-ship.webp",
+    "width": 1600,
+    "height": 1201,
+    "source_url": "https://commons.wikimedia.org/wiki/Slave-ship.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "bathers-at-asnieres": {
+    "src": "img/bathers-at-asnieres.webp",
+    "width": 1600,
+    "height": 1062,
+    "source_url": "https://commons.wikimedia.org/wiki/Baigneurs_a_Asnieres.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "labsinthe": {
+    "src": "img/labsinthe.webp",
+    "width": 1166,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/Edgar_Degas_-_In_a_Caf%C3%A9_-_Google_Art_Project_2.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "the-oxbow": {
+    "src": "img/the-oxbow.webp",
+    "width": 1600,
+    "height": 1087,
+    "source_url": "https://commons.wikimedia.org/wiki/Cole_Thomas_The_Oxbow_(The_Connecticut_River_near_Northampton_1836).jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "flaming-june": {
+    "src": "img/flaming-june.webp",
+    "width": 1599,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/Flaming_June%2C_by_Frederic_Lord_Leighton_(1830-1896).jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "the-gulf-stream": {
+    "src": "img/the-gulf-stream.webp",
+    "width": 1600,
+    "height": 962,
+    "source_url": "https://commons.wikimedia.org/wiki/Winslow_Homer_-_The_Gulf_Stream_-_Metropolitan_Museum_of_Art.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "zaporozhian-cossacks": {
+    "src": "img/zaporozhian-cossacks.webp",
+    "width": 1600,
+    "height": 946,
+    "source_url": "https://commons.wikimedia.org/wiki/Ilja_Jefimowitsch_Repin_-_Reply_of_the_Zaporozhian_Cossacks_-_Yorck.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "the-wounded-angel": {
+    "src": "img/the-wounded-angel.webp",
+    "width": 1600,
+    "height": 1288,
+    "source_url": "https://commons.wikimedia.org/wiki/The_Wounded_Angel_-_Hugo_Simberg.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "the-astronomer": {
+    "src": "img/the-astronomer.webp",
+    "width": 1408,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/Johannes_Vermeer_-_The_Astronomer_-_1668.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "the-painters-studio": {
+    "src": "img/the-painters-studio.webp",
+    "width": 1600,
+    "height": 943,
+    "source_url": "https://commons.wikimedia.org/wiki/Courbet_LAtelier_du_peintre.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "madonna-munch": {
+    "src": "img/madonna-munch.webp",
+    "width": 1236,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/Edvard_Munch_-_Madonna_-_NG.M.00841_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "vision-after-the-sermon": {
+    "src": "img/vision-after-the-sermon.webp",
+    "width": 1600,
+    "height": 1254,
+    "source_url": "https://commons.wikimedia.org/wiki/La_vision_apr%C3%A8s_le_sermon_(Paul_Gauguin).jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "the-turkish-bath": {
+    "src": "img/the-turkish-bath.webp",
+    "width": 1600,
+    "height": 1593,
+    "source_url": "https://commons.wikimedia.org/wiki/Le_Bain_Turc%2C_by_Jean_Auguste_Dominique_Ingres%2C_from_C2RMFFXD.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  }
+}

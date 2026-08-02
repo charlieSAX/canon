@@ -1,0 +1,6190 @@
+{
+  "the-ghent-altarpiece": {
+    "qid": "Q734834",
+    "match_score": 1,
+    "title_en": "The Ghent Altarpiece",
+    "wikidata_label_en": "Ghent Altarpiece",
+    "wikidata_label_es": "Políptico de Gante",
+    "artist": "Jan van Eyck",
+    "artist_es": "Jan van Eyck",
+    "movement": "early-netherlandish",
+    "year": 1432,
+    "museum": "St Bavo's Cathedral",
+    "museum_es": "Catedral de San Bavón",
+    "museum_alternatives": [
+      "Munich Central Collecting Point",
+      "Bode Museum",
+      "Solly Collection"
+    ],
+    "city": "Pau",
+    "dimensions_cm": {
+      "height": 375,
+      "width": 440
+    },
+    "materials": [
+      "oak panel",
+      "oil paint"
+    ],
+    "commons_image": "Ghent Altarpiece by Jan van Eyck ALL.jpg",
+    "pd": {
+      "creator_death": 1441,
+      "inception": 1432,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q11573",
+    "city_raw": "Ghent"
+  },
+  "madonna-of-chancellor-rolin": {
+    "qid": "Q1516449",
+    "match_score": 1,
+    "title_en": "Madonna of Chancellor Rolin",
+    "wikidata_label_en": "Madonna of Chancellor Rolin",
+    "wikidata_label_es": "Virgen del canciller Rolin",
+    "artist": "Jan van Eyck",
+    "artist_es": "Jan van Eyck",
+    "movement": "early-netherlandish",
+    "year": 1500,
+    "museum": "Department of Paintings of the Louvre",
+    "museum_es": "Departamento de Pinturas del Museo del Louvre",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 66,
+      "width": 62
+    },
+    "materials": [
+      "panel",
+      "oil paint"
+    ],
+    "commons_image": "The Virgin with Chancellor Rolin by Jan van Eyck (Louvre).webp",
+    "pd": {
+      "creator_death": 1441,
+      "inception": 1500,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "portrait-of-a-man-red-turban": {
+    "qid": "Q107438391",
+    "match_score": 1,
+    "title_en": "Portrait of a Man",
+    "wikidata_label_en": "Portrait of a man",
+    "wikidata_label_es": null,
+    "artist": "Jan van Eyck",
+    "artist_es": "Jan van Eyck",
+    "movement": "early-netherlandish",
+    "year": 1430,
+    "museum": "Gemäldegalerie Berlin",
+    "museum_es": "Gemäldegalerie de Berlín",
+    "museum_alternatives": [],
+    "city": "Berlin",
+    "dimensions_cm": {
+      "height": 11.8,
+      "width": 8.8
+    },
+    "materials": [
+      "oak panel",
+      "oil paint"
+    ],
+    "commons_image": "Jan van Eyck - Bildnis eines Mannes, 1420 - 1440, 523C.jpg",
+    "pd": {
+      "creator_death": 1441,
+      "inception": 1430,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Bezirk Mitte"
+  },
+  "merode-altarpiece": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Triptych with the Entombment of Christ (0.00)",
+      "Mass of St. Gregory (0.00)",
+      "The Annunciation (0.00)"
+    ]
+  },
+  "portrait-of-a-lady-weyden": {
+    "qid": "Q2439462",
+    "match_score": 1,
+    "title_en": "Portrait of a Lady",
+    "wikidata_label_en": "Portrait of a Lady",
+    "wikidata_label_es": "Retrato de una dama",
+    "artist": "Rogier van der Weyden",
+    "artist_es": "Rogier van der Weyden",
+    "movement": "early-netherlandish",
+    "year": 1460,
+    "museum": "Andrew W. Mellon collection",
+    "museum_es": null,
+    "museum_alternatives": [],
+    "city": "Washington, D.C.",
+    "dimensions_cm": {
+      "height": 34,
+      "width": 25.5
+    },
+    "materials": [
+      "oak panel",
+      "oil paint"
+    ],
+    "commons_image": "Rogier van der Weyden - Portrait of a Lady - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1464,
+      "inception": 1460,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "the-haywain-triptych": {
+    "qid": "Q2213811",
+    "match_score": 1,
+    "title_en": "The Haywain Triptych",
+    "wikidata_label_en": "The Haywain Triptych",
+    "wikidata_label_es": "El carro de heno",
+    "artist": "Hieronymus Bosch",
+    "artist_es": "Jerónimo Bosch",
+    "movement": "early-netherlandish",
+    "year": 1510,
+    "museum": "Museo del Prado",
+    "museum_es": "Museo del Prado",
+    "museum_alternatives": [],
+    "city": "Madrid",
+    "dimensions_cm": {
+      "height": 147.1,
+      "width": 212
+    },
+    "materials": [
+      "panel",
+      "oil paint"
+    ],
+    "commons_image": "Jheronimus Bosch - De hooiwagen (c.1516, Prado).jpg",
+    "pd": {
+      "creator_death": 1516,
+      "inception": 1510,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-ship-of-fools": {
+    "qid": "Q405814",
+    "match_score": 1,
+    "title_en": "The Ship of Fools",
+    "wikidata_label_en": "Ship of Fools",
+    "wikidata_label_es": "La nave de los locos",
+    "artist": "Hieronymus Bosch",
+    "artist_es": "Jerónimo Bosch",
+    "movement": "early-netherlandish",
+    "year": 1500,
+    "museum": "Department of Paintings of the Louvre",
+    "museum_es": "Departamento de Pinturas del Museo del Louvre",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 58,
+      "width": 32.5
+    },
+    "materials": [
+      "panel",
+      "oil paint"
+    ],
+    "commons_image": "Jheronimus Bosch 011.jpg",
+    "pd": {
+      "creator_death": 1516,
+      "inception": 1500,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "netherlandish-proverbs": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Outskirts of Haarlem (0.00)",
+      "View from the dunes across the Dutch plain (0.00)",
+      "Dune landscape (0.00)"
+    ]
+  },
+  "the-peasant-wedding": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Outskirts of Haarlem (0.00)",
+      "View from the dunes across the Dutch plain (0.00)",
+      "Dune landscape (0.00)"
+    ]
+  },
+  "the-triumph-of-death": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Outskirts of Haarlem (0.00)",
+      "View from the dunes across the Dutch plain (0.00)",
+      "Dune landscape (0.00)"
+    ]
+  },
+  "landscape-with-the-fall-of-icarus": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Landscape with a farm (0.50)",
+      "Landscape with Windmill. (0.50)",
+      "Dune Landscape with a Farmstead (0.50)"
+    ]
+  },
+  "the-blind-leading-the-blind": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Outskirts of Haarlem (0.00)",
+      "View from the dunes across the Dutch plain (0.00)",
+      "Dune landscape (0.00)"
+    ]
+  },
+  "childrens-games": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Outskirts of Haarlem (0.00)",
+      "View from the dunes across the Dutch plain (0.00)",
+      "Dune landscape (0.00)"
+    ]
+  },
+  "portrait-of-erasmus": {
+    "qid": "Q110572054",
+    "match_score": 1,
+    "title_en": "Portrait of Erasmus of Rotterdam",
+    "wikidata_label_en": "Portrait of Erasmus of Rotterdam",
+    "wikidata_label_es": null,
+    "artist": "Hans Holbein the Younger",
+    "artist_es": "Hans Holbein el Joven",
+    "movement": "northern-renaissance",
+    "year": 1530,
+    "museum": "David Owsley Museum of Art Ball State University",
+    "museum_es": null,
+    "museum_alternatives": [],
+    "city": "Indiana",
+    "dimensions_cm": {
+      "height": 18.1,
+      "width": 13.7
+    },
+    "materials": [
+      "oak panel",
+      "oil paint",
+      "tempera"
+    ],
+    "commons_image": "Hans Holbein d.J. und Werkstatt - Erasmus von Rotterdam.jpg",
+    "pd": {
+      "creator_death": 1543,
+      "inception": 1530,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-body-of-the-dead-christ": {
+    "qid": "Q4310527",
+    "match_score": 1,
+    "title_en": "The Body of the Dead Christ in the Tomb",
+    "wikidata_label_en": "The Body of the Dead Christ in the Tomb",
+    "wikidata_label_es": "El cuerpo de Cristo en la tumba",
+    "artist": "Hans Holbein the Younger",
+    "artist_es": "Hans Holbein el Joven",
+    "movement": "northern-renaissance",
+    "year": 1520,
+    "museum": "Kunstmuseum Basel",
+    "museum_es": "Museo de Arte de Basilea",
+    "museum_alternatives": [],
+    "city": "Canton of Basel-Stadt",
+    "dimensions_cm": {
+      "height": 30.5,
+      "width": 200
+    },
+    "materials": [
+      "panel",
+      "oil paint"
+    ],
+    "commons_image": "Holbein — Dead Christ.jpg",
+    "pd": {
+      "creator_death": 1543,
+      "inception": 1520,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Basel"
+  },
+  "portrait-of-henry-viii": {
+    "qid": "Q18685971",
+    "match_score": 1,
+    "title_en": "Portrait of Henry VIII",
+    "wikidata_label_en": "Portrait of Henry VIII",
+    "wikidata_label_es": null,
+    "artist": "Hans Holbein the Younger",
+    "artist_es": "Hans Holbein el Joven",
+    "movement": "northern-renaissance",
+    "year": 1537,
+    "museum": "Thyssen-Bornemisza Museum",
+    "museum_es": "Museo Nacional Thyssen-Bornemisza",
+    "museum_alternatives": [],
+    "city": "Madrid",
+    "dimensions_cm": {
+      "height": 28,
+      "width": 20
+    },
+    "materials": [
+      "panel",
+      "oil paint"
+    ],
+    "commons_image": "Hans Holbein, the Younger, Around 1497-1543 - Portrait of Henry VIII of England - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1543,
+      "inception": 1537,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "adam-and-eve-durer": {
+    "qid": "Q3898508",
+    "match_score": 1,
+    "title_en": "Adam and Eve",
+    "wikidata_label_en": "Adam and Eve",
+    "wikidata_label_es": "El Pecado original",
+    "artist": "Albrecht Dürer",
+    "artist_es": "Alberto Durero",
+    "movement": "northern-renaissance",
+    "year": 1504,
+    "museum": "Library of Congress",
+    "kind": "engraving",
+    "museum_es": "Biblioteca del Congreso de Estados Unidos",
+    "museum_alternatives": [
+      "Museum of Fine Arts Boston",
+      "Minneapolis Institute of Art",
+      "Staatsgalerie Stuttgart",
+      "Kupferstichkabinett Berlin",
+      "Los Angeles County Museum of Art",
+      "Art Gallery of Ontario",
+      "Israel Museum",
+      "Allen Memorial Art Museum",
+      "Staatliche Kunsthalle Karlsruhe",
+      "Clark Art Institute",
+      "Kupferstich-Kabinett Dresden",
+      "Royal Albert Memorial Museum & Art Gallery",
+      "Art Institute of Chicago",
+      "Harvard Art Museums",
+      "Städel Museum",
+      "Graphic Art Collection of the City of Nuremberg",
+      "Princeton Art Museum",
+      "British Museum",
+      "Cincinnati Art Museum",
+      "Chester Beatty Library",
+      "Metropolitan Museum of Art",
+      "The Morgan Library & Museum",
+      "Rijksmuseum",
+      "Cleveland Museum of Art",
+      "Teylers Museum",
+      "National Museum in Warsaw",
+      "Rosenwald Collection",
+      "Prints in the National Gallery of Art"
+    ],
+    "city": "Dublin City",
+    "dimensions_cm": {
+      "height": 25.1,
+      "width": 19.4
+    },
+    "materials": [
+      "laid paper"
+    ],
+    "commons_image": "Albrecht Dürer - Adam and Eve - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1528,
+      "inception": 1504,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Washington, D.C."
+  },
+  "the-four-apostles": {
+    "qid": "Q829270",
+    "match_score": 1,
+    "title_en": "The Four Apostles",
+    "wikidata_label_en": "The Four Apostles",
+    "wikidata_label_es": "Cuatro apóstoles",
+    "artist": "Albrecht Dürer",
+    "artist_es": "Alberto Durero",
+    "movement": "northern-renaissance",
+    "year": 1526,
+    "museum": "Bavarian State Painting Collections",
+    "kind": "diptych",
+    "museum_es": "Colecciones de Pinturas del Estado de Baviera",
+    "museum_alternatives": [
+      "Alte Pinakothek, upper floor, gallery II"
+    ],
+    "city": "Munich",
+    "dimensions_cm": {
+      "height": 212.8,
+      "width": 76.2
+    },
+    "materials": [
+      "panel",
+      "oil paint"
+    ],
+    "commons_image": "Albrecht Dürer - The Four Apostles, Saints John, Peter, Mark and Paul.jpg",
+    "pd": {
+      "creator_death": 1528,
+      "inception": 1526,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "young-hare": {
+    "qid": "Q699388",
+    "match_score": 1,
+    "title_en": "Young Hare",
+    "wikidata_label_en": "Young Hare",
+    "wikidata_label_es": "Liebre joven",
+    "artist": "Albrecht Dürer",
+    "artist_es": "Alberto Durero",
+    "movement": "northern-renaissance",
+    "year": 1502,
+    "museum": "Albertina",
+    "kind": "watercolor painting",
+    "museum_es": "Albertina",
+    "museum_alternatives": [],
+    "city": "Vienna",
+    "dimensions_cm": {
+      "height": 25,
+      "width": 22.5
+    },
+    "materials": [
+      "top color",
+      "watercolor paint",
+      "paper"
+    ],
+    "commons_image": "Albrecht Dürer - Hare, 1502 - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1528,
+      "inception": 1502,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-tribute-money": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Pisa Polyptych (0.00)",
+      "A Young Man in a scarlet turban (0.00)",
+      "Saint Andrew (0.00)"
+    ]
+  },
+  "expulsion-from-the-garden-of-eden": {
+    "qid": "Q2736379",
+    "match_score": 1,
+    "title_en": "The Expulsion from the Garden of Eden",
+    "wikidata_label_en": "Expulsion from the Garden of Eden",
+    "wikidata_label_es": "Expulsión de Adán y Eva del Paraíso terrenal",
+    "artist": "Masaccio",
+    "artist_es": "Masaccio",
+    "movement": "early-renaissance",
+    "year": 1424,
+    "museum": "Santa Maria del Carmine",
+    "kind": "fresco",
+    "museum_es": "iglesia de Santa María del Carmine",
+    "museum_alternatives": [
+      "Brancacci Chapel"
+    ],
+    "city": "Florence",
+    "dimensions_cm": {
+      "height": 208,
+      "width": 88
+    },
+    "materials": [
+      "fresco"
+    ],
+    "commons_image": "03 2015 Basilica di Santa Maria del Carmine (Firenze)-Cappella Brancacci-Adamo Eva Cacciata Paradiso terrestre-Masaccio- Photo Paolo Villa FOTO9202bis.JPG",
+    "pd": {
+      "creator_death": 1428,
+      "inception": 1424,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "holy-trinity-masaccio": {
+    "qid": "Q977200",
+    "match_score": 1,
+    "title_en": "Holy Trinity",
+    "wikidata_label_en": "Holy Trinity",
+    "wikidata_label_es": "Trinidad",
+    "artist": "Masaccio",
+    "artist_es": "Masaccio",
+    "movement": "early-renaissance",
+    "year": 1420,
+    "museum": "Basilica of Santa Maria Novella",
+    "kind": "fresco",
+    "museum_es": "iglesia de Santa María Novella",
+    "museum_alternatives": [],
+    "city": "Florence",
+    "dimensions_cm": {
+      "height": 667,
+      "width": 317
+    },
+    "materials": [
+      "fresco"
+    ],
+    "commons_image": "Masaccio - Trinity - Santa Maria Novella.jpg",
+    "pd": {
+      "creator_death": 1428,
+      "inception": 1420,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-flagellation-of-christ": {
+    "qid": "Q1212920",
+    "match_score": 1,
+    "title_en": "The Flagellation of Christ",
+    "wikidata_label_en": "Flagellation of Christ",
+    "wikidata_label_es": "La flagelación",
+    "artist": "Piero della Francesca",
+    "artist_es": "Piero della Francesca",
+    "movement": "early-renaissance",
+    "year": 1459,
+    "museum": "Galleria Nazionale delle Marche",
+    "museum_es": "Galería Nacional de las Marcas",
+    "museum_alternatives": [],
+    "city": "Urbino",
+    "dimensions_cm": {
+      "height": 67.5,
+      "width": 91
+    },
+    "materials": [
+      "poplar panel",
+      "tempera"
+    ],
+    "commons_image": "Piero della Francesca Flagellazione-gndm-full.jpg",
+    "pd": {
+      "creator_death": 1492,
+      "inception": 1459,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-baptism-of-christ-piero": {
+    "qid": "Q2632688",
+    "match_score": 1,
+    "title_en": "The Baptism of Christ",
+    "wikidata_label_en": "The Baptism of Christ",
+    "wikidata_label_es": "El bautismo de Cristo",
+    "artist": "Piero della Francesca",
+    "artist_es": "Piero della Francesca",
+    "movement": "early-renaissance",
+    "year": 1448,
+    "museum": "National Gallery",
+    "museum_es": "National Gallery de Londres",
+    "museum_alternatives": [],
+    "city": "London",
+    "dimensions_cm": {
+      "height": 168,
+      "width": 116
+    },
+    "materials": [
+      "tempera",
+      "wood"
+    ],
+    "commons_image": "Piero della Francesca - Battesimo di Cristo (National Gallery, London).jpg",
+    "pd": {
+      "creator_death": 1492,
+      "inception": 1448,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "City of Westminster"
+  },
+  "the-resurrection-piero": {
+    "qid": "Q430293",
+    "match_score": 1,
+    "title_en": "The Resurrection",
+    "wikidata_label_en": "The Resurrection",
+    "wikidata_label_es": "La resurrección de risto",
+    "artist": "Piero della Francesca",
+    "artist_es": "Piero della Francesca",
+    "movement": "early-renaissance",
+    "year": 1463,
+    "museum": "Museo Civico di Sansepolcro",
+    "kind": "fresco",
+    "museum_es": "Museo Civico di Sansepolcro",
+    "museum_alternatives": [
+      "Sansepolcro",
+      "Italy"
+    ],
+    "city": "Sansepolcro",
+    "dimensions_cm": {
+      "height": 225,
+      "width": 200
+    },
+    "materials": [
+      "distemper",
+      "fresco"
+    ],
+    "commons_image": "Resurrection.JPG",
+    "pd": {
+      "creator_death": 1492,
+      "inception": 1463,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "duke-of-urbino-diptych": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Federico da Montefeltro, Duke of Urbino (0.40)",
+      "Diptych of Federico da Montefeltro and Battista Sforza (0.25)",
+      "Hercules (0.00)"
+    ]
+  },
+  "adoration-of-the-magi-botticelli": {
+    "qid": "Q115652286",
+    "match_score": 1,
+    "title_en": "Adoration of the Magi",
+    "wikidata_label_en": "Adoration of the Magi",
+    "wikidata_label_es": null,
+    "artist": "Sandro Botticelli",
+    "artist_es": "Sandro Botticelli",
+    "movement": "early-renaissance",
+    "year": 1500,
+    "museum": "Uffizi Gallery",
+    "museum_es": "Galería Uffizi",
+    "museum_alternatives": [],
+    "city": "Florence",
+    "dimensions_cm": {
+      "height": 107.5,
+      "width": 173
+    },
+    "materials": [
+      "panel",
+      "tempera"
+    ],
+    "commons_image": "Botticelli, adorazione dei magi uffizi 1490--1500.jpg",
+    "pd": {
+      "creator_death": 1510,
+      "inception": 1500,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "venus-and-mars": {
+    "qid": "Q2293953",
+    "match_score": 1,
+    "title_en": "Venus and Mars",
+    "wikidata_label_en": "Venus and Mars",
+    "wikidata_label_es": "Venus y Marte",
+    "artist": "Sandro Botticelli",
+    "artist_es": "Sandro Botticelli",
+    "movement": "early-renaissance",
+    "year": 1485,
+    "museum": "National Gallery",
+    "museum_es": "National Gallery de Londres",
+    "museum_alternatives": [],
+    "city": "London",
+    "dimensions_cm": {
+      "height": 69,
+      "width": 173.9
+    },
+    "materials": [
+      "poplar panel",
+      "oil paint",
+      "plaster",
+      "tempera"
+    ],
+    "commons_image": "Venus and Mars.jpg",
+    "pd": {
+      "creator_death": 1510,
+      "inception": 1485,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "City of Westminster"
+  },
+  "the-mystical-nativity": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "The Nativity (0.50)",
+      "Nativity (0.50)",
+      "Nativity (0.50)"
+    ]
+  },
+  "st-sebastian-mantegna": {
+    "qid": "Q3947948",
+    "match_score": 1,
+    "title_en": "Saint Sebastian",
+    "wikidata_label_en": "Saint Sebastian",
+    "wikidata_label_es": null,
+    "artist": "Andrea Mantegna",
+    "artist_es": "Andrea Mantegna",
+    "movement": "early-renaissance",
+    "year": 1450,
+    "museum": "Kunsthistorisches Museum",
+    "museum_es": "Museo de Historia del Arte de Viena",
+    "museum_alternatives": [],
+    "city": "Vienna",
+    "dimensions_cm": {
+      "height": 68,
+      "width": 30
+    },
+    "materials": [
+      "poplar wood",
+      "tempera"
+    ],
+    "commons_image": "Andrea Mantegna, Kunsthistorisches Museum Wien, Gemäldegalerie - Hl. Sebastian - GG 301 - Kunsthistorisches Museum.jpg",
+    "pd": {
+      "creator_death": 1506,
+      "inception": 1450,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-procession-of-the-magi": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Magi Chapel (0.50)",
+      "Adoration of the Magi (0.50)",
+      "Journey of the Magi (0.50)"
+    ]
+  },
+  "lady-with-an-ermine": {
+    "qid": "Q474338",
+    "match_score": 1,
+    "title_en": "Lady with an Ermine",
+    "wikidata_label_en": "Lady with an Ermine",
+    "wikidata_label_es": "La dama del armiño",
+    "artist": "Leonardo da Vinci",
+    "artist_es": null,
+    "movement": "high-renaissance",
+    "year": 1490,
+    "museum": "Czartoryski Museum",
+    "museum_es": "Museo Czartoryski",
+    "museum_alternatives": [],
+    "city": "Kraków",
+    "dimensions_cm": {
+      "height": 54,
+      "width": 39
+    },
+    "materials": [
+      "walnut panel",
+      "panel",
+      "oil paint",
+      "tempera"
+    ],
+    "commons_image": "Lady with an Ermine - Leonardo da Vinci - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1519,
+      "inception": 1490,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "virgin-of-the-rocks": {
+    "qid": "Q4009972",
+    "match_score": 1,
+    "title_en": "Virgin of the Rocks",
+    "wikidata_label_en": "Virgin of the Rocks",
+    "wikidata_label_es": "La Virgen de las Rocas",
+    "artist": "Leonardo da Vinci",
+    "artist_es": null,
+    "movement": "high-renaissance",
+    "year": 1500,
+    "museum": "National Gallery",
+    "museum_es": "National Gallery de Londres",
+    "museum_alternatives": [],
+    "city": "London",
+    "dimensions_cm": {
+      "height": 189.5,
+      "width": 120
+    },
+    "materials": [
+      "poplar panel",
+      "oil paint"
+    ],
+    "commons_image": "Leonardo da Vinci Virgin of the Rocks (National Gallery London).jpg",
+    "pd": {
+      "creator_death": 1519,
+      "inception": 1500,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "City of Westminster"
+  },
+  "the-annunciation-leonardo": {
+    "qid": "Q1217213",
+    "match_score": 1,
+    "title_en": "Annunciation",
+    "wikidata_label_en": "Annunciation",
+    "wikidata_label_es": "Anunciación",
+    "artist": "Leonardo da Vinci",
+    "artist_es": null,
+    "movement": "high-renaissance",
+    "year": 1472,
+    "museum": "Uffizi Gallery",
+    "museum_es": "Galería Uffizi",
+    "museum_alternatives": [],
+    "city": "Florence",
+    "dimensions_cm": {
+      "height": 90,
+      "width": 222
+    },
+    "materials": [
+      "panel",
+      "oil paint"
+    ],
+    "commons_image": "Annunciation (Leonardo) (cropped).jpg",
+    "pd": {
+      "creator_death": 1519,
+      "inception": 1472,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-virgin-and-child-with-st-anne": {
+    "qid": "Q563727",
+    "match_score": 1,
+    "title_en": "The Virgin and Child with Saint Anne",
+    "wikidata_label_en": "The Virgin and Child with Saint Anne",
+    "wikidata_label_es": "La Virgen, el Niño Jesús y Santa Ana",
+    "artist": "Leonardo da Vinci",
+    "artist_es": null,
+    "movement": "high-renaissance",
+    "year": 1511,
+    "museum": "Department of Paintings of the Louvre",
+    "museum_es": "Departamento de Pinturas del Museo del Louvre",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 168,
+      "width": 130
+    },
+    "materials": [
+      "poplar panel",
+      "oil paint"
+    ],
+    "commons_image": "Sainte Anne Leonard.jpg",
+    "pd": {
+      "creator_death": 1519,
+      "inception": 1511,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "the-last-judgement": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": []
+  },
+  "doni-tondo": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": []
+  },
+  "the-transfiguration-raphael": {
+    "qid": "Q2344437",
+    "match_score": 1,
+    "title_en": "Transfiguration",
+    "wikidata_label_en": "Transfiguration",
+    "wikidata_label_es": "La transfiguración",
+    "artist": "Raphael",
+    "artist_es": "Rafael Sanzio",
+    "movement": "high-renaissance",
+    "year": 1518,
+    "museum": "Pinacoteca Vaticana",
+    "museum_es": "Pinacoteca Vaticana",
+    "museum_alternatives": [],
+    "city": "Vatican City",
+    "dimensions_cm": {
+      "height": 410,
+      "width": 279
+    },
+    "materials": [
+      "panel",
+      "oil paint"
+    ],
+    "commons_image": "Transfigurazione (Raffaello) September 2015-1a.jpg",
+    "pd": {
+      "creator_death": 1520,
+      "inception": 1518,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "madonna-of-the-meadow": {
+    "qid": "Q2452858",
+    "match_score": 1,
+    "title_en": "Madonna del Prato",
+    "wikidata_label_en": "Madonna del Prato",
+    "wikidata_label_es": "Virgen del prado",
+    "artist": "Raphael",
+    "artist_es": "Rafael Sanzio",
+    "movement": "high-renaissance",
+    "year": 1505,
+    "museum": "Kunsthistorisches Museum",
+    "museum_es": "Museo de Historia del Arte de Viena",
+    "museum_alternatives": [],
+    "city": "Vienna",
+    "dimensions_cm": {
+      "height": 113,
+      "width": 88.5
+    },
+    "materials": [
+      "poplar panel",
+      "oil paint"
+    ],
+    "commons_image": "Raphael - Madonna in the Meadow - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1520,
+      "inception": 1505,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "portrait-of-baldassare-castiglione": {
+    "qid": "Q546977",
+    "match_score": 1,
+    "title_en": "Portrait of Baldassare Castiglione",
+    "wikidata_label_en": "Portrait of Baldassare Castiglione",
+    "wikidata_label_es": "Retrato de Baltasar Castiglione",
+    "artist": "Raphael",
+    "artist_es": "Rafael Sanzio",
+    "movement": "high-renaissance",
+    "year": 1515,
+    "museum": "Department of Paintings of the Louvre",
+    "museum_es": "Departamento de Pinturas del Museo del Louvre",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 82,
+      "width": 67
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Baldassare Castiglione, by Raffaello Sanzio, from C2RMF retouched.jpg",
+    "pd": {
+      "creator_death": 1520,
+      "inception": 1515,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "la-fornarina": {
+    "qid": "Q153441",
+    "match_score": 1,
+    "title_en": "La Fornarina",
+    "wikidata_label_en": "La fornarina",
+    "wikidata_label_es": "La Fornarina",
+    "artist": "Raphael",
+    "artist_es": "Rafael Sanzio",
+    "movement": "high-renaissance",
+    "year": 1519,
+    "museum": "Galleria Nazionale d'Arte Antica",
+    "museum_es": "Galería Nacional de Arte Antiguo",
+    "museum_alternatives": [],
+    "city": "Rome",
+    "dimensions_cm": {
+      "height": 87,
+      "width": 60
+    },
+    "materials": [
+      "panel",
+      "oil paint"
+    ],
+    "commons_image": "Raffaello Sanzio - La Fornarina (ca. 1519-1520).jpg",
+    "pd": {
+      "creator_death": 1520,
+      "inception": 1519,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "sacred-and-profane-love": {
+    "qid": "Q794077",
+    "match_score": 1,
+    "title_en": "Sacred and Profane Love",
+    "wikidata_label_en": "Sacred and Profane Love",
+    "wikidata_label_es": "Amor sacro y amor profano",
+    "artist": "Titian",
+    "artist_es": "Tiziano",
+    "movement": "venetian-renaissance",
+    "year": 1514,
+    "museum": "Galleria Borghese",
+    "museum_es": "Galería Borghese",
+    "museum_alternatives": [
+      "Borghese Collection"
+    ],
+    "city": "Roma Capitale",
+    "dimensions_cm": {
+      "height": 118,
+      "width": 279
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Tiziano - Amor Sacro y Amor Profano (Galería Borghese, Roma, 1514)FXD.jpg",
+    "pd": {
+      "creator_death": 1576,
+      "inception": 1514,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "assumption-of-the-virgin": {
+    "qid": "Q1899740",
+    "match_score": 1,
+    "title_en": "Assumption of the Virgin",
+    "wikidata_label_en": "Assumption of the Virgin",
+    "wikidata_label_es": "La Asunción de la Virgen",
+    "artist": "Titian",
+    "artist_es": "Tiziano",
+    "movement": "venetian-renaissance",
+    "year": 1517,
+    "museum": "Santa Maria Gloriosa dei Frari",
+    "museum_es": "basílica de Santa María dei Frari",
+    "museum_alternatives": [],
+    "city": "Venice",
+    "dimensions_cm": {
+      "height": 668,
+      "width": 344
+    },
+    "materials": [
+      "panel",
+      "oil paint"
+    ],
+    "commons_image": "Tizian 041.jpg",
+    "pd": {
+      "creator_death": 1576,
+      "inception": 1517,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "danae-titian": {
+    "qid": "Q3701421",
+    "match_score": 1,
+    "title_en": "Danaë",
+    "wikidata_label_en": "Danaë",
+    "wikidata_label_es": "Dánae",
+    "artist": "Titian",
+    "artist_es": "Tiziano",
+    "movement": "venetian-renaissance",
+    "year": 1554,
+    "museum": "Hermitage Museum",
+    "museum_es": "Museo del Hermitage",
+    "museum_alternatives": [],
+    "city": "Saint Petersburg",
+    "dimensions_cm": {
+      "height": 120,
+      "width": 187
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Titian - Danae (Hermitage Version).jpg",
+    "pd": {
+      "creator_death": 1576,
+      "inception": 1554,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-rape-of-europa": {
+    "qid": "Q18002417",
+    "match_score": 1,
+    "title_en": "The Rape of Europa",
+    "wikidata_label_en": "The Rape of Europa",
+    "wikidata_label_es": "El rapto de Europa",
+    "artist": "Titian",
+    "artist_es": "Tiziano",
+    "movement": "venetian-renaissance",
+    "year": 1560,
+    "museum": "Isabella Stewart Gardner Museum",
+    "museum_es": "museo Isabella Stewart Gardner",
+    "museum_alternatives": [],
+    "city": "Boston",
+    "dimensions_cm": {
+      "height": 185,
+      "width": 205
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Tizian 085.jpg",
+    "pd": {
+      "creator_death": 1576,
+      "inception": 1560,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "sleeping-venus": {
+    "qid": "Q500812",
+    "match_score": 1,
+    "title_en": "Sleeping Venus",
+    "wikidata_label_en": "Sleeping Venus",
+    "wikidata_label_es": "Venus dormida",
+    "artist": "Giorgione",
+    "artist_es": "Giorgione",
+    "movement": "venetian-renaissance",
+    "year": 1509,
+    "museum": "Staatliche Kunstsammlungen Dresden",
+    "museum_es": null,
+    "museum_alternatives": [],
+    "city": "Dresden",
+    "dimensions_cm": {
+      "height": 108.5,
+      "width": 175
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Giorgione - Sleeping Venus - Google Art Project 2.jpg",
+    "pd": {
+      "creator_death": 1510,
+      "inception": 1509,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-wedding-at-cana": {
+    "qid": "Q29563416",
+    "match_score": 1,
+    "title_en": "The Wedding at Cana",
+    "wikidata_label_en": "The Wedding at Cana",
+    "wikidata_label_es": "Las bodas de Caná",
+    "artist": "Paolo Veronese",
+    "artist_es": "Paolo Veronese",
+    "movement": "venetian-renaissance",
+    "year": 1550,
+    "museum": "Staatliche Kunstsammlungen Dresden",
+    "museum_es": null,
+    "museum_alternatives": [],
+    "city": "Dresden",
+    "dimensions_cm": {
+      "height": 207,
+      "width": 457
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Paolo Veronese 009.jpg",
+    "pd": {
+      "creator_death": 1588,
+      "inception": 1550,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-feast-in-the-house-of-levi": {
+    "qid": "Q951105",
+    "match_score": 1,
+    "title_en": "The Feast in the House of Levi",
+    "wikidata_label_en": "The Feast in the House of Levi",
+    "wikidata_label_es": "Cena en casa de Leví",
+    "artist": "Paolo Veronese",
+    "artist_es": "Paolo Veronese",
+    "movement": "venetian-renaissance",
+    "year": 1573,
+    "museum": "Gallerie dell'Accademia",
+    "museum_es": "Galería de la Academia de Venecia",
+    "museum_alternatives": [],
+    "city": "Venice",
+    "dimensions_cm": {
+      "height": 560,
+      "width": 1039
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "The Feast in the House of Levi by Paolo Veronese (edited 2).jpg",
+    "pd": {
+      "creator_death": 1588,
+      "inception": 1573,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-last-supper-tintoretto": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Adoration of the Magi (0.00)",
+      "Portrait of a Man (0.00)",
+      "Portrait of a Young Man (0.00)"
+    ]
+  },
+  "the-miracle-of-the-slave": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Adoration of the Magi (0.00)",
+      "Portrait of a Man (0.00)",
+      "Portrait of a Young Man (0.00)"
+    ]
+  },
+  "vertumnus": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Rudolf II as Vertumnus (0.25)",
+      "Allegorical Portrait- \"Summer\" (0.00)",
+      "self-portrait (0.00)"
+    ]
+  },
+  "the-supper-at-emmaus": {
+    "qid": "Q2097931",
+    "match_score": 1,
+    "title_en": "The Supper at Emmaus",
+    "wikidata_label_en": "Supper at Emmaus",
+    "wikidata_label_es": "Los discípulos de Emaús",
+    "artist": "Caravaggio",
+    "artist_es": "Caravaggio",
+    "movement": "baroque",
+    "year": 1606,
+    "museum": "Pinacoteca di Brera",
+    "museum_es": "Pinacoteca de Brera",
+    "museum_alternatives": [],
+    "city": "Milan",
+    "dimensions_cm": {
+      "height": 141,
+      "width": 175
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Caravaggio — Supper at Emmaus.jpg",
+    "pd": {
+      "creator_death": 1610,
+      "inception": 1606,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "death-of-the-virgin": {
+    "qid": "Q597114",
+    "match_score": 1,
+    "title_en": "Death of the Virgin",
+    "wikidata_label_en": "Death of the Virgin",
+    "wikidata_label_es": "Dormíción de la Virgen",
+    "artist": "Caravaggio",
+    "artist_es": "Caravaggio",
+    "movement": "baroque",
+    "year": 1603,
+    "museum": "Department of Paintings of the Louvre",
+    "museum_es": "Departamento de Pinturas del Museo del Louvre",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 369,
+      "width": 245
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Death of the Virgin-Caravaggio (1606).jpg",
+    "pd": {
+      "creator_death": 1610,
+      "inception": 1603,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "bacchus-caravaggio": {
+    "qid": "Q2011510",
+    "match_score": 1,
+    "title_en": "Bacchus",
+    "wikidata_label_en": "Bacchus",
+    "wikidata_label_es": "Baco",
+    "artist": "Caravaggio",
+    "artist_es": "Caravaggio",
+    "movement": "baroque",
+    "year": 1598,
+    "museum": "Uffizi Gallery",
+    "museum_es": "Galería Uffizi",
+    "museum_alternatives": [],
+    "city": "Florence",
+    "dimensions_cm": {
+      "height": 95,
+      "width": 85
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Baco, por Caravaggio.jpg",
+    "pd": {
+      "creator_death": 1610,
+      "inception": 1598,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "medusa-caravaggio": {
+    "qid": "Q2293905",
+    "match_score": 1,
+    "title_en": "Medusa",
+    "wikidata_label_en": "Medusa",
+    "wikidata_label_es": "Cabeza de Medusa",
+    "artist": "Caravaggio",
+    "artist_es": "Caravaggio",
+    "movement": "baroque",
+    "year": 1597,
+    "museum": "Uffizi Gallery",
+    "museum_es": "Galería Uffizi",
+    "museum_alternatives": [],
+    "city": "Florence",
+    "dimensions_cm": {
+      "height": 60,
+      "width": 55
+    },
+    "materials": [
+      "oil paint"
+    ],
+    "commons_image": "Caravaggio - Medusa - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1610,
+      "inception": 1597,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "basket-of-fruit": {
+    "qid": "Q2270291",
+    "match_score": 1,
+    "title_en": "Basket of Fruit",
+    "wikidata_label_en": "Basket of Fruit",
+    "wikidata_label_es": "Cesto con frutas",
+    "artist": "Caravaggio",
+    "artist_es": "Caravaggio",
+    "movement": "baroque",
+    "year": 1600,
+    "museum": "Pinacoteca Ambrosiana",
+    "museum_es": "Pinacoteca Ambrosiana",
+    "museum_alternatives": [],
+    "city": "Milan",
+    "dimensions_cm": {
+      "height": 67.5,
+      "width": 54.5
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Caravaggio - Natura morta con frutta (collezione dell’Ambrosiana).jpg",
+    "pd": {
+      "creator_death": 1610,
+      "inception": 1600,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "conversion-on-the-way-to-damascus": {
+    "qid": "Q2273517",
+    "match_score": 1,
+    "title_en": "Conversion on the Way to Damascus",
+    "wikidata_label_en": "Conversion on the Way to Damascus",
+    "wikidata_label_es": "La conversión de San Pablo en el camino a Damasco",
+    "artist": "Caravaggio",
+    "artist_es": "Caravaggio",
+    "movement": "baroque",
+    "year": 1600,
+    "museum": "Santa Maria del Popolo",
+    "museum_es": "basílica de Santa María del Popolo",
+    "museum_alternatives": [],
+    "city": "Rome",
+    "dimensions_cm": {
+      "height": 230,
+      "width": 175
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Conversion on the Way to Damascus-Caravaggio (c.1600-1).jpg",
+    "pd": {
+      "creator_death": 1610,
+      "inception": 1600,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "las-hilanderas": {
+    "qid": "Q984058",
+    "match_score": 1,
+    "title_en": "Las Hilanderas",
+    "wikidata_label_en": "Las Hilanderas",
+    "wikidata_label_es": "Las Hilanderas",
+    "artist": "Diego Velázquez",
+    "artist_es": "Diego Velázquez",
+    "movement": "baroque",
+    "year": 1655,
+    "museum": "Museo del Prado",
+    "museum_es": "Museo del Prado",
+    "museum_alternatives": [],
+    "city": "Madrid",
+    "dimensions_cm": {
+      "height": 220,
+      "width": 289
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Velazquez-las hilanderas.jpg",
+    "pd": {
+      "creator_death": 1660,
+      "inception": 1655,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "portrait-of-innocent-x": {
+    "qid": "Q1240092",
+    "match_score": 1,
+    "title_en": "Portrait of Innocent X",
+    "wikidata_label_en": "Portrait of Innocent X",
+    "wikidata_label_es": "Inocencio X",
+    "artist": "Diego Velázquez",
+    "artist_es": "Diego Velázquez",
+    "movement": "baroque",
+    "year": 1700,
+    "museum": "Galleria Doria Pamphilj",
+    "museum_es": "Galería Doria-Pamphili",
+    "museum_alternatives": [],
+    "city": "Rome",
+    "dimensions_cm": {
+      "height": 141,
+      "width": 119
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Diego Velázquez, Portrait du pape Innocent X, 1650, huile sur toile, 140 × 120 cm, Rome, Galleria Doria Pamphilj (inv. 237).jpg",
+    "pd": {
+      "creator_death": 1660,
+      "inception": 1700,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-triumph-of-bacchus": {
+    "qid": "Q123935",
+    "match_score": 1,
+    "title_en": "The Triumph of Bacchus",
+    "wikidata_label_en": "The Triumph of Bacchus",
+    "wikidata_label_es": "El triunfo de Baco",
+    "artist": "Diego Velázquez",
+    "artist_es": "Diego Velázquez",
+    "movement": "baroque",
+    "year": 1628,
+    "museum": "Museo del Prado",
+    "museum_es": "Museo del Prado",
+    "museum_alternatives": [],
+    "city": "Madrid",
+    "dimensions_cm": {
+      "height": 165,
+      "width": 225
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Velázquez - El Triunfo de Baco o Los Borrachos (Museo del Prado, 1628-29).jpg",
+    "pd": {
+      "creator_death": 1660,
+      "inception": 1628,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "old-woman-frying-eggs": {
+    "qid": "Q2471800",
+    "match_score": 0.75,
+    "title_en": "Old Woman Frying Eggs",
+    "wikidata_label_en": "Old Woman Cooking Eggs",
+    "wikidata_label_es": "Vieja friendo huevos",
+    "artist": "Diego Velázquez",
+    "artist_es": "Diego Velázquez",
+    "movement": "baroque",
+    "year": 1618,
+    "museum": "National Galleries Scotland",
+    "museum_es": "Galerías nacionales de Escocia",
+    "museum_alternatives": [
+      "Cook collection"
+    ],
+    "city": "City of Edinburgh",
+    "dimensions_cm": {
+      "height": 100.5,
+      "width": 119.5
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Diego Velazquez - An Old Woman Cooking Eggs - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1660,
+      "inception": 1618,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "christ-crucified-velazquez": {
+    "qid": "Q2528741",
+    "match_score": 1,
+    "title_en": "Christ Crucified",
+    "wikidata_label_en": "Christ Crucified",
+    "wikidata_label_es": "Cristo crucificado",
+    "artist": "Diego Velázquez",
+    "artist_es": "Diego Velázquez",
+    "movement": "baroque",
+    "year": 1632,
+    "museum": "Museo del Prado",
+    "museum_es": "Museo del Prado",
+    "museum_alternatives": [],
+    "city": "Madrid",
+    "dimensions_cm": {
+      "height": 248,
+      "width": 169
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Cristo crucificado.jpg",
+    "pd": {
+      "creator_death": 1660,
+      "inception": 1632,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-immaculate-conception-murillo": {
+    "qid": "Q2456003",
+    "match_score": 1,
+    "title_en": "The Immaculate Conception of Los Venerables",
+    "wikidata_label_en": "The Immaculate Conception of Los Venerables",
+    "wikidata_label_es": "Inmaculada de Soult",
+    "artist": "Bartolomé Esteban Murillo",
+    "artist_es": "Bartolomé Esteban Murillo",
+    "movement": "baroque",
+    "year": 1660,
+    "museum": "Museo del Prado",
+    "museum_es": "Museo del Prado",
+    "museum_alternatives": [
+      "Department of Paintings of the Louvre"
+    ],
+    "city": "Madrid",
+    "dimensions_cm": {
+      "height": 274,
+      "width": 190
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Murillo immaculate conception.jpg",
+    "pd": {
+      "creator_death": 1682,
+      "inception": 1660,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "still-life-with-lemons-and-oranges": {
+    "qid": "Q7617092",
+    "match_score": 1,
+    "title_en": "Still Life with Lemons, Oranges and a Rose",
+    "wikidata_label_en": "Still Life with Lemons, Oranges and a Rose",
+    "wikidata_label_es": "Naturaleza muerta con limones, naranjas y una rosa",
+    "artist": "Francisco de Zurbarán",
+    "artist_es": "Francisco de Zurbarán",
+    "movement": "baroque",
+    "year": 1633,
+    "museum": "Norton Simon Museum",
+    "museum_es": "Museo Norton Simon",
+    "museum_alternatives": [],
+    "city": "Pasadena",
+    "dimensions_cm": {
+      "height": 62.2,
+      "width": 107
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Francisco de Zurbarán - Still-life with Lemons, Oranges and Rose - WGA26062.jpg",
+    "pd": {
+      "creator_death": 1664,
+      "inception": 1633,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-disrobing-of-christ": {
+    "qid": "Q5824977",
+    "match_score": 1,
+    "title_en": "The Disrobing of Christ",
+    "wikidata_label_en": "The Disrobing of Christ",
+    "wikidata_label_es": "El expolio",
+    "artist": "El Greco",
+    "artist_es": "El Greco",
+    "movement": "mannerism",
+    "year": 1583,
+    "museum": "Bavarian State Painting Collections",
+    "kind": "painting",
+    "museum_es": "Colecciones de Pinturas del Estado de Baviera",
+    "museum_alternatives": [
+      "Alte Pinakothek"
+    ],
+    "city": "Munich",
+    "dimensions_cm": {
+      "height": 165,
+      "width": 98.8
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "The Disrobing of Christ by El Greco (inv. 8573) - Alte Pinakothek - Munich - Germany 2017.jpg",
+    "pd": {
+      "creator_death": 1614,
+      "inception": 1583,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "laocoon-el-greco": {
+    "qid": "Q2255224",
+    "match_score": 1,
+    "title_en": "Laocoön",
+    "wikidata_label_en": "Laocoön",
+    "wikidata_label_es": "Laocoonte",
+    "artist": "El Greco",
+    "artist_es": "El Greco",
+    "movement": "mannerism",
+    "year": 1610,
+    "museum": "Samuel H. Kress Collection",
+    "kind": "painting",
+    "museum_es": null,
+    "museum_alternatives": [
+      "Washington, D.C."
+    ],
+    "city": "Washington, D.C.",
+    "dimensions_cm": {
+      "height": 142,
+      "width": 193
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "El Greco (Domenikos Theotokopoulos) - Laocoön - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1614,
+      "inception": 1610,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "the-opening-of-the-fifth-seal": {
+    "qid": "Q1220013",
+    "match_score": 1,
+    "title_en": "The Opening of the Fifth Seal",
+    "wikidata_label_en": "Opening of the Fifth Seal",
+    "wikidata_label_es": "Visión del Apocalipsis",
+    "artist": "El Greco",
+    "artist_es": "El Greco",
+    "movement": "mannerism",
+    "year": 1610,
+    "museum": "Metropolitan Museum of Art",
+    "kind": "painting",
+    "museum_es": "Museo Metropolitano de Arte",
+    "museum_alternatives": [],
+    "city": "New York",
+    "dimensions_cm": {
+      "height": 222.3,
+      "width": 193
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "El Greco, The Vision of Saint John (1608-1614).jpg",
+    "pd": {
+      "creator_death": 1614,
+      "inception": 1610,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Manhattan"
+  },
+  "the-elevation-of-the-cross": {
+    "qid": "Q2653851",
+    "match_score": 1,
+    "title_en": "The Elevation of the Cross",
+    "wikidata_label_en": "The Elevation of the Cross",
+    "wikidata_label_es": "La elevación de la cruz",
+    "artist": "Peter Paul Rubens",
+    "artist_es": "Pedro Pablo Rubens",
+    "movement": "baroque",
+    "year": 1610,
+    "museum": "Onze-Lieve-Vrouwekathedraal",
+    "kind": "altarpiece",
+    "museum_es": "Catedral de Amberes",
+    "museum_alternatives": [
+      "Louvre Museum",
+      "St Walburga Church"
+    ],
+    "city": "Antwerp",
+    "dimensions_cm": {
+      "height": 460,
+      "width": 640
+    },
+    "materials": [
+      "panel",
+      "oakwood",
+      "oil paint"
+    ],
+    "commons_image": "Peter Paul Rubens - Raising of the Cross (Cathedral of Antwerp).jpg",
+    "pd": {
+      "creator_death": 1640,
+      "inception": 1610,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-garden-of-love": {
+    "qid": "Q1195238",
+    "match_score": 1,
+    "title_en": "The Garden of Love",
+    "wikidata_label_en": "The Garden of Love",
+    "wikidata_label_es": "El jardín del amor",
+    "artist": "Peter Paul Rubens",
+    "artist_es": "Pedro Pablo Rubens",
+    "movement": "baroque",
+    "year": 1630,
+    "museum": "Museo del Prado",
+    "kind": "painting",
+    "museum_es": "Museo del Prado",
+    "museum_alternatives": [
+      "Royal Palace of Madrid",
+      "Flanders"
+    ],
+    "city": "Madrid",
+    "dimensions_cm": {
+      "height": 199,
+      "width": 286
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "El Jardín del Amor (Rubens).jpg",
+    "pd": {
+      "creator_death": 1640,
+      "inception": 1630,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-three-graces-rubens": {
+    "qid": "Q12955980",
+    "match_score": 1,
+    "title_en": "The Three Graces",
+    "wikidata_label_en": "The Three Graces",
+    "wikidata_label_es": null,
+    "artist": "Peter Paul Rubens",
+    "artist_es": "Pedro Pablo Rubens",
+    "movement": "baroque",
+    "year": 1620,
+    "museum": "Galleria Palatina",
+    "kind": "painting",
+    "museum_es": "Galería Palatina",
+    "museum_alternatives": [],
+    "city": "Florence",
+    "dimensions_cm": {
+      "height": 47,
+      "width": 34
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Peter Paul Rubens - The Three Graces - WGA20440.jpg",
+    "pd": {
+      "creator_death": 1640,
+      "inception": 1620,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "charles-i-at-the-hunt": {
+    "qid": "Q3937485",
+    "match_score": 1,
+    "title_en": "Charles I at the Hunt",
+    "wikidata_label_en": "Charles I at the Hunt",
+    "wikidata_label_es": "Carlos I de Inglaterra (Van Dyck)",
+    "artist": "Anthony van Dyck",
+    "artist_es": "Anton van Dyck",
+    "movement": "baroque",
+    "year": 1635,
+    "museum": "Department of Paintings of the Louvre",
+    "kind": "painting",
+    "museum_es": "Departamento de Pinturas del Museo del Louvre",
+    "museum_alternatives": [
+      "Room 853"
+    ],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 266,
+      "width": 207
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Portrait de Charles 1er, roi d'Angleterre, à la chasse - Antoon van Dyck - Musée du Louvre Peintures INV 1236 ; MR 666.jpg",
+    "pd": {
+      "creator_death": 1641,
+      "inception": 1635,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "the-jewish-bride": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": []
+  },
+  "belshazzars-feast": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": []
+  },
+  "self-portrait-with-two-circles": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": []
+  },
+  "the-syndics": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": []
+  },
+  "bathsheba-at-her-bath": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": []
+  },
+  "aristotle-with-a-bust-of-homer": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": []
+  },
+  "the-storm-on-the-sea-of-galilee": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": []
+  },
+  "the-astronomer": {
+    "qid": "Q544315",
+    "match_score": 1,
+    "title_en": "The Astronomer",
+    "wikidata_label_en": "The Astronomer",
+    "wikidata_label_es": "El astrónomo",
+    "artist": "Johannes Vermeer",
+    "artist_es": "Johannes Vermeer",
+    "movement": "dutch-golden-age",
+    "year": 1664,
+    "museum": "Department of Paintings of the Louvre",
+    "kind": "painting",
+    "museum_es": "Departamento de Pinturas del Museo del Louvre",
+    "museum_alternatives": [
+      "Louvre Museum"
+    ],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 50.8,
+      "width": 46.3
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Johannes Vermeer - The Astronomer - 1668.jpg",
+    "pd": {
+      "creator_death": 1675,
+      "inception": 1664,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "the-geographer": {
+    "qid": "Q45130",
+    "match_score": 1,
+    "title_en": "The Geographer",
+    "wikidata_label_en": "The Geographer",
+    "wikidata_label_es": "El geógrafo",
+    "artist": "Johannes Vermeer",
+    "artist_es": "Johannes Vermeer",
+    "movement": "dutch-golden-age",
+    "year": 1668,
+    "museum": "Städel Museum",
+    "kind": "painting",
+    "museum_es": "Museo Städel",
+    "museum_alternatives": [],
+    "city": "Frankfurt",
+    "dimensions_cm": {
+      "height": 53,
+      "width": 45.4
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Johannes Vermeer, Der Geograf, 1669.png",
+    "pd": {
+      "creator_death": 1675,
+      "inception": 1668,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "woman-holding-a-balance": {
+    "qid": "Q969367",
+    "match_score": 1,
+    "title_en": "Woman Holding a Balance",
+    "wikidata_label_en": "Woman Holding a Balance",
+    "wikidata_label_es": "La tasadora de perlas",
+    "artist": "Johannes Vermeer",
+    "artist_es": "Johannes Vermeer",
+    "movement": "dutch-golden-age",
+    "year": 1665,
+    "museum": null,
+    "kind": "painting",
+    "museum_es": null,
+    "museum_alternatives": [],
+    "city": "Washington, D.C.",
+    "dimensions_cm": {
+      "height": 42.5,
+      "width": 38
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Johannes Vermeer - Woman Holding a Balance - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1675,
+      "inception": 1665,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": false,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "the-little-street": {
+    "qid": "Q586035",
+    "match_score": 1,
+    "title_en": "The Little Street",
+    "wikidata_label_en": "The Little Street",
+    "wikidata_label_es": "La callejuela",
+    "artist": "Johannes Vermeer",
+    "artist_es": "Johannes Vermeer",
+    "movement": "dutch-golden-age",
+    "year": 1658,
+    "museum": "Rijksmuseum",
+    "kind": "painting",
+    "museum_es": "Rijksmuseum",
+    "museum_alternatives": [
+      "Gallery of Honour"
+    ],
+    "city": "Amsterdam",
+    "dimensions_cm": {
+      "height": 54.3,
+      "width": 44
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Johannes Vermeer - Gezicht op huizen in Delft, bekend als 'Het straatje' - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1675,
+      "inception": 1658,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "officer-and-laughing-girl": {
+    "qid": "Q467376",
+    "match_score": 1,
+    "title_en": "Officer and Laughing Girl",
+    "wikidata_label_en": "Officer and Laughing Girl",
+    "wikidata_label_es": "Militar y muchacha riendo",
+    "artist": "Johannes Vermeer",
+    "artist_es": "Johannes Vermeer",
+    "movement": "dutch-golden-age",
+    "year": 1658,
+    "museum": "The Frick Collection",
+    "kind": "painting",
+    "museum_es": "Colección Frick",
+    "museum_alternatives": [],
+    "city": "New York",
+    "dimensions_cm": {
+      "height": 50.5,
+      "width": 46
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Johannes Vermeer - De Soldaat en het Lachende Meisje - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1675,
+      "inception": 1658,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Manhattan"
+  },
+  "the-merry-drinker": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "The Drinker (0.50)",
+      "Peeckelhaering (The merry reveler) (0.33)",
+      "A Militiaman Holding a Berkemeyer, Known as the ‘Merry Drinker’ (0.29)"
+    ]
+  },
+  "malle-babbe": {
+    "qid": "Q474198",
+    "match_score": 1,
+    "title_en": "Malle Babbe",
+    "wikidata_label_en": "Malle Babbe",
+    "wikidata_label_es": "Malle Babbe",
+    "artist": "Frans Hals",
+    "artist_es": "Frans Hals",
+    "movement": "dutch-golden-age",
+    "year": 1640,
+    "museum": "Gemäldegalerie Berlin",
+    "kind": "painting",
+    "museum_es": "Gemäldegalerie de Berlín",
+    "museum_alternatives": [],
+    "city": "Berlin",
+    "dimensions_cm": {
+      "height": 78.5,
+      "width": 66.2
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Hals, Frans - Malle Babbe.jpg",
+    "pd": {
+      "creator_death": 1666,
+      "inception": 1640,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Bezirk Mitte"
+  },
+  "the-avenue-at-middelharnis": {
+    "qid": "Q9210889",
+    "match_score": 1,
+    "title_en": "The Avenue at Middelharnis",
+    "wikidata_label_en": "The Avenue at Middelharnis",
+    "wikidata_label_es": null,
+    "artist": "Meindert Hobbema",
+    "artist_es": "Meindert Hobbema",
+    "movement": "dutch-golden-age",
+    "year": 1689,
+    "museum": "National Gallery",
+    "kind": "painting",
+    "museum_es": "National Gallery de Londres",
+    "museum_alternatives": [],
+    "city": "London",
+    "dimensions_cm": {
+      "height": 103.5,
+      "width": 141
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Meindert Hobbema 001.jpg",
+    "pd": {
+      "creator_death": 1709,
+      "inception": 1689,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "City of Westminster"
+  },
+  "view-of-haarlem-with-bleaching-grounds": {
+    "qid": "Q21015522",
+    "match_score": 0.83,
+    "title_en": "View of Haarlem with Bleaching Grounds",
+    "wikidata_label_en": "View of the Plain of Haarlem with Bleaching Grounds",
+    "wikidata_label_es": null,
+    "artist": "Jacob van Ruisdael",
+    "artist_es": "Jacob Ruysdael",
+    "movement": "dutch-golden-age",
+    "year": 1660,
+    "museum": "Susan and Matthew Weatherbie Collection",
+    "kind": "painting",
+    "museum_es": "Museo de Bellas Artes de Boston",
+    "museum_alternatives": [
+      "Museum of Fine Arts Boston"
+    ],
+    "city": "Boston",
+    "dimensions_cm": {
+      "height": 36.2,
+      "width": 45
+    },
+    "materials": [
+      "oil paint"
+    ],
+    "commons_image": "View of the plain of Haarlem with bleaching grounds, by Jacob Isaacksz van Ruisdael.jpg",
+    "pd": {
+      "creator_death": 1682,
+      "inception": 1660,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Massachusetts"
+  },
+  "the-windmill-at-wijk": {
+    "qid": "Q2881603",
+    "match_score": 1,
+    "title_en": "The Windmill at Wijk bij Duurstede",
+    "wikidata_label_en": "The Windmill at Wijk bij Duurstede",
+    "wikidata_label_es": "El molino de Wijk bij Duurstede",
+    "artist": "Jacob van Ruisdael",
+    "artist_es": "Jacob Ruysdael",
+    "movement": "dutch-golden-age",
+    "year": 1670,
+    "museum": "collection Adriaan van der Hoop",
+    "kind": "painting",
+    "museum_es": "Museum van der Hoop",
+    "museum_alternatives": [
+      "Amsterdam Museum",
+      "Rijksmuseum",
+      "Gallery of Honour"
+    ],
+    "city": "Amsterdam",
+    "dimensions_cm": {
+      "height": 83,
+      "width": 101
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "De molen bij Wijk bij Duurstede Rijksmuseum SK-C-211.jpeg",
+    "pd": {
+      "creator_death": 1682,
+      "inception": 1670,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-feast-of-saint-nicholas": {
+    "qid": "Q19926131",
+    "match_score": 1,
+    "title_en": "The Feast of Saint Nicholas",
+    "wikidata_label_en": "The feast of Saint Nicholas",
+    "wikidata_label_es": null,
+    "artist": "Jan Steen",
+    "artist_es": "Jan Havicksz Steen",
+    "movement": "dutch-golden-age",
+    "year": 1668,
+    "museum": "Museum Catharijneconvent",
+    "museum_es": "Museo Boymans Van Beuningen",
+    "museum_alternatives": [
+      "Museum Boijmans Van Beuningen"
+    ],
+    "city": "Utrecht",
+    "dimensions_cm": {
+      "height": 58.5,
+      "width": 49
+    },
+    "materials": [
+      "panel",
+      "oil paint"
+    ],
+    "commons_image": "MCC-71101 Het Sint Nicolaasfeest (1).jpg",
+    "pd": {
+      "creator_death": 1679,
+      "inception": 1668,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-courtyard-of-a-house-in-delft": {
+    "qid": "Q7727872",
+    "match_score": 1,
+    "title_en": "The Courtyard of a House in Delft",
+    "wikidata_label_en": "The Courtyard of a House in Delft",
+    "wikidata_label_es": "Patio de una casa de Delft",
+    "artist": "Pieter de Hooch",
+    "artist_es": "Pieter de Hooch",
+    "movement": "dutch-golden-age",
+    "year": 1658,
+    "museum": "National Gallery",
+    "museum_es": "National Gallery de Londres",
+    "museum_alternatives": [],
+    "city": "London",
+    "dimensions_cm": {
+      "height": 74,
+      "width": 60
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Pieter de Hooch - The Courtyard of a House in Delft.jpg",
+    "pd": {
+      "creator_death": 1684,
+      "inception": 1658,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "City of Westminster"
+  },
+  "still-life-with-a-gilt-cup": {
+    "qid": "Q17341026",
+    "match_score": 1,
+    "title_en": "Still Life with a Gilt Cup",
+    "wikidata_label_en": "Still Life with a Gilt Cup",
+    "wikidata_label_es": null,
+    "artist": "Willem Claesz. Heda",
+    "artist_es": "Willem Heda",
+    "movement": "dutch-golden-age",
+    "year": 1635,
+    "museum": "Rijksmuseum",
+    "kind": "painting",
+    "museum_es": "Rijksmuseum",
+    "museum_alternatives": [
+      "Gallery of Honour"
+    ],
+    "city": "Amsterdam",
+    "dimensions_cm": {
+      "height": 88,
+      "width": 113
+    },
+    "materials": [
+      "panel",
+      "oil paint"
+    ],
+    "commons_image": "Stilleven met vergulde bokaal Rijksmuseum SK-A-4830.jpeg",
+    "pd": {
+      "creator_death": 1680,
+      "inception": 1635,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "vanitas-still-life-claesz": {
+    "qid": "Q27981409",
+    "match_score": 1,
+    "title_en": "Vanitas Still Life",
+    "wikidata_label_en": "Vanitas still life",
+    "wikidata_label_es": null,
+    "artist": "Pieter Claesz",
+    "artist_es": "Pieter Claesz.",
+    "movement": "dutch-golden-age",
+    "year": 1656,
+    "museum": "Kunsthistorisches Museum",
+    "museum_es": "Museo de Historia del Arte de Viena",
+    "museum_alternatives": [],
+    "city": "Vienna",
+    "dimensions_cm": {
+      "height": 39.5,
+      "width": 60.5
+    },
+    "materials": [
+      "panel",
+      "oil paint"
+    ],
+    "commons_image": "Pieter Claesz - Vanitas-Stilleben - GG 9035 - Kunsthistorisches Museum.jpg",
+    "pd": {
+      "creator_death": 1660,
+      "inception": 1656,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-nightmare": {
+    "qid": "Q61893796",
+    "match_score": 1,
+    "title_en": "The Nightmare",
+    "wikidata_label_en": "The Nightmare",
+    "wikidata_label_es": null,
+    "artist": "Henry Fuseli",
+    "artist_es": "Johann Heinrich Füssli",
+    "movement": "romanticism",
+    "year": 1791,
+    "museum": "Goethe House",
+    "museum_es": "Casa de Goethe (Fráncfort del Meno)",
+    "museum_alternatives": [],
+    "city": "Frankfurt",
+    "dimensions_cm": {
+      "height": 95,
+      "width": 75
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "The Nightmare (1790-1791) - Johann Heinrich Füssli.jpg",
+    "pd": {
+      "creator_death": 1825,
+      "inception": 1791,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "an-experiment-on-a-bird-in-the-air-pump": {
+    "qid": "Q1167796",
+    "match_score": 1,
+    "title_en": "An Experiment on a Bird in the Air Pump",
+    "wikidata_label_en": "An Experiment on a Bird in the Air Pump",
+    "wikidata_label_es": "Un Experimento con un Pájaro en una Bomba de Aire",
+    "artist": "Joseph Wright of Derby",
+    "artist_es": "Joseph Wright",
+    "movement": "romanticism",
+    "year": 1768,
+    "museum": "National Gallery",
+    "museum_es": "National Gallery de Londres",
+    "museum_alternatives": [],
+    "city": "London",
+    "dimensions_cm": {
+      "height": 48.3,
+      "width": 58.6
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "An Experiment on a Bird in an Air Pump by Joseph Wright of Derby, 1768.jpg",
+    "pd": {
+      "creator_death": 1797,
+      "inception": 1768,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174789",
+    "city_raw": "City of Westminster"
+  },
+  "the-blue-boy": {
+    "qid": "Q604761",
+    "match_score": 1,
+    "title_en": "The Blue Boy",
+    "wikidata_label_en": "The Blue Boy",
+    "wikidata_label_es": "El joven azul",
+    "artist": "Thomas Gainsborough",
+    "artist_es": "Thomas Gainsborough",
+    "movement": "rococo",
+    "year": 1770,
+    "museum": "The Huntington Library, Art Museum, and Botanical Gardens",
+    "museum_es": "Biblioteca Huntington",
+    "museum_alternatives": [],
+    "city": "San Marino",
+    "dimensions_cm": {
+      "height": 179.4,
+      "width": 123.8
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Thomas Gainsborough - The Blue Boy (c. 1770).jpg",
+    "pd": {
+      "creator_death": 1788,
+      "inception": 1770,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-coronation-of-napoleon": {
+    "qid": "Q1231009",
+    "match_score": 1,
+    "title_en": "The Coronation of Napoleon",
+    "wikidata_label_en": "The Coronation of Napoleon",
+    "wikidata_label_es": "La coronación de Napoleón",
+    "artist": "Jacques-Louis David",
+    "artist_es": "Jacques-Louis David",
+    "movement": "neoclassicism",
+    "year": 1807,
+    "museum": "Department of Paintings of the Louvre",
+    "museum_es": "Departamento de Pinturas del Museo del Louvre",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 621,
+      "width": 979
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Le Sacre de Napoléon - Jacques-Louis David - Musée du Louvre Peintures INV 3699 ; MR 1437.jpg",
+    "pd": {
+      "creator_death": 1825,
+      "inception": 1807,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "the-intervention-of-the-sabine-women": {
+    "qid": "Q1314013",
+    "match_score": 1,
+    "title_en": "The Intervention of the Sabine Women",
+    "wikidata_label_en": "The Intervention of the Sabine Women",
+    "wikidata_label_es": "La intervención de las sabinas",
+    "artist": "Jacques-Louis David",
+    "artist_es": "Jacques-Louis David",
+    "movement": "neoclassicism",
+    "year": 1799,
+    "museum": "Department of Paintings of the Louvre",
+    "museum_es": "Departamento de Pinturas del Museo del Louvre",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 385,
+      "width": 522
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "The Intervention of the Sabine Women - David (Louvre INV 3691).jpg",
+    "pd": {
+      "creator_death": 1825,
+      "inception": 1799,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "the-turkish-bath": {
+    "qid": "Q2027662",
+    "match_score": 1,
+    "title_en": "The Turkish Bath",
+    "wikidata_label_en": "The Turkish Bath",
+    "wikidata_label_es": "El baño turco",
+    "artist": "Jean-Auguste-Dominique Ingres",
+    "artist_es": "Jean Auguste Dominique Ingres",
+    "movement": "neoclassicism",
+    "year": 1862,
+    "museum": "Department of Paintings of the Louvre",
+    "museum_es": "Departamento de Pinturas del Museo del Louvre",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 110,
+      "width": 108
+    },
+    "materials": [
+      "panel",
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Le Bain Turc, by Jean Auguste Dominique Ingres, from C2RMFFXD.jpg",
+    "pd": {
+      "creator_death": 1867,
+      "inception": 1862,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "the-valpincon-bather": {
+    "qid": "Q3080509",
+    "match_score": 1,
+    "title_en": "The Valpinçon Bather",
+    "wikidata_label_en": "The Valpinçon Bather",
+    "wikidata_label_es": "La bañista de Valpinçon",
+    "artist": "Jean-Auguste-Dominique Ingres",
+    "artist_es": "Jean Auguste Dominique Ingres",
+    "movement": "neoclassicism",
+    "year": 1808,
+    "museum": "Department of Paintings of the Louvre",
+    "museum_es": "Departamento de Pinturas del Museo del Louvre",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 146,
+      "width": 97.5
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Jean-Auguste-Dominique Ingres - La Baigneuse Valpinçon.jpg",
+    "pd": {
+      "creator_death": 1867,
+      "inception": 1808,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "portrait-of-monsieur-bertin": {
+    "qid": "Q2985455",
+    "match_score": 1,
+    "title_en": "Portrait of Monsieur Bertin",
+    "wikidata_label_en": "Portrait of Monsieur Bertin",
+    "wikidata_label_es": "Monsieur Bertin",
+    "artist": "Jean-Auguste-Dominique Ingres",
+    "artist_es": "Jean Auguste Dominique Ingres",
+    "movement": "neoclassicism",
+    "year": 1832,
+    "museum": "Department of Paintings of the Louvre",
+    "museum_es": "Departamento de Pinturas del Museo del Louvre",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 116,
+      "width": 95
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Louis-Francois Bertin.jpg",
+    "pd": {
+      "creator_death": 1867,
+      "inception": 1832,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "the-nude-maja": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Maja (...unleserlich) (0.50)",
+      "The Clothed Maja (0.50)",
+      "La maja desnuda (0.50)"
+    ]
+  },
+  "the-family-of-charles-iv": {
+    "qid": "Q920030",
+    "match_score": 1,
+    "title_en": "Charles IV of Spain and His Family",
+    "wikidata_label_en": "Charles IV of Spain and His Family",
+    "wikidata_label_es": "La familia de Carlos IV",
+    "artist": "Francisco Goya",
+    "artist_es": "Francisco de Goya",
+    "movement": "romanticism",
+    "year": 1800,
+    "museum": "Museo del Prado",
+    "kind": "painting",
+    "museum_es": "Museo del Prado",
+    "museum_alternatives": [
+      "Royal Palace of Madrid"
+    ],
+    "city": "Madrid",
+    "dimensions_cm": {
+      "height": 280,
+      "width": 336
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "La familia de Carlos IV, por Francisco de Goya.jpg",
+    "pd": {
+      "creator_death": 1828,
+      "inception": 1800,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "witches-sabbath-goya": {
+    "qid": "Q2528477",
+    "match_score": 1,
+    "title_en": "Witches' Sabbath",
+    "wikidata_label_en": "Witches' Sabbath",
+    "wikidata_label_es": "El aquelarre",
+    "artist": "Francisco Goya",
+    "artist_es": "Francisco de Goya",
+    "movement": "romanticism",
+    "year": 1820,
+    "museum": "Museo del Prado",
+    "kind": "painting",
+    "museum_es": "Museo del Prado",
+    "museum_alternatives": [],
+    "city": "Madrid",
+    "dimensions_cm": {
+      "height": 140,
+      "width": 438
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "El Aquelarre.jpg",
+    "pd": {
+      "creator_death": 1828,
+      "inception": 1820,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-death-of-sardanapalus": {
+    "qid": "Q18685053",
+    "match_score": 1,
+    "title_en": "The Death of Sardanapalus",
+    "wikidata_label_en": "Death of Sardanapalus",
+    "wikidata_label_es": null,
+    "artist": "Eugène Delacroix",
+    "artist_es": "Eugène Delacroix",
+    "movement": "romanticism",
+    "year": 1844,
+    "museum": "Philadelphia Museum of Art",
+    "museum_es": "Museo de Arte de Filadelfia",
+    "museum_alternatives": [],
+    "city": "Philadelphia",
+    "dimensions_cm": null,
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Ferdinand-Victor-Eugène Delacroix, French - The Death of Sardanapalus - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1863,
+      "inception": 1844,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true
+  },
+  "the-massacre-at-chios": {
+    "qid": "Q2290433",
+    "match_score": 1,
+    "title_en": "The Massacre at Chios",
+    "wikidata_label_en": "The Massacre at Chios",
+    "wikidata_label_es": "La matanza de Quíos",
+    "artist": "Eugène Delacroix",
+    "artist_es": "Eugène Delacroix",
+    "movement": "romanticism",
+    "year": 1824,
+    "museum": "Department of Paintings of the Louvre",
+    "museum_es": "Departamento de Pinturas del Museo del Louvre",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 419,
+      "width": 354
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Scène des massacres de Scio, Eugène Delacroix - Musée du Louvre Peintures INV 3823 ; C3.jpg",
+    "pd": {
+      "creator_death": 1863,
+      "inception": 1824,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "women-of-algiers": {
+    "qid": "Q1212737",
+    "match_score": 1,
+    "title_en": "The Women of Algiers",
+    "wikidata_label_en": "The Women of Algiers",
+    "wikidata_label_es": "Mujeres de Argel",
+    "artist": "Eugène Delacroix",
+    "artist_es": "Eugène Delacroix",
+    "movement": "romanticism",
+    "year": 1834,
+    "museum": "Department of Paintings of the Louvre",
+    "museum_es": "Departamento de Pinturas del Museo del Louvre",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 180,
+      "width": 229
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Femmes d'Alger dans leur appartement, Eugène Delacroix - Musée du Louvre Peintures INV 3824.jpg",
+    "pd": {
+      "creator_death": 1863,
+      "inception": 1834,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "the-slave-ship": {
+    "qid": "Q219344",
+    "match_score": 1,
+    "title_en": "The Slave Ship",
+    "wikidata_label_en": "The Slave Ship",
+    "wikidata_label_es": null,
+    "artist": "J. M. W. Turner",
+    "artist_es": "Joseph Mallord William Turner",
+    "movement": "romanticism",
+    "year": 1840,
+    "museum": "Museum of Fine Arts Boston",
+    "museum_es": "Museo de Bellas Artes de Boston",
+    "museum_alternatives": [],
+    "city": "Boston",
+    "dimensions_cm": {
+      "height": 90.8,
+      "width": 122.6
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Slave-ship.jpg",
+    "pd": {
+      "creator_death": 1851,
+      "inception": 1840,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "snow-storm-steam-boat": {
+    "qid": "Q16038731",
+    "match_score": 1,
+    "title_en": "Snow Storm: Steam-Boat off a Harbour's Mouth",
+    "wikidata_label_en": "Snow Storm: Steam-Boat off a Harbour's Mouth",
+    "wikidata_label_es": null,
+    "artist": "J. M. W. Turner",
+    "artist_es": "Joseph Mallord William Turner",
+    "movement": "romanticism",
+    "year": 1842,
+    "museum": "National Gallery",
+    "museum_es": "National Gallery de Londres",
+    "museum_alternatives": [
+      "Tate"
+    ],
+    "city": "London",
+    "dimensions_cm": {
+      "height": 91,
+      "width": 122
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Joseph Mallord William Turner - Snow Storm - Steam-Boat off a Harbour's Mouth - WGA23178.jpg",
+    "pd": {
+      "creator_death": 1851,
+      "inception": 1842,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "City of Westminster"
+  },
+  "norham-castle-sunrise": {
+    "qid": "Q28539779",
+    "match_score": 1,
+    "title_en": "Norham Castle, Sunrise",
+    "wikidata_label_en": "Norham Castle, Sunrise",
+    "wikidata_label_es": null,
+    "artist": "J. M. W. Turner",
+    "artist_es": "Joseph Mallord William Turner",
+    "movement": "romanticism",
+    "year": 1845,
+    "museum": "National Gallery",
+    "museum_es": "National Gallery de Londres",
+    "museum_alternatives": [
+      "Tate",
+      "Tate Britain"
+    ],
+    "city": "London",
+    "dimensions_cm": {
+      "height": 90.8,
+      "width": 121.9
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Joseph Mallord William Turner - Norham Castle, Sunrise - WGA23182.jpg",
+    "pd": {
+      "creator_death": 1851,
+      "inception": 1845,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "City of Westminster"
+  },
+  "the-cornfield": {
+    "qid": "Q119860396",
+    "match_score": 1,
+    "title_en": "The Cornfield",
+    "wikidata_label_en": "A Cornfield",
+    "wikidata_label_es": null,
+    "artist": "John Constable",
+    "artist_es": "John Constable",
+    "movement": "romanticism",
+    "year": null,
+    "museum": "National Museum Cardiff",
+    "museum_es": "Museo y Galería Nacional de Cardiff",
+    "museum_alternatives": [],
+    "city": "Cardiff",
+    "dimensions_cm": {
+      "height": 22,
+      "width": 27
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "John Constable (1776-1837) (after) - A Cornfield - NMW A 3871 - National Museum Cardiff.jpg",
+    "pd": {
+      "creator_death": 1837,
+      "inception": null,
+      "eu_ok": true,
+      "us_ok": false
+    },
+    "usable": false,
+    "dimensions_unit_source": "Q174728"
+  },
+  "salisbury-cathedral-from-the-meadows": {
+    "qid": "Q28532649",
+    "match_score": 1,
+    "title_en": "Salisbury Cathedral from the Meadows",
+    "wikidata_label_en": "Salisbury Cathedral from the Meadows",
+    "wikidata_label_es": null,
+    "artist": "John Constable",
+    "artist_es": "John Constable",
+    "movement": "romanticism",
+    "year": 1829,
+    "museum": "National Gallery",
+    "museum_es": "National Gallery de Londres",
+    "museum_alternatives": [
+      "Tate"
+    ],
+    "city": "London",
+    "dimensions_cm": {
+      "height": 51.1,
+      "width": 36.5
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "John Constable - Salisbury Cathedral from the meadows (02).jpg",
+    "pd": {
+      "creator_death": 1837,
+      "inception": 1829,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "City of Westminster"
+  },
+  "the-abbey-in-the-oakwood": {
+    "qid": "Q334360",
+    "match_score": 1,
+    "title_en": "The Abbey in the Oakwood",
+    "wikidata_label_en": "The Abbey in the Oakwood",
+    "wikidata_label_es": "Abadía en el robledal",
+    "artist": "Caspar David Friedrich",
+    "artist_es": "Caspar David Friedrich",
+    "movement": "romanticism",
+    "year": 1809,
+    "museum": "Alte Nationalgalerie",
+    "museum_es": "Antigua Galería Nacional de Berlín",
+    "museum_alternatives": [],
+    "city": "Berlin",
+    "dimensions_cm": {
+      "height": 110.4,
+      "width": 171
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Caspar David Friedrich - Abtei im Eichwald - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1840,
+      "inception": 1809,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Bezirk Mitte"
+  },
+  "the-sea-of-ice": {
+    "qid": "Q194137",
+    "match_score": 1,
+    "title_en": "The Sea of Ice",
+    "wikidata_label_en": "The Sea of Ice",
+    "wikidata_label_es": "El mar de hielo",
+    "artist": "Caspar David Friedrich",
+    "artist_es": "Caspar David Friedrich",
+    "movement": "romanticism",
+    "year": 1823,
+    "museum": "Hamburger Kunsthalle",
+    "museum_es": "Kunsthalle de Hamburgo",
+    "museum_alternatives": [],
+    "city": "Hamburg",
+    "dimensions_cm": {
+      "height": 96.7,
+      "width": 126.9
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Friedrich, Caspar David - Eismeer.jpg",
+    "pd": {
+      "creator_death": 1840,
+      "inception": 1823,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Hamburg-Mitte"
+  },
+  "the-ninth-wave": {
+    "qid": "Q1070896",
+    "match_score": 1,
+    "title_en": "The Ninth Wave",
+    "wikidata_label_en": "The Ninth Wave",
+    "wikidata_label_es": "Novena ola",
+    "artist": "Ivan Aivazovsky",
+    "artist_es": "Iván Aivazovski",
+    "movement": "romanticism",
+    "year": 1850,
+    "museum": "Russian Museum",
+    "museum_es": "Museo Estatal Ruso",
+    "museum_alternatives": [],
+    "city": "Saint Petersburg",
+    "dimensions_cm": {
+      "height": 221,
+      "width": 332
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Hovhannes Aivazovsky - The Ninth Wave - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1900,
+      "inception": 1850,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-oxbow": {
+    "qid": "Q3172259",
+    "match_score": 1,
+    "title_en": "The Oxbow",
+    "wikidata_label_en": "The Oxbow",
+    "wikidata_label_es": "El meandro, o Vista desde Mount Holyoke después de una tormenta",
+    "artist": "Thomas Cole",
+    "artist_es": "Thomas Cole",
+    "movement": "hudson-river-school",
+    "year": 1836,
+    "museum": "Metropolitan Museum of Art",
+    "museum_es": "Museo Metropolitano de Arte",
+    "museum_alternatives": [],
+    "city": "New York",
+    "dimensions_cm": {
+      "height": 130.8,
+      "width": 193
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Cole Thomas The Oxbow (The Connecticut River near Northampton 1836).jpg",
+    "pd": {
+      "creator_death": 1848,
+      "inception": 1836,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Manhattan"
+  },
+  "heart-of-the-andes": {
+    "qid": "Q334604",
+    "match_score": 1,
+    "title_en": "The Heart of the Andes",
+    "wikidata_label_en": "Heart of the Andes",
+    "wikidata_label_es": "El corazón de los Andes",
+    "artist": "Frederic Edwin Church",
+    "artist_es": "Frederic Edwin Church",
+    "movement": "hudson-river-school",
+    "year": 1859,
+    "museum": "Metropolitan Museum of Art",
+    "museum_es": "Museo Metropolitano de Arte",
+    "museum_alternatives": [],
+    "city": "New York",
+    "dimensions_cm": {
+      "height": 168,
+      "width": 302.9
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Church Heart of the Andes.jpg",
+    "pd": {
+      "creator_death": 1900,
+      "inception": 1859,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Manhattan"
+  },
+  "twilight-in-the-wilderness": {
+    "qid": "Q56879420",
+    "match_score": 1,
+    "title_en": "Twilight in the Wilderness",
+    "wikidata_label_en": "Twilight in the Wilderness",
+    "wikidata_label_es": "Anochecer en un paraje virgen",
+    "artist": "Frederic Edwin Church",
+    "artist_es": "Frederic Edwin Church",
+    "movement": "hudson-river-school",
+    "year": 1860,
+    "museum": "Cleveland Museum of Art",
+    "museum_es": "Museo de Arte de Cleveland",
+    "museum_alternatives": [],
+    "city": "Cleveland",
+    "dimensions_cm": {
+      "height": 101.6,
+      "width": 162.6
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Frederic Edwin Church - Twilight in the Wilderness.jpg",
+    "pd": {
+      "creator_death": 1900,
+      "inception": 1860,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "among-the-sierra-nevada": {
+    "qid": "Q20475372",
+    "match_score": 1,
+    "title_en": "Among the Sierra Nevada, California",
+    "wikidata_label_en": "Among the Sierra Nevada, California",
+    "wikidata_label_es": null,
+    "artist": "Albert Bierstadt",
+    "artist_es": "Albert Bierstadt",
+    "movement": "hudson-river-school",
+    "year": 1868,
+    "museum": "Smithsonian American Art Museum",
+    "museum_es": "Museo Smithsoniano de Arte Americano",
+    "museum_alternatives": [],
+    "city": "Washington, D.C.",
+    "dimensions_cm": {
+      "height": 183,
+      "width": 305
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Bierstadt - Among the Sierra Nevada Mountains - 1868.jpg",
+    "pd": {
+      "creator_death": 1902,
+      "inception": 1868,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "washington-crossing-the-delaware": {
+    "qid": "Q509806",
+    "match_score": 1,
+    "title_en": "Washington Crossing the Delaware",
+    "wikidata_label_en": "Washington Crossing the Delaware",
+    "wikidata_label_es": "Washington cruzando el Delaware",
+    "artist": "Emanuel Leutze",
+    "artist_es": "Emanuel Leutze",
+    "movement": "romanticism",
+    "year": 1851,
+    "museum": "Metropolitan Museum of Art",
+    "museum_es": "Museo Metropolitano de Arte",
+    "museum_alternatives": [],
+    "city": "New York",
+    "dimensions_cm": {
+      "height": 378.5,
+      "width": 647.7
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Washington Crossing the Delaware MET DP215410.jpg",
+    "pd": {
+      "creator_death": 1868,
+      "inception": 1851,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Manhattan"
+  },
+  "the-painters-studio": {
+    "qid": "Q1167178",
+    "match_score": 1,
+    "title_en": "The Painter's Studio",
+    "wikidata_label_en": "The Painter's Studio",
+    "wikidata_label_es": "El taller del pintor",
+    "artist": "Gustave Courbet",
+    "artist_es": "Gustave Courbet",
+    "movement": "realism",
+    "year": 1850,
+    "museum": "Musée d'Orsay",
+    "museum_es": "Museo de Orsay",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 361,
+      "width": 598
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Courbet LAtelier du peintre.jpg",
+    "pd": {
+      "creator_death": 1877,
+      "inception": 1850,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "7th arrondissement of Paris"
+  },
+  "the-desperate-man": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "A Man Fishing (0.50)",
+      "Portrait of a Man (0.50)",
+      "The Wounded Man (0.50)"
+    ]
+  },
+  "the-stone-breakers": {
+    "qid": "Q2914912",
+    "match_score": 1,
+    "title_en": "The Stone Breakers",
+    "wikidata_label_en": "The Stone Breakers",
+    "wikidata_label_es": "Los rompe piedras",
+    "artist": "Gustave Courbet",
+    "artist_es": "Gustave Courbet",
+    "movement": "realism",
+    "year": 1849,
+    "museum": "Staatliche Kunstsammlungen Dresden",
+    "museum_es": null,
+    "museum_alternatives": [],
+    "city": "Dresden",
+    "dimensions_cm": {
+      "height": 165,
+      "width": 257
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Gustave Courbet 018.jpg",
+    "pd": {
+      "creator_death": 1877,
+      "inception": 1849,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-balcony": {
+    "qid": "Q775407",
+    "match_score": 1,
+    "title_en": "The Balcony",
+    "wikidata_label_en": "The Balcony",
+    "wikidata_label_es": "El balcón",
+    "artist": "Édouard Manet",
+    "artist_es": "Édouard Manet",
+    "movement": "realism",
+    "year": 1868,
+    "museum": "Musée d'Orsay",
+    "museum_es": "Museo de Orsay",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 170,
+      "width": 124.5
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Edouard Manet - The Balcony - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1883,
+      "inception": 1868,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "7th arrondissement of Paris"
+  },
+  "the-gross-clinic": {
+    "qid": "Q1213936",
+    "match_score": 1,
+    "title_en": "The Gross Clinic",
+    "wikidata_label_en": "The Gross Clinic",
+    "wikidata_label_es": "La clínica Gross",
+    "artist": "Thomas Eakins",
+    "artist_es": "Thomas Eakins",
+    "movement": "realism",
+    "year": 1875,
+    "museum": "Philadelphia Museum of Art",
+    "museum_es": "Museo de Arte de Filadelfia",
+    "museum_alternatives": [],
+    "city": "Philadelphia",
+    "dimensions_cm": {
+      "height": 243.8,
+      "width": 198.1
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Thomas Eakins, American - Portrait of Dr. Samuel D. Gross (The Gross Clinic) - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1916,
+      "inception": 1875,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "max-schmitt-in-a-single-scull": {
+    "qid": "Q1913390",
+    "match_score": 1,
+    "title_en": "Max Schmitt in a Single Scull",
+    "wikidata_label_en": "Max Schmitt in a Single Scull",
+    "wikidata_label_es": "El campeón de piragua individual Max Schmitt",
+    "artist": "Thomas Eakins",
+    "artist_es": "Thomas Eakins",
+    "movement": "realism",
+    "year": 1871,
+    "museum": "Metropolitan Museum of Art",
+    "museum_es": "Museo Metropolitano de Arte",
+    "museum_alternatives": [],
+    "city": "New York",
+    "dimensions_cm": {
+      "height": 81.9,
+      "width": 117.5
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Max Schmitt in a Single Scull.jpg",
+    "pd": {
+      "creator_death": 1916,
+      "inception": 1871,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Manhattan"
+  },
+  "the-gulf-stream": {
+    "qid": "Q7738501",
+    "match_score": 1,
+    "title_en": "The Gulf Stream",
+    "wikidata_label_en": "The Gulf Stream",
+    "wikidata_label_es": null,
+    "artist": "Winslow Homer",
+    "artist_es": "Winslow Homer",
+    "movement": "realism",
+    "year": 1899,
+    "museum": "Metropolitan Museum of Art",
+    "museum_es": "Museo Metropolitano de Arte",
+    "museum_alternatives": [],
+    "city": "New York",
+    "dimensions_cm": {
+      "height": 71.4,
+      "width": 124.8
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Winslow Homer - The Gulf Stream - Metropolitan Museum of Art.jpg",
+    "pd": {
+      "creator_death": 1910,
+      "inception": 1899,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Manhattan"
+  },
+  "breezing-up": {
+    "qid": "Q4960357",
+    "match_score": 1,
+    "title_en": "Breezing Up",
+    "wikidata_label_en": "Breezing Up",
+    "wikidata_label_es": null,
+    "artist": "Winslow Homer",
+    "artist_es": "Winslow Homer",
+    "movement": "realism",
+    "year": 1873,
+    "museum": null,
+    "museum_es": null,
+    "museum_alternatives": [],
+    "city": "Washington, D.C.",
+    "dimensions_cm": {
+      "height": 61.5,
+      "width": 97
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Winslow Homer - Breezing Up (A Fair Wind).jpg",
+    "pd": {
+      "creator_death": 1910,
+      "inception": 1873,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": false,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "nocturne-in-black-and-gold": {
+    "qid": "Q646337",
+    "match_score": 1,
+    "title_en": "Nocturne in Black and Gold: The Falling Rocket",
+    "wikidata_label_en": "Nocturne in Black and Gold – The Falling Rocket",
+    "wikidata_label_es": null,
+    "artist": "James McNeill Whistler",
+    "artist_es": "James McNeill Whistler",
+    "movement": "realism",
+    "year": 1875,
+    "museum": "Detroit Institute of Arts",
+    "museum_es": "Detroit Institute of Arts",
+    "museum_alternatives": [],
+    "city": "Detroit",
+    "dimensions_cm": {
+      "height": 60.3,
+      "width": 46.4
+    },
+    "materials": [
+      "panel",
+      "oil paint"
+    ],
+    "commons_image": "Whistler-Nocturne in black and gold.jpg",
+    "pd": {
+      "creator_death": 1903,
+      "inception": 1875,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "symphony-in-white-no-1": {
+    "qid": "Q970968",
+    "match_score": 1,
+    "title_en": "Symphony in White, No. 1: The White Girl",
+    "wikidata_label_en": "Symphony in White, No. 1: The White Girl",
+    "wikidata_label_es": "Sinfonía en blanco, n.º 1: La dama blanca",
+    "artist": "James McNeill Whistler",
+    "artist_es": "James McNeill Whistler",
+    "movement": "realism",
+    "year": 1860,
+    "museum": null,
+    "museum_es": null,
+    "museum_alternatives": [],
+    "city": "Washington, D.C.",
+    "dimensions_cm": {
+      "height": 213,
+      "width": 107.9
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Whistler James Symphony in White no 1 (The White Girl) 1862.jpg",
+    "pd": {
+      "creator_death": 1903,
+      "inception": 1860,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": false,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "carnation-lily-lily-rose": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": []
+  },
+  "the-daughters-of-edward-darley-boit": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": []
+  },
+  "zaporozhian-cossacks": {
+    "qid": "Q478271",
+    "match_score": 1,
+    "title_en": "Reply of the Zaporozhian Cossacks",
+    "wikidata_label_en": "Reply of the Zaporozhian Cossacks",
+    "wikidata_label_es": "Cosacos zaporogos escribiendo una carta al Sultán",
+    "artist": "Ilya Repin",
+    "artist_es": "Iliá Repin",
+    "movement": "realism",
+    "year": 1890,
+    "museum": "Russian Museum",
+    "museum_es": "Museo Estatal Ruso",
+    "museum_alternatives": [],
+    "city": "Saint Petersburg",
+    "dimensions_cm": {
+      "height": 203,
+      "width": 358
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Ilja Jefimowitsch Repin - Reply of the Zaporozhian Cossacks - Yorck.jpg",
+    "pd": {
+      "creator_death": 1930,
+      "inception": 1890,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "ivan-the-terrible-and-his-son": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Ivan the Terrible and his son Ivan on November 16, 1581 (0.50)",
+      "Boris Godunov and Ivan the Terrible (0.50)",
+      "Ivan Kramskoi (0.25)"
+    ]
+  },
+  "boyarynya-morozova": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Boyarina Morozova (0.50)",
+      "Self-Portrait (0.00)",
+      "Morning of the Execution of the Streltsy (0.00)"
+    ]
+  },
+  "girl-with-peaches": {
+    "qid": "Q4156438",
+    "match_score": 1,
+    "title_en": "Girl with Peaches",
+    "wikidata_label_en": "Girl with peaches",
+    "wikidata_label_es": "Muchacha con los melocotones (Retrato de V.S. Mamontova)",
+    "artist": "Valentin Serov",
+    "artist_es": "Valentín Serov",
+    "movement": "realism",
+    "year": 1887,
+    "museum": "Tretyakov Gallery",
+    "museum_es": "Galería Tretiakov",
+    "museum_alternatives": [],
+    "city": "Moscow",
+    "dimensions_cm": {
+      "height": 91,
+      "width": 85
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Valentin Serov - Девочка с персиками. Портрет В.С.Мамонтовой - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1911,
+      "inception": 1887,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Russia"
+  },
+  "water-lilies": {
+    "qid": "Q20538824",
+    "match_score": 1,
+    "title_en": "Water Lilies",
+    "wikidata_label_en": "Water Lilies",
+    "wikidata_label_es": null,
+    "artist": "Claude Monet",
+    "artist_es": "Claude Monet",
+    "movement": "impressionism",
+    "year": 1907,
+    "museum": "Museum of Fine Arts Boston",
+    "museum_es": "Museo de Bellas Artes de Boston",
+    "museum_alternatives": [],
+    "city": "Boston",
+    "dimensions_cm": {
+      "height": 96.8,
+      "width": 98.4
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Monet - Water Lilies, 1907, 19.170.jpg",
+    "pd": {
+      "creator_death": 1926,
+      "inception": 1907,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "rouen-cathedral-full-sunlight": {
+    "qid": "Q20538924",
+    "match_score": 1,
+    "title_en": "Rouen Cathedral, Facade",
+    "wikidata_label_en": "Rouen Cathedral, Façade",
+    "wikidata_label_es": null,
+    "artist": "Claude Monet",
+    "artist_es": "Claude Monet",
+    "movement": "impressionism",
+    "year": 1893,
+    "museum": "Museum of Fine Arts Boston",
+    "museum_es": "Museo de Bellas Artes de Boston",
+    "museum_alternatives": [],
+    "city": "Boston",
+    "dimensions_cm": {
+      "height": 100.6,
+      "width": 66
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Rouen Cathedral Boston W1356.jpg",
+    "pd": {
+      "creator_death": 1926,
+      "inception": 1893,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "haystacks-monet": {
+    "qid": "Q28777012",
+    "match_score": 1,
+    "title_en": "Haystacks",
+    "wikidata_label_en": "Haystacks",
+    "wikidata_label_es": null,
+    "artist": "Claude Monet",
+    "artist_es": "Claude Monet",
+    "movement": "impressionism",
+    "year": 1885,
+    "museum": "Ohara Museum of Art",
+    "museum_es": "Museo de Arte Ohara",
+    "museum_alternatives": [],
+    "city": "Kurashiki",
+    "dimensions_cm": {
+      "height": 65.2,
+      "width": 81.5
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Claude Monet - Haystacks - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1926,
+      "inception": 1885,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174789"
+  },
+  "the-japanese-footbridge": {
+    "qid": "Q3795198",
+    "match_score": 1,
+    "title_en": "The Japanese Footbridge",
+    "wikidata_label_en": "The Japanese Footbridge",
+    "wikidata_label_es": null,
+    "artist": "Claude Monet",
+    "artist_es": "Claude Monet",
+    "movement": "impressionism",
+    "year": 1920,
+    "museum": "Museum of Modern Art",
+    "museum_es": "Museo de Arte Moderno",
+    "museum_alternatives": [],
+    "city": "New York",
+    "dimensions_cm": {
+      "height": 89.5,
+      "width": 115.3
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Claude Monet - The Japanese Footbridge.jpg",
+    "pd": {
+      "creator_death": 1926,
+      "inception": 1920,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Manhattan"
+  },
+  "gare-saint-lazare": {
+    "qid": "Q2270028",
+    "match_score": 1,
+    "title_en": "The Gare Saint-Lazare",
+    "wikidata_label_en": "La Gare Saint-Lazare",
+    "wikidata_label_es": "La estación Saint-Lazare",
+    "artist": "Claude Monet",
+    "artist_es": "Claude Monet",
+    "movement": "impressionism",
+    "year": 1877,
+    "museum": "Musée d'Orsay",
+    "museum_es": "Museo de Orsay",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 75,
+      "width": 104
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "La Gare Saint-Lazare - Claude Monet.jpg",
+    "pd": {
+      "creator_death": 1926,
+      "inception": 1877,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174789",
+    "city_raw": "7th arrondissement of Paris"
+  },
+  "labsinthe": {
+    "qid": "Q1239950",
+    "match_score": 1,
+    "title_en": "L'Absinthe",
+    "wikidata_label_en": "L'Absinthe",
+    "wikidata_label_es": "El ajenjo",
+    "artist": "Edgar Degas",
+    "artist_es": "Edgar Degas",
+    "movement": "impressionism",
+    "year": 1875,
+    "museum": "Musée d'Orsay",
+    "museum_es": "Museo de Orsay",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 92,
+      "width": 68
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Edgar Degas - In a Café - Google Art Project 2.jpg",
+    "pd": {
+      "creator_death": 1917,
+      "inception": 1875,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174789",
+    "city_raw": "7th arrondissement of Paris"
+  },
+  "the-bellelli-family": {
+    "qid": "Q2622172",
+    "match_score": 1,
+    "title_en": "The Bellelli Family",
+    "wikidata_label_en": "The Bellelli Family",
+    "wikidata_label_es": "Die Bellelli Familie",
+    "artist": "Edgar Degas",
+    "artist_es": "Edgar Degas",
+    "movement": "impressionism",
+    "year": 1858,
+    "museum": "Musée d'Orsay",
+    "museum_es": "Museo de Orsay",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 200,
+      "width": 253
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Edgar Degas - The Bellelli Family - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1917,
+      "inception": 1858,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "7th arrondissement of Paris"
+  },
+  "blue-dancers": {
+    "qid": "Q3633419",
+    "match_score": 1,
+    "title_en": "Blue Dancers",
+    "wikidata_label_en": "Blue Dancers",
+    "wikidata_label_es": "Bailarinas de azul",
+    "artist": "Edgar Degas",
+    "artist_es": "Edgar Degas",
+    "movement": "impressionism",
+    "year": 1897,
+    "museum": "Pushkin Museum of Fine Arts",
+    "kind": "pastel artwork",
+    "museum_es": "Museo Pushkin",
+    "museum_alternatives": [],
+    "city": "Moscow",
+    "dimensions_cm": {
+      "height": 67,
+      "width": 67
+    },
+    "materials": [
+      "pastel"
+    ],
+    "commons_image": "Edgar Germain Hilaire Degas 076.jpg",
+    "pd": {
+      "creator_death": 1917,
+      "inception": 1897,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Khamovniki District"
+  },
+  "boulevard-montmartre-at-night": {
+    "qid": "Q3643151",
+    "match_score": 1,
+    "title_en": "The Boulevard Montmartre at Night",
+    "wikidata_label_en": "The Boulevard Montmartre at Night",
+    "wikidata_label_es": null,
+    "artist": "Camille Pissarro",
+    "artist_es": "Camille Pissarro",
+    "movement": "impressionism",
+    "year": 1897,
+    "museum": "National Gallery",
+    "museum_es": "National Gallery de Londres",
+    "museum_alternatives": [],
+    "city": "London",
+    "dimensions_cm": {
+      "height": 53.5,
+      "width": 65
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Camille Pissarro - Boulevard Montmartre at Night - c 1897 - National Gallery UK.jpg",
+    "pd": {
+      "creator_death": 1903,
+      "inception": 1897,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "City of Westminster"
+  },
+  "the-red-roofs": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "The Red House (0.50)",
+      "The Red Roofs, Côte Saint-Denis at Pontoise, Winter Effect (0.22)",
+      "Felix Pissarro Wearing a Red Beret (0.20)"
+    ]
+  },
+  "the-umbrellas": {
+    "qid": "Q1114571",
+    "match_score": 1,
+    "title_en": "The Umbrellas",
+    "wikidata_label_en": "The Umbrellas",
+    "wikidata_label_es": "Los paraguas",
+    "artist": "Pierre-Auguste Renoir",
+    "artist_es": "Pierre-Auguste Renoir",
+    "movement": "impressionism",
+    "year": 1881,
+    "museum": "Hugh Lane Gallery",
+    "museum_es": "Hugh Lane Municipal Gallery",
+    "museum_alternatives": [
+      "National Gallery"
+    ],
+    "city": "Dublin City",
+    "dimensions_cm": {
+      "height": 180.3,
+      "width": 114.9
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Pierre-Auguste Renoir, The Umbrellas, ca. 1881-86.jpg",
+    "pd": {
+      "creator_death": 1919,
+      "inception": 1881,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Dublin"
+  },
+  "dance-at-bougival": {
+    "qid": "Q4451145",
+    "match_score": 1,
+    "title_en": "Dance at Bougival",
+    "wikidata_label_en": "Dance at Bougival",
+    "wikidata_label_es": "Baile en Bougival",
+    "artist": "Pierre-Auguste Renoir",
+    "artist_es": "Pierre-Auguste Renoir",
+    "movement": "impressionism",
+    "year": 1883,
+    "museum": "Museum of Fine Arts Boston",
+    "museum_es": "Museo de Bellas Artes de Boston",
+    "museum_alternatives": [],
+    "city": "Boston",
+    "dimensions_cm": {
+      "height": 181.9,
+      "width": 98.1
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Dance-At-Bougival.jpg",
+    "pd": {
+      "creator_death": 1919,
+      "inception": 1883,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-floor-scrapers": {
+    "qid": "Q123856106",
+    "match_score": 1,
+    "title_en": "The Floor Scrapers",
+    "wikidata_label_en": "The Floor Scrapers",
+    "wikidata_label_es": null,
+    "artist": "Gustave Caillebotte",
+    "artist_es": "Gustave Caillebotte",
+    "movement": "impressionism",
+    "year": 1876,
+    "museum": null,
+    "museum_es": null,
+    "museum_alternatives": [],
+    "city": null,
+    "dimensions_cm": {
+      "height": 80,
+      "width": 100
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Gustave Caillebotte-Floor-scrapers (1876).jpg",
+    "pd": {
+      "creator_death": 1894,
+      "inception": 1876,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": false,
+    "dimensions_unit_source": "Q174728"
+  },
+  "summers-day": {
+    "qid": "Q14942039",
+    "match_score": 1,
+    "title_en": "Summer's Day",
+    "wikidata_label_en": "Summer's Day",
+    "wikidata_label_es": null,
+    "artist": "Berthe Morisot",
+    "artist_es": "Berthe Morisot",
+    "movement": "impressionism",
+    "year": 1879,
+    "museum": "Hugh Lane Gallery",
+    "museum_es": "Hugh Lane Municipal Gallery",
+    "museum_alternatives": [
+      "National Gallery"
+    ],
+    "city": "Dublin City",
+    "dimensions_cm": {
+      "height": 45.7,
+      "width": 75.2
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Berthe Morisot - Jour d'été, 1879.jpg",
+    "pd": {
+      "creator_death": 1895,
+      "inception": 1879,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Dublin"
+  },
+  "the-child-s-bath": {
+    "qid": "Q20881318",
+    "match_score": 1,
+    "title_en": "The Child's Bath",
+    "wikidata_label_en": "A Child's Bath",
+    "wikidata_label_es": null,
+    "artist": "Mary Cassatt",
+    "artist_es": "Mary Cassatt",
+    "movement": "impressionism",
+    "year": 1880,
+    "museum": "Los Angeles County Museum of Art",
+    "museum_es": "Museo de Arte del Condado de Los Ángeles",
+    "museum_alternatives": [],
+    "city": "Los Angeles",
+    "dimensions_cm": {
+      "height": 100.3,
+      "width": 65.7
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Mary Cassatt - Mother About to Wash Her Sleepy Child - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1926,
+      "inception": 1880,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-boating-party-cassatt": {
+    "qid": "Q15876324",
+    "match_score": 1,
+    "title_en": "The Boating Party",
+    "wikidata_label_en": "The Boating Party",
+    "wikidata_label_es": null,
+    "artist": "Mary Cassatt",
+    "artist_es": "Mary Cassatt",
+    "movement": "impressionism",
+    "year": 1893,
+    "museum": null,
+    "museum_es": null,
+    "museum_alternatives": [],
+    "city": "Washington, D.C.",
+    "dimensions_cm": {
+      "height": 90,
+      "width": 117.3
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Mary Cassatt - The Boating Party - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1926,
+      "inception": 1893,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": false,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "bathers-at-asnieres": {
+    "qid": "Q1090837",
+    "match_score": 1,
+    "title_en": "Bathers at Asnières",
+    "wikidata_label_en": "Bathers at Asnières",
+    "wikidata_label_es": "Un baño en Asnières",
+    "artist": "Georges Seurat",
+    "artist_es": "Georges Seurat",
+    "movement": "post-impressionism",
+    "year": 1884,
+    "museum": "National Gallery",
+    "museum_es": "National Gallery de Londres",
+    "museum_alternatives": [],
+    "city": "London",
+    "dimensions_cm": {
+      "height": 201,
+      "width": 301.5
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Baigneurs a Asnieres.jpg",
+    "pd": {
+      "creator_death": 1891,
+      "inception": 1884,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "City of Westminster"
+  },
+  "the-circus": {
+    "qid": "Q2275610",
+    "match_score": 1,
+    "title_en": "The Circus",
+    "wikidata_label_en": "The Circus",
+    "wikidata_label_es": "El circo",
+    "artist": "Georges Seurat",
+    "artist_es": "Georges Seurat",
+    "movement": "post-impressionism",
+    "year": 1891,
+    "museum": "Musée d'Orsay",
+    "museum_es": "Museo de Orsay",
+    "museum_alternatives": [
+      "John Quinn Art Collection"
+    ],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 185,
+      "width": 152
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Georges Seurat - The Circus - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1891,
+      "inception": 1891,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174789",
+    "city_raw": "7th arrondissement of Paris"
+  },
+  "the-potato-eaters": {
+    "qid": "Q24022716",
+    "match_score": 1,
+    "title_en": "The Potato Eaters",
+    "wikidata_label_en": "The Potato Eaters",
+    "wikidata_label_es": null,
+    "artist": "Vincent van Gogh",
+    "artist_es": "Vincent van Gogh",
+    "movement": "post-impressionism",
+    "year": 1885,
+    "museum": "Kröller-Müller Museum",
+    "museum_es": "Museo Kröller-Müller",
+    "museum_alternatives": [],
+    "city": "Otterlo",
+    "dimensions_cm": {
+      "height": 72,
+      "width": 93
+    },
+    "materials": [
+      "panel",
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Vincent van Gogh - The potato eaters - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1890,
+      "inception": 1885,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "wheatfield-with-crows": {
+    "qid": "Q634122",
+    "match_score": 1,
+    "title_en": "Wheatfield with Crows",
+    "wikidata_label_en": "Wheatfield with Crows",
+    "wikidata_label_es": "Trigal con cuervos",
+    "artist": "Vincent van Gogh",
+    "artist_es": "Vincent van Gogh",
+    "movement": "post-impressionism",
+    "year": 1890,
+    "museum": "Van Gogh Museum",
+    "museum_es": "Museo van Gogh",
+    "museum_alternatives": [],
+    "city": "Amsterdam",
+    "dimensions_cm": {
+      "height": 50.2,
+      "width": 103
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Korenveld met kraaien - s0149V1962 - Van Gogh Museum.jpg",
+    "pd": {
+      "creator_death": 1890,
+      "inception": 1890,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "self-portrait-with-bandaged-ear": {
+    "qid": "Q19363211",
+    "match_score": 1,
+    "title_en": "Self-Portrait with Bandaged Ear",
+    "wikidata_label_en": "Self-Portrait with Bandaged Ear",
+    "wikidata_label_es": "Autorretrato con la oreja vendada y caballete",
+    "artist": "Vincent van Gogh",
+    "artist_es": "Vincent van Gogh",
+    "movement": "post-impressionism",
+    "year": 1889,
+    "museum": "Courtauld Gallery",
+    "museum_es": "Courtauld Gallery",
+    "museum_alternatives": [],
+    "city": "London",
+    "dimensions_cm": {
+      "height": 60.5,
+      "width": 50
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Self-Portrait with a Bandaged Ear - Vincent van Gogh.jpg",
+    "pd": {
+      "creator_death": 1890,
+      "inception": 1889,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "City of Westminster"
+  },
+  "the-night-cafe": {
+    "qid": "Q674846",
+    "match_score": 1,
+    "title_en": "The Night Café",
+    "wikidata_label_en": "The Night Café",
+    "wikidata_label_es": "El café de noche",
+    "artist": "Vincent van Gogh",
+    "artist_es": "Vincent van Gogh",
+    "movement": "post-impressionism",
+    "year": 1888,
+    "museum": "Yale University Art Gallery",
+    "museum_es": "Galería de Arte de la Universidad Yale",
+    "museum_alternatives": [],
+    "city": "New Haven",
+    "dimensions_cm": {
+      "height": 72.4,
+      "width": 92.1
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Vincent Willem van Gogh 076.jpg",
+    "pd": {
+      "creator_death": 1890,
+      "inception": 1888,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "irises-van-gogh": {
+    "qid": "Q2282256",
+    "match_score": 1,
+    "title_en": "Irises",
+    "wikidata_label_en": "Irises",
+    "wikidata_label_es": "Lirios",
+    "artist": "Vincent van Gogh",
+    "artist_es": "Vincent van Gogh",
+    "movement": "post-impressionism",
+    "year": 1889,
+    "museum": "J. Paul Getty Museum",
+    "museum_es": "Museo J. Paul Getty",
+    "museum_alternatives": [],
+    "city": "Los Angeles",
+    "dimensions_cm": {
+      "height": 74.3,
+      "width": 94.3
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Irises-Vincent van Gogh.jpg",
+    "pd": {
+      "creator_death": 1890,
+      "inception": 1889,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "almond-blossom": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Almond Blossom (0.50)",
+      "Blossoming Almond Branch in a Glass (0.20)",
+      "Blossoming Almond Branch in a Glass with a Book (0.14)"
+    ]
+  },
+  "portrait-of-dr-gachet": {
+    "qid": "Q843044",
+    "match_score": 1,
+    "title_en": "Portrait of Dr. Gachet",
+    "wikidata_label_en": "Portrait of Dr. Gachet",
+    "wikidata_label_es": "El doctor Paul Gachet",
+    "artist": "Vincent van Gogh",
+    "artist_es": "Vincent van Gogh",
+    "movement": "post-impressionism",
+    "year": 1890,
+    "museum": "Musée d'Orsay",
+    "museum_es": "Museo de Orsay",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 68,
+      "width": 57
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Vincent van Gogh - Dr Paul Gachet - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1890,
+      "inception": 1890,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174789",
+    "city_raw": "7th arrondissement of Paris"
+  },
+  "the-large-bathers": {
+    "qid": "Q28126510",
+    "match_score": 1,
+    "title_en": "The Large Bathers",
+    "wikidata_label_en": "The Large Bathers",
+    "wikidata_label_es": null,
+    "artist": "Paul Cézanne",
+    "artist_es": "Paul Cézanne",
+    "movement": "post-impressionism",
+    "year": 1900,
+    "museum": "Barnes Foundation",
+    "museum_es": "Barnes Foundation",
+    "museum_alternatives": [],
+    "city": "Philadelphia",
+    "dimensions_cm": {
+      "height": 132.4,
+      "width": 219.1
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Paul Cézanne - The Large Bathers (Les Grandes baigneuses) - BF934 - Barnes Foundation.jpg",
+    "pd": {
+      "creator_death": 1906,
+      "inception": 1900,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-basket-of-apples": {
+    "qid": "Q3956440",
+    "match_score": 1,
+    "title_en": "The Basket of Apples",
+    "wikidata_label_en": "The Basket of Apples",
+    "wikidata_label_es": "Cesto de manzanas",
+    "artist": "Paul Cézanne",
+    "artist_es": "Paul Cézanne",
+    "movement": "post-impressionism",
+    "year": 1893,
+    "museum": "Art Institute of Chicago",
+    "museum_es": "Instituto de Arte de Chicago",
+    "museum_alternatives": [],
+    "city": "Chicago",
+    "dimensions_cm": {
+      "height": 65,
+      "width": 80
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Paul Cézanne - The Basket of Apples - 1926.252 - Art Institute of Chicago.jpg",
+    "pd": {
+      "creator_death": 1906,
+      "inception": 1893,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "boy-in-a-red-waistcoat": {
+    "qid": "Q20189901",
+    "match_score": 1,
+    "title_en": "Boy in a Red Waistcoat",
+    "wikidata_label_en": "Boy in a Red Waistcoat",
+    "wikidata_label_es": null,
+    "artist": "Paul Cézanne",
+    "artist_es": "Paul Cézanne",
+    "movement": "post-impressionism",
+    "year": 1889,
+    "museum": null,
+    "museum_es": null,
+    "museum_alternatives": [],
+    "city": "Washington, D.C.",
+    "dimensions_cm": {
+      "height": 89.5,
+      "width": 72.4
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Le Garçon au gilet rouge, par Paul Cézanne, National Gallery of Art.jpg",
+    "pd": {
+      "creator_death": 1906,
+      "inception": 1889,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": false,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "vision-after-the-sermon": {
+    "qid": "Q1764395",
+    "match_score": 1,
+    "title_en": "Vision after the Sermon",
+    "wikidata_label_en": "Vision After the Sermon",
+    "wikidata_label_es": "La visión tras el sermón",
+    "artist": "Paul Gauguin",
+    "artist_es": "Paul Gauguin",
+    "movement": "post-impressionism",
+    "year": 1888,
+    "museum": "National Galleries Scotland",
+    "museum_es": "Galerías nacionales de Escocia",
+    "museum_alternatives": [],
+    "city": "City of Edinburgh",
+    "dimensions_cm": {
+      "height": 72.2,
+      "width": 91
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "La vision après le sermon (Paul Gauguin).jpg",
+    "pd": {
+      "creator_death": 1903,
+      "inception": 1888,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-yellow-christ": {
+    "qid": "Q500951",
+    "match_score": 1,
+    "title_en": "The Yellow Christ",
+    "wikidata_label_en": "The Yellow Christ",
+    "wikidata_label_es": "El Cristo amarillo",
+    "artist": "Paul Gauguin",
+    "artist_es": "Paul Gauguin",
+    "movement": "post-impressionism",
+    "year": 1889,
+    "museum": "Buffalo AKG Art Museum",
+    "museum_es": "Museo Albright-Knox",
+    "museum_alternatives": [],
+    "city": "Buffalo",
+    "dimensions_cm": {
+      "height": 92.1,
+      "width": 73.3
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Paul Gauguin - The Yellow Christ (Le Christ jaune) 1889.jpg",
+    "pd": {
+      "creator_death": 1903,
+      "inception": 1889,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "when-will-you-marry": {
+    "qid": "Q3869871",
+    "match_score": 1,
+    "title_en": "When Will You Marry?",
+    "wikidata_label_en": "When Will You Marry?",
+    "wikidata_label_es": "¿Cuando te casas?",
+    "artist": "Paul Gauguin",
+    "artist_es": "Paul Gauguin",
+    "movement": "post-impressionism",
+    "year": 1892,
+    "museum": "Staechelin collection",
+    "museum_es": null,
+    "museum_alternatives": [],
+    "city": "Canton of Basel-Stadt",
+    "dimensions_cm": {
+      "height": 101,
+      "width": 77
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Paul Gauguin, Nafea Faa Ipoipo? (When Will You Marry?) 1892, oil on canvas, 101 x 77 cm.jpg",
+    "pd": {
+      "creator_death": 1903,
+      "inception": 1892,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "jane-avril": {
+    "qid": "Q104773687",
+    "match_score": 1,
+    "title_en": "Jane Avril",
+    "wikidata_label_en": "Jane Avril",
+    "wikidata_label_es": null,
+    "artist": "Henri de Toulouse-Lautrec",
+    "artist_es": "Henri de Toulouse-Lautrec",
+    "movement": "post-impressionism",
+    "year": 1891,
+    "museum": "Clark Art Institute",
+    "museum_es": "Instituto de Arte Clark",
+    "museum_alternatives": [],
+    "city": "Massachusetts",
+    "dimensions_cm": {
+      "height": 63.2,
+      "width": 42.2
+    },
+    "materials": [],
+    "commons_image": "Henri de Toulouse-Lautrec - Jane Avril - 1955.566 - Clark Art Institute.tiff",
+    "pd": {
+      "creator_death": 1901,
+      "inception": 1891,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-talisman": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Le Talisman, l'Aven au Bois d'Amour (0.14)",
+      "The Children's Supper (0.00)",
+      "Women bathing with white veils (0.00)"
+    ]
+  },
+  "the-sick-child": {
+    "qid": "Q18891173",
+    "match_score": 1,
+    "title_en": "The Sick Child",
+    "wikidata_label_en": "The Sick Child",
+    "wikidata_label_es": null,
+    "artist": "Edvard Munch",
+    "artist_es": "Edvard Munch",
+    "movement": "expressionism",
+    "year": 1907,
+    "museum": "Gemäldegalerie Alte Meister",
+    "museum_es": "Gemäldegalerie Alte Meister",
+    "museum_alternatives": [
+      "Tate Modern",
+      "National Gallery",
+      "Tate",
+      "\"degenerate art\" collection"
+    ],
+    "city": "Dresden",
+    "dimensions_cm": {
+      "height": 118.7,
+      "width": 121
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Edvard Munch - The sick child (1907) - Tate Modern.jpg",
+    "pd": {
+      "creator_death": 1944,
+      "inception": 1907,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "madonna-munch": {
+    "qid": "Q18890421",
+    "match_score": 1,
+    "title_en": "Madonna",
+    "wikidata_label_en": "Madonna",
+    "wikidata_label_es": "Madonna (Edvard Munch)",
+    "artist": "Edvard Munch",
+    "artist_es": "Edvard Munch",
+    "movement": "expressionism",
+    "year": 1894,
+    "museum": "National Museum of Art, Architecture and Design",
+    "museum_es": "Museo Nacional de Arte, Arquitectura y Diseño",
+    "museum_alternatives": [],
+    "city": "Oslo",
+    "dimensions_cm": {
+      "height": 90.5,
+      "width": 70.5
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Edvard Munch - Madonna - NG.M.00841 - National Museum of Art, Architecture and Design.jpg",
+    "pd": {
+      "creator_death": 1944,
+      "inception": 1894,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-dance-of-life": {
+    "qid": "Q3208135",
+    "match_score": 1,
+    "title_en": "The Dance of Life",
+    "wikidata_label_en": "Dance of Life",
+    "wikidata_label_es": "La danza de la vida",
+    "artist": "Edvard Munch",
+    "artist_es": "Edvard Munch",
+    "movement": "expressionism",
+    "year": 2000,
+    "museum": "National Museum of Art, Architecture and Design",
+    "museum_es": "Museo Nacional de Arte, Arquitectura y Diseño",
+    "museum_alternatives": [],
+    "city": "Oslo",
+    "dimensions_cm": {
+      "height": 125,
+      "width": 191
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Edvard Munch - The Dance of Life - NG.M.00941 - National Museum of Art, Architecture and Design.jpg",
+    "pd": {
+      "creator_death": 1944,
+      "inception": 2000,
+      "eu_ok": true,
+      "us_ok": false
+    },
+    "usable": false,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-wounded-angel": {
+    "qid": "Q471289",
+    "match_score": 1,
+    "title_en": "The Wounded Angel",
+    "wikidata_label_en": "The Wounded Angel",
+    "wikidata_label_es": "El ángel herido",
+    "artist": "Hugo Simberg",
+    "artist_es": "Hugo Simberg",
+    "movement": "symbolism",
+    "year": 1903,
+    "museum": "Finnish National Gallery",
+    "museum_es": "Galería Nacional de Finlandia",
+    "museum_alternatives": [],
+    "city": "Helsinki",
+    "dimensions_cm": {
+      "height": 127,
+      "width": 154
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "The Wounded Angel - Hugo Simberg.jpg",
+    "pd": {
+      "creator_death": 1917,
+      "inception": 1903,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-apparition": {
+    "qid": "Q70781244",
+    "match_score": 1,
+    "title_en": "The Apparition",
+    "wikidata_label_en": "The Apparition",
+    "wikidata_label_es": "La aparición.",
+    "artist": "Gustave Moreau",
+    "artist_es": "Gustave Moreau",
+    "movement": "symbolism",
+    "year": 1876,
+    "museum": "Harvard Art Museums",
+    "museum_es": "Harvard Art Museums",
+    "museum_alternatives": [
+      "Fogg Museum"
+    ],
+    "city": "Cambridge",
+    "dimensions_cm": {
+      "height": 56,
+      "width": 46.5
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Gustave Moreau - The Apparition - 1943.268 - Fogg Museum.jpg",
+    "pd": {
+      "creator_death": 1898,
+      "inception": 1876,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "oedipus-and-the-sphinx": {
+    "qid": "Q293990",
+    "match_score": 1,
+    "title_en": "Oedipus and the Sphinx",
+    "wikidata_label_en": "Oedipus and the Sphinx",
+    "wikidata_label_es": "Edipo y la esfinge",
+    "artist": "Gustave Moreau",
+    "artist_es": "Gustave Moreau",
+    "movement": "symbolism",
+    "year": 1864,
+    "museum": "Metropolitan Museum of Art",
+    "museum_es": "Museo Metropolitano de Arte",
+    "museum_alternatives": [],
+    "city": "New York",
+    "dimensions_cm": {
+      "height": 206,
+      "width": 105
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Oedipus and the Sphinx MET DP-14201-023.jpg",
+    "pd": {
+      "creator_death": 1898,
+      "inception": 1864,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Manhattan"
+  },
+  "the-poor-fisherman": {
+    "qid": "Q23948975",
+    "match_score": 1,
+    "title_en": "The Poor Fisherman",
+    "wikidata_label_en": "Poor Fisherman",
+    "wikidata_label_es": null,
+    "artist": "Pierre Puvis de Chavannes",
+    "artist_es": "Pierre Puvis de Chavannes",
+    "movement": "symbolism",
+    "year": 1889,
+    "museum": "National Museum of Western Art",
+    "museum_es": "Museo Nacional de Arte Occidental",
+    "museum_alternatives": [
+      "Matsukata Collection"
+    ],
+    "city": "Tokyo",
+    "dimensions_cm": {
+      "height": 105.8,
+      "width": 68.6
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Pierre Puvis de Chavannes - Poor Fisherman - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1898,
+      "inception": 1889,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Ueno-kōen"
+  },
+  "the-cyclops": {
+    "qid": "Q3793426",
+    "match_score": 1,
+    "title_en": "The Cyclops",
+    "wikidata_label_en": "The Cyclops",
+    "wikidata_label_es": null,
+    "artist": "Odilon Redon",
+    "artist_es": "Odilon Redon",
+    "movement": "symbolism",
+    "year": 1914,
+    "museum": "Kröller-Müller Museum",
+    "museum_es": "Museo Kröller-Müller",
+    "museum_alternatives": [],
+    "city": "Ede",
+    "dimensions_cm": {
+      "height": 65.8,
+      "width": 52.7
+    },
+    "materials": [
+      "cardboard",
+      "oil paint"
+    ],
+    "commons_image": "Odilon Redon - The Cyclops, c. 1914.jpg",
+    "pd": {
+      "creator_death": 1916,
+      "inception": 1914,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "demon-seated": {
+    "qid": "Q4157667",
+    "match_score": 1,
+    "title_en": "Demon Seated",
+    "wikidata_label_en": "The Demon Seated",
+    "wikidata_label_es": "Demonio sentado",
+    "artist": "Mikhail Vrubel",
+    "artist_es": "Mijaíl Vrúbel",
+    "movement": "symbolism",
+    "year": 1890,
+    "museum": "Tretyakov Gallery",
+    "museum_es": "Galería Tretiakov",
+    "museum_alternatives": [],
+    "city": "Moscow",
+    "dimensions_cm": {
+      "height": 116.5,
+      "width": 213.8
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Vrubel Demon.jpg",
+    "pd": {
+      "creator_death": 1910,
+      "inception": 1890,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "flaming-june": {
+    "qid": "Q846213",
+    "match_score": 1,
+    "title_en": "Flaming June",
+    "wikidata_label_en": "Flaming June",
+    "wikidata_label_es": "Sol ardiente de junio",
+    "artist": "Frederic Leighton",
+    "artist_es": "Frederic Cameron Leighton",
+    "movement": "academic-art",
+    "year": 1895,
+    "museum": "Museo de Arte de Ponce",
+    "museum_es": "Museo de Arte de Ponce",
+    "museum_alternatives": [],
+    "city": "Ponce",
+    "dimensions_cm": {
+      "height": 119.1,
+      "width": 119.1
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Flaming June, by Frederic Lord Leighton (1830-1896).jpg",
+    "pd": {
+      "creator_death": 1896,
+      "inception": 1895,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-birth-of-venus-cabanel": {
+    "qid": "Q1212861",
+    "match_score": 1,
+    "title_en": "The Birth of Venus",
+    "wikidata_label_en": "The Birth of Venus",
+    "wikidata_label_es": "El nacimiento de Venus",
+    "artist": "Alexandre Cabanel",
+    "artist_es": "Alexandre Cabanel",
+    "movement": "academic-art",
+    "year": 1863,
+    "museum": "Musée d'Orsay",
+    "museum_es": "Museo de Orsay",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 130,
+      "width": 225
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Alexandre Cabanel - The Birth of Venus - Google Art Project 2.jpg",
+    "pd": {
+      "creator_death": 1889,
+      "inception": 1863,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "7th arrondissement of Paris"
+  },
+  "pygmalion-and-galatea": {
+    "qid": "Q17305070",
+    "match_score": 1,
+    "title_en": "Pygmalion and Galatea",
+    "wikidata_label_en": "Pygmalion and Galatea",
+    "wikidata_label_es": "Pigmalión y Galatea",
+    "artist": "Jean-Léon Gérôme",
+    "artist_es": "Jean-Léon Gérôme",
+    "movement": "academic-art",
+    "year": 1890,
+    "museum": "Metropolitan Museum of Art",
+    "museum_es": "Museo Metropolitano de Arte",
+    "museum_alternatives": [],
+    "city": "New York",
+    "dimensions_cm": {
+      "height": 88.9,
+      "width": 68.6
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Pygmalion and Galatea MET DT1969.jpg",
+    "pd": {
+      "creator_death": 1904,
+      "inception": 1890,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Manhattan"
+  },
+  "beata-beatrix": {
+    "qid": "Q98147987",
+    "match_score": 1,
+    "title_en": "Beata Beatrix",
+    "wikidata_label_en": "Beata Beatrix",
+    "wikidata_label_es": null,
+    "artist": "Dante Gabriel Rossetti",
+    "artist_es": "Dante Gabriel Rossetti",
+    "movement": "pre-raphaelite",
+    "year": 1877,
+    "museum": "Birmingham Museums Trust",
+    "museum_es": "Birmingham Museums Trust",
+    "museum_alternatives": [],
+    "city": "Birmingham",
+    "dimensions_cm": {
+      "height": 86.4,
+      "width": 68.2
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Dante Gabriel Rossetti and Ford Madox Brown - Beata Beatrix.jpg",
+    "pd": {
+      "creator_death": 1882,
+      "inception": 1877,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "proserpine": {
+    "qid": "Q94969317",
+    "match_score": 1,
+    "title_en": "Proserpine",
+    "wikidata_label_en": "Proserpine",
+    "wikidata_label_es": null,
+    "artist": "Dante Gabriel Rossetti",
+    "artist_es": "Dante Gabriel Rossetti",
+    "movement": "pre-raphaelite",
+    "year": 1882,
+    "museum": "Birmingham Museums Trust",
+    "museum_es": "Birmingham Museums Trust",
+    "museum_alternatives": [],
+    "city": "Birmingham",
+    "dimensions_cm": {
+      "height": 78.7,
+      "width": 39.2
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "8th Rossetti Proserpine cropped.jpeg",
+    "pd": {
+      "creator_death": 1882,
+      "inception": 1882,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-beguiling-of-merlin": {
+    "qid": "Q4188993",
+    "match_score": 1,
+    "title_en": "The Beguiling of Merlin",
+    "wikidata_label_en": "The Beguiling of Merlin",
+    "wikidata_label_es": "El encantamiento de Merlín",
+    "artist": "Edward Burne-Jones",
+    "artist_es": "Edward Burne-Jones",
+    "movement": "pre-raphaelite",
+    "year": 1872,
+    "museum": "Lady Lever Art Gallery",
+    "museum_es": "Lady Lever Art Gallery",
+    "museum_alternatives": [],
+    "city": "Wirral",
+    "dimensions_cm": {
+      "height": 186,
+      "width": 111
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Beguiling of Merlin.jpg",
+    "pd": {
+      "creator_death": 1898,
+      "inception": 1872,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "king-cophetua-and-the-beggar-maid": {
+    "qid": "Q6411359",
+    "match_score": 1,
+    "title_en": "King Cophetua and the Beggar Maid",
+    "wikidata_label_en": "King Cophetua and the Beggar Maid",
+    "wikidata_label_es": "El rey Cophetua y la doncella mendiga (pintura)",
+    "artist": "Edward Burne-Jones",
+    "artist_es": "Edward Burne-Jones",
+    "movement": "pre-raphaelite",
+    "year": 1884,
+    "museum": "National Gallery",
+    "museum_es": "National Gallery de Londres",
+    "museum_alternatives": [
+      "Tate"
+    ],
+    "city": "London",
+    "dimensions_cm": {
+      "height": 293.4,
+      "width": 135.9
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Edward Burne-Jones - King Cophetua and the Beggar Maid - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1898,
+      "inception": 1884,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "City of Westminster"
+  },
+  "christ-in-the-house-of-his-parents": {
+    "qid": "Q960157",
+    "match_score": 1,
+    "title_en": "Christ in the House of His Parents",
+    "wikidata_label_en": "Christ in the House of His Parents",
+    "wikidata_label_es": "El Cristo en casa de sus padres",
+    "artist": "John Everett Millais",
+    "artist_es": "John Everett Millais",
+    "movement": "pre-raphaelite",
+    "year": 1849,
+    "museum": "National Gallery",
+    "museum_es": "National Gallery de Londres",
+    "museum_alternatives": [
+      "Tate"
+    ],
+    "city": "London",
+    "dimensions_cm": {
+      "height": 86.4,
+      "width": 139.7
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "John Everett Millais - Christ in the House of His Parents (`The Carpenter's Shop') - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1896,
+      "inception": 1849,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "City of Westminster"
+  },
+  "the-awakening-conscience": {
+    "qid": "Q7715071",
+    "match_score": 1,
+    "title_en": "The Awakening Conscience",
+    "wikidata_label_en": "The Awakening Conscience",
+    "wikidata_label_es": "El despertar de la conciencia",
+    "artist": "William Holman Hunt",
+    "artist_es": "William Holman Hunt",
+    "movement": "pre-raphaelite",
+    "year": 1853,
+    "museum": "Tate Britain",
+    "museum_es": "Tate Britain",
+    "museum_alternatives": [
+      "Tate"
+    ],
+    "city": "London",
+    "dimensions_cm": {
+      "height": 55.9,
+      "width": 76.2
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "William Holman Hunt - The Awakening Conscience - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1910,
+      "inception": 1853,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "City of Westminster"
+  },
+  "the-scapegoat": {
+    "qid": "Q105105124",
+    "match_score": 1,
+    "title_en": "The Scapegoat",
+    "wikidata_label_en": "The Scapegoat",
+    "wikidata_label_es": null,
+    "artist": "William Holman Hunt",
+    "artist_es": "William Holman Hunt",
+    "movement": "pre-raphaelite",
+    "year": 1854,
+    "museum": "Manchester Art Gallery",
+    "museum_es": "Manchester Art Gallery",
+    "museum_alternatives": [],
+    "city": "Manchester",
+    "dimensions_cm": {
+      "height": 33.7,
+      "width": 45.9
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "William Holman Hunt (1827-1910) - The Scapegoat - 1906.2 - Manchester Art Gallery.jpg",
+    "pd": {
+      "creator_death": 1910,
+      "inception": 1854,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "work-ford-madox-brown": {
+    "qid": "Q95682671",
+    "match_score": 1,
+    "title_en": "Work",
+    "wikidata_label_en": "Work",
+    "wikidata_label_es": null,
+    "artist": "Ford Madox Brown",
+    "artist_es": "Ford Madox Brown",
+    "movement": "pre-raphaelite",
+    "year": 1863,
+    "museum": "Birmingham Museums Trust",
+    "museum_es": "Birmingham Museums Trust",
+    "museum_alternatives": [],
+    "city": "Birmingham",
+    "dimensions_cm": {
+      "height": 68.4,
+      "width": 99
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Ford Madox Brown - Work - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1893,
+      "inception": 1863,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-dance-matisse": {
+    "qid": "Q28128236",
+    "match_score": 1,
+    "title_en": "The Dance",
+    "wikidata_label_en": "The Dance",
+    "wikidata_label_es": null,
+    "artist": "Henri Matisse",
+    "artist_es": "Henri Matisse",
+    "movement": "fauvism",
+    "year": 1932,
+    "museum": "Barnes Foundation",
+    "museum_es": "Barnes Foundation",
+    "museum_alternatives": [],
+    "city": "Philadelphia",
+    "dimensions_cm": null,
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Matisse - Carra, 467.jpg",
+    "pd": {
+      "creator_death": 1954,
+      "inception": 1932,
+      "eu_ok": true,
+      "us_ok": false
+    },
+    "usable": false
+  },
+  "the-red-studio": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "The Pink Studio (0.50)",
+      "Red Rug (0.50)",
+      "The Red Carpets (0.50)"
+    ]
+  },
+  "woman-with-a-hat": {
+    "qid": "Q1437492",
+    "match_score": 1,
+    "title_en": "Woman with a Hat",
+    "wikidata_label_en": "Woman with a hat",
+    "wikidata_label_es": "Mujer con sombrero",
+    "artist": "Henri Matisse",
+    "artist_es": "Henri Matisse",
+    "movement": "fauvism",
+    "year": 1905,
+    "museum": "San Francisco Museum of Modern Art",
+    "museum_es": "Museo de Arte Moderno de San Francisco",
+    "museum_alternatives": [],
+    "city": "San Francisco",
+    "dimensions_cm": {
+      "height": 80,
+      "width": 60
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Matisse-Woman-with-a-Hat.jpg",
+    "pd": {
+      "creator_death": 1954,
+      "inception": 1905,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "open-window-collioure": {
+    "qid": "Q3745698",
+    "match_score": 0.67,
+    "title_en": "Open Window, Collioure",
+    "wikidata_label_en": "The Open Window",
+    "wikidata_label_es": null,
+    "artist": "Henri Matisse",
+    "artist_es": "Henri Matisse",
+    "movement": "fauvism",
+    "year": 1905,
+    "museum": null,
+    "museum_es": null,
+    "museum_alternatives": [],
+    "city": "Washington, D.C.",
+    "dimensions_cm": {
+      "height": 55.3,
+      "width": 46
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Fenêtre ouverte, Collioure, par Henri Matisse.jpg",
+    "pd": {
+      "creator_death": 1954,
+      "inception": 1905,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": false,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": null
+  },
+  "the-joy-of-life": {
+    "qid": "Q28127964",
+    "match_score": 0.6,
+    "title_en": "Le bonheur de vivre",
+    "wikidata_label_en": "Sketch for Le Bonheur de vivre",
+    "wikidata_label_es": null,
+    "artist": "Henri Matisse",
+    "artist_es": "Henri Matisse",
+    "movement": "fauvism",
+    "year": 1906,
+    "museum": "Barnes Foundation",
+    "museum_es": "Barnes Foundation",
+    "museum_alternatives": [],
+    "city": "Philadelphia",
+    "dimensions_cm": {
+      "height": 12.2,
+      "width": 19.5
+    },
+    "materials": [],
+    "commons_image": "Matisse - Carra, 062.jpg",
+    "pd": {
+      "creator_death": 1954,
+      "inception": 1906,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "portrait-of-pablo-picasso-gris": {
+    "qid": "Q3399451",
+    "match_score": 1,
+    "title_en": "Portrait of Pablo Picasso",
+    "wikidata_label_en": "Portrait of Pablo Picasso",
+    "wikidata_label_es": "Retrato de Pablo Picasso",
+    "artist": "Juan Gris",
+    "artist_es": "Juan Gris",
+    "movement": "cubism",
+    "year": 1912,
+    "museum": "Art Institute of Chicago",
+    "museum_es": "Instituto de Arte de Chicago",
+    "museum_alternatives": [],
+    "city": "Chicago",
+    "dimensions_cm": {
+      "height": 93.3,
+      "width": 74.4
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Juan Gris - Portrait of Pablo Picasso - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1927,
+      "inception": 1912,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174789"
+  },
+  "still-life-with-checked-tablecloth": {
+    "qid": "Q20189849",
+    "match_score": 1,
+    "title_en": "Still Life with Checked Tablecloth",
+    "wikidata_label_en": "Still Life with Checked Tablecloth",
+    "wikidata_label_es": null,
+    "artist": "Juan Gris",
+    "artist_es": "Juan Gris",
+    "movement": "cubism",
+    "year": 1915,
+    "museum": "Metropolitan Museum of Art",
+    "museum_es": "Museo Metropolitano de Arte",
+    "museum_alternatives": [],
+    "city": "New York",
+    "dimensions_cm": {
+      "height": 116.5,
+      "width": 89.3
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Juan Gris - Nature morte à la nappe à carreaux.jpg",
+    "pd": {
+      "creator_death": 1927,
+      "inception": 1915,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Manhattan"
+  },
+  "reclining-nude-modigliani": {
+    "qid": "Q20190498",
+    "match_score": 1,
+    "title_en": "Reclining Nude",
+    "wikidata_label_en": "Reclining nude",
+    "wikidata_label_es": null,
+    "artist": "Amedeo Modigliani",
+    "artist_es": "Amedeo Modigliani",
+    "movement": "expressionism",
+    "year": 1916,
+    "museum": "Foundation E.G. Bührle Collection",
+    "museum_es": "Fundación de la colección E. G. Bührle",
+    "museum_alternatives": [
+      "Kunsthaus Zürich"
+    ],
+    "city": "Zurich",
+    "dimensions_cm": {
+      "height": 65.5,
+      "width": 87
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Amedeo Modigliani - Liegender Akt - 69 - Foundation E.G. Bührle Collection.jpg",
+    "pd": {
+      "creator_death": 1920,
+      "inception": 1916,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-gray-tree": {
+    "qid": "Q5598238",
+    "match_score": 1,
+    "title_en": "The Gray Tree",
+    "wikidata_label_en": "Gray Tree",
+    "wikidata_label_es": "El árbol gris",
+    "artist": "Piet Mondrian",
+    "artist_es": "Piet Mondrian",
+    "movement": "de-stijl",
+    "year": 1911,
+    "museum": "Kunstmuseum Den Haag",
+    "museum_es": "Kunstmuseum Den Haag",
+    "museum_alternatives": [],
+    "city": "The Hague",
+    "dimensions_cm": {
+      "height": 79.7,
+      "width": 109.1
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Gray Tree 1911.jpg",
+    "pd": {
+      "creator_death": 1944,
+      "inception": 1911,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "tableau-i": {
+    "qid": "Q7673433",
+    "match_score": 1,
+    "title_en": "Tableau I",
+    "wikidata_label_en": "Tableau I",
+    "wikidata_label_es": null,
+    "artist": "Piet Mondrian",
+    "artist_es": "Piet Mondrian",
+    "movement": "de-stijl",
+    "year": 1921,
+    "museum": "Kunstmuseum Den Haag",
+    "museum_es": "Kunstmuseum Den Haag",
+    "museum_alternatives": [],
+    "city": "The Hague",
+    "dimensions_cm": {
+      "height": 103,
+      "width": 952
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Tableau I, by Piet Mondriaan.jpg",
+    "pd": {
+      "creator_death": 1944,
+      "inception": 1921,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "senecio": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": []
+  },
+  "twittering-machine": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": []
+  },
+  "castle-and-sun": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": []
+  },
+  "on-white-ii": {
+    "qid": "Q18705520",
+    "match_score": 1,
+    "title_en": "On White II",
+    "wikidata_label_en": "On White II",
+    "wikidata_label_es": null,
+    "artist": "Wassily Kandinsky",
+    "artist_es": "Vasili Kandinski",
+    "movement": "early-abstraction",
+    "year": 1923,
+    "museum": "Musée National d'Art Moderne",
+    "museum_es": "Museo Nacional de Arte Moderno",
+    "museum_alternatives": [],
+    "city": "Paris",
+    "dimensions_cm": {
+      "height": 105,
+      "width": 98
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Vassily Kandinsky, 1923 - On White II.jpg",
+    "pd": {
+      "creator_death": 1944,
+      "inception": 1923,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Quartier Saint-Merri"
+  },
+  "improvisation-28": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Improvisation (0.50)",
+      "Improvisation 13 (0.50)",
+      "Improvisation 9 (0.50)"
+    ]
+  },
+  "the-large-blue-horses": {
+    "qid": "Q15461864",
+    "match_score": 1,
+    "title_en": "The Large Blue Horses",
+    "wikidata_label_en": "The Large Blue Horses",
+    "wikidata_label_es": null,
+    "artist": "Franz Marc",
+    "artist_es": "Franz Marc",
+    "movement": "expressionism",
+    "year": 1911,
+    "museum": "Walker Art Center",
+    "museum_es": "Centro de Arte Walker",
+    "museum_alternatives": [],
+    "city": "Minneapolis",
+    "dimensions_cm": {
+      "height": 105.7,
+      "width": 181.1
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Franz Marc 005.jpg",
+    "pd": {
+      "creator_death": 1916,
+      "inception": 1911,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "fate-of-the-animals": {
+    "qid": "Q2432407",
+    "match_score": 1,
+    "title_en": "Fate of the Animals",
+    "wikidata_label_en": "The fate of the animals",
+    "wikidata_label_es": "El destino de los animales",
+    "artist": "Franz Marc",
+    "artist_es": "Franz Marc",
+    "movement": "expressionism",
+    "year": 1913,
+    "museum": "Kunstmuseum Basel",
+    "museum_es": "Museo de Arte de Basilea",
+    "museum_alternatives": [],
+    "city": "Canton of Basel-Stadt",
+    "dimensions_cm": {
+      "height": 196,
+      "width": 266
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Franz Marc-The fate of the animals-1913.jpg",
+    "pd": {
+      "creator_death": 1916,
+      "inception": 1913,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Basel"
+  },
+  "berlin-street-scene": {
+    "qid": "Q3476580",
+    "match_score": 1,
+    "title_en": "Berlin Street Scene",
+    "wikidata_label_en": "Berlin Street Scene",
+    "wikidata_label_es": "Escena de calle de Berlín",
+    "artist": "Ernst Ludwig Kirchner",
+    "artist_es": "Ernst Ludwig Kirchner",
+    "movement": "expressionism",
+    "year": 1913,
+    "museum": "Neue Galerie",
+    "museum_es": "Neue Galerie",
+    "museum_alternatives": [],
+    "city": "New York",
+    "dimensions_cm": {
+      "height": 121,
+      "width": 95
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Kirchner Berlin Street Scene 1913.jpg",
+    "pd": {
+      "creator_death": 1938,
+      "inception": 1913,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Manhattan"
+  },
+  "self-portrait-as-a-soldier": {
+    "qid": "Q24953623",
+    "match_score": 1,
+    "title_en": "Self-Portrait as a Soldier",
+    "wikidata_label_en": "Self-portrait as a Soldier",
+    "wikidata_label_es": "Autorretrato como soldado",
+    "artist": "Ernst Ludwig Kirchner",
+    "artist_es": "Ernst Ludwig Kirchner",
+    "movement": "expressionism",
+    "year": 1915,
+    "museum": "Allen Memorial Art Museum",
+    "museum_es": "Museo de Arte Allen Memorial",
+    "museum_alternatives": [],
+    "city": "Ohio",
+    "dimensions_cm": {
+      "height": 69,
+      "width": 61
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Kirchner - Self Portrait as a Soldier (1915).jpg",
+    "pd": {
+      "creator_death": 1938,
+      "inception": 1915,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "death-and-the-maiden-schiele": {
+    "qid": "Q2438357",
+    "match_score": 1,
+    "title_en": "Death and the Maiden",
+    "wikidata_label_en": "Death and the Maiden",
+    "wikidata_label_es": "La Muerte y la doncella",
+    "artist": "Egon Schiele",
+    "artist_es": "Egon Schiele",
+    "movement": "expressionism",
+    "year": 1915,
+    "museum": "Belvedere",
+    "museum_es": "Galería Belvedere",
+    "museum_alternatives": [],
+    "city": "Vienna",
+    "dimensions_cm": {
+      "height": 150,
+      "width": 180
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Egon Schiele - Tod und Mädchen - 3171 - Österreichische Galerie Belvedere.jpg",
+    "pd": {
+      "creator_death": 1918,
+      "inception": 1915,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Landstraße"
+  },
+  "the-embrace-schiele": {
+    "qid": "Q19967004",
+    "match_score": 1,
+    "title_en": "The Embrace",
+    "wikidata_label_en": "The embrace",
+    "wikidata_label_es": "El abrazo (pareja de enamorados II)",
+    "artist": "Egon Schiele",
+    "artist_es": "Egon Schiele",
+    "movement": "expressionism",
+    "year": 1917,
+    "museum": "Belvedere",
+    "museum_es": "Galería Belvedere",
+    "museum_alternatives": [],
+    "city": "Vienna",
+    "dimensions_cm": {
+      "height": 100,
+      "width": 170
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Egon Schiele - Die Umarmung - 4438 - Österreichische Galerie Belvedere.jpg",
+    "pd": {
+      "creator_death": 1918,
+      "inception": 1917,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Landstraße"
+  },
+  "portrait-of-wally": {
+    "qid": "Q1555137",
+    "match_score": 0.67,
+    "title_en": "Portrait of Wally Neuzil",
+    "wikidata_label_en": "Portrait of Wally",
+    "wikidata_label_es": null,
+    "artist": "Egon Schiele",
+    "artist_es": "Egon Schiele",
+    "movement": "expressionism",
+    "year": 1912,
+    "museum": "Leopold Museum",
+    "museum_es": "Museo Leopold",
+    "museum_alternatives": [],
+    "city": "Vienna",
+    "dimensions_cm": {
+      "height": 32,
+      "width": 39.8
+    },
+    "materials": [
+      "panel",
+      "oil paint"
+    ],
+    "commons_image": "Egon Schiele - Portrait of Wally Neuzil - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1918,
+      "inception": 1912,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174789"
+  },
+  "judith-and-the-head-of-holofernes-klimt": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Judith II (0.33)",
+      "Head of a Woman (0.33)",
+      "Judith I (0.33)"
+    ]
+  },
+  "danae-klimt": {
+    "qid": "Q1445107",
+    "match_score": 1,
+    "title_en": "Danaë",
+    "wikidata_label_en": "Danaë",
+    "wikidata_label_es": "Dánae",
+    "artist": "Gustav Klimt",
+    "artist_es": "Gustav Klimt",
+    "movement": "vienna-secession",
+    "year": 1907,
+    "museum": "Leopold Museum",
+    "museum_es": "Museo Leopold",
+    "museum_alternatives": [],
+    "city": "Vienna",
+    "dimensions_cm": {
+      "height": 77,
+      "width": 83
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Gustav Klimt 010.jpg",
+    "pd": {
+      "creator_death": 1918,
+      "inception": 1907,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "the-three-ages-of-woman": {
+    "qid": "Q3829156",
+    "match_score": 1,
+    "title_en": "The Three Ages of Woman",
+    "wikidata_label_en": "The Three Ages of Woman",
+    "wikidata_label_es": "Las tres edades de la mujer",
+    "artist": "Gustav Klimt",
+    "artist_es": "Gustav Klimt",
+    "movement": "vienna-secession",
+    "year": 1905,
+    "museum": "Galleria Nazionale d'Arte Moderna e Contemporanea di Roma",
+    "museum_es": "Galería Nacional de Arte Moderno",
+    "museum_alternatives": [],
+    "city": "Roma Capitale",
+    "dimensions_cm": {
+      "height": 180,
+      "width": 180
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Klimt - The Three Ages of Woman (1905) Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1918,
+      "inception": 1905,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  },
+  "death-and-life": {
+    "qid": "Q17001535",
+    "match_score": 1,
+    "title_en": "Death and Life",
+    "wikidata_label_en": "Death and Life",
+    "wikidata_label_es": "Muerte y Vida",
+    "artist": "Gustav Klimt",
+    "artist_es": "Gustav Klimt",
+    "movement": "vienna-secession",
+    "year": 1910,
+    "museum": "Leopold Museum",
+    "museum_es": "Museo Leopold",
+    "museum_alternatives": [],
+    "city": "Vienna",
+    "dimensions_cm": {
+      "height": 180.5,
+      "width": 200.5
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Gustav Klimt - Death and Life - Google Art Project.jpg",
+    "pd": {
+      "creator_death": 1918,
+      "inception": 1910,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174789"
+  },
+  "the-street-enters-the-house": {
+    "qid": "Q934482",
+    "match_score": 1,
+    "title_en": "The Street Enters the House",
+    "wikidata_label_en": "The Street Enters the House",
+    "wikidata_label_es": null,
+    "artist": "Umberto Boccioni",
+    "artist_es": "Umberto Boccioni",
+    "movement": "futurism",
+    "year": 1911,
+    "museum": "Sprengel Museum",
+    "museum_es": null,
+    "museum_alternatives": [],
+    "city": "Hanover",
+    "dimensions_cm": {
+      "height": 100,
+      "width": 100.6
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Umberto Boccioni, 1911, The Street Enters the House, oil on canvas, 100 x 100.6 cm, Sprengel Museum.jpg",
+    "pd": {
+      "creator_death": 1916,
+      "inception": 1911,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Südstadt-Bult"
+  },
+  "elasticity": {
+    "miss": "no Wikidata painting matched title and artist",
+    "best_guesses": [
+      "Portrait of the Mother (0.00)",
+      "Portrait of Mrs. Casanova (0.00)",
+      "The Mother (0.00)"
+    ]
+  },
+  "the-bathing-of-a-red-horse": {
+    "qid": "Q4247398",
+    "match_score": 1,
+    "title_en": "Bathing of a Red Horse",
+    "wikidata_label_en": "Bathing the Red Horse",
+    "wikidata_label_es": "Bañando al caballo rojo",
+    "artist": "Kuzma Petrov-Vodkin",
+    "artist_es": "Kuzmá Petrov-Vodkin",
+    "movement": "symbolism",
+    "year": 1912,
+    "museum": "Tretyakov Gallery",
+    "museum_es": "Galería Tretiakov",
+    "museum_alternatives": [],
+    "city": "Moscow",
+    "dimensions_cm": {
+      "height": 160,
+      "width": 186
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Bathing of a Red Horse (Petrov-Vodkin).jpg",
+    "pd": {
+      "creator_death": 1939,
+      "inception": 1912,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728",
+    "city_raw": "Russia"
+  },
+  "sad-inheritance": {
+    "qid": "Q5642417",
+    "match_score": 1,
+    "title_en": "Sad Inheritance",
+    "wikidata_label_en": "Sad Inheritance",
+    "wikidata_label_es": "Triste herencia",
+    "artist": "Joaquín Sorolla",
+    "artist_es": "Joaquín Sorolla",
+    "movement": "luminism",
+    "year": 1898,
+    "museum": null,
+    "museum_es": null,
+    "museum_alternatives": [],
+    "city": null,
+    "dimensions_cm": {
+      "height": 210,
+      "width": 285
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "Triste herencia, por Joaquín Sorolla.jpg",
+    "pd": {
+      "creator_death": 1923,
+      "inception": 1898,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": false,
+    "dimensions_unit_source": "Q174728"
+  },
+  "sewing-the-sail": {
+    "qid": "Q51726313",
+    "match_score": 1,
+    "title_en": "Sewing the Sail",
+    "wikidata_label_en": "Sewing the sail",
+    "wikidata_label_es": "Cosiendo la vela",
+    "artist": "Joaquín Sorolla",
+    "artist_es": "Joaquín Sorolla",
+    "movement": "luminism",
+    "year": 1896,
+    "museum": "Galleria Internazionale d'Arte Moderna",
+    "museum_es": null,
+    "museum_alternatives": [],
+    "city": "Venice",
+    "dimensions_cm": {
+      "height": 220,
+      "width": 302
+    },
+    "materials": [
+      "canvas",
+      "oil paint"
+    ],
+    "commons_image": "(Venice) Sewing the Sail by Joaquin Sorolla y Bastida - Museo d'arte moderna.jpg",
+    "pd": {
+      "creator_death": 1923,
+      "inception": 1896,
+      "eu_ok": true,
+      "us_ok": true
+    },
+    "usable": true,
+    "dimensions_unit_source": "Q174728"
+  }
+}

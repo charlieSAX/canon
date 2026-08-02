@@ -1,0 +1,64 @@
+{
+  "id": "the-turkish-bath",
+  "title": {
+    "en": "The Turkish Bath",
+    "es": "El baño turco"
+  },
+  "artist": "Jean-Auguste-Dominique Ingres",
+  "year": 1862,
+  "movement": "neoclassicism",
+  "medium": {
+    "en": "Oil on canvas on panel",
+    "es": "Óleo sobre lienzo pegado a tabla"
+  },
+  "dimensions": "108 cm diameter",
+  "location": {
+    "museum": "Musée du Louvre",
+    "city": "Paris"
+  },
+  "image": {
+    "src": "img/the-turkish-bath.webp",
+    "width": 1600,
+    "height": 1593,
+    "source_url": "https://commons.wikimedia.org/wiki/Le_Bain_Turc%2C_by_Jean_Auguste_Dominique_Ingres%2C_from_C2RMFFXD.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A circular picture crowded with naked women in a domed bath. In the foreground one sits with her back to us playing a lute, another sleeps, others drink, talk and dance in the steam behind. Bodies press right up to the edge of the circle on every side.",
+      "craft": "Ingres cut the composition into a tondo, which removes corners and lets the bodies pack without end. The foreground back is the famous liberty: the spine is elongated well past anatomy because the curve serves the design, a distortion he had used all his working life.",
+      "painter": "Ingres finished this at eighty-two and wrote his age beside his signature. He had never been to Turkey. The picture assembles poses he had drawn for fifty years, and the foreground lutenist repeats almost exactly his own Valpinçon Bather, painted in 1808.",
+      "point": "A lifetime of one obsession compressed into a circle, and an eastern fantasy assembled entirely from a Frenchman's own back catalogue."
+    },
+    "es": {
+      "scene": "Un cuadro circular abarrotado de mujeres desnudas en un baño abovedado. En primer plano una se sienta de espaldas tocando un laúd, otra duerme, y más atrás otras beben, conversan y bailan entre el vapor. Los cuerpos se aprietan hasta el borde mismo del círculo por todos lados.",
+      "craft": "Ingres recortó la composición en tondo, lo que elimina las esquinas y permite que los cuerpos se apiñen sin fin. La espalda del primer plano es la célebre libertad: la columna se alarga más allá de la anatomía porque la curva sirve al diseño, una distorsión que usó toda su vida.",
+      "painter": "Ingres terminó esta obra a los ochenta y dos años y escribió su edad junto a la firma. Nunca había estado en Turquía. El cuadro reúne posturas que llevaba cincuenta años dibujando, y la laudista del primer plano repite casi exactamente su Bañista de Valpinçon de 1808.",
+      "point": "Toda una vida de una sola obsesión comprimida en un círculo, y una fantasía oriental montada por entero con el propio archivo de un francés."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The first buyer, Prince Napoleon, returned the painting because his wife found it indecent, and Ingres reworked the square canvas into a circle afterwards.",
+    "es": "El primer comprador, el príncipe Napoleón, devolvió el cuadro porque su esposa lo halló indecente, e Ingres transformó después el lienzo cuadrado en un círculo."
+  },
+  "tags": [
+    "neoclassicism",
+    "the nude",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "The seated lutenist is a near copy of the artist's own Valpinçon Bather of 1808.",
+      "es": "La laudista sentada es casi una copia de su propia Bañista de Valpinçon de 1808."
+    },
+    {
+      "en": "Ingres inscribed his age, eighty-two, next to his signature on the picture.",
+      "es": "Ingres inscribió su edad, ochenta y dos años, junto a la firma del cuadro."
+    },
+    {
+      "en": "The work was square before he cut it down, and the change is visible at the edges.",
+      "es": "La obra era cuadrada antes de recortarla, y el cambio se advierte en los bordes."
+    }
+  ]
+}

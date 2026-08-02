@@ -1,0 +1,64 @@
+{
+  "id": "the-slave-ship",
+  "title": {
+    "en": "The Slave Ship",
+    "es": "El barco negrero"
+  },
+  "artist": "J. M. W. Turner",
+  "year": 1840,
+  "movement": "romanticism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "91 x 123 cm",
+  "location": {
+    "museum": "Museum of Fine Arts",
+    "city": "Boston"
+  },
+  "image": {
+    "src": "img/the-slave-ship.webp",
+    "width": 1600,
+    "height": 1201,
+    "source_url": "https://commons.wikimedia.org/wiki/Slave-ship.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A sunset burns across a heaving sea in scarlet and gold. A ship stands off in the distance with its sails shortened for a coming storm. In the foreground the water is full of shackled limbs, chains and feeding fish, half swallowed by the glare on the waves.",
+      "craft": "Turner scrubs and scumbles thin colour over the whole surface until sky and sea stop being separable. Detail survives only at the bottom edge, where a manacled leg and a swarm of fish are picked out sharply enough that the eye finds them after the light does.",
+      "painter": "Turner exhibited this in 1840, the year of the World Anti-Slavery Convention in London, with lines from his own long poem The Fallacies of Hope attached. Ruskin's father bought it for him as a gift; Ruskin kept it for twenty-eight years, then sold it.",
+      "point": "An atrocity painted as weather: the sea and the sunset absorb the crime, and the beauty of the picture is exactly the accusation."
+    },
+    "es": {
+      "scene": "Un atardecer arde sobre un mar agitado en escarlata y oro. Un barco se mantiene a distancia con las velas recogidas ante la tormenta que llega. En primer plano el agua está llena de miembros encadenados, grilletes y peces que devoran, medio tragados por el brillo de las olas.",
+      "craft": "Turner frota y arrastra color diluido por toda la superficie hasta que el cielo y el mar dejan de distinguirse. El detalle solo sobrevive en el borde inferior, donde una pierna con grilletes y un enjambre de peces se recortan lo bastante para que el ojo los halle después de la luz.",
+      "painter": "Turner la expuso en 1840, el año de la Convención Mundial contra la Esclavitud en Londres, acompañada de versos de su propio poema Las falacias de la esperanza. El padre de Ruskin se la regaló; Ruskin la conservó veintiocho años y después la vendió.",
+      "point": "Una atrocidad pintada como meteorología: el mar y el ocaso absorben el crimen, y la belleza del cuadro es precisamente la acusación."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The picture refers to the Zong, whose captain had enslaved people thrown overboard so that their loss could be claimed on the ship's insurance.",
+    "es": "El cuadro alude al Zong, cuyo capitán hizo arrojar por la borda a personas esclavizadas para poder reclamar su pérdida al seguro del barco."
+  },
+  "tags": [
+    "romanticism",
+    "seascape",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "A single shackled leg breaks the surface at lower right, ringed by fish.",
+      "es": "Una pierna con grilletes rompe la superficie abajo a la derecha, rodeada de peces."
+    },
+    {
+      "en": "The ship is pushed far back and small, giving the sea the whole foreground.",
+      "es": "El barco queda al fondo y pequeño, y el mar se queda con todo el primer plano."
+    },
+    {
+      "en": "Chains and a hand are visible in the water, easy to miss inside the glare.",
+      "es": "En el agua se ven cadenas y una mano, fáciles de pasar por alto entre el resplandor."
+    }
+  ]
+}

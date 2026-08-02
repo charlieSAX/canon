@@ -1,0 +1,64 @@
+{
+  "id": "the-yellow-christ",
+  "title": {
+    "en": "The Yellow Christ",
+    "es": "El Cristo amarillo"
+  },
+  "artist": "Paul Gauguin",
+  "year": 1889,
+  "movement": "post-impressionism",
+  "medium": {
+    "en": "Oil on canvas",
+    "es": "Óleo sobre lienzo"
+  },
+  "dimensions": "92 x 73 cm",
+  "location": {
+    "museum": "Buffalo AKG Art Museum",
+    "city": "Buffalo"
+  },
+  "image": {
+    "src": "img/the-yellow-christ.webp",
+    "width": 1272,
+    "height": 1600,
+    "source_url": "https://commons.wikimedia.org/wiki/Paul_Gauguin_-_The_Yellow_Christ_(Le_Christ_jaune)_1889.jpg",
+    "license_note": "Public domain. Faithful reproduction of a public domain work of art."
+  },
+  "text": {
+    "en": {
+      "scene": "A crucified Christ, painted a flat chrome yellow, stands in an autumn field in Brittany. Three peasant women in white coifs kneel at the foot of the cross with their hands folded. Behind them the harvest is in, the trees have turned, and a man is climbing a low wall.",
+      "craft": "Gauguin outlines every shape in dark blue and fills it with unbroken colour, a method borrowed from stained glass and enamel and known as cloisonnism. Nothing recedes properly: the field tips up, the figures sit flat on it, and the yellow of Christ repeats in the yellow of the crop.",
+      "painter": "Gauguin painted this at Pont-Aven in 1889, chasing what he called the primitive and the simple. The figure comes from a seventeenth-century painted wooden crucifix that hangs in the chapel of Trémalo, a short walk from the inn where he was staying.",
+      "point": "The Crucifixion relocated to a Breton field on an ordinary working day, treated as something the women see rather than something that happened."
+    },
+    "es": {
+      "scene": "Un Cristo crucificado, pintado de un amarillo cromo plano, se alza en un campo otoñal de Bretaña. Tres campesinas con cofias blancas se arrodillan al pie de la cruz con las manos juntas. Detrás, la cosecha está recogida, los árboles han cambiado y un hombre trepa un muro bajo.",
+      "craft": "Gauguin perfila cada forma con azul oscuro y la rellena de color continuo, un método tomado de la vidriera y el esmalte que se conoce como cloisonismo. Nada se aleja como debiera: el campo se levanta, las figuras se posan planas sobre él y el amarillo de Cristo repite el de la mies.",
+      "painter": "Gauguin lo pintó en Pont-Aven en 1889, persiguiendo lo que llamaba lo primitivo y lo sencillo. La figura procede de un crucifijo de madera policromada del siglo XVII que cuelga en la capilla de Trémalo, a un paseo corto de la posada donde se alojaba.",
+      "point": "La crucifixión trasladada a un campo bretón en un día cualquiera de trabajo, tratada como algo que las mujeres ven y no como algo que ocurrió."
+    }
+  },
+  "draft": false,
+  "fact": {
+    "en": "The crucifix Gauguin copied still hangs in the chapel of Trémalo near Pont-Aven, and visitors can stand in front of the wooden original.",
+    "es": "El crucifijo que Gauguin copió sigue colgado en la capilla de Trémalo, cerca de Pont-Aven, y puede verse hoy el original de madera."
+  },
+  "tags": [
+    "post-impressionism",
+    "religion",
+    "19th century"
+  ],
+  "notables": [
+    {
+      "en": "A man in blue is climbing over the field wall at the right, leaving the scene.",
+      "es": "A la derecha, un hombre de azul salta el muro del campo y abandona la escena."
+    },
+    {
+      "en": "The women's white coifs are Breton, and fix the miracle in a named place.",
+      "es": "Las cofias blancas de las mujeres son bretonas y fijan el milagro en un lugar concreto."
+    },
+    {
+      "en": "Christ's body casts no shadow on the cross, flattening him into the field.",
+      "es": "El cuerpo de Cristo no proyecta sombra sobre la cruz y se aplana contra el campo."
+    }
+  ]
+}
