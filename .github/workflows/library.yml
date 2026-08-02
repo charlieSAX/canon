@@ -75,6 +75,9 @@ jobs:
 
       - name: Ask for the next batch when staging is empty
         if: steps.status.outputs.at_halfway == 'true' && steps.status.outputs.staged == '0'
+        env:
+          POOL: ${{ steps.status.outputs.pool }}
+          CYCLE: ${{ steps.status.outputs.cycle }}
         run: |
           EXISTING=$(gh issue list --repo "$GITHUB_REPOSITORY" --label library --state open --json number --jq 'length')
           if [ "$EXISTING" != "0" ]; then
@@ -82,18 +85,9 @@ jobs:
             exit 0
           fi
           gh label create library --description "Library growth" --color 0e8a16 --force >/dev/null 2>&1 || true
-          NEXT=$(jq -r '.nextBatch[]' /tmp/status.json | sed 's/^/- [ ] /')
+          # The body is composed by a script rather than a heredoc inside YAML,
+          # so it can be run and read locally before this fires unattended.
+          node scripts/next_batch_issue.mjs > /tmp/issue-body.md
           gh issue create --repo "$GITHUB_REPOSITORY" --label library \
-            --title "Library: pool ${{ steps.status.outputs.pool }} is halfway through its ${{ steps.status.outputs.cycle }} day cycle" \
-            --body "$(cat <<EOF
-          The pool is ${{ steps.status.outputs.pool }} paintings, a ${{ steps.status.outputs.cycle }} day cycle, and this pass is on day ${{ steps.status.outputs.day_in_pass }}. Staging is empty, so the library cannot grow on its own.
-
-          ${{ steps.status.outputs.queue }} candidate(s) are already resolved against Wikidata in \`pipeline/briefs-v4.json\`, with verified year, museum, city, dimensions, materials and a Commons image, and each has passed the public domain gates (creator died before 1956, work made before 1930).
-
-          Next batch to author into \`pipeline/staged\`, following \`pipeline/CONTENT-SPEC.md\`:
-
-          $NEXT
-
-          For each id: run \`node scripts/fetch_staged_image.mjs <id>\` to mirror the verified Commons image, then write \`pipeline/staged/<id>.json\`. This job promotes them on its next run.
-          EOF
-          )"
+            --title "Library: pool $POOL is halfway through its $CYCLE day cycle" \
+            --body-file /tmp/issue-body.md

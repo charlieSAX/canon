@@ -185,3 +185,11 @@ Charlie's rulings: 100-painting pool, everything bilingual, weekly scheduler cro
 **v3 amendment, recycling (2026-08-01).** Least-recently-scheduled recycling with an alphabetical tie-break froze the pool into 20 fixed groups of five: every painting came back on the same day of every pass, beside the same four neighbours, in the same order. The pass rule stands (nothing returns until the pool is exhausted, so the average gap stays at pool size divided by five), but the five for a day are now drawn by a date-seeded shuffle of the paintings rested at least 17 days, with no repeated artist and at most two of one movement per day, preferring paintings whose artist or title is absent from the previous two days (a second Van Gogh the next morning reads as a repeat, and two paintings share the title The Descent from the Cross). Average gap is unchanged at 20 days on a pool of 100; the floor is 17. Serving a wider gap than 20 days needs a bigger pool: the cycle is paintings divided by five, so 100 paintings is 20 days and every 25 added buys 5 more. Five a day stays untouched.
 6. **Images at scale.** /img/ moves to a runtime cache-first strategy; the shell and all content JSON stay precached. Days already loaded keep working offline.
 7. **User state survives.** Painting ids are stable; seen, cards, days, points and tokens carry over untouched.
+
+## v4 amendment, growing the pool (2026-08-02)
+
+The pool moves from 100 towards 250, which takes the cycle from 20 days to 50. Five a day is unchanged; the cycle is simply paintings divided by five.
+
+Growth is staged, not automatic, and this is a deliberate limit. Sourcing a public domain image, confirming a museum and a date, and writing verified bilingual teaching text is authoring. A cron can promote authored work and can ask for more, and that is all it does: `.github/workflows/library.yml` promotes `pipeline/staged` at the halfway point of a pass, and opens a `library` issue naming the next verified candidates when staging is empty.
+
+Every fact on a card is sourced. `pipeline/master-list-v4.json` holds the candidates, `scripts/wikidata_probe.mjs` resolves them against Wikidata, `scripts/repair_briefs.mjs` corrects units and cities, and `pipeline/briefs-v4.json` is the record. No brief, no painting.

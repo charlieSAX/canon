@@ -26,6 +26,22 @@ The brief is BRIEF.md and it is law. Ideas go to IDEAS.md.
 
 Days already served are frozen. To redeal only the days ahead, run `CANON_REBUILD=1 npm run schedule`: it drops every date after today and deals them again, respecting the rest floor against the days already shown. `CANON_REBUILD=today npm run schedule` redeals today as well, and treats the five it displaces as hung today, since they may already have been viewed on the device. Use that one only when today is worth losing: any painting already tapped today keeps its points and its seen row, but the day needs the new five viewed before it completes. A Monday workflow commits extensions automatically. Validation requires seven days, rejects any future day that repeats an earlier day's five, and rejects a painting returning inside 14 days; the nightly runway issue remains the backstop.
 
+## How to grow the library
+
+The pool divided by five is the cycle in days: 116 paintings is a 24 day cycle. Growing the pool is the only way to widen the gap between repeats.
+
+Candidates live in `pipeline/master-list-v4.json`. Nothing is authored from memory:
+
+1. `node scripts/wikidata_probe.mjs` resolves each candidate against Wikidata over SPARQL and writes `pipeline/briefs-v4.json`: year, museum, city, dimensions, materials, the Commons image filename and the creator's death year. A candidate it cannot match to the right artist is a miss and is never authored.
+2. `node scripts/repair_briefs.mjs` refetches dimensions with their units and walks museum locations up to a real city. Without it a painting recorded in millimetres reads as centimetres and the National Gallery sits in "City of Westminster".
+3. `node scripts/fetch_staged_image.mjs <id...>` mirrors the verified Commons image into `pipeline/staged/img` at 1600px longest edge.
+4. Author `pipeline/staged/<id>.json` against `pipeline/CONTENT-SPEC.md`. Note that validation applies the 40 to 60 word band to Spanish as well as English.
+5. `node scripts/promote_batch.mjs` promotes the staged batch, validating it as a set and rolling all of it back if any part fails.
+
+Check the brief before trusting it. Wikidata sometimes matches a secondary version of a famous painting, and museum attributions are occasionally wrong. Where the brief and the museum record disagree, do not author the painting.
+
+`node scripts/library_status.mjs` reports where the pool sits in its cycle. The Monday `Library growth` workflow uses it: at the halfway point of a pass it promotes whatever is staged and redeploys, and when staging is empty it opens an issue naming the next verified candidates. It cannot author paintings, so it asks.
+
 ## Export and import user state
 
 All progress lives on the device, in the browser. In the app: tap the small frame icon top right to open the progress view.
